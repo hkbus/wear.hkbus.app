@@ -1,0 +1,11 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.loohp.hkbuseta",
+      "sha256_cert_fingerprints":
+        ["E5:51:E1:20:88:50:18:CE:06:28:07:C6:FD:C2:CF:CE:80:03:75:3F:68:01:C6:57:34:85:B2:E5:79:A4:5C:08"]
+    }
+  }
+]
