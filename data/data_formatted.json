@@ -252603,8 +252603,16 @@
                     "en":"Tai Po (Ting Tai Road)",
                     "zh":"大埔 (汀太路)"
                 },
-                "freq":null,
-                "gtfsId":null,
+                "freq":{
+                    "287":{
+                        "0720":null,
+                        "0740":null,
+                        "1740":null,
+                        "1755":null
+                    }
+                },
+                "gtfsId":"1000562",
+                "jt":"110",
                 "kmbCtbJoint":true,
                 "nlbId":null,
                 "orig":{
@@ -252711,8 +252719,16 @@
                     "en":"Siu Sai Wan",
                     "zh":"小西灣"
                 },
-                "freq":null,
-                "gtfsId":null,
+                "freq":{
+                    "287":{
+                        "0650":null,
+                        "0705":null,
+                        "1730":null,
+                        "1745":null
+                    }
+                },
+                "gtfsId":"1000562",
+                "jt":"110",
                 "kmbCtbJoint":true,
                 "nlbId":null,
                 "orig":{
