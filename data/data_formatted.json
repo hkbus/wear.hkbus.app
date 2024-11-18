@@ -9061,6 +9061,7 @@
                         "20015236",
                         "20002605",
                         "20015222",
+                        "20015223",
                         "20014731"
                     ]
                 }
@@ -9125,6 +9126,7 @@
                         "20012439",
                         "20012440",
                         "20000814",
+                        "20016736",
                         "20000633",
                         "20015229",
                         "20000946",
@@ -35640,6 +35642,8 @@
                 "stops":{
                     "gmb":[
                         "20001149",
+                        "20020394",
+                        "20014683",
                         "20001162",
                         "20001163",
                         "20001140",
@@ -35780,6 +35784,8 @@
                         "20001162",
                         "20001163",
                         "20001164",
+                        "20014673",
+                        "20001166",
                         "20001149"
                     ]
                 }
@@ -87794,11 +87800,13 @@
                 "stops":{
                     "gmb":[
                         "20014536",
+                        "20011569",
                         "20000136",
+                        "20020392",
+                        "20020393",
                         "20014538",
                         "20014539",
                         "20014540",
-                        "20003405",
                         "20003404",
                         "20014541",
                         "20004544",
@@ -91794,6 +91802,7 @@
                         "20000174",
                         "20000012",
                         "20014527",
+                        "20020293",
                         "20014537",
                         "20000017",
                         "20000018",
@@ -91801,9 +91810,13 @@
                         "20014530",
                         "20014531",
                         "20014532",
+                        "20020297",
                         "20014533",
                         "20014534",
                         "20014535",
+                        "20020294",
+                        "20020295",
+                        "20020296",
                         "20014536"
                     ]
                 }
@@ -138665,6 +138678,86 @@
                         "DFB7FD5832A4BA4E",
                         "0F60AAE48C3B22EE",
                         "0CFB814CB6C356C1",
+                        "5B5107DB7CE969DE",
+                        "56579F66F45EDD3F"
+                    ]
+                }
+            },
+            "49A+1+CHING FU COURT+TSUEN WAN WEST STATION":{
+                "bound":{
+                    "kmb":"O"
+                },
+                "co":[
+                    "kmb"
+                ],
+                "dest":{
+                    "en":"Tsuen Wan West Station",
+                    "zh":"荃灣西站"
+                },
+                "freq":null,
+                "gtfsId":null,
+                "nlbId":null,
+                "orig":{
+                    "en":"Ching Fu Court",
+                    "zh":"青富苑"
+                },
+                "route":"49A",
+                "serviceType":"1",
+                "stops":{
+                    "kmb":[
+                        "E3342E2125B7B6EE",
+                        "196A1E44C305C174",
+                        "BDE0F1679E1C8ABF",
+                        "13458794A52910B0",
+                        "67DFAB691BECE339",
+                        "6D016EBFA090D535",
+                        "04D3244DD2B38746",
+                        "21A1859E80CD542A",
+                        "DE99B27530D1A3C4",
+                        "A25160BA84EE09F7",
+                        "B7039F29C48A3CC2",
+                        "E5F3EF7B050DA88F",
+                        "E8B842CC3AB62056",
+                        "716D84D1B7EA256E"
+                    ]
+                }
+            },
+            "49A+1+TSUEN WAN WEST STATION+CHING FU COURT":{
+                "bound":{
+                    "kmb":"I"
+                },
+                "co":[
+                    "kmb"
+                ],
+                "dest":{
+                    "en":"Ching Fu Court",
+                    "zh":"青富苑"
+                },
+                "freq":null,
+                "gtfsId":null,
+                "nlbId":null,
+                "orig":{
+                    "en":"Tsuen Wan West Station",
+                    "zh":"荃灣西站"
+                },
+                "route":"49A",
+                "serviceType":"1",
+                "stops":{
+                    "kmb":[
+                        "80EEE299A75B7F1B",
+                        "CDEB07C7C0841D5B",
+                        "F9F75324B8F1D7E3",
+                        "FE90421D0B82E691",
+                        "D52D3F3FB66EF61A",
+                        "3D01A5479C31FB05",
+                        "AB87BD2749FFEACA",
+                        "43398296F1D1BD48",
+                        "65D1B50CC2E45985",
+                        "67F3E54FF145BA65",
+                        "F93448A5F1168FB1",
+                        "DFB7FD5832A4BA4E",
+                        "0F60AAE48C3B22EE",
+                        "1A37A52F97A04C81",
                         "5B5107DB7CE969DE",
                         "56579F66F45EDD3F"
                     ]
@@ -185577,19 +185670,391 @@
                     ]
                 }
             },
-            "680+3+LEE ON+ADMIRALTY STATION (EAST)":{
+            "680+1+LEE ON+ADMIRALTY STATION (EAST)":{
                 "bound":{
+                    "ctb":"I",
                     "kmb":"O"
                 },
                 "co":[
-                    "kmb"
+                    "kmb",
+                    "ctb"
                 ],
                 "dest":{
                     "en":"Admiralty Station (East)",
                     "zh":"金鐘站(東)"
                 },
-                "freq":null,
-                "gtfsId":null,
+                "freq":{
+                    "287":{
+                        "0610":[
+                            "0625",
+                            "900"
+                        ],
+                        "0625":[
+                            "0717",
+                            "780"
+                        ],
+                        "0717":[
+                            "0740",
+                            "1380"
+                        ],
+                        "0740":[
+                            "0810",
+                            "1800"
+                        ],
+                        "0810":[
+                            "0828",
+                            "1080"
+                        ],
+                        "0828":[
+                            "0850",
+                            "1320"
+                        ],
+                        "0850":[
+                            "0950",
+                            "900"
+                        ],
+                        "0950":[
+                            "1130",
+                            "1200"
+                        ],
+                        "1130":[
+                            "1155",
+                            "1500"
+                        ],
+                        "1155":[
+                            "1222",
+                            "1620"
+                        ],
+                        "1222":[
+                            "1250",
+                            "1680"
+                        ],
+                        "1250":[
+                            "1315",
+                            "1500"
+                        ],
+                        "1315":[
+                            "1345",
+                            "1800"
+                        ],
+                        "1345":[
+                            "1410",
+                            "1500"
+                        ],
+                        "1410":[
+                            "1650",
+                            "1200"
+                        ],
+                        "1650":[
+                            "1740",
+                            "1500"
+                        ],
+                        "1740":[
+                            "1810",
+                            "1800"
+                        ],
+                        "1810":[
+                            "1838",
+                            "1680"
+                        ],
+                        "1838":[
+                            "1907",
+                            "1740"
+                        ],
+                        "1907":[
+                            "1935",
+                            "1680"
+                        ],
+                        "1935":[
+                            "2004",
+                            "1740"
+                        ],
+                        "2004":[
+                            "2029",
+                            "1500"
+                        ],
+                        "2029":[
+                            "2055",
+                            "1560"
+                        ],
+                        "2055":[
+                            "2145",
+                            "1500"
+                        ],
+                        "2145":[
+                            "2215",
+                            "1800"
+                        ],
+                        "2215":[
+                            "2355",
+                            "1500"
+                        ]
+                    },
+                    "288":{
+                        "0610":[
+                            "0810",
+                            "1200"
+                        ],
+                        "0810":[
+                            "0828",
+                            "1080"
+                        ],
+                        "0828":[
+                            "0850",
+                            "1320"
+                        ],
+                        "0850":[
+                            "0942",
+                            "780"
+                        ],
+                        "0942":[
+                            "1010",
+                            "840"
+                        ],
+                        "1010":[
+                            "1050",
+                            "1200"
+                        ],
+                        "1050":[
+                            "1103",
+                            "780"
+                        ],
+                        "1103":[
+                            "1117",
+                            "840"
+                        ],
+                        "1117":[
+                            "1130",
+                            "780"
+                        ],
+                        "1130":[
+                            "1250",
+                            "960"
+                        ],
+                        "1250":[
+                            "1710",
+                            "1200"
+                        ],
+                        "1710":[
+                            "1731",
+                            "1260"
+                        ],
+                        "1731":[
+                            "1751",
+                            "1200"
+                        ],
+                        "1751":[
+                            "1812",
+                            "1260"
+                        ],
+                        "1812":[
+                            "1840",
+                            "1680"
+                        ],
+                        "1840":[
+                            "1907",
+                            "1620"
+                        ],
+                        "1907":[
+                            "1935",
+                            "1680"
+                        ],
+                        "1935":[
+                            "2002",
+                            "1620"
+                        ],
+                        "2002":[
+                            "2030",
+                            "1680"
+                        ],
+                        "2030":[
+                            "2120",
+                            "1500"
+                        ],
+                        "2120":[
+                            "2150",
+                            "1800"
+                        ],
+                        "2150":[
+                            "2355",
+                            "1500"
+                        ]
+                    },
+                    "448":{
+                        "0610":[
+                            "0640",
+                            "1800"
+                        ],
+                        "0640":[
+                            "0730",
+                            "1500"
+                        ],
+                        "0730":[
+                            "0850",
+                            "960"
+                        ],
+                        "0850":[
+                            "0942",
+                            "780"
+                        ],
+                        "0942":[
+                            "1010",
+                            "840"
+                        ],
+                        "1010":[
+                            "1250",
+                            "960"
+                        ],
+                        "1250":[
+                            "1315",
+                            "1500"
+                        ],
+                        "1315":[
+                            "1345",
+                            "1800"
+                        ],
+                        "1345":[
+                            "1410",
+                            "1500"
+                        ],
+                        "1410":[
+                            "1730",
+                            "1200"
+                        ],
+                        "1730":[
+                            "1812",
+                            "1260"
+                        ],
+                        "1812":[
+                            "1840",
+                            "1680"
+                        ],
+                        "1840":[
+                            "1907",
+                            "1620"
+                        ],
+                        "1907":[
+                            "1935",
+                            "1680"
+                        ],
+                        "1935":[
+                            "2002",
+                            "1620"
+                        ],
+                        "2002":[
+                            "2030",
+                            "1680"
+                        ],
+                        "2030":[
+                            "2120",
+                            "1500"
+                        ],
+                        "2120":[
+                            "2150",
+                            "1800"
+                        ],
+                        "2150":[
+                            "2355",
+                            "1500"
+                        ]
+                    }
+                },
+                "gtfsId":"1773",
+                "jt":"88",
+                "kmbCtbJoint":true,
+                "nlbId":null,
+                "orig":{
+                    "en":"Lee On",
+                    "zh":"利安"
+                },
+                "route":"680",
+                "serviceType":"1",
+                "stops":{
+                    "ctb":[
+                        "003075",
+                        "003076",
+                        "003077",
+                        "001950",
+                        "001914",
+                        "001915",
+                        "003851",
+                        "003078",
+                        "002028",
+                        "002029",
+                        "003079",
+                        "003080",
+                        "003081",
+                        "003082",
+                        "001986",
+                        "001463",
+                        "001278",
+                        "001281",
+                        "001283",
+                        "001286",
+                        "001215",
+                        "002457",
+                        "002567",
+                        "002442",
+                        "002444",
+                        "002445",
+                        "002459",
+                        "001074",
+                        "001138"
+                    ],
+                    "kmb":[
+                        "0C81107C4ABFCD56",
+                        "3C61E9226688CA79",
+                        "8507CD56EB29D1CF",
+                        "15FF958BE6921BAA",
+                        "1D6A8B8C58C268FF",
+                        "F86BDB236D6ACDC3",
+                        "664BAA2EA12B80B1",
+                        "30553FA19D045D25",
+                        "4A3D71FFAB41B756",
+                        "A78292AA77A277A7",
+                        "578C11F0F4197509",
+                        "A295FD27A4E5A7C5",
+                        "C43782B93826F4CD",
+                        "2223D64E9ED2E1A7",
+                        "FFBEBD7068E01EA4",
+                        "9535298A652873DB",
+                        "B71025EB663E736F",
+                        "8D05916401FE8BCB",
+                        "3F3DBD185AC10BBE",
+                        "29BF740504C5EEB6",
+                        "1C36A07970C8909A",
+                        "9F72AC7E3C3CE65C",
+                        "85342AE6060B2214",
+                        "265B143AC892EE78",
+                        "B65DB5330193E38E",
+                        "D15281453EE5E0B4",
+                        "A0934516C3FE8D29",
+                        "D2F2B3C5436007C2",
+                        "8F5D8F5379BAD19C"
+                    ]
+                }
+            },
+            "680+3+LEE ON+ADMIRALTY STATION (EAST)":{
+                "bound":{
+                    "ctb":"I",
+                    "kmb":"O"
+                },
+                "co":[
+                    "kmb",
+                    "ctb"
+                ],
+                "dest":{
+                    "en":"Admiralty Station (East)",
+                    "zh":"金鐘站(東)"
+                },
+                "freq":{
+                    "287":{
+                        "0730":null,
+                        "0752":null
+                    }
+                },
+                "gtfsId":"1564",
+                "jt":"91",
                 "kmbCtbJoint":true,
                 "nlbId":null,
                 "orig":{
@@ -185599,11 +186064,44 @@
                 "route":"680",
                 "serviceType":"3",
                 "stops":{
+                    "ctb":[
+                        "003075",
+                        "003076",
+                        "003077",
+                        "001950",
+                        "003107",
+                        "001914",
+                        "001915",
+                        "003851",
+                        "003078",
+                        "002028",
+                        "002029",
+                        "003079",
+                        "003080",
+                        "003081",
+                        "003082",
+                        "001986",
+                        "001463",
+                        "001278",
+                        "001281",
+                        "001283",
+                        "001286",
+                        "001215",
+                        "002457",
+                        "002567",
+                        "002442",
+                        "002444",
+                        "002445",
+                        "002459",
+                        "001074",
+                        "001138"
+                    ],
                     "kmb":[
                         "0C81107C4ABFCD56",
                         "3C61E9226688CA79",
                         "8507CD56EB29D1CF",
                         "15FF958BE6921BAA",
+                        "0CAB5EE71EF19B76",
                         "1D6A8B8C58C268FF",
                         "F86BDB236D6ACDC3",
                         "664BAA2EA12B80B1",
@@ -368195,6 +368693,16 @@
                     "zh":"康寧道公園"
                 }
             },
+            "0CAB5EE71EF19B76":{
+                "location":{
+                    "lat":22.42222,
+                    "lng":114.22658
+                },
+                "name":{
+                    "en":"Chung On Bus Terminus",
+                    "zh":"頌安巴士總站"
+                }
+            },
             "0CB1F7979192FBB2":{
                 "location":{
                     "lat":22.42837,
@@ -375402,7 +375910,7 @@
                     "lng":114.17179
                 },
                 "name":{
-                    "en":"Queen's Road East, outside Three Pacific Place",
+                    "en":"Queen's Road East, outside Hopewell Centre",
                     "zh":"皇后大道東, 合和中心外"
                 }
             },
@@ -375582,8 +376090,8 @@
                     "lng":114.1365
                 },
                 "name":{
-                    "en":"Wah King Street, Bus Terminus Outside Wah Chui House",
-                    "zh":"華景街,華翠樓外巴士總站"
+                    "en":"WAH KING STREET, near Wah Chui House\t",
+                    "zh":"華景街, 近華翠樓\t"
                 }
             },
             "20000210":{
@@ -375652,8 +376160,8 @@
                     "lng":114.15654
                 },
                 "name":{
-                    "en":"Yue On Court Road, Choi On House",
-                    "zh":"漁安苑道, 彩安閣"
+                    "en":"Yue On Court Road, opposite to Choi On House",
+                    "zh":"漁安苑道, 彩安閣對面"
                 }
             },
             "20000239":{
@@ -375792,8 +376300,8 @@
                     "lng":114.2503
                 },
                 "name":{
-                    "en":"Siu Sai Wan Road, near Kai Tsui Court",
-                    "zh":"小西灣道近佳翠苑"
+                    "en":"Siu Sai Wan Phase III",
+                    "zh":"小西灣第三期"
                 }
             },
             "20000258":{
@@ -375992,7 +376500,7 @@
                     "lng":114.12864
                 },
                 "name":{
-                    "en":"No.68 Belcher's Street ",
+                    "en":"No.68 Belcher's Street",
                     "zh":"卑路乍街68號"
                 }
             },
@@ -376002,7 +376510,7 @@
                     "lng":114.12705
                 },
                 "name":{
-                    "en":"no.142 Belcher Street",
+                    "en":"No.142 Belcher's Street",
                     "zh":"卑路乍街142號"
                 }
             },
@@ -376372,7 +376880,7 @@
                     "lng":114.15525
                 },
                 "name":{
-                    "en":"Tung Sing Road, outside Goodview Centre ",
+                    "en":"Tung Sing Tung Sing Road, outside Goodview Centre",
                     "zh":"東勝道, 裕景中心外 "
                 }
             },
@@ -376412,8 +376920,8 @@
                     "lng":114.12481
                 },
                 "name":{
-                    "en":"Sandy Bay Road, The Duchess of Kent Children’s Hospital",
-                    "zh":"大口環道, 大口環根德公爵夫人兒童醫院"
+                    "en":"Sandy Bay Road",
+                    "zh":"大口環道"
                 }
             },
             "20000349":{
@@ -377112,7 +377620,7 @@
                     "lng":114.21478
                 },
                 "name":{
-                    "en":"Choi Wan Commercial Complex, Clear Water Bay Road",
+                    "en":"Choi Wan Commercial Complex, Clear Water Bay Road\t",
                     "zh":"清水灣道, 彩雲商場"
                 }
             },
@@ -377512,8 +378020,8 @@
                     "lng":114.19216
                 },
                 "name":{
-                    "en":"Laguna Verde Bus Terminus",
-                    "zh":"海逸豪園巴士總站"
+                    "en":"Laguna Verde Public Transport Terminus",
+                    "zh":"海逸豪園公共交通總站"
                 }
             },
             "20000682":{
@@ -377542,8 +378050,8 @@
                     "lng":114.18536
                 },
                 "name":{
-                    "en":"Hung Lai Road near Royal Peninsula Block 5",
-                    "zh":"紅荔道, 近半島豪庭第五座"
+                    "en":"Hung Lai Road outside Royal Peninsular",
+                    "zh":"紅荔道半島豪庭"
                 }
             },
             "20000685":{
@@ -377662,8 +378170,8 @@
                     "lng":114.18504
                 },
                 "name":{
-                    "en":"Hung Hom South Road, near Hung Hong Court, Hunghom Bay Centre",
-                    "zh":"紅磡南道, 近紅磡灣中心鴻康閣"
+                    "en":"Hung Hom South Road, near Hung Hong Court, near Hunghom Bay Centre",
+                    "zh":"紅磡南道, 近紅磡灣中心"
                 }
             },
             "20000702":{
@@ -379382,8 +379890,8 @@
                     "lng":114.16309
                 },
                 "name":{
-                    "en":"San Uk Ka",
-                    "zh":"新屋家"
+                    "en":"Wun Yiu Road, San Uk Ka",
+                    "zh":"碗窰路, 新屋家"
                 }
             },
             "20001214":{
@@ -379673,7 +380181,7 @@
                 },
                 "name":{
                     "en":"Tung Lok Street, near Kam Wah Building",
-                    "zh":"同樂街, 近金華樓"
+                    "zh":"同樂街,近金華樓"
                 }
             },
             "20001263":{
@@ -379753,7 +380261,7 @@
                 },
                 "name":{
                     "en":"Ping Ha Road, near Century Centre",
-                    "zh":"屏廈路, 近世紀中心"
+                    "zh":"屏廈路,近世紀中心"
                 }
             },
             "20001276":{
@@ -379812,8 +380320,8 @@
                     "lng":114.04359
                 },
                 "name":{
-                    "en":"Castle Peak Road, Yuen Long Tung Shing Lei Road (outside Sun Kong Hotel)",
-                    "zh":"青山公路, 元朗東成里路"
+                    "en":"Castle Peak Road - Yuen Long, Yuen Long Tung Shing Lei Road (outside Sun Kong Hotel)",
+                    "zh":"青山公路 - 元朗段, 元朗東成里路"
                 }
             },
             "20001286":{
@@ -379822,8 +380330,8 @@
                     "lng":114.04258
                 },
                 "name":{
-                    "en":"Castle Peak Road, near Yeung Uk Tsuen",
-                    "zh":"青山公路, 近楊屋村"
+                    "en":"Castle Peak Road - Yuen Long, near Yeung Uk Tsuen",
+                    "zh":"青山公路 - 元朗段, 近楊屋村"
                 }
             },
             "20001287":{
@@ -379832,8 +380340,8 @@
                     "lng":114.03435
                 },
                 "name":{
-                    "en":"Castle Peak Road-Yuen Long, near YOHO Midtown",
-                    "zh":"青山公路－元朗段, 近 YOHO Midtown"
+                    "en":"Castle Peak Road - Yuen Long, near YOHO Midtown",
+                    "zh":"青山公路 - 元朗段, 近 YOHO Midtown"
                 }
             },
             "20001288":{
@@ -379842,8 +380350,8 @@
                     "lng":114.03122
                 },
                 "name":{
-                    "en":"Castle Peak Road, Yau San Street",
-                    "zh":"青山公路, 又新街"
+                    "en":"Castle Peak Road - Yuen Long, Yau San Street",
+                    "zh":"青山公路 - 元朗段, 又新街"
                 }
             },
             "20001289":{
@@ -379852,8 +380360,8 @@
                     "lng":114.0289
                 },
                 "name":{
-                    "en":"Castle Peak Road, Tai Tong Road (outside house no.110)",
-                    "zh":"青山公路, 大棠路"
+                    "en":"Castle Peak Road - Yuen Long, Tai Tong Road (outside house no.110)",
+                    "zh":"青山公路 - 元朗段, 大棠路"
                 }
             },
             "20001296":{
@@ -380862,8 +381370,8 @@
                     "lng":114.13972
                 },
                 "name":{
-                    "en":"Jockey Club Road, outside Fan Leng Lau",
-                    "zh":"馬會道, 粉嶺樓外"
+                    "en":"Jockey Club Road (eastbound), the bus layby outside The Fanling Assemblies of God Kindergarten",
+                    "zh":"馬會道東行線神召會幼稚園對開巴士停車處"
                 }
             },
             "20001477":{
@@ -380936,8 +381444,8 @@
                     "lng":114.19285
                 },
                 "name":{
-                    "en":"Fung Shun Street, outside Sha Tin Police Station",
-                    "zh":"豐順街,　近沙田警署"
+                    "en":"Fung Shun Street, outside Sha Tin District Headquarter & Divisional Police Station",
+                    "zh":"豐順街, 沙田區總部及分區警署外"
                 }
             },
             "20001494":{
@@ -381276,8 +381784,8 @@
                     "lng":114.20254
                 },
                 "name":{
-                    "en":"Tai Chung Kiu Road, outside City One Shatin",
-                    "zh":"大涌橋路, 沙田第一城外"
+                    "en":"Tai Chung Kiu Road outside City One Shatin Block 5",
+                    "zh":"大涌橋路沙田第一城5座對出"
                 }
             },
             "20001567":{
@@ -381316,8 +381824,8 @@
                     "lng":114.18726
                 },
                 "name":{
-                    "en":"Che Kung Miu Road, Bus Bay Outside Chun Shek Estate",
-                    "zh":"車公廟路, 秦石邨外巴士站"
+                    "en":"Che Kung Miu Road, outside Chun Shek Estate",
+                    "zh":"車公廟路,秦石邨外"
                 }
             },
             "20001572":{
@@ -381676,7 +382184,7 @@
                     "lng":114.12788
                 },
                 "name":{
-                    "en":"Hing Fong Road, outside King Po Mansion",
+                    "en":"Hing Fong Road outside King Po Mansion",
                     "zh":"興芳路京寶大廈外"
                 }
             },
@@ -381917,7 +382425,7 @@
                 },
                 "name":{
                     "en":"Kwai Fuk Road, outside Kwai Shing Swimming Pool",
-                    "zh":"葵福路, 葵盛游泳池外"
+                    "zh":"葵福路葵盛游泳池外"
                 }
             },
             "20001818":{
@@ -381976,7 +382484,7 @@
                     "lng":114.13272
                 },
                 "name":{
-                    "en":"Kwai Chung Road outside Hover Industrial Building",
+                    "en":"Kwai Chung Road, outside Hover Industrial Building",
                     "zh":"葵涌道豪華工業大廈外"
                 }
             },
@@ -382506,8 +383014,8 @@
                     "lng":113.9848
                 },
                 "name":{
-                    "en":"Castle Peak Road-Castle Peak Bay, outside Seaview Garden",
-                    "zh":"青山公路青山灣段, 海景花園外"
+                    "en":"Tsing Yung Street, outside Tuen Mun Court",
+                    "zh":"青榕街, 屯門閣外"
                 }
             },
             "20002036":{
@@ -383027,7 +383535,7 @@
                 },
                 "name":{
                     "en":"Hing Ning Road, outside Metroplaza (Kwai Fong Station) ",
-                    "zh":"興寧路, 新都會廣場外(葵芳站) "
+                    "zh":"興寧路, 新都會廣場外(葵芳站)"
                 }
             },
             "20002131":{
@@ -383686,8 +384194,8 @@
                     "lng":114.17793
                 },
                 "name":{
-                    "en":"Che Kung Miu Road, outside Tin Sam",
-                    "zh":"車公廟路, 田心外"
+                    "en":"Che Kung Miu Road, outside  Che Kung Miu Road Playground",
+                    "zh":"車公廟路, 車公廟路遊樂場外"
                 }
             },
             "20002255":{
@@ -383736,8 +384244,8 @@
                     "lng":114.20334
                 },
                 "name":{
-                    "en":"Ngan Shing Street, outside City One Shatin",
-                    "zh":"銀城街, 沙田第一城外"
+                    "en":"Ngan Shing Street, outside Ngan Shing Commercial Centre",
+                    "zh":"銀城街, 銀城商場外"
                 }
             },
             "20002260":{
@@ -384036,7 +384544,7 @@
                     "lng":114.22135
                 },
                 "name":{
-                    "en":"Ning Tai Road, Opposite Tak Shun Secondary School",
+                    "en":"Ning Tai Road, opposite Tak Shun Secondary School",
                     "zh":"寧泰路, 德信中學對面"
                 }
             },
@@ -384176,8 +384684,8 @@
                     "lng":114.139
                 },
                 "name":{
-                    "en":"Pok Fu Lam Road, East Gate of The University of Hong Kong",
-                    "zh":"薄扶林道, 香港大學東閘"
+                    "en":"Bonham Road, near East Gate of The University of Hong Kong",
+                    "zh":"般咸道, 近香港大學東閘"
                 }
             },
             "20002413":{
@@ -384436,7 +384944,7 @@
                     "lng":114.19879
                 },
                 "name":{
-                    "en":"Tung Tsz Road, outside Tung Tsz Scout Centre",
+                    "en":"Tung Tsz Road, outside Tubg Tsz Scout Centre",
                     "zh":"洞梓路, 近香港童軍總會洞梓童軍中心"
                 }
             },
@@ -384656,8 +385164,8 @@
                     "lng":114.26793
                 },
                 "name":{
-                    "en":"Bus lay-by on Wan Po Road opposite to Creative Secondary School ",
-                    "zh":"環保大道啟思中學對面的巴士停車灣 "
+                    "en":"Wan Po Road, opposite Oscar by the Sea",
+                    "zh":"環保大道, 清水灣半島對面"
                 }
             },
             "20002649":{
@@ -384866,7 +385374,7 @@
                     "lng":114.16811
                 },
                 "name":{
-                    "en":"Canton Road outside Victoria Towers",
+                    "en":"Canton Road outside The Victoria Towers",
                     "zh":"廣東道港景峰外"
                 }
             },
@@ -385126,8 +385634,8 @@
                     "lng":114.23633
                 },
                 "name":{
-                    "en":"Hiu Kwong Street, opposite Sau Mau Ping South Estate",
-                    "zh":"曉光街, 秀茂坪南邨外"
+                    "en":"Hiu Kwong Street opposite to Sau Mau Ping South Estate",
+                    "zh":"曉光街, 秀茂坪南邨對面"
                 }
             },
             "20003072":{
@@ -385186,8 +385694,8 @@
                     "lng":114.15721
                 },
                 "name":{
-                    "en":"Central Station (Connaught Road Central), near Pottinger Street ",
-                    "zh":"中環站 (干諾道中), 近砵甸乍街 "
+                    "en":"Central Station (Connaught Road Central), near Pottinger Street",
+                    "zh":"中環站(干諾道中)，近砵甸乍街"
                 }
             },
             "20003084":{
@@ -385406,8 +385914,8 @@
                     "lng":114.16016
                 },
                 "name":{
-                    "en":" Kweilin Street",
-                    "zh":"桂林街"
+                    "en":"No. 81 Kweilin Street",
+                    "zh":"桂林街81號"
                 }
             },
             "20003160":{
@@ -386276,8 +386784,8 @@
                     "lng":114.23995
                 },
                 "name":{
-                    "en":"Chai Wan Road near Tak Hey House",
-                    "zh":"柴灣道近德禧樓外"
+                    "en":"Chai Wan Road, outside Walton Estate",
+                    "zh":"柴灣道, 宏德居外"
                 }
             },
             "20003427":{
@@ -386896,8 +387404,8 @@
                     "lng":114.18485
                 },
                 "name":{
-                    "en":"Stubbs Road, opposite HK Adventist Hospital",
-                    "zh":"司徒拔道, 港安醫院對面"
+                    "en":"Near Hong Kong Adventist Hospital, Stubbs Road",
+                    "zh":"司徒拔道, 近港安醫院"
                 }
             },
             "20003528":{
@@ -387317,7 +387825,7 @@
                 },
                 "name":{
                     "en":"Castle Peak Road - Ping Shan, near Villa By The Park Block 5",
-                    "zh":"青山公路－屏山段, 近朗庭園第五座"
+                    "zh":"青山公路－屏山段,近朗庭園第五座"
                 }
             },
             "20004140":{
@@ -387757,7 +388265,7 @@
                 },
                 "name":{
                     "en":"Wing Kei Road, outside Good Ba Ba Hitech Building",
-                    "zh":"永基路, 好爸爸創科大廈外"
+                    "zh":"永基路, 好爸爸創科大廈外 "
                 }
             },
             "20004210":{
@@ -388026,8 +388534,8 @@
                     "lng":114.13083
                 },
                 "name":{
-                    "en":"Queen Mary Hospital",
-                    "zh":"瑪麗醫院"
+                    "en":"Queen Mary Hospital, Pok Fu Lam Road",
+                    "zh":"薄扶林道, 瑪麗醫院"
                 }
             },
             "20004549":{
@@ -388196,7 +388704,7 @@
                     "lng":114.15792
                 },
                 "name":{
-                    "en":"Lei Tung Estate Road, Hong Kong True Light College",
+                    "en":"Lei Tung Estate Road, True Light College",
                     "zh":"利東邨道, 香港真光書院"
                 }
             },
@@ -388726,8 +389234,8 @@
                     "lng":114.19653
                 },
                 "name":{
-                    "en":"Fung Tak Road, FUNG TAK ROAD, near Fire Services Department Wong Tai Sin Rank and File Married Quarters Block Anear Fire Services Department Wong Tai Sin Rank And File Married Quarters Block A",
-                    "zh":" 鳳德道, 近消防處黃大仙員佐級已婚人員宿舍Ａ座"
+                    "en":"Fung Tak Road, outside Wong Tai Sin Fire Station",
+                    "zh":"鳳德道, 黃大仙消防局外"
                 }
             },
             "20006029":{
@@ -390376,8 +390884,8 @@
                     "lng":114.16186
                 },
                 "name":{
-                    "en":"Murray Road, outside Murray Road multi-story car park",
-                    "zh":"美利道, 美利道多層停車場大廈外"
+                    "en":"No. 2 Murray Road",
+                    "zh":"美利道2號"
                 }
             },
             "20007409":{
@@ -391336,8 +391844,8 @@
                     "lng":114.26322
                 },
                 "name":{
-                    "en":"Bus lay-by on Po Hong Road outside Tseung Kwan O Sports Ground opposite to Beverly Garden Block 6 ",
-                    "zh":"寶康路將軍澳運動場外富康花園6座對面的巴士停車灣 "
+                    "en":"Po Hong Road, outside Tseung Kwan O Sports Ground",
+                    "zh":"寶康路, 將軍澳運動場外"
                 }
             },
             "20007714":{
@@ -392857,7 +393365,7 @@
                 },
                 "name":{
                     "en":"Fo Chun Road, outside Mayfair by the Sea",
-                    "zh":"科進路逸瓏灣外"
+                    "zh":"科進路, 逸瓏灣外"
                 }
             },
             "20008783":{
@@ -393317,7 +393825,7 @@
                 },
                 "name":{
                     "en":"Ping Ha Road, near Fu Yee Garden Phase 2 Block 10, HA TSUEN SHI",
-                    "zh":"屏廈路, 近廈村市富怡花園第二期第十座"
+                    "zh":"屏廈路,近廈村市富怡花園第二期第十座"
                 }
             },
             "20009470":{
@@ -393396,7 +393904,7 @@
                     "lng":114.24935
                 },
                 "name":{
-                    "en":"Siu Sai Wan Roa, near Siu Sai Wan Estate Bus Terminus",
+                    "en":"Siu Sai Wan Road, near Siu Sai Wan Estate Bus Terminus",
                     "zh":"小西灣道, 近小西灣邨巴士總站"
                 }
             },
@@ -393526,8 +394034,8 @@
                     "lng":114.12502
                 },
                 "name":{
-                    "en":"Fung Yiu King Hospital, Sandy Bay Road",
-                    "zh":"大口環道, 馮堯敬醫院"
+                    "en":"Sandy Bay Road, opposite Fung Yiu King Hospital",
+                    "zh":"大口環道, 東華三院馮堯敬醫院對面"
                 }
             },
             "20009799":{
@@ -393656,8 +394164,8 @@
                     "lng":114.03043
                 },
                 "name":{
-                    "en":"Tai Fung Street, near Tsui Wah House",
-                    "zh":"泰豐街, 近翠華樓"
+                    "en":"Tai fung Street, Near Tung Sing Building",
+                    "zh":"泰豐街, 近東昇樓"
                 }
             },
             "20009904":{
@@ -393796,8 +394304,8 @@
                     "lng":114.13879
                 },
                 "name":{
-                    "en":"Chi Fu Road, outside block no. 14",
-                    "zh":"置富道第14座外"
+                    "en":"Chi Fu Road, outside block no. 15",
+                    "zh":"置富道第15座外"
                 }
             },
             "20010034":{
@@ -394416,8 +394924,8 @@
                     "lng":114.25023
                 },
                 "name":{
-                    "en":"Po Lam Road North, opposite King Min House, King Lam Estate",
-                    "zh":"寶琳北路, 景明苑旭景閣對面"
+                    "en":"Po Lam Road North, near Tsui Lam Estate",
+                    "zh":"寶琳北路, 翠林邨對面"
                 }
             },
             "20010625":{
@@ -394446,8 +394954,8 @@
                     "lng":114.19022
                 },
                 "name":{
-                    "en":"Kwei Tei Street, near Chun Yeung Shopping Centre, Chun Yeung Estate",
-                    "zh":"桂地街,近駿洋邨駿洋商場"
+                    "en":"Fo Tan Chun Yeung Estate Public Transport Lay-bys",
+                    "zh":"火炭駿洋邨公共運輸停車灣"
                 }
             },
             "20010665":{
@@ -394836,8 +395344,8 @@
                     "lng":114.24414
                 },
                 "name":{
-                    "en":"Chai Wan Road near Sun Tak House",
-                    "zh":"永平街近新德樓"
+                    "en":"Wing Ping Street, outside Sun Tak House",
+                    "zh":"永平街,新德樓外"
                 }
             },
             "20011195":{
@@ -395416,7 +395924,7 @@
                     "lng":114.2412
                 },
                 "name":{
-                    "en":"Heng Fa Chuen Public Transport Interchange",
+                    "en":"Heng Fa Chuen Public Transport Interchang",
                     "zh":"杏花邨公共運輸交匯處"
                 }
             },
@@ -395436,7 +395944,7 @@
                     "lng":114.24589
                 },
                 "name":{
-                    "en":"Opposite Yeung Yiu Chung No.7 Industrial Building ",
+                    "en":"Sun Yip Street, opposite Yeung Yiu Chung No.7 Industrial Building ",
                     "zh":"新業街, 楊耀松第七工業大廈對面"
                 }
             },
@@ -396160,7 +396668,7 @@
                     "lng":114.13238
                 },
                 "name":{
-                    "en":"Wo Tong Tsui Street outside House No.109-115",
+                    "en":"Outside No.109-115 Wo Tong Tsui Street",
                     "zh":"禾塘咀街109-115號外"
                 }
             },
@@ -397640,8 +398148,8 @@
                     "lng":114.14849
                 },
                 "name":{
-                    "en":"D2 Place One",
-                    "zh":"D2 Place 一期"
+                    "en":"Cheung Yee Street near D2 Place",
+                    "zh":"長義街, 近D2 Place"
                 }
             },
             "20012319":{
@@ -397981,7 +398489,7 @@
                 },
                 "name":{
                     "en":"TUNG TAU TSUEN ROAD, near Hau Wong Temple",
-                    "zh":"東頭村道, 近侯王古廟"
+                    "zh":"東頭村道, 近侯王古廟\t"
                 }
             },
             "20012382":{
@@ -398041,7 +398549,7 @@
                 },
                 "name":{
                     "en":"FU MEI STREET, near Wang Wai House, WANG TAU HOM ESTATE",
-                    "zh":" 富美街, 近橫頭磡邨宏偉樓"
+                    "zh":"富美街, 近橫頭磡邨宏偉樓\t"
                 }
             },
             "20012388":{
@@ -398051,7 +398559,7 @@
                 },
                 "name":{
                     "en":"WANG TAU HOM CENTRAL ROAD, near Wang Hin House, WANG TAU HOM ESTATE",
-                    "zh":" 橫頭磡中道, 近橫頭磡邨宏顯樓"
+                    "zh":"橫頭磡中道, 近橫頭磡邨宏顯樓"
                 }
             },
             "20012390":{
@@ -399440,8 +399948,8 @@
                     "lng":114.12603
                 },
                 "name":{
-                    "en":"HING FONG ROAD, opposite to KWAI CHUNG SPORTS GROUND",
-                    "zh":"興芳路, 葵涌運動場對面"
+                    "en":"Hing Fong Road, Near Metroplaza Tower 2",
+                    "zh":"興芳路, 近新都會廣場第２座"
                 }
             },
             "20012807":{
@@ -399450,7 +399958,7 @@
                     "lng":114.12213
                 },
                 "name":{
-                    "en":"KWAI TSING ROAD, near Kwai Chung Industrial Wastewater Pumping Station",
+                    "en":"Kwai Tsing Road, Near Kwai Chung Industrial Wastewater Pumping Station",
                     "zh":"葵青路, 近葵涌工業污水泵房"
                 }
             },
@@ -400090,8 +400598,8 @@
                     "lng":114.15497
                 },
                 "name":{
-                    "en":"Main Street, Ap Lei Chau, near Manly House",
-                    "zh":"鴨脷洲大街,近文麗大樓"
+                    "en":"Main Street, Ap Lei Chau, near MTR Lei Tung Station Exit A1",
+                    "zh":"鴨脷洲大街,近港鐵利東站A1出口"
                 }
             },
             "20012946":{
@@ -400100,8 +400608,8 @@
                     "lng":114.15324
                 },
                 "name":{
-                    "en":"Lee Chi Road, near Lee Chi Road Bus Terminus",
-                    "zh":"利枝道, 近利枝道巴士總站"
+                    "en":"Main Street, Ap Lei Chau, near Manly House",
+                    "zh":"鴨脷洲大街,近文麗大樓"
                 }
             },
             "20012947":{
@@ -400620,8 +401128,8 @@
                     "lng":114.2088
                 },
                 "name":{
-                    "en":"Shing Cheong Road, Near Training & Research Tower (Tower A), Hong Kong Children's Hospital",
-                    "zh":"承昌道, 近香港兒童醫院教學及科研大樓（A座）"
+                    "en":"Shing Cheong Road, Near Training & Research Tower (Tower A), Hong Kong Children's Hospital\t",
+                    "zh":"承昌道, 近香港兒童醫院教學及科研大樓（A座）\t"
                 }
             },
             "20013000":{
@@ -401721,7 +402229,7 @@
                 },
                 "name":{
                     "en":"LAI KONG STREET, near Princess Margaret Hospital Lai King Building",
-                    "zh":"荔崗街,近瑪嘉烈醫院荔景大樓"
+                    "zh":"荔崗街, 近瑪嘉烈醫院荔景大樓"
                 }
             },
             "20013693":{
@@ -401771,7 +402279,7 @@
                 },
                 "name":{
                     "en":"LAI KING HILL ROAD, near Lai Ha House, YUET LAI COURT",
-                    "zh":"荔景山路,近悅麗苑麗霞閣"
+                    "zh":"荔景山路, 近悅麗苑麗霞閣"
                 }
             },
             "20013698":{
@@ -404130,8 +404638,8 @@
                     "lng":114.18477
                 },
                 "name":{
-                    "en":"Prince Edward Road West, outside St. Teresa's Hospital",
-                    "zh":"太子道西, 聖德肋撒法國醫院外"
+                    "en":"Prince Edward Road West, near St. Teresa's Hospital North Wing",
+                    "zh":"太子道西, 近聖德肋撒醫院北座"
                 }
             },
             "20014199":{
@@ -404310,8 +404818,8 @@
                     "lng":114.17394
                 },
                 "name":{
-                    "en":"MEI TIN ROAD, near Mei Tin Road Sitting-out Area",
-                    "zh":"美田路, 近美田路休憩處"
+                    "en":"Mei Tin Road opposite Mei Lam Estate",
+                    "zh":"美田路, 美林邨對面"
                 }
             },
             "20014227":{
@@ -404420,8 +404928,8 @@
                     "lng":114.17759
                 },
                 "name":{
-                    "en":"Prince Edward Road West, outside Peace Garden",
-                    "zh":"太子道西, 太和大廈外"
+                    "en":"Prince Edward Road West, near Peace Garden",
+                    "zh":"太子道西, 近太和苑"
                 }
             },
             "20014246":{
@@ -404561,7 +405069,7 @@
                 },
                 "name":{
                     "en":"ASHLEY ROAD, near PEKING ROAD SITTING-OUT AREA",
-                    "zh":"亞士厘道, 近北京道休憩處"
+                    "zh":"亞士厘道, 近 北京道休憩處"
                 }
             },
             "20014289":{
@@ -405141,7 +405649,7 @@
                 },
                 "name":{
                     "en":"MEI LAI ROAD, near Mei Foo Bus Terminus",
-                    "zh":"美荔道,近美孚巴士總站"
+                    "zh":"美荔道, 近美孚巴士總站"
                 }
             },
             "20014419":{
@@ -405261,7 +405769,7 @@
                 },
                 "name":{
                     "en":"SHA TAU KOK ROAD - LUNG YEUK TAU, near KWAN TEI",
-                    "zh":"沙頭角公路－龍躍頭段, 近軍地"
+                    "zh":"沙頭角公路－龍躍頭段,近軍地"
                 }
             },
             "20014465":{
@@ -405270,7 +405778,7 @@
                     "lng":114.14331
                 },
                 "name":{
-                    "en":"LUEN WO ROAD, near Luen Wo Hui Playground",
+                    "en":"Luen Wo Road, Near Luen Wo Hui Playground",
                     "zh":"聯和道, 近聯和墟遊樂場"
                 }
             },
@@ -405420,7 +405928,7 @@
                     "lng":114.15606
                 },
                 "name":{
-                    "en":"May Road, near Gladdon",
+                    "en":"MAY ROAD, near Gladdon",
                     "zh":"梅道, 近Gladdon"
                 }
             },
@@ -405440,7 +405948,7 @@
                     "lng":114.15328
                 },
                 "name":{
-                    "en":"May Road, near Dynasty Court Tower 3",
+                    "en":"MAY ROAD, near Dynasty Court Tower 3",
                     "zh":"梅道, 近帝景園第３座"
                 }
             },
@@ -405510,7 +406018,7 @@
                     "lng":114.15818
                 },
                 "name":{
-                    "en":"KENNEDY ROAD, near The Royal Court",
+                    "en":"Kennedy Road, near The Royal Court",
                     "zh":"堅尼地道, 近帝景閣"
                 }
             },
@@ -405520,7 +406028,7 @@
                     "lng":114.15951
                 },
                 "name":{
-                    "en":"KENNEDY ROAD, near Hong Kong Visual Arts Centre, HONG KONG PARK",
+                    "en":"Kennedy Road near Hong Kong Visual Arts Centre",
                     "zh":"堅尼地道, 近香港公園香港視覺藝術中心"
                 }
             },
@@ -405530,7 +406038,7 @@
                     "lng":114.16337
                 },
                 "name":{
-                    "en":"KENNEDY ROAD, near HONG KONG PARK",
+                    "en":"Kennedy Road, near Hong Kong Park",
                     "zh":"堅尼地道, 近香港公園"
                 }
             },
@@ -405540,7 +406048,7 @@
                     "lng":114.16689
                 },
                 "name":{
-                    "en":"KENNEDY ROAD, near MONMOUTH PARK",
+                    "en":"Kennedy Road, near Monmouth Park",
                     "zh":"堅尼地道, 近萬茂公園"
                 }
             },
@@ -405550,7 +406058,7 @@
                     "lng":114.16893
                 },
                 "name":{
-                    "en":"KENNEDY ROAD, near St. Francis Canossian College",
+                    "en":"Kennedy Road, near St. Francis Canossian College",
                     "zh":"堅尼地道, 近嘉諾撒聖方濟各書院"
                 }
             },
@@ -405560,8 +406068,8 @@
                     "lng":114.17113
                 },
                 "name":{
-                    "en":"KENNEDY ROAD, near Camelot Heights",
-                    "zh":"堅尼地道, 近金鑾閣"
+                    "en":"Kennedy Road, outside Hopewell Centre",
+                    "zh":"堅尼地道, 近合和中心"
                 }
             },
             "20014536":{
@@ -405570,7 +406078,7 @@
                     "lng":114.18467
                 },
                 "name":{
-                    "en":"SUN WUI ROAD, near Capital Building",
+                    "en":"Sun Wui Road, near Capital Building",
                     "zh":"新會道, 近京城大廈"
                 }
             },
@@ -405580,7 +406088,7 @@
                     "lng":114.14747
                 },
                 "name":{
-                    "en":"Bonham Road, Hospital Road",
+                    "en":"Bonham Road near Hospital Road",
                     "zh":"般咸道, 醫院道"
                 }
             },
@@ -405590,7 +406098,7 @@
                     "lng":114.17106
                 },
                 "name":{
-                    "en":"KENNEDY ROAD, near Camelot Heights",
+                    "en":"Kennedy Road, near Camelot Heights",
                     "zh":"堅尼地道, 近金鑾閣"
                 }
             },
@@ -405600,8 +406108,8 @@
                     "lng":114.1684
                 },
                 "name":{
-                    "en":"KENNEDY ROAD, near St. Francis Canossian College",
-                    "zh":"堅尼地道, 近嘉諾撒聖方濟各書院"
+                    "en":"Kennedy Road, oppposite to St. Francis Canossian College",
+                    "zh":"堅尼地道, 嘉諾撒聖方濟各書院對面"
                 }
             },
             "20014540":{
@@ -405610,8 +406118,8 @@
                     "lng":114.16564
                 },
                 "name":{
-                    "en":"KENNEDY ROAD, near Hongkong Electric Centre, Kennedy Road Zone Substation",
-                    "zh":"堅尼地道, 近堅尼地道分區電力站港燈中心"
+                    "en":"Kennedy Road, near The Hongkong Electric Centre",
+                    "zh":"堅尼地道, 近港燈中心"
                 }
             },
             "20014541":{
@@ -405620,7 +406128,7 @@
                     "lng":114.15949
                 },
                 "name":{
-                    "en":"KENNEDY ROAD, near Kenville",
+                    "en":"Kennedy Road, near Kenville",
                     "zh":"堅尼地道, 近甘苑"
                 }
             },
@@ -405810,8 +406318,8 @@
                     "lng":114.02761
                 },
                 "name":{
-                    "en":"HONG KING STREET, near Lee King Building",
-                    "zh":"康景街, 近利景樓"
+                    "en":"Hong King Street Terminus\t",
+                    "zh":"康景街總站\t"
                 }
             },
             "20014623":{
@@ -405820,8 +406328,8 @@
                     "lng":114.01123
                 },
                 "name":{
-                    "en":"Ma Fung Ling Road",
-                    "zh":"孖峰嶺路 "
+                    "en":"Ma Fung Ling Road\t",
+                    "zh":"孖峰嶺路\t"
                 }
             },
             "20014624":{
@@ -405830,8 +406338,8 @@
                     "lng":114.01128
                 },
                 "name":{
-                    "en":"Jasper Court",
-                    "zh":"瑋珊園"
+                    "en":"Jasper Court\t",
+                    "zh":"瑋珊園\t"
                 }
             },
             "20014626":{
@@ -405871,7 +406379,7 @@
                 },
                 "name":{
                     "en":"Villa by the Park",
-                    "zh":" 朗庭園"
+                    "zh":"朗庭園 "
                 }
             },
             "20014632":{
@@ -407780,7 +408288,7 @@
                     "lng":114.23894
                 },
                 "name":{
-                    "en":"Pik Wan Road, Near Tak Tin Car Park, Tak Tin Estate",
+                    "en":"PIK WAN ROAD, near Tak Tin Car Park, TAK TIN ESTATE",
                     "zh":"碧雲道, 近德田邨德田停車場"
                 }
             },
@@ -409300,7 +409808,7 @@
                     "lng":114.05837
                 },
                 "name":{
-                    "en":"Castle Peak Road - Mai Po, near Royal Palms",
+                    "en":"Castle Peak Road - Mai Po, near ROYAL PALMS",
                     "zh":"青山公路－米埔段, 近加州豪園"
                 }
             },
@@ -409374,7 +409882,7 @@
                     "lng":114.07665
                 },
                 "name":{
-                    "en":"Castle Peak Road - San Tin, near Man Tin Cheung Park",
+                    "en":"Castle Peak Road - San Tin, near 文天祥公園",
                     "zh":"青山公路－新田段, 近文天祥公園"
                 }
             },
@@ -409878,7 +410386,7 @@
                     "lng":114.16605
                 },
                 "name":{
-                    "en":"Wong Chuk Hang Road, Near Kwai Bo Industrial Building ",
+                    "en":"Wong Chuk Hang Road, near Kwai Bo Industrial Building ",
                     "zh":"黃竹坑道, 近貴寶工業大廈 "
                 }
             },
@@ -409888,7 +410396,7 @@
                     "lng":114.01603
                 },
                 "name":{
-                    "en":"Kung Um Road, near Pui Hong Kui",
+                    "en":"KUNG UM ROAD, near Pui Hong Kui",
                     "zh":"公庵路, 近培康居"
                 }
             },
@@ -410812,8 +411320,8 @@
                     "lng":114.19444
                 },
                 "name":{
-                    "en":"Sui Wo Court Bus Terminus",
-                    "zh":"穗禾苑巴士總站"
+                    "en":"Sui Wo Court",
+                    "zh":"穗禾苑"
                 }
             },
             "20015707":{
@@ -410862,8 +411370,8 @@
                     "lng":114.19954
                 },
                 "name":{
-                    "en":"Lok King Street, outside Jubilee Garden",
-                    "zh":"樂景街, 銀禧花園外"
+                    "en":"Lok King Street KMB 88K bus lay-by outside Jubilee Garden",
+                    "zh":"樂景街銀禧花園外的九巴88K巴士停車灣"
                 }
             },
             "20015712":{
@@ -410873,7 +411381,7 @@
                 },
                 "name":{
                     "en":"Lok King Street, opposite Fo Tan Station",
-                    "zh":"樂景街, 港鐵火炭站對面"
+                    "zh":"樂景街火炭站對面"
                 }
             },
             "20015713":{
@@ -411022,7 +411530,7 @@
                     "lng":114.19819
                 },
                 "name":{
-                    "en":"Fo Tan Station",
+                    "en":"Lok King Street, outside Fo Tan Station",
                     "zh":"樂景街, 港鐵火炭站外"
                 }
             },
@@ -411332,8 +411840,8 @@
                     "lng":114.03247
                 },
                 "name":{
-                    "en":"Fung Cheung Road Minibus Terminus",
-                    "zh":"鳳翔路小巴總站"
+                    "en":"Fung Cheung Road, Near Wah Ting Court, Fung Ting Court",
+                    "zh":"鳳翔路, 近鳳庭苑華庭閣"
                 }
             },
             "20015765":{
@@ -411862,7 +412370,7 @@
                     "lng":114.12231
                 },
                 "name":{
-                    "en":"Texaco Road, Near S.K.H. Crown Of Thorns Church & Sadick Kindergarten",
+                    "en":"Texaco Road, near S.K.H. Crown Of Thorns Church & Sadick Kindergarten",
                     "zh":"德士古道, 近聖公會荊冕堂暨士德幼稚園"
                 }
             },
@@ -412102,8 +412610,8 @@
                     "lng":114.11974
                 },
                 "name":{
-                    "en":"Castle Peak Road-Tsuen Wan near Kam Mun Hau Garden",
-                    "zh":"青山公路-荃灣段近金門口花園"
+                    "en":"Castle Peak Road-Tsuen Wan near Yan Chai Hospital Chau Cheuk Ming School of Nursing",
+                    "zh":"青山公路-荃灣段仁濟醫院周卓明護士學校外"
                 }
             },
             "20015994":{
@@ -414052,8 +414560,8 @@
                     "lng":114.04729
                 },
                 "name":{
-                    "en":"Yuen Long (Sung Shan San Tsuen) Minibus Terminus",
-                    "zh":"元朗(崇山新村)小巴總站"
+                    "en":"Yuen Long (Sung Shan San Tsuen)",
+                    "zh":"元朗(崇山新村)"
                 }
             },
             "20016669":{
@@ -414602,8 +415110,8 @@
                     "lng":114.0325
                 },
                 "name":{
-                    "en":"Shan Pui Road, Near The Parcville Tower 13",
-                    "zh":"山貝路, 近采葉庭13座"
+                    "en":"Shan Pui Road Near United Court",
+                    "zh":"山貝路近同心村"
                 }
             },
             "20016745":{
@@ -415362,8 +415870,8 @@
                     "lng":114.1039
                 },
                 "name":{
-                    "en":"Tsing Luk Street, Near S.K.H. Tsing Yi Estate Ho Chak Wan Primary School",
-                    "zh":"青綠街, 近聖公會青衣邨何澤芸小學"
+                    "en":"Tsing Luk Street outside SKH Tsing Yi Estate Ho Chak Wan Primary School",
+                    "zh":"青綠街, 聖公會青衣邨何澤芸小學外"
                 }
             },
             "20016861":{
@@ -415483,7 +415991,7 @@
                 },
                 "name":{
                     "en":"Tsuen Wan Market Street, Near Chan Yi Cheung Ancestral Hall, Jockey Club Tak Wah Park",
-                    "zh":"荃灣街市街, 近賽馬會德華公園 義璋陳公祠"
+                    "zh":"荃灣街市街, 近賽馬會德華公園　義璋陳公祠"
                 }
             },
             "20016874":{
@@ -420924,6 +421432,36 @@
                 "name":{
                     "en":"Nga Cheung Road, near International Commerce Centre",
                     "zh":"雅翔道, 近環球貿易廣場"
+                }
+            },
+            "20020392":{
+                "location":{
+                    "lat":22.27396,
+                    "lng":114.17523
+                },
+                "name":{
+                    "en":"Kennedy Road, near Queen's Road East",
+                    "zh":"堅尼地道, 近皇后大道東"
+                }
+            },
+            "20020393":{
+                "location":{
+                    "lat":22.27268,
+                    "lng":114.17423
+                },
+                "name":{
+                    "en":"Kennedy Road, outside Grandview Tower",
+                    "zh":"堅尼地道, 慧景臺"
+                }
+            },
+            "20020394":{
+                "location":{
+                    "lat":22.32509,
+                    "lng":114.25921
+                },
+                "name":{
+                    "en":"Po Lam Road North, near Tseung Kwan O Jockey Club Clinic",
+                    "zh":"寶琳北路, 將軍澳賽馬會診所外"
                 }
             },
             "201":{
@@ -451212,16 +451750,6 @@
                     "zh":"石硤尾街"
                 }
             },
-            "8D41766A525C128D":{
-                "location":{
-                    "lat":22.42233,
-                    "lng":114.22657
-                },
-                "name":{
-                    "en":"Chung On Bus Terminus",
-                    "zh":"頌安巴士總站"
-                }
-            },
             "8D47F8C7AA27FCB8":{
                 "location":{
                     "lat":22.43192,
@@ -473303,6 +473831,16 @@
                 "name":{
                     "en":"Hung Shui Kiu (Hung Fuk Estate) Bus Terminus",
                     "zh":"洪水橋(洪福邨)總站"
+                }
+            },
+            "E3342E2125B7B6EE":{
+                "location":{
+                    "lat":22.34215,
+                    "lng":114.10716
+                },
+                "name":{
+                    "en":"Ching Fu Court",
+                    "zh":"青富苑"
                 }
             },
             "E346E933481C3D83":{
@@ -497418,6 +497956,14 @@
                     "001673"
                 ],
                 [
+                    "gmb",
+                    "20001166"
+                ],
+                [
+                    "gmb",
+                    "20020394"
+                ],
+                [
                     "kmb",
                     "B9DF2752D1309B49"
                 ],
@@ -512189,6 +512735,10 @@
             "003107":[
                 [
                     "kmb",
+                    "0CAB5EE71EF19B76"
+                ],
+                [
+                    "kmb",
                     "2B7E8054D4A2CBA7"
                 ]
             ],
@@ -519348,6 +519898,12 @@
                     "FAAD25334A972923"
                 ]
             ],
+            "003822":[
+                [
+                    "kmb",
+                    "E3342E2125B7B6EE"
+                ]
+            ],
             "003823":[
                 [
                     "kmb",
@@ -520598,6 +521154,10 @@
                 [
                     "kmb",
                     "E459280CA121C86D"
+                ],
+                [
+                    "gmb",
+                    "20001149"
                 ]
             ],
             "024D478CE8AC52F3":[
@@ -524502,6 +525062,16 @@
                     "20009975"
                 ]
             ],
+            "0CAB5EE71EF19B76":[
+                [
+                    "ctb",
+                    "003107"
+                ],
+                [
+                    "kmb",
+                    "2B7E8054D4A2CBA7"
+                ]
+            ],
             "0CB1F7979192FBB2":[
                 [
                     "ctb",
@@ -527209,6 +527779,10 @@
                 ]
             ],
             "12332D6FD6163ED9":[
+                [
+                    "gmb",
+                    "20001149"
+                ],
                 [
                     "kmb",
                     "796CAA794D4DEBE8"
@@ -530699,6 +531273,10 @@
                 ],
                 [
                     "kmb",
+                    "80EEE299A75B7F1B"
+                ],
+                [
+                    "kmb",
                     "D213B1E60E14A62E"
                 ],
                 [
@@ -533055,10 +533633,6 @@
                 ]
             ],
             "1D5530B0037C0143":[
-                [
-                    "gmb",
-                    "20001164"
-                ],
                 [
                     "kmb",
                     "44A2D3DCAB8DD9BE"
@@ -538715,6 +539289,10 @@
             "20001149":[
                 [
                     "kmb",
+                    "12332D6FD6163ED9"
+                ],
+                [
+                    "kmb",
                     "796CAA794D4DEBE8"
                 ],
                 [
@@ -538723,7 +539301,19 @@
                 ],
                 [
                     "kmb",
+                    "E459280CA121C86D"
+                ],
+                [
+                    "kmb",
+                    "0246D8407B61118D"
+                ],
+                [
+                    "kmb",
                     "C8DFFC6DB50F5F86"
+                ],
+                [
+                    "kmb",
+                    "E56EB484337A34CB"
                 ]
             ],
             "20001150":[
@@ -538880,34 +539470,34 @@
                     "001737"
                 ],
                 [
-                    "kmb",
-                    "1D5530B0037C0143"
-                ],
-                [
                     "gmb",
                     "20015213"
                 ],
                 [
                     "kmb",
-                    "44A2D3DCAB8DD9BE"
-                ],
-                [
-                    "kmb",
                     "D5E1A3D34328F867"
-                ],
-                [
-                    "kmb",
-                    "ECD84D5B8C52642B"
                 ]
             ],
             "20001166":[
+                [
+                    "ctb",
+                    "001681"
+                ],
                 [
                     "kmb",
                     "9DC52818C41A2A1B"
                 ],
                 [
+                    "kmb",
+                    "C73A03D6C468B767"
+                ],
+                [
                     "ctb",
                     "001673"
+                ],
+                [
+                    "kmb",
+                    "B9DF2752D1309B49"
                 ]
             ],
             "20001169":[
@@ -543458,6 +544048,10 @@
                 [
                     "kmb",
                     "D21D129C5E4F402C"
+                ],
+                [
+                    "kmb",
+                    "F9F75324B8F1D7E3"
                 ]
             ],
             "20002080":[
@@ -556570,6 +557164,10 @@
                 [
                     "kmb",
                     "765D48B2BF317327"
+                ],
+                [
+                    "kmb",
+                    "80EEE299A75B7F1B"
                 ],
                 [
                     "kmb",
@@ -572776,6 +573374,10 @@
                 [
                     "kmb",
                     "D21D129C5E4F402C"
+                ],
+                [
+                    "kmb",
+                    "F9F75324B8F1D7E3"
                 ]
             ],
             "20016699":[
@@ -573556,6 +574158,10 @@
                 [
                     "kmb",
                     "D21D129C5E4F402C"
+                ],
+                [
+                    "kmb",
+                    "F9F75324B8F1D7E3"
                 ]
             ],
             "20016877":[
@@ -578582,6 +579188,10 @@
                 [
                     "kmb",
                     "D21D129C5E4F402C"
+                ],
+                [
+                    "kmb",
+                    "F9F75324B8F1D7E3"
                 ]
             ],
             "20020263":[
@@ -578894,6 +579504,16 @@
                 [
                     "ctb",
                     "003533"
+                ]
+            ],
+            "20020394":[
+                [
+                    "ctb",
+                    "001681"
+                ],
+                [
+                    "kmb",
+                    "C73A03D6C468B767"
                 ]
             ],
             "201":[
@@ -583772,6 +584392,10 @@
                 [
                     "ctb",
                     "003107"
+                ],
+                [
+                    "kmb",
+                    "0CAB5EE71EF19B76"
                 ]
             ],
             "2B9DA1FE14596F2E":[
@@ -595098,10 +595722,6 @@
                     "1D5530B0037C0143"
                 ],
                 [
-                    "gmb",
-                    "20001164"
-                ],
-                [
                     "kmb",
                     "D5E1A3D34328F867"
                 ],
@@ -603162,6 +603782,10 @@
                 [
                     "ctb",
                     "003822"
+                ],
+                [
+                    "kmb",
+                    "E3342E2125B7B6EE"
                 ]
             ],
             "569100345CF1E324":[
@@ -603222,6 +603846,10 @@
                 [
                     "kmb",
                     "765D48B2BF317327"
+                ],
+                [
+                    "kmb",
+                    "80EEE299A75B7F1B"
                 ],
                 [
                     "kmb",
@@ -608618,6 +609246,10 @@
                 [
                     "kmb",
                     "765D48B2BF317327"
+                ],
+                [
+                    "kmb",
+                    "80EEE299A75B7F1B"
                 ],
                 [
                     "kmb",
@@ -616931,6 +617563,10 @@
                 ],
                 [
                     "kmb",
+                    "80EEE299A75B7F1B"
+                ],
+                [
+                    "kmb",
                     "D213B1E60E14A62E"
                 ],
                 [
@@ -620542,6 +621178,62 @@
                 [
                     "ctb",
                     "001969"
+                ],
+                [
+                    "kmb",
+                    "181140364F4E7566"
+                ],
+                [
+                    "kmb",
+                    "56982DE125174FCD"
+                ],
+                [
+                    "kmb",
+                    "6296109576D60CBB"
+                ],
+                [
+                    "kmb",
+                    "765D48B2BF317327"
+                ],
+                [
+                    "kmb",
+                    "B37FC6600B2254B6"
+                ],
+                [
+                    "kmb",
+                    "D213B1E60E14A62E"
+                ],
+                [
+                    "kmb",
+                    "D992534B2A407C74"
+                ],
+                [
+                    "kmb",
+                    "E8A145669A392955"
+                ],
+                [
+                    "kmb",
+                    "E8DD78B9A123158B"
+                ],
+                [
+                    "kmb",
+                    "F775411CAE162A5A"
+                ],
+                [
+                    "kmb",
+                    "966267086A03D688"
+                ],
+                [
+                    "kmb",
+                    "EDD3C420910A50CA"
+                ],
+                [
+                    "gmb",
+                    "20012208"
+                ],
+                [
+                    "kmb",
+                    "83388B59A961635D"
                 ]
             ],
             "80F5C6317F17C099":[
@@ -621684,6 +622376,10 @@
                 [
                     "kmb",
                     "765D48B2BF317327"
+                ],
+                [
+                    "kmb",
+                    "80EEE299A75B7F1B"
                 ],
                 [
                     "kmb",
@@ -625708,16 +626404,6 @@
                     "C4B0E899FAE72350"
                 ]
             ],
-            "8D41766A525C128D":[
-                [
-                    "ctb",
-                    "003107"
-                ],
-                [
-                    "kmb",
-                    "2B7E8054D4A2CBA7"
-                ]
-            ],
             "8D56DB404D264D5A":[
                 [
                     "ctb",
@@ -629644,6 +630330,10 @@
                 [
                     "kmb",
                     "765D48B2BF317327"
+                ],
+                [
+                    "kmb",
+                    "80EEE299A75B7F1B"
                 ],
                 [
                     "kmb",
@@ -641029,6 +641719,10 @@
                 ],
                 [
                     "kmb",
+                    "80EEE299A75B7F1B"
+                ],
+                [
+                    "kmb",
                     "83388B59A961635D"
                 ],
                 [
@@ -643694,6 +644388,10 @@
                 [
                     "kmb",
                     "C73A03D6C468B767"
+                ],
+                [
+                    "gmb",
+                    "20001166"
                 ]
             ],
             "B9DFF2C142DCE309":[
@@ -648930,6 +649628,14 @@
                     "001681"
                 ],
                 [
+                    "gmb",
+                    "20001166"
+                ],
+                [
+                    "gmb",
+                    "20020394"
+                ],
+                [
                     "kmb",
                     "B9DF2752D1309B49"
                 ]
@@ -653437,6 +654143,10 @@
                 ],
                 [
                     "kmb",
+                    "80EEE299A75B7F1B"
+                ],
+                [
+                    "kmb",
                     "D992534B2A407C74"
                 ],
                 [
@@ -653492,6 +654202,10 @@
                 [
                     "gmb",
                     "20020262"
+                ],
+                [
+                    "kmb",
+                    "F9F75324B8F1D7E3"
                 ]
             ],
             "D2217D7746597D10":[
@@ -656416,6 +657130,10 @@
                 [
                     "kmb",
                     "765D48B2BF317327"
+                ],
+                [
+                    "kmb",
+                    "80EEE299A75B7F1B"
                 ],
                 [
                     "kmb",
@@ -659994,6 +660712,12 @@
                     "6D66CBA494DECB08"
                 ]
             ],
+            "E3342E2125B7B6EE":[
+                [
+                    "ctb",
+                    "003822"
+                ]
+            ],
             "E346E933481C3D83":[
                 [
                     "ctb",
@@ -660560,6 +661284,10 @@
                     "0246D8407B61118D"
                 ],
                 [
+                    "gmb",
+                    "20001149"
+                ],
+                [
                     "kmb",
                     "E56EB484337A34CB"
                 ]
@@ -660960,6 +661688,10 @@
                 [
                     "kmb",
                     "E459280CA121C86D"
+                ],
+                [
+                    "gmb",
+                    "20001149"
                 ]
             ],
             "E5763322877BB340":[
@@ -662141,6 +662873,10 @@
                 ],
                 [
                     "kmb",
+                    "80EEE299A75B7F1B"
+                ],
+                [
+                    "kmb",
                     "83388B59A961635D"
                 ],
                 [
@@ -662294,6 +663030,10 @@
                 [
                     "kmb",
                     "765D48B2BF317327"
+                ],
+                [
+                    "kmb",
+                    "80EEE299A75B7F1B"
                 ],
                 [
                     "kmb",
@@ -663846,10 +664586,6 @@
                     "1D5530B0037C0143"
                 ],
                 [
-                    "gmb",
-                    "20001164"
-                ],
-                [
                     "kmb",
                     "44A2D3DCAB8DD9BE"
                 ],
@@ -664328,6 +665064,10 @@
                 [
                     "kmb",
                     "765D48B2BF317327"
+                ],
+                [
+                    "kmb",
+                    "80EEE299A75B7F1B"
                 ],
                 [
                     "kmb",
@@ -668641,6 +669381,10 @@
                 ],
                 [
                     "kmb",
+                    "80EEE299A75B7F1B"
+                ],
+                [
+                    "kmb",
                     "83388B59A961635D"
                 ],
                 [
@@ -669786,8 +670530,28 @@
             ],
             "F9F75324B8F1D7E3":[
                 [
+                    "gmb",
+                    "20002077"
+                ],
+                [
+                    "gmb",
+                    "20016698"
+                ],
+                [
+                    "gmb",
+                    "20016874"
+                ],
+                [
+                    "gmb",
+                    "20020262"
+                ],
+                [
                     "kmb",
                     "73E530058FD534D3"
+                ],
+                [
+                    "kmb",
+                    "D21D129C5E4F402C"
                 ]
             ],
             "F9FB27004CA4B62B":[
