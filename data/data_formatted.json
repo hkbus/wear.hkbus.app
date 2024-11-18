@@ -252592,10 +252592,12 @@
             },
             "907D+1+SIU SAI WAN+TAI PO (TING TAI ROAD)":{
                 "bound":{
+                    "ctb":"I",
                     "kmb":"I"
                 },
                 "co":[
-                    "kmb"
+                    "kmb",
+                    "ctb"
                 ],
                 "dest":{
                     "en":"Tai Po (Ting Tai Road)",
@@ -252610,78 +252612,6 @@
                 },
                 "route":"907D",
                 "serviceType":"1",
-                "stops":{
-                    "kmb":[
-                        "E7EEC8527FE110F4",
-                        "E9CA5B9AFBBDADBA",
-                        "2567DBD44B8B1328",
-                        "339DE84A73768EDC",
-                        "906F89BBA32AEF7E",
-                        "3D5712E812B2A644",
-                        "BB5C1DCDD6B2BC9D",
-                        "B3C1FF6025D7CB3A",
-                        "22186D34914B7805",
-                        "073E1DD8599E7315",
-                        "F95F577CD58D9091",
-                        "0441EF89B8EEEFFF",
-                        "75767448DA6FA081",
-                        "4073C7B5B3D72456",
-                        "EBBFDA8142CCE90D",
-                        "96B1319F18A47BA5",
-                        "175CBF43CD330A0A",
-                        "350EBC52D2ABF3D8",
-                        "7297D36F7092CEFC",
-                        "A334D0EC59D94F8D",
-                        "996069D6FEF7D71A",
-                        "C1C7CB15FEEE14AB",
-                        "C00C986B85A2220E",
-                        "3328A22FC67A46F9",
-                        "739A5DDE0CF1970C",
-                        "9E95343C77BB85E2",
-                        "2D1A8946EF054FC9",
-                        "DADEC4FDAD7C58B3",
-                        "E8F5E085BAEFE100",
-                        "79FD1B44D37205B8",
-                        "369A5601F8A63B5E",
-                        "A339426A8F633D63",
-                        "CDB292D507E4302D",
-                        "FB5500F0D32629B2",
-                        "BBFADA4889A61FCC",
-                        "3DDE81FE5DB08180",
-                        "1A0BF02F827F6A20",
-                        "9FDEEC09AD1B601B",
-                        "E796B592A3D045F0"
-                    ]
-                }
-            },
-            "907D+1+Siu Sai Wan Sports Ground+Tai Po (Ting Tai Road)":{
-                "bound":{
-                    "ctb":"I"
-                },
-                "co":[
-                    "ctb"
-                ],
-                "dest":{
-                    "en":"Tai Po (Ting Tai Road)",
-                    "zh":"大埔 (汀太路)"
-                },
-                "freq":{
-                    "287":{
-                        "0720":null,
-                        "0740":null,
-                        "1740":null,
-                        "1755":null
-                    }
-                },
-                "gtfsId":"1000562",
-                "jt":"110",
-                "nlbId":null,
-                "orig":{
-                    "en":"Siu Sai Wan Sports Ground",
-                    "zh":"小西灣運動場"
-                },
-                "route":"907D",
-                "serviceType":1,
                 "stops":{
                     "ctb":[
                         "001394",
@@ -252723,6 +252653,47 @@
                         "003243",
                         "003244",
                         "003245"
+                    ],
+                    "kmb":[
+                        "E7EEC8527FE110F4",
+                        "E9CA5B9AFBBDADBA",
+                        "2567DBD44B8B1328",
+                        "339DE84A73768EDC",
+                        "906F89BBA32AEF7E",
+                        "3D5712E812B2A644",
+                        "BB5C1DCDD6B2BC9D",
+                        "B3C1FF6025D7CB3A",
+                        "22186D34914B7805",
+                        "073E1DD8599E7315",
+                        "F95F577CD58D9091",
+                        "0441EF89B8EEEFFF",
+                        "75767448DA6FA081",
+                        "4073C7B5B3D72456",
+                        "EBBFDA8142CCE90D",
+                        "96B1319F18A47BA5",
+                        "175CBF43CD330A0A",
+                        "350EBC52D2ABF3D8",
+                        "7297D36F7092CEFC",
+                        "A334D0EC59D94F8D",
+                        "996069D6FEF7D71A",
+                        "C1C7CB15FEEE14AB",
+                        "C00C986B85A2220E",
+                        "3328A22FC67A46F9",
+                        "739A5DDE0CF1970C",
+                        "9E95343C77BB85E2",
+                        "2D1A8946EF054FC9",
+                        "DADEC4FDAD7C58B3",
+                        "E8F5E085BAEFE100",
+                        "79FD1B44D37205B8",
+                        "369A5601F8A63B5E",
+                        "A339426A8F633D63",
+                        "CDB292D507E4302D",
+                        "FB5500F0D32629B2",
+                        "BBFADA4889A61FCC",
+                        "3DDE81FE5DB08180",
+                        "1A0BF02F827F6A20",
+                        "9FDEEC09AD1B601B",
+                        "E796B592A3D045F0"
                     ]
                 }
             },
@@ -335502,10 +335473,12 @@
             },
             "X1+1+ASIAWORLD EXPO+TUNG CHUNG STATION":{
                 "bound":{
+                    "ctb":"I",
                     "kmb":"I"
                 },
                 "co":[
-                    "kmb"
+                    "kmb",
+                    "ctb"
                 ],
                 "dest":{
                     "en":"Tung Chung Station",
@@ -335521,45 +335494,24 @@
                 "route":"X1",
                 "serviceType":"1",
                 "stops":{
+                    "ctb":[
+                        "002672",
+                        "001860"
+                    ],
                     "kmb":[
                         "9C9F817064169CE7",
                         "E2BB3825832556CA"
                     ]
                 }
             },
-            "X1+1+AsiaWorld-Expo+Tung Chung Station":{
-                "bound":{
-                    "ctb":"I"
-                },
-                "co":[
-                    "ctb"
-                ],
-                "dest":{
-                    "en":"Tung Chung Station",
-                    "zh":"東涌站"
-                },
-                "freq":null,
-                "gtfsId":null,
-                "nlbId":null,
-                "orig":{
-                    "en":"AsiaWorld-Expo",
-                    "zh":"機場博覽館"
-                },
-                "route":"X1",
-                "serviceType":1,
-                "stops":{
-                    "ctb":[
-                        "002672",
-                        "001860"
-                    ]
-                }
-            },
             "X1+1+TUNG CHUNG STATION+ASIAWORLD EXPO":{
                 "bound":{
+                    "ctb":"O",
                     "kmb":"O"
                 },
                 "co":[
-                    "kmb"
+                    "kmb",
+                    "ctb"
                 ],
                 "dest":{
                     "en":"Asiaworld Expo",
@@ -335575,36 +335527,13 @@
                 "route":"X1",
                 "serviceType":"1",
                 "stops":{
-                    "kmb":[
-                        "35AE67D58A51004D",
-                        "9C9F817064169CE7"
-                    ]
-                }
-            },
-            "X1+1+Tung Chung Station+AsiaWorld-Expo":{
-                "bound":{
-                    "ctb":"O"
-                },
-                "co":[
-                    "ctb"
-                ],
-                "dest":{
-                    "en":"AsiaWorld-Expo",
-                    "zh":"機場博覽館"
-                },
-                "freq":null,
-                "gtfsId":null,
-                "nlbId":null,
-                "orig":{
-                    "en":"Tung Chung Station",
-                    "zh":"東涌站"
-                },
-                "route":"X1",
-                "serviceType":1,
-                "stops":{
                     "ctb":[
                         "001860",
                         "002672"
+                    ],
+                    "kmb":[
+                        "35AE67D58A51004D",
+                        "9C9F817064169CE7"
                     ]
                 }
             },
