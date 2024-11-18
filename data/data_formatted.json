@@ -5613,12 +5613,12 @@
                         "84BACA14B0C50790",
                         "7FF51CFDFA30964A",
                         "34DCAF51F6056BB6",
-                        "0A87C29A2B460C96",
-                        "317BECDAF11EB461",
-                        "4D9419874306D82F",
+                        "9E54416DFC0C7B68",
+                        "B4B94159F6B89A6B",
+                        "B7FD59E0DC385B38",
                         "C80FB453C9F53569",
-                        "3A9CDC9BA93346E2",
-                        "CD1DFFC7411A44B9",
+                        "D64C1350EE61A2AD",
+                        "D187AB3DC52090EF",
                         "40CC41621D07AA2D",
                         "6E8CB58283AF3CB1",
                         "5FFF428D657F1361",
@@ -5627,8 +5627,8 @@
                         "742D35CD1DEA10FD",
                         "8B5745F31A5778D7",
                         "164F83410B45C24B",
-                        "082B6C57881C35D6",
-                        "A63B90588F747496",
+                        "FDC2D737183E7C09",
+                        "B1DE024B06DE2EC7",
                         "3B487B85E3F07416"
                     ]
                 }
@@ -252605,6 +252605,7 @@
                 },
                 "freq":null,
                 "gtfsId":null,
+                "kmbCtbJoint":true,
                 "nlbId":null,
                 "orig":{
                     "en":"Siu Sai Wan",
@@ -252699,10 +252700,12 @@
             },
             "907D+1+TAI PO (TING TAI ROAD)+SIU SAI WAN":{
                 "bound":{
+                    "ctb":"O",
                     "kmb":"O"
                 },
                 "co":[
-                    "kmb"
+                    "kmb",
+                    "ctb"
                 ],
                 "dest":{
                     "en":"Siu Sai Wan",
@@ -252710,6 +252713,7 @@
                 },
                 "freq":null,
                 "gtfsId":null,
+                "kmbCtbJoint":true,
                 "nlbId":null,
                 "orig":{
                     "en":"Tai Po (Ting Tai Road)",
@@ -252717,77 +252721,6 @@
                 },
                 "route":"907D",
                 "serviceType":"1",
-                "stops":{
-                    "kmb":[
-                        "F9AB54847EF884BB",
-                        "8C1810DE2419A30B",
-                        "56F79FB1FC157E22",
-                        "95B249916F323BD4",
-                        "F1F1C3A91C6EB439",
-                        "27222F0DE22582ED",
-                        "ACDCC9E65172243D",
-                        "12E4BAFA2B73435B",
-                        "74648B92E0E80E2E",
-                        "261392BB77CC768D",
-                        "33ABA49F0E91A247",
-                        "B34F59A0270AEDA4",
-                        "B644204AEDE7A031",
-                        "5C2A974134634635",
-                        "A0D379E172F5BC93",
-                        "853CD1316EB5227B",
-                        "BE6EC9708F5FB613",
-                        "63C467254154B6B5",
-                        "A34AEEFEFB3013FC",
-                        "633C082A94176ED0",
-                        "7ADCBB1CA80611B0",
-                        "F63A6E7548CF6D44",
-                        "3408E0103E0757F3",
-                        "B2E49C1CAD0A95A5",
-                        "6ABBD9BC03DFAB0E",
-                        "0DD75DC664712A9B",
-                        "72F07CA66230A1BE",
-                        "EC157EA93B3DD279",
-                        "FACE7DC841CEF78F",
-                        "41E537666558ED07",
-                        "687325CD84BA96A0",
-                        "B83A88488B3F6EAB",
-                        "D533E8F25C189485",
-                        "0F421E6B729C2D24",
-                        "27039EC5E64E6137",
-                        "5FA65E4D6CD094FF",
-                        "11865531C7042E29",
-                        "1CB893E0DE8F8B43"
-                    ]
-                }
-            },
-            "907D+1+Tai Po (Ting Tai Road)+Siu Sai Wan Sports Ground":{
-                "bound":{
-                    "ctb":"O"
-                },
-                "co":[
-                    "ctb"
-                ],
-                "dest":{
-                    "en":"Siu Sai Wan Sports Ground",
-                    "zh":"小西灣運動場"
-                },
-                "freq":{
-                    "287":{
-                        "0650":null,
-                        "0705":null,
-                        "1730":null,
-                        "1745":null
-                    }
-                },
-                "gtfsId":"1000562",
-                "jt":"110",
-                "nlbId":null,
-                "orig":{
-                    "en":"Tai Po (Ting Tai Road)",
-                    "zh":"大埔 (汀太路)"
-                },
-                "route":"907D",
-                "serviceType":1,
                 "stops":{
                     "ctb":[
                         "003246",
@@ -252828,6 +252761,46 @@
                         "001369",
                         "001370",
                         "002790"
+                    ],
+                    "kmb":[
+                        "F9AB54847EF884BB",
+                        "8C1810DE2419A30B",
+                        "56F79FB1FC157E22",
+                        "95B249916F323BD4",
+                        "F1F1C3A91C6EB439",
+                        "27222F0DE22582ED",
+                        "ACDCC9E65172243D",
+                        "12E4BAFA2B73435B",
+                        "74648B92E0E80E2E",
+                        "261392BB77CC768D",
+                        "33ABA49F0E91A247",
+                        "B34F59A0270AEDA4",
+                        "B644204AEDE7A031",
+                        "5C2A974134634635",
+                        "A0D379E172F5BC93",
+                        "853CD1316EB5227B",
+                        "BE6EC9708F5FB613",
+                        "63C467254154B6B5",
+                        "A34AEEFEFB3013FC",
+                        "633C082A94176ED0",
+                        "7ADCBB1CA80611B0",
+                        "F63A6E7548CF6D44",
+                        "3408E0103E0757F3",
+                        "B2E49C1CAD0A95A5",
+                        "6ABBD9BC03DFAB0E",
+                        "0DD75DC664712A9B",
+                        "72F07CA66230A1BE",
+                        "EC157EA93B3DD279",
+                        "FACE7DC841CEF78F",
+                        "41E537666558ED07",
+                        "687325CD84BA96A0",
+                        "B83A88488B3F6EAB",
+                        "D533E8F25C189485",
+                        "0F421E6B729C2D24",
+                        "27039EC5E64E6137",
+                        "5FA65E4D6CD094FF",
+                        "11865531C7042E29",
+                        "1CB893E0DE8F8B43"
                     ]
                 }
             },
@@ -335486,6 +335459,7 @@
                 },
                 "freq":null,
                 "gtfsId":null,
+                "kmbCtbJoint":true,
                 "nlbId":null,
                 "orig":{
                     "en":"Asiaworld Expo",
@@ -335519,6 +335493,7 @@
                 },
                 "freq":null,
                 "gtfsId":null,
+                "kmbCtbJoint":true,
                 "nlbId":null,
                 "orig":{
                     "en":"Tung Chung Station",
