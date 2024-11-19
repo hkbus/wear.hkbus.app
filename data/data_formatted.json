@@ -11678,6 +11678,7 @@
                 },
                 "gtfsId":"8468",
                 "jt":"64",
+                "kmbCtbJoint":true,
                 "nlbId":null,
                 "orig":{
                     "en":"Kowloon Bay (Enterprise Square)",
@@ -16685,8 +16686,8 @@
                     "ctb"
                 ],
                 "dest":{
-                    "en":"Shau Kei Wan (Circular)",
-                    "zh":"筲箕灣 (循環線)"
+                    "en":"Shau Kei Wan",
+                    "zh":"筲箕灣"
                 },
                 "freq":{
                     "287":{
@@ -16810,6 +16811,7 @@
                 },
                 "gtfsId":"1017",
                 "jt":"84",
+                "kmbCtbJoint":true,
                 "nlbId":null,
                 "orig":{
                     "en":"Shau Kei Wan",
@@ -16890,7 +16892,7 @@
                         "83EB94899B6BBB4B",
                         "F57E1173086C7A51",
                         "0840B3F75A7B00BD",
-                        "F388A6F066DE4562",
+                        "0DB55CC5E4533F4E",
                         "36C11B4E5D248AE2",
                         "BB073EF1DACCA6E4",
                         "032C7D86DF9ED3AC",
@@ -16927,7 +16929,6 @@
                     "kmb",
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Tsim Sha Tsui (Mody Road)",
                     "zh":"尖沙咀 (麼地道)"
@@ -16949,6 +16950,7 @@
                 },
                 "gtfsId":"8177",
                 "jt":"66",
+                "kmbCtbJoint":true,
                 "nlbId":null,
                 "orig":{
                     "en":"Shau Kei Wan",
@@ -17005,7 +17007,7 @@
                         "83EB94899B6BBB4B",
                         "F57E1173086C7A51",
                         "0840B3F75A7B00BD",
-                        "F388A6F066DE4562"
+                        "0DB55CC5E4533F4E"
                     ]
                 }
             },
@@ -17093,13 +17095,13 @@
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Shau Kei Wan",
                     "zh":"筲箕灣"
                 },
                 "freq":null,
                 "gtfsId":null,
+                "kmbCtbJoint":true,
                 "nlbId":null,
                 "orig":{
                     "en":"Tsim Sha Tsui (Mody Road)",
@@ -17150,7 +17152,7 @@
                         "83EB94899B6BBB4B",
                         "F57E1173086C7A51",
                         "0840B3F75A7B00BD",
-                        "F388A6F066DE4562",
+                        "0DB55CC5E4533F4E",
                         "36C11B4E5D248AE2",
                         "BB073EF1DACCA6E4",
                         "032C7D86DF9ED3AC",
@@ -38550,6 +38552,7 @@
                 },
                 "freq":null,
                 "gtfsId":null,
+                "kmbCtbJoint":true,
                 "nlbId":null,
                 "orig":{
                     "en":"Wah Fu (Central)",
@@ -170062,6 +170065,7 @@
                 },
                 "gtfsId":"1259",
                 "jt":"82",
+                "kmbCtbJoint":true,
                 "nlbId":null,
                 "orig":{
                     "en":"Siu Sai Wan (Island Resort)",
