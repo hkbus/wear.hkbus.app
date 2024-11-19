@@ -16685,8 +16685,8 @@
                     "ctb"
                 ],
                 "dest":{
-                    "en":"Shau Kei Wan",
-                    "zh":"筲箕灣"
+                    "en":"Shau Kei Wan (Circular)",
+                    "zh":"筲箕灣 (循環線)"
                 },
                 "freq":{
                     "287":{
@@ -16927,6 +16927,7 @@
                     "kmb",
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Tsim Sha Tsui (Mody Road)",
                     "zh":"尖沙咀 (麼地道)"
@@ -17092,6 +17093,7 @@
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Shau Kei Wan",
                     "zh":"筲箕灣"
