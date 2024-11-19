@@ -5409,164 +5409,16 @@
             },
             "101+2+KWUN TONG (YUE MAN SQUARE)+DES VOEUX RD CENTRAL":{
                 "bound":{
+                    "ctb":"I",
                     "kmb":"O"
                 },
                 "co":[
-                    "kmb"
+                    "kmb",
+                    "ctb"
                 ],
                 "dest":{
                     "en":"Des Voeux Rd Central",
                     "zh":"德輔道中"
-                },
-                "freq":null,
-                "gtfsId":null,
-                "kmbCtbJoint":true,
-                "nlbId":null,
-                "orig":{
-                    "en":"Kwun Tong (Yue Man Square)",
-                    "zh":"觀塘(裕民坊)"
-                },
-                "route":"101",
-                "serviceType":"2",
-                "stops":{
-                    "kmb":[
-                        "163F0E101B13D8AD",
-                        "5A95921B376A97CB",
-                        "84BACA14B0C50790",
-                        "7FF51CFDFA30964A",
-                        "34DCAF51F6056BB6",
-                        "9E54416DFC0C7B68",
-                        "B4B94159F6B89A6B",
-                        "B7FD59E0DC385B38",
-                        "C80FB453C9F53569",
-                        "D64C1350EE61A2AD",
-                        "D187AB3DC52090EF",
-                        "40CC41621D07AA2D",
-                        "6E8CB58283AF3CB1",
-                        "5FFF428D657F1361",
-                        "A06590AD808DC9A9",
-                        "032C7D86DF9ED3AC",
-                        "742D35CD1DEA10FD",
-                        "8B5745F31A5778D7",
-                        "164F83410B45C24B",
-                        "FDC2D737183E7C09",
-                        "B1DE024B06DE2EC7",
-                        "3B487B85E3F07416"
-                    ]
-                }
-            },
-            "101+2+Kwun Tong (Yue Man Square)+Luen Bong Apartment, Belcher's Street":{
-                "bound":{
-                    "ctb":"I",
-                    "kmb":"O"
-                },
-                "co":[
-                    "kmb",
-                    "ctb"
-                ],
-                "dest":{
-                    "en":"Luen Bong Apartment, Belcher's Street",
-                    "zh":"聯邦新樓, 卑路乍街"
-                },
-                "freq":{
-                    "319":{
-                        "0536":null
-                    }
-                },
-                "gtfsId":"8341",
-                "jt":"68",
-                "nlbId":null,
-                "orig":{
-                    "en":"Kwun Tong (Yue Man Square)",
-                    "zh":"觀塘 (裕民坊)"
-                },
-                "route":"101",
-                "serviceType":"2",
-                "stops":{
-                    "ctb":[
-                        "002977",
-                        "001648",
-                        "001650",
-                        "002978",
-                        "002979",
-                        "002889",
-                        "001502",
-                        "001575",
-                        "001576",
-                        "001577",
-                        "001530",
-                        "001538",
-                        "001643",
-                        "001644",
-                        "001415",
-                        "001476",
-                        "002566",
-                        "002537",
-                        "002446",
-                        "001140",
-                        "001142",
-                        "001054",
-                        "001121",
-                        "001125",
-                        "001126",
-                        "001127",
-                        "001134",
-                        "001130",
-                        "001132",
-                        "001133",
-                        "001128",
-                        "001003",
-                        "001005"
-                    ],
-                    "kmb":[
-                        "163F0E101B13D8AD",
-                        "5A95921B376A97CB",
-                        "84BACA14B0C50790",
-                        "7FF51CFDFA30964A",
-                        "34DCAF51F6056BB6",
-                        "0A87C29A2B460C96",
-                        "317BECDAF11EB461",
-                        "4D9419874306D82F",
-                        "C80FB453C9F53569",
-                        "3A9CDC9BA93346E2",
-                        "CD1DFFC7411A44B9",
-                        "40CC41621D07AA2D",
-                        "6E8CB58283AF3CB1",
-                        "5FFF428D657F1361",
-                        "A06590AD808DC9A9",
-                        "032C7D86DF9ED3AC",
-                        "742D35CD1DEA10FD",
-                        "8B5745F31A5778D7",
-                        "164F83410B45C24B",
-                        "082B6C57881C35D6",
-                        "A63B90588F747496",
-                        "3B487B85E3F07416",
-                        "D6D316FEAEC6793A",
-                        "D95C76946ACCA9D6",
-                        "9893491C31F043D0",
-                        "3688FF86BC378100",
-                        "2FB030D696912BE5",
-                        "3EBA2CD3F372A531",
-                        "1EE69CF61423B432",
-                        "2BAE0D3A6CF25EB8",
-                        "FED5FC9BD7B35D53",
-                        "3015AF669161ADBF",
-                        "5CE3ECA0F9501DAB"
-                    ]
-                }
-            },
-            "101+2+Kwun Tong (Yue Man Square)+The Landmark, Des Voeux Road Central":{
-                "bound":{
-                    "ctb":"I",
-                    "kmb":"O"
-                },
-                "co":[
-                    "kmb",
-                    "ctb"
-                ],
-                "dest":{
-                    "en":"The Landmark, Des Voeux Road Central",
-                    "zh":"置地廣場, 德輔道中"
                 },
                 "freq":{
                     "287":{
@@ -5575,10 +5427,11 @@
                 },
                 "gtfsId":"8340",
                 "jt":"49",
+                "kmbCtbJoint":true,
                 "nlbId":null,
                 "orig":{
                     "en":"Kwun Tong (Yue Man Square)",
-                    "zh":"觀塘 (裕民坊)"
+                    "zh":"觀塘(裕民坊)"
                 },
                 "route":"101",
                 "serviceType":"2",
@@ -5635,17 +5488,24 @@
             },
             "101+3+KWUN TONG (YUE MAN SQUARE)+BELCHER'S STREET":{
                 "bound":{
+                    "ctb":"I",
                     "kmb":"O"
                 },
                 "co":[
-                    "kmb"
+                    "kmb",
+                    "ctb"
                 ],
                 "dest":{
                     "en":"Belcher's Street",
                     "zh":"卑路乍街"
                 },
-                "freq":null,
-                "gtfsId":null,
+                "freq":{
+                    "319":{
+                        "0536":null
+                    }
+                },
+                "gtfsId":"8341",
+                "jt":"68",
                 "kmbCtbJoint":true,
                 "nlbId":null,
                 "orig":{
@@ -5655,6 +5515,41 @@
                 "route":"101",
                 "serviceType":"3",
                 "stops":{
+                    "ctb":[
+                        "002977",
+                        "001648",
+                        "001650",
+                        "002978",
+                        "002979",
+                        "002889",
+                        "001502",
+                        "001575",
+                        "001576",
+                        "001577",
+                        "001530",
+                        "001538",
+                        "001643",
+                        "001644",
+                        "001415",
+                        "001476",
+                        "002566",
+                        "002537",
+                        "002446",
+                        "001140",
+                        "001142",
+                        "001054",
+                        "001121",
+                        "001125",
+                        "001126",
+                        "001127",
+                        "001134",
+                        "001130",
+                        "001132",
+                        "001133",
+                        "001128",
+                        "001003",
+                        "001005"
+                    ],
                     "kmb":[
                         "163F0E101B13D8AD",
                         "5A95921B376A97CB",
@@ -25250,7 +25145,7 @@
                     ]
                 }
             },
-            "118P+1+Siu Sai Wan (Island Resort)+Kei Wing Primary School, Lai Chi Kok Road":{
+            "118P+4+SIU SAI WAN (ISLAND RESORT)+KEI WING PRIMARY SCHOOL":{
                 "bound":{
                     "ctb":"O",
                     "kmb":"O"
@@ -25260,8 +25155,8 @@
                     "ctb"
                 ],
                 "dest":{
-                    "en":"Kei Wing Primary School, Lai Chi Kok Road",
-                    "zh":"基榮小學, 荔枝角道"
+                    "en":"Kei Wing Primary School",
+                    "zh":"基榮小學"
                 },
                 "freq":{
                     "287":{
@@ -25270,13 +25165,14 @@
                 },
                 "gtfsId":"1506",
                 "jt":"43",
+                "kmbCtbJoint":true,
                 "nlbId":null,
                 "orig":{
                     "en":"Siu Sai Wan (Island Resort)",
-                    "zh":"小西灣 (藍灣半島)"
+                    "zh":"小西灣(藍灣半島)"
                 },
                 "route":"118P",
-                "serviceType":"1",
+                "serviceType":"4",
                 "stops":{
                     "ctb":[
                         "001382",
@@ -25294,46 +25190,6 @@
                         "001552",
                         "001774"
                     ],
-                    "kmb":[
-                        "3F06E3B155C6A4BF",
-                        "5C1471822EE10AF3",
-                        "0A98CAAFE2019AA0",
-                        "906F89BBA32AEF7E",
-                        "60AFFC49BF89324D",
-                        "6DCB4A578EFF1986",
-                        "2C09A04B7BEC82F9",
-                        "69EED8C6F125D0F0",
-                        "11B2034DDF30617A",
-                        "893BBB901005C3E6",
-                        "038F62C619BF8650",
-                        "3A43E432D0588F79",
-                        "0F4F935A9F14F111",
-                        "136480342AAF0BD2"
-                    ]
-                }
-            },
-            "118P+4+SIU SAI WAN (ISLAND RESORT)+KEI WING PRIMARY SCHOOL":{
-                "bound":{
-                    "kmb":"O"
-                },
-                "co":[
-                    "kmb"
-                ],
-                "dest":{
-                    "en":"Kei Wing Primary School",
-                    "zh":"基榮小學"
-                },
-                "freq":null,
-                "gtfsId":null,
-                "kmbCtbJoint":true,
-                "nlbId":null,
-                "orig":{
-                    "en":"Siu Sai Wan (Island Resort)",
-                    "zh":"小西灣(藍灣半島)"
-                },
-                "route":"118P",
-                "serviceType":"4",
-                "stops":{
                     "kmb":[
                         "FC19ABA503C5FE51",
                         "5C1471822EE10AF3",
@@ -101260,7 +101116,7 @@
                     ]
                 }
             },
-            "307+2+Tai Po Centre+Wing Kut Street, Des Voeux Road Central":{
+            "307+3+TAI PO CENTRAL+SHEUNG WAN":{
                 "bound":{
                     "ctb":"O",
                     "kmb":"O"
@@ -101270,8 +101126,8 @@
                     "ctb"
                 ],
                 "dest":{
-                    "en":"Wing Kut Street, Des Voeux Road Central",
-                    "zh":"永吉街, 德輔道中"
+                    "en":"Sheung Wan",
+                    "zh":"上環"
                 },
                 "freq":{
                     "287":{
@@ -101301,13 +101157,14 @@
                 },
                 "gtfsId":"8656",
                 "jt":"64",
+                "kmbCtbJoint":true,
                 "nlbId":null,
                 "orig":{
-                    "en":"Tai Po Centre",
+                    "en":"Tai Po Central",
                     "zh":"大埔中心"
                 },
                 "route":"307",
-                "serviceType":"2",
+                "serviceType":"3",
                 "stops":{
                     "ctb":[
                         "002021",
@@ -101324,45 +101181,6 @@
                         "001055",
                         "001057"
                     ],
-                    "kmb":[
-                        "09DFD305F09C558E",
-                        "4249ED0CD65130CC",
-                        "3CE4F8574F4F9D72",
-                        "3FD481FB9B9DC36C",
-                        "062FFE8F1560E8A4",
-                        "30D564180B68ECA8",
-                        "9535298A652873DB",
-                        "182976403F291FE0",
-                        "5BF4FC6B133FAFF8",
-                        "3225E407F87D904C",
-                        "B471F4B9E9CB6DB7",
-                        "74EE2ECB1A3773E9",
-                        "1D8A902219897402"
-                    ]
-                }
-            },
-            "307+3+TAI PO CENTRAL+SHEUNG WAN":{
-                "bound":{
-                    "kmb":"O"
-                },
-                "co":[
-                    "kmb"
-                ],
-                "dest":{
-                    "en":"Sheung Wan",
-                    "zh":"上環"
-                },
-                "freq":null,
-                "gtfsId":null,
-                "kmbCtbJoint":true,
-                "nlbId":null,
-                "orig":{
-                    "en":"Tai Po Central",
-                    "zh":"大埔中心"
-                },
-                "route":"307",
-                "serviceType":"3",
-                "stops":{
                     "kmb":[
                         "09DFD305F09C558E",
                         "4249ED0CD65130CC",
