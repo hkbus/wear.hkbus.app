@@ -688353,5 +688353,55 @@
         "K76-U050":[
             "K76-U050"
         ]
+    },
+    "routeRemarks":{
+        "ctb":{
+            "H1":{
+                "en":"HK City️ Sightseeing (Citybus)",
+                "zh":"觀光城巴"
+            },
+            "H2":{
+                "en":"HK City️ Sightseeing (Citybus)",
+                "zh":"觀光城巴"
+            },
+            "H2K":{
+                "en":"HK City️ Sightseeing (Citybus)",
+                "zh":"觀光城巴"
+            }
+        },
+        "kmb":{
+            "HK1":{
+                "en":"Kowloon Tour Bus",
+                "zh":"九龍旅遊路線"
+            },
+            "LB1":{
+                "en":"Leisure Bus 🏞",
+                "zh":"郊遊遠足路線 🏞"
+            },
+            "PB1":{
+                "en":"HK Gold Coast Pet Bus 🐾",
+                "zh":"黃金海岸寵物巴士團 🐾"
+            },
+            "PB2":{
+                "en":"West Kowloon & Central Pet Bus 🐾",
+                "zh":"西九、中環寵物巴士團 🐾"
+            },
+            "PB3":{
+                "en":"Pak Shek Kok Pet Bus 🐾",
+                "zh":"白石角寵物巴士團 🐾"
+            },
+            "PB4":{
+                "en":"Tung Chung & Disneyland Pet Bus 🐾",
+                "zh":"東涌、迪士尼樂園寵物巴士團 🐾"
+            },
+            "PB5":{
+                "en":"Sai Sha Go Park, Sai Kung Pet Bus 🐾",
+                "zh":"西沙 Go Park, 西貢寵物巴士團 🐾"
+            },
+            "PB6":{
+                "en":"Tseung Kwan O Pet Bus 🐾",
+                "zh":"將軍澳寵物巴士團 🐾"
+            }
+        }
     }
 }
