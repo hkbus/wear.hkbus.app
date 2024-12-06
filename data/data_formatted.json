@@ -689631,21 +689631,21 @@
     "routeRemarks":{
         "ctb":{
             "H1":{
-                "en":"Cross Harbour Tour Bus",
+                "en":"Cross Harbour Bus Tour",
                 "zh":"過海旅遊路線"
             },
             "H2":{
-                "en":"Cross Harbour Tour Bus",
+                "en":"Cross Harbour Bus Tour",
                 "zh":"過海旅遊路線"
             },
             "H2K":{
-                "en":"Cross Harbour Tour Bus",
+                "en":"Cross Harbour Bus Tour",
                 "zh":"過海旅遊路線"
             }
         },
         "kmb":{
             "HK1":{
-                "en":"Kowloon Tour Bus",
+                "en":"Kowloon Bus Tour",
                 "zh":"九龍旅遊路線"
             },
             "LB1":{
