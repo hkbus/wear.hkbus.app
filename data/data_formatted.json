@@ -39370,7 +39370,7 @@
                     "zh":"尖沙咀(麼地道)"
                 },
                 "freq":null,
-                "gtfsId":"62219620",
+                "gtfsId":"74573573",
                 "jt":null,
                 "nlbId":null,
                 "orig":{
@@ -39381,6 +39381,7 @@
                 "serviceType":"99",
                 "stops":{
                     "ctb":[
+                        "999999",
                         "999999"
                     ]
                 }
@@ -107094,7 +107095,7 @@
                     "zh":"香港仔 (經域多利道)"
                 },
                 "freq":null,
-                "gtfsId":"57999764",
+                "gtfsId":"33755466",
                 "jt":null,
                 "nlbId":null,
                 "orig":{
@@ -107105,6 +107106,7 @@
                 "serviceType":"99",
                 "stops":{
                     "ctb":[
+                        "999999",
                         "999999"
                     ]
                 }
@@ -131488,7 +131490,7 @@
                     "zh":"堅尼地城"
                 },
                 "freq":null,
-                "gtfsId":"91234867",
+                "gtfsId":"36054114",
                 "jt":null,
                 "nlbId":null,
                 "orig":{
@@ -131499,6 +131501,7 @@
                 "serviceType":"99",
                 "stops":{
                     "ctb":[
+                        "999999",
                         "999999"
                     ]
                 }
@@ -273324,7 +273327,7 @@
                     "zh":"旺角"
                 },
                 "freq":null,
-                "gtfsId":"15824585",
+                "gtfsId":"71206451",
                 "jt":null,
                 "nlbId":null,
                 "orig":{
@@ -273335,6 +273338,7 @@
                 "serviceType":"99",
                 "stops":{
                     "ctb":[
+                        "999999",
                         "999999"
                     ]
                 }
@@ -279802,7 +279806,7 @@
                     "zh":"歌連臣角"
                 },
                 "freq":null,
-                "gtfsId":"82749846",
+                "gtfsId":"99406737",
                 "jt":null,
                 "nlbId":null,
                 "orig":{
@@ -279813,6 +279817,7 @@
                 "serviceType":"99",
                 "stops":{
                     "ctb":[
+                        "999999",
                         "999999"
                     ]
                 }
@@ -291526,7 +291531,7 @@
                     "zh":"香園圍口岸"
                 },
                 "freq":null,
-                "gtfsId":"15302796",
+                "gtfsId":"85695028",
                 "jt":null,
                 "nlbId":null,
                 "orig":{
@@ -291537,6 +291542,7 @@
                 "serviceType":"99",
                 "stops":{
                     "ctb":[
+                        "999999",
                         "999999"
                     ]
                 }
@@ -333587,7 +333593,7 @@
                     "zh":"尖東"
                 },
                 "freq":null,
-                "gtfsId":"85011275",
+                "gtfsId":"56334597",
                 "jt":null,
                 "nlbId":null,
                 "orig":{
@@ -333598,6 +333604,7 @@
                 "serviceType":"99",
                 "stops":{
                     "kmb":[
+                        "ZZZZZZZZZZZZZZZZ",
                         "ZZZZZZZZZZZZZZZZ"
                     ]
                 }
@@ -333614,7 +333621,7 @@
                     "zh":"灣仔"
                 },
                 "freq":null,
-                "gtfsId":"68561286",
+                "gtfsId":"74643964",
                 "jt":null,
                 "nlbId":null,
                 "orig":{
@@ -333625,6 +333632,7 @@
                 "serviceType":"99",
                 "stops":{
                     "kmb":[
+                        "ZZZZZZZZZZZZZZZZ",
                         "ZZZZZZZZZZZZZZZZ"
                     ]
                 }
@@ -333641,7 +333649,7 @@
                     "zh":"尖東"
                 },
                 "freq":null,
-                "gtfsId":"95434886",
+                "gtfsId":"44172379",
                 "jt":null,
                 "nlbId":null,
                 "orig":{
@@ -333652,6 +333660,7 @@
                 "serviceType":"99",
                 "stops":{
                     "kmb":[
+                        "ZZZZZZZZZZZZZZZZ",
                         "ZZZZZZZZZZZZZZZZ"
                     ]
                 }
@@ -333668,7 +333677,7 @@
                     "zh":"灣仔金紫荊廣場"
                 },
                 "freq":null,
-                "gtfsId":"20735804",
+                "gtfsId":"36362377",
                 "jt":null,
                 "nlbId":null,
                 "orig":{
@@ -333679,6 +333688,7 @@
                 "serviceType":"99",
                 "stops":{
                     "kmb":[
+                        "ZZZZZZZZZZZZZZZZ",
                         "ZZZZZZZZZZZZZZZZ"
                     ]
                 }
@@ -337422,7 +337432,7 @@
                     "zh":"亞洲國際博覽館"
                 },
                 "freq":null,
-                "gtfsId":"77517991",
+                "gtfsId":"12795944",
                 "jt":null,
                 "nlbId":null,
                 "orig":{
@@ -337433,6 +337443,7 @@
                 "serviceType":"99",
                 "stops":{
                     "ctb":[
+                        "999999",
                         "999999"
                     ]
                 }
@@ -690688,20 +690699,20 @@
                 "zh":"寵物巴士團 🐾"
             },
             "PN17":{
-                "en":"Route Details TBD",
-                "zh":"未有路線資訊"
+                "en":"Evening Pet Bus 🐾 - Route Details TBD",
+                "zh":"夜間寵物巴士團 🐾 - 未有路線資訊"
             },
             "PN18":{
-                "en":"Route Details TBD",
-                "zh":"未有路線資訊"
+                "en":"Evening Pet Bus 🐾 - Route Details TBD",
+                "zh":"夜間寵物巴士團 🐾 - 未有路線資訊"
             },
             "PN19":{
-                "en":"Route Details TBD",
-                "zh":"未有路線資訊"
+                "en":"Evening Pet Bus 🐾 - Route Details TBD",
+                "zh":"夜間寵物巴士團 🐾 - 未有路線資訊"
             },
             "PN20":{
-                "en":"Route Details TBD",
-                "zh":"未有路線資訊"
+                "en":"Evening Pet Bus 🐾 - Route Details TBD",
+                "zh":"夜間寵物巴士團 🐾 - 未有路線資訊"
             }
         }
     }
