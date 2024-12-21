@@ -39370,7 +39370,7 @@
                     "zh":"尖沙咀(麼地道)"
                 },
                 "freq":null,
-                "gtfsId":"93934457",
+                "gtfsId":"80933522",
                 "jt":null,
                 "nlbId":null,
                 "orig":{
@@ -107095,7 +107095,7 @@
                     "zh":"香港仔 (經域多利道)"
                 },
                 "freq":null,
-                "gtfsId":"71724991",
+                "gtfsId":"77402452",
                 "jt":null,
                 "nlbId":null,
                 "orig":{
@@ -131490,7 +131490,7 @@
                     "zh":"堅尼地城"
                 },
                 "freq":null,
-                "gtfsId":"54605369",
+                "gtfsId":"45810170",
                 "jt":null,
                 "nlbId":null,
                 "orig":{
@@ -273327,7 +273327,7 @@
                     "zh":"旺角"
                 },
                 "freq":null,
-                "gtfsId":"23461512",
+                "gtfsId":"85470961",
                 "jt":null,
                 "nlbId":null,
                 "orig":{
@@ -279806,7 +279806,7 @@
                     "zh":"歌連臣角"
                 },
                 "freq":null,
-                "gtfsId":"73307235",
+                "gtfsId":"99963106",
                 "jt":null,
                 "nlbId":null,
                 "orig":{
@@ -291531,7 +291531,7 @@
                     "zh":"香園圍口岸"
                 },
                 "freq":null,
-                "gtfsId":"53395054",
+                "gtfsId":"85095382",
                 "jt":null,
                 "nlbId":null,
                 "orig":{
@@ -333593,7 +333593,7 @@
                     "zh":"尖東"
                 },
                 "freq":null,
-                "gtfsId":"63761740",
+                "gtfsId":"95832863",
                 "jt":null,
                 "nlbId":null,
                 "orig":{
@@ -333621,7 +333621,7 @@
                     "zh":"灣仔"
                 },
                 "freq":null,
-                "gtfsId":"97406656",
+                "gtfsId":"22660851",
                 "jt":null,
                 "nlbId":null,
                 "orig":{
@@ -333649,7 +333649,7 @@
                     "zh":"尖東"
                 },
                 "freq":null,
-                "gtfsId":"77556456",
+                "gtfsId":"77102641",
                 "jt":null,
                 "nlbId":null,
                 "orig":{
@@ -333677,7 +333677,7 @@
                     "zh":"灣仔金紫荊廣場"
                 },
                 "freq":null,
-                "gtfsId":"19788688",
+                "gtfsId":"26354836",
                 "jt":null,
                 "nlbId":null,
                 "orig":{
@@ -337432,7 +337432,7 @@
                     "zh":"亞洲國際博覽館"
                 },
                 "freq":null,
-                "gtfsId":"81166594",
+                "gtfsId":"44134655",
                 "jt":null,
                 "nlbId":null,
                 "orig":{
@@ -457507,6 +457507,10 @@
                 "name":{
                     "en":"Route Details TBD",
                     "zh":"未有路線資訊"
+                },
+                "remark":{
+                    "en":"(1)",
+                    "zh":"(1)"
                 }
             },
             "9999":{
@@ -457517,6 +457521,10 @@
                 "name":{
                     "en":"Route Details TBD",
                     "zh":"未有路線資訊"
+                },
+                "remark":{
+                    "en":"(2)",
+                    "zh":"(2)"
                 }
             },
             "999998":{
@@ -457527,6 +457535,10 @@
                 "name":{
                     "en":"Route Details TBD",
                     "zh":"未有路線資訊"
+                },
+                "remark":{
+                    "en":"(1)",
+                    "zh":"(1)"
                 }
             },
             "999999":{
@@ -457537,6 +457549,10 @@
                 "name":{
                     "en":"Route Details TBD",
                     "zh":"未有路線資訊"
+                },
+                "remark":{
+                    "en":"(2)",
+                    "zh":"(2)"
                 }
             },
             "99999998":{
@@ -457547,6 +457563,10 @@
                 "name":{
                     "en":"Route Details TBD",
                     "zh":"未有路線資訊"
+                },
+                "remark":{
+                    "en":"(1)",
+                    "zh":"(1)"
                 }
             },
             "99999999":{
@@ -457557,6 +457577,10 @@
                 "name":{
                     "en":"Route Details TBD",
                     "zh":"未有路線資訊"
+                },
+                "remark":{
+                    "en":"(2)",
+                    "zh":"(2)"
                 }
             },
             "99A3962003285776":{
@@ -491269,6 +491293,10 @@
                 "name":{
                     "en":"Route Details TBD",
                     "zh":"未有路線資訊"
+                },
+                "remark":{
+                    "en":"(1)",
+                    "zh":"(1)"
                 }
             },
             "LR99999":{
@@ -491279,6 +491307,10 @@
                 "name":{
                     "en":"Route Details TBD",
                     "zh":"未有路線資訊"
+                },
+                "remark":{
+                    "en":"(2)",
+                    "zh":"(2)"
                 }
             },
             "MEF":{
@@ -491983,6 +492015,10 @@
                 "name":{
                     "en":"Route Details TBD",
                     "zh":"未有路線資訊"
+                },
+                "remark":{
+                    "en":"(1)",
+                    "zh":"(1)"
                 }
             },
             "Z99-Z999":{
@@ -491993,6 +492029,10 @@
                 "name":{
                     "en":"Route Details TBD",
                     "zh":"未有路線資訊"
+                },
+                "remark":{
+                    "en":"(2)",
+                    "zh":"(2)"
                 }
             },
             "ZZY":{
@@ -492003,6 +492043,10 @@
                 "name":{
                     "en":"Route Details TBD",
                     "zh":"未有路線資訊"
+                },
+                "remark":{
+                    "en":"(1)",
+                    "zh":"(1)"
                 }
             },
             "ZZZ":{
@@ -492013,6 +492057,10 @@
                 "name":{
                     "en":"Route Details TBD",
                     "zh":"未有路線資訊"
+                },
+                "remark":{
+                    "en":"(2)",
+                    "zh":"(2)"
                 }
             },
             "ZZZZZZZZZZZZZZZY":{
@@ -492023,6 +492071,10 @@
                 "name":{
                     "en":"Route Details Tbd",
                     "zh":"未有路線資訊"
+                },
+                "remark":{
+                    "en":"(1)",
+                    "zh":"(1)"
                 }
             },
             "ZZZZZZZZZZZZZZZZ":{
@@ -492033,6 +492085,10 @@
                 "name":{
                     "en":"Route Details Tbd",
                     "zh":"未有路線資訊"
+                },
+                "remark":{
+                    "en":"(2)",
+                    "zh":"(2)"
                 }
             }
         },
