@@ -39370,7 +39370,7 @@
                     "zh":"尖沙咀(麼地道)"
                 },
                 "freq":null,
-                "gtfsId":"74573573",
+                "gtfsId":"93934457",
                 "jt":null,
                 "nlbId":null,
                 "orig":{
@@ -39381,7 +39381,7 @@
                 "serviceType":"99",
                 "stops":{
                     "ctb":[
-                        "999999",
+                        "999998",
                         "999999"
                     ]
                 }
@@ -107095,7 +107095,7 @@
                     "zh":"香港仔 (經域多利道)"
                 },
                 "freq":null,
-                "gtfsId":"33755466",
+                "gtfsId":"71724991",
                 "jt":null,
                 "nlbId":null,
                 "orig":{
@@ -107106,7 +107106,7 @@
                 "serviceType":"99",
                 "stops":{
                     "ctb":[
-                        "999999",
+                        "999998",
                         "999999"
                     ]
                 }
@@ -131490,7 +131490,7 @@
                     "zh":"堅尼地城"
                 },
                 "freq":null,
-                "gtfsId":"36054114",
+                "gtfsId":"54605369",
                 "jt":null,
                 "nlbId":null,
                 "orig":{
@@ -131501,7 +131501,7 @@
                 "serviceType":"99",
                 "stops":{
                     "ctb":[
-                        "999999",
+                        "999998",
                         "999999"
                     ]
                 }
@@ -273327,7 +273327,7 @@
                     "zh":"旺角"
                 },
                 "freq":null,
-                "gtfsId":"71206451",
+                "gtfsId":"23461512",
                 "jt":null,
                 "nlbId":null,
                 "orig":{
@@ -273338,7 +273338,7 @@
                 "serviceType":"99",
                 "stops":{
                     "ctb":[
-                        "999999",
+                        "999998",
                         "999999"
                     ]
                 }
@@ -279806,7 +279806,7 @@
                     "zh":"歌連臣角"
                 },
                 "freq":null,
-                "gtfsId":"99406737",
+                "gtfsId":"73307235",
                 "jt":null,
                 "nlbId":null,
                 "orig":{
@@ -279817,7 +279817,7 @@
                 "serviceType":"99",
                 "stops":{
                     "ctb":[
-                        "999999",
+                        "999998",
                         "999999"
                     ]
                 }
@@ -291531,7 +291531,7 @@
                     "zh":"香園圍口岸"
                 },
                 "freq":null,
-                "gtfsId":"85695028",
+                "gtfsId":"53395054",
                 "jt":null,
                 "nlbId":null,
                 "orig":{
@@ -291542,7 +291542,7 @@
                 "serviceType":"99",
                 "stops":{
                     "ctb":[
-                        "999999",
+                        "999998",
                         "999999"
                     ]
                 }
@@ -333593,7 +333593,7 @@
                     "zh":"尖東"
                 },
                 "freq":null,
-                "gtfsId":"56334597",
+                "gtfsId":"63761740",
                 "jt":null,
                 "nlbId":null,
                 "orig":{
@@ -333604,7 +333604,7 @@
                 "serviceType":"99",
                 "stops":{
                     "kmb":[
-                        "ZZZZZZZZZZZZZZZZ",
+                        "ZZZZZZZZZZZZZZZY",
                         "ZZZZZZZZZZZZZZZZ"
                     ]
                 }
@@ -333621,7 +333621,7 @@
                     "zh":"灣仔"
                 },
                 "freq":null,
-                "gtfsId":"74643964",
+                "gtfsId":"97406656",
                 "jt":null,
                 "nlbId":null,
                 "orig":{
@@ -333632,7 +333632,7 @@
                 "serviceType":"99",
                 "stops":{
                     "kmb":[
-                        "ZZZZZZZZZZZZZZZZ",
+                        "ZZZZZZZZZZZZZZZY",
                         "ZZZZZZZZZZZZZZZZ"
                     ]
                 }
@@ -333649,7 +333649,7 @@
                     "zh":"尖東"
                 },
                 "freq":null,
-                "gtfsId":"44172379",
+                "gtfsId":"77556456",
                 "jt":null,
                 "nlbId":null,
                 "orig":{
@@ -333660,7 +333660,7 @@
                 "serviceType":"99",
                 "stops":{
                     "kmb":[
-                        "ZZZZZZZZZZZZZZZZ",
+                        "ZZZZZZZZZZZZZZZY",
                         "ZZZZZZZZZZZZZZZZ"
                     ]
                 }
@@ -333677,7 +333677,7 @@
                     "zh":"灣仔金紫荊廣場"
                 },
                 "freq":null,
-                "gtfsId":"36362377",
+                "gtfsId":"19788688",
                 "jt":null,
                 "nlbId":null,
                 "orig":{
@@ -333688,7 +333688,7 @@
                 "serviceType":"99",
                 "stops":{
                     "kmb":[
-                        "ZZZZZZZZZZZZZZZZ",
+                        "ZZZZZZZZZZZZZZZY",
                         "ZZZZZZZZZZZZZZZZ"
                     ]
                 }
@@ -337432,7 +337432,7 @@
                     "zh":"亞洲國際博覽館"
                 },
                 "freq":null,
-                "gtfsId":"12795944",
+                "gtfsId":"81166594",
                 "jt":null,
                 "nlbId":null,
                 "orig":{
@@ -337443,7 +337443,7 @@
                 "serviceType":"99",
                 "stops":{
                     "ctb":[
-                        "999999",
+                        "999998",
                         "999999"
                     ]
                 }
@@ -457499,6 +457499,16 @@
                     "zh":"葵芳智芳街"
                 }
             },
+            "9998":{
+                "location":{
+                    "lat":22.203615,
+                    "lng":114.415195
+                },
+                "name":{
+                    "en":"Route Details TBD",
+                    "zh":"未有路線資訊"
+                }
+            },
             "9999":{
                 "location":{
                     "lat":22.203615,
@@ -457509,7 +457519,27 @@
                     "zh":"未有路線資訊"
                 }
             },
+            "999998":{
+                "location":{
+                    "lat":22.203615,
+                    "lng":114.415195
+                },
+                "name":{
+                    "en":"Route Details TBD",
+                    "zh":"未有路線資訊"
+                }
+            },
             "999999":{
+                "location":{
+                    "lat":22.203615,
+                    "lng":114.415195
+                },
+                "name":{
+                    "en":"Route Details TBD",
+                    "zh":"未有路線資訊"
+                }
+            },
+            "99999998":{
                 "location":{
                     "lat":22.203615,
                     "lng":114.415195
@@ -491231,6 +491261,16 @@
                     "zh":"三聖"
                 }
             },
+            "LR99998":{
+                "location":{
+                    "lat":22.203615,
+                    "lng":114.415195
+                },
+                "name":{
+                    "en":"Route Details TBD",
+                    "zh":"未有路線資訊"
+                }
+            },
             "LR99999":{
                 "location":{
                     "lat":22.203615,
@@ -491935,7 +491975,27 @@
                     "zh":"元朗"
                 }
             },
+            "Z99-Z998":{
+                "location":{
+                    "lat":22.203615,
+                    "lng":114.415195
+                },
+                "name":{
+                    "en":"Route Details TBD",
+                    "zh":"未有路線資訊"
+                }
+            },
             "Z99-Z999":{
+                "location":{
+                    "lat":22.203615,
+                    "lng":114.415195
+                },
+                "name":{
+                    "en":"Route Details TBD",
+                    "zh":"未有路線資訊"
+                }
+            },
+            "ZZY":{
                 "location":{
                     "lat":22.203615,
                     "lng":114.415195
@@ -491952,6 +492012,16 @@
                 },
                 "name":{
                     "en":"Route Details TBD",
+                    "zh":"未有路線資訊"
+                }
+            },
+            "ZZZZZZZZZZZZZZZY":{
+                "location":{
+                    "lat":22.203615,
+                    "lng":114.415195
+                },
+                "name":{
+                    "en":"Route Details Tbd",
                     "zh":"未有路線資訊"
                 }
             },
