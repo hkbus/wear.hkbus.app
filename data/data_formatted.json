@@ -39370,7 +39370,7 @@
                     "zh":"尖沙咀(麼地道)"
                 },
                 "freq":null,
-                "gtfsId":"80933522",
+                "gtfsId":"23380688",
                 "jt":null,
                 "nlbId":null,
                 "orig":{
@@ -107095,7 +107095,7 @@
                     "zh":"香港仔 (經域多利道)"
                 },
                 "freq":null,
-                "gtfsId":"77402452",
+                "gtfsId":"88577805",
                 "jt":null,
                 "nlbId":null,
                 "orig":{
@@ -131490,7 +131490,7 @@
                     "zh":"堅尼地城"
                 },
                 "freq":null,
-                "gtfsId":"45810170",
+                "gtfsId":"56773889",
                 "jt":null,
                 "nlbId":null,
                 "orig":{
@@ -273327,7 +273327,7 @@
                     "zh":"旺角"
                 },
                 "freq":null,
-                "gtfsId":"85470961",
+                "gtfsId":"42075058",
                 "jt":null,
                 "nlbId":null,
                 "orig":{
@@ -279806,7 +279806,7 @@
                     "zh":"歌連臣角"
                 },
                 "freq":null,
-                "gtfsId":"99963106",
+                "gtfsId":"92922185",
                 "jt":null,
                 "nlbId":null,
                 "orig":{
@@ -291531,7 +291531,7 @@
                     "zh":"香園圍口岸"
                 },
                 "freq":null,
-                "gtfsId":"85095382",
+                "gtfsId":"53790249",
                 "jt":null,
                 "nlbId":null,
                 "orig":{
@@ -333593,7 +333593,7 @@
                     "zh":"尖東"
                 },
                 "freq":null,
-                "gtfsId":"95832863",
+                "gtfsId":"23703729",
                 "jt":null,
                 "nlbId":null,
                 "orig":{
@@ -333621,7 +333621,7 @@
                     "zh":"灣仔"
                 },
                 "freq":null,
-                "gtfsId":"22660851",
+                "gtfsId":"32943940",
                 "jt":null,
                 "nlbId":null,
                 "orig":{
@@ -333649,7 +333649,7 @@
                     "zh":"尖東"
                 },
                 "freq":null,
-                "gtfsId":"77102641",
+                "gtfsId":"72596902",
                 "jt":null,
                 "nlbId":null,
                 "orig":{
@@ -333677,7 +333677,7 @@
                     "zh":"灣仔金紫荊廣場"
                 },
                 "freq":null,
-                "gtfsId":"26354836",
+                "gtfsId":"83796821",
                 "jt":null,
                 "nlbId":null,
                 "orig":{
@@ -337432,7 +337432,7 @@
                     "zh":"亞洲國際博覽館"
                 },
                 "freq":null,
-                "gtfsId":"44134655",
+                "gtfsId":"69835293",
                 "jt":null,
                 "nlbId":null,
                 "orig":{
@@ -457509,8 +457509,8 @@
                     "zh":"未有路線資訊"
                 },
                 "remark":{
-                    "en":"(1)",
-                    "zh":"(1)"
+                    "en":"(資訊通常會在數日後更新出現)",
+                    "zh":"(Usually details will be updated in a few days)"
                 }
             },
             "9999":{
@@ -457523,8 +457523,8 @@
                     "zh":"未有路線資訊"
                 },
                 "remark":{
-                    "en":"(2)",
-                    "zh":"(2)"
+                    "en":"(資訊通常會在數日後更新出現)",
+                    "zh":"(Usually details will be updated in a few days)"
                 }
             },
             "999998":{
@@ -457537,8 +457537,8 @@
                     "zh":"未有路線資訊"
                 },
                 "remark":{
-                    "en":"(1)",
-                    "zh":"(1)"
+                    "en":"(資訊通常會在數日後更新出現)",
+                    "zh":"(Usually details will be updated in a few days)"
                 }
             },
             "999999":{
@@ -457551,8 +457551,8 @@
                     "zh":"未有路線資訊"
                 },
                 "remark":{
-                    "en":"(2)",
-                    "zh":"(2)"
+                    "en":"(資訊通常會在數日後更新出現)",
+                    "zh":"(Usually details will be updated in a few days)"
                 }
             },
             "99999998":{
@@ -457565,8 +457565,8 @@
                     "zh":"未有路線資訊"
                 },
                 "remark":{
-                    "en":"(1)",
-                    "zh":"(1)"
+                    "en":"(資訊通常會在數日後更新出現)",
+                    "zh":"(Usually details will be updated in a few days)"
                 }
             },
             "99999999":{
@@ -457579,8 +457579,8 @@
                     "zh":"未有路線資訊"
                 },
                 "remark":{
-                    "en":"(2)",
-                    "zh":"(2)"
+                    "en":"(資訊通常會在數日後更新出現)",
+                    "zh":"(Usually details will be updated in a few days)"
                 }
             },
             "99A3962003285776":{
@@ -491295,8 +491295,8 @@
                     "zh":"未有路線資訊"
                 },
                 "remark":{
-                    "en":"(1)",
-                    "zh":"(1)"
+                    "en":"(資訊通常會在數日後更新出現)",
+                    "zh":"(Usually details will be updated in a few days)"
                 }
             },
             "LR99999":{
@@ -491309,8 +491309,8 @@
                     "zh":"未有路線資訊"
                 },
                 "remark":{
-                    "en":"(2)",
-                    "zh":"(2)"
+                    "en":"(資訊通常會在數日後更新出現)",
+                    "zh":"(Usually details will be updated in a few days)"
                 }
             },
             "MEF":{
@@ -492017,8 +492017,8 @@
                     "zh":"未有路線資訊"
                 },
                 "remark":{
-                    "en":"(1)",
-                    "zh":"(1)"
+                    "en":"(資訊通常會在數日後更新出現)",
+                    "zh":"(Usually details will be updated in a few days)"
                 }
             },
             "Z99-Z999":{
@@ -492031,8 +492031,8 @@
                     "zh":"未有路線資訊"
                 },
                 "remark":{
-                    "en":"(2)",
-                    "zh":"(2)"
+                    "en":"(資訊通常會在數日後更新出現)",
+                    "zh":"(Usually details will be updated in a few days)"
                 }
             },
             "ZZY":{
@@ -492045,8 +492045,8 @@
                     "zh":"未有路線資訊"
                 },
                 "remark":{
-                    "en":"(1)",
-                    "zh":"(1)"
+                    "en":"(資訊通常會在數日後更新出現)",
+                    "zh":"(Usually details will be updated in a few days)"
                 }
             },
             "ZZZ":{
@@ -492059,8 +492059,8 @@
                     "zh":"未有路線資訊"
                 },
                 "remark":{
-                    "en":"(2)",
-                    "zh":"(2)"
+                    "en":"(資訊通常會在數日後更新出現)",
+                    "zh":"(Usually details will be updated in a few days)"
                 }
             },
             "ZZZZZZZZZZZZZZZY":{
@@ -492073,8 +492073,8 @@
                     "zh":"未有路線資訊"
                 },
                 "remark":{
-                    "en":"(1)",
-                    "zh":"(1)"
+                    "en":"(資訊通常會在數日後更新出現)",
+                    "zh":"(Usually details will be updated in a few days)"
                 }
             },
             "ZZZZZZZZZZZZZZZZ":{
@@ -492087,8 +492087,8 @@
                     "zh":"未有路線資訊"
                 },
                 "remark":{
-                    "en":"(2)",
-                    "zh":"(2)"
+                    "en":"(資訊通常會在數日後更新出現)",
+                    "zh":"(Usually details will be updated in a few days)"
                 }
             }
         },
