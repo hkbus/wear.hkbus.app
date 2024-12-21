@@ -39358,6 +39358,33 @@
                     ]
                 }
             },
+            "173R+99+Stanley+Tsim Sha Tsui (Mody Road)":{
+                "bound":{
+                    "ctb":"O"
+                },
+                "co":[
+                    "ctb"
+                ],
+                "dest":{
+                    "en":"Tsim Sha Tsui (Mody Road)",
+                    "zh":"尖沙咀(麼地道)"
+                },
+                "freq":null,
+                "gtfsId":56344655,
+                "jt":null,
+                "nlbId":null,
+                "orig":{
+                    "en":"Stanley",
+                    "zh":"赤柱"
+                },
+                "route":"173R",
+                "serviceType":"99",
+                "stops":{
+                    "ctb":[
+                        "999999"
+                    ]
+                }
+            },
             "178R+1+CENTRAL (CENTRAL FERRY PIERS)+FANLING (LUEN WO HUI)":{
                 "bound":{
                     "kmb":"O"
@@ -107055,6 +107082,33 @@
                     ]
                 }
             },
+            "347+99+Admiralty (West)+Aberdeen (via Victoria Road)":{
+                "bound":{
+                    "ctb":"O"
+                },
+                "co":[
+                    "ctb"
+                ],
+                "dest":{
+                    "en":"Aberdeen (via Victoria Road)",
+                    "zh":"香港仔 (經域多利道)"
+                },
+                "freq":null,
+                "gtfsId":83134799,
+                "jt":null,
+                "nlbId":null,
+                "orig":{
+                    "en":"Admiralty (West)",
+                    "zh":"金鐘 (西)"
+                },
+                "route":"347",
+                "serviceType":"99",
+                "stops":{
+                    "ctb":[
+                        "999999"
+                    ]
+                }
+            },
             "34A+1+Ha Tsuen+Lau Fau Shan":{
                 "bound":{
                     "gmb":"O"
@@ -131419,6 +131473,33 @@
                         "F808AF482CCA028E",
                         "9C6800DD6E0CD683",
                         "6E821768CA09E8C9"
+                    ]
+                }
+            },
+            "43R+99+Kennedy Town Station+Kennedy Town":{
+                "bound":{
+                    "ctb":"O"
+                },
+                "co":[
+                    "ctb"
+                ],
+                "dest":{
+                    "en":"Kennedy Town",
+                    "zh":"堅尼地城"
+                },
+                "freq":null,
+                "gtfsId":74865859,
+                "jt":null,
+                "nlbId":null,
+                "orig":{
+                    "en":"Kennedy Town Station",
+                    "zh":"堅尼地城站"
+                },
+                "route":"43R",
+                "serviceType":"99",
+                "stops":{
+                    "ctb":[
+                        "999999"
                     ]
                 }
             },
@@ -273231,6 +273312,33 @@
                     ]
                 }
             },
+            "971R+99+Cyberport  (via Victoria Road)+Mong Kok":{
+                "bound":{
+                    "ctb":"O"
+                },
+                "co":[
+                    "ctb"
+                ],
+                "dest":{
+                    "en":"Mong Kok",
+                    "zh":"旺角"
+                },
+                "freq":null,
+                "gtfsId":47044005,
+                "jt":null,
+                "nlbId":null,
+                "orig":{
+                    "en":"Cyberport  (via Victoria Road)",
+                    "zh":"數碼港 (經域多利道)"
+                },
+                "route":"971R",
+                "serviceType":"99",
+                "stops":{
+                    "ctb":[
+                        "999999"
+                    ]
+                }
+            },
             "973+1+Stanley Village+Tsim Sha Tsui (Mody Road)":{
                 "bound":{
                     "ctb":"I"
@@ -279679,6 +279787,33 @@
                         "20007592",
                         "20007593",
                         "20001128"
+                    ]
+                }
+            },
+            "9C+99+Shau Kei Wan+Cape Collinson":{
+                "bound":{
+                    "ctb":"O"
+                },
+                "co":[
+                    "ctb"
+                ],
+                "dest":{
+                    "en":"Cape Collinson",
+                    "zh":"歌連臣角"
+                },
+                "freq":null,
+                "gtfsId":36803750,
+                "jt":null,
+                "nlbId":null,
+                "orig":{
+                    "en":"Shau Kei Wan",
+                    "zh":"筲箕灣"
+                },
+                "route":"9C",
+                "serviceType":"99",
+                "stops":{
+                    "ctb":[
+                        "999999"
                     ]
                 }
             },
@@ -291376,6 +291511,33 @@
                         "003725",
                         "003810",
                         "003714"
+                    ]
+                }
+            },
+            "B7X+99+Sheung Shui Station+Heung Yuen Wai Port":{
+                "bound":{
+                    "ctb":"O"
+                },
+                "co":[
+                    "ctb"
+                ],
+                "dest":{
+                    "en":"Heung Yuen Wai Port",
+                    "zh":"香園圍口岸"
+                },
+                "freq":null,
+                "gtfsId":66692537,
+                "jt":null,
+                "nlbId":null,
+                "orig":{
+                    "en":"Sheung Shui Station",
+                    "zh":"上水站"
+                },
+                "route":"B7X",
+                "serviceType":"99",
+                "stops":{
+                    "ctb":[
+                        "999999"
                     ]
                 }
             },
@@ -333413,6 +333575,114 @@
                     ]
                 }
             },
+            "PN17+99+MOKO MONG KOK+TSIM SHA TSUI EAST":{
+                "bound":{
+                    "kmb":"O"
+                },
+                "co":[
+                    "kmb"
+                ],
+                "dest":{
+                    "en":"Tsim Sha Tsui East",
+                    "zh":"尖東"
+                },
+                "freq":null,
+                "gtfsId":14850679,
+                "jt":null,
+                "nlbId":null,
+                "orig":{
+                    "en":"Moko Mong Kok",
+                    "zh":"旺角MOKO"
+                },
+                "route":"PN17",
+                "serviceType":"99",
+                "stops":{
+                    "kmb":[
+                        "ZZZZZZZZZZZZZZZZ"
+                    ]
+                }
+            },
+            "PN18+99+CARMEL ROAD STANLEY+WAN CHAI":{
+                "bound":{
+                    "kmb":"O"
+                },
+                "co":[
+                    "kmb"
+                ],
+                "dest":{
+                    "en":"Wan Chai",
+                    "zh":"灣仔"
+                },
+                "freq":null,
+                "gtfsId":24509840,
+                "jt":null,
+                "nlbId":null,
+                "orig":{
+                    "en":"Carmel Road Stanley",
+                    "zh":"赤柱佳美道"
+                },
+                "route":"PN18",
+                "serviceType":"99",
+                "stops":{
+                    "kmb":[
+                        "ZZZZZZZZZZZZZZZZ"
+                    ]
+                }
+            },
+            "PN19+99+SAI KUNG MEI YU STREET+TSIM SHA TSUI EAST":{
+                "bound":{
+                    "kmb":"O"
+                },
+                "co":[
+                    "kmb"
+                ],
+                "dest":{
+                    "en":"Tsim Sha Tsui East",
+                    "zh":"尖東"
+                },
+                "freq":null,
+                "gtfsId":44935413,
+                "jt":null,
+                "nlbId":null,
+                "orig":{
+                    "en":"Sai Kung Mei Yu Street",
+                    "zh":"西貢美裕街"
+                },
+                "route":"PN19",
+                "serviceType":"99",
+                "stops":{
+                    "kmb":[
+                        "ZZZZZZZZZZZZZZZZ"
+                    ]
+                }
+            },
+            "PN20+99+KWAI CHUNG HING FONG ROAD+WAN CHAI GOLDEN BAUHINIA SQUARE":{
+                "bound":{
+                    "kmb":"O"
+                },
+                "co":[
+                    "kmb"
+                ],
+                "dest":{
+                    "en":"Wan Chai Golden Bauhinia Square",
+                    "zh":"灣仔金紫荊廣場"
+                },
+                "freq":null,
+                "gtfsId":40801939,
+                "jt":null,
+                "nlbId":null,
+                "orig":{
+                    "en":"Kwai Chung Hing Fong Road",
+                    "zh":"葵涌興芳路"
+                },
+                "route":"PN20",
+                "serviceType":"99",
+                "stops":{
+                    "kmb":[
+                        "ZZZZZZZZZZZZZZZZ"
+                    ]
+                }
+            },
             "R11+1+Disneyland+North Point Ferry Pier":{
                 "bound":{
                     "ctb":"O"
@@ -337137,6 +337407,33 @@
                         "7A47A23B960DD4FF",
                         "638851B5496C1765",
                         "437924EA663F3DF6"
+                    ]
+                }
+            },
+            "X55+99+AsiaWorld-Expo+AsiaWorld-Expo":{
+                "bound":{
+                    "ctb":"O"
+                },
+                "co":[
+                    "ctb"
+                ],
+                "dest":{
+                    "en":"AsiaWorld-Expo",
+                    "zh":"亞洲國際博覽館"
+                },
+                "freq":null,
+                "gtfsId":94254115,
+                "jt":null,
+                "nlbId":null,
+                "orig":{
+                    "en":"AsiaWorld-Expo",
+                    "zh":"亞洲國際博覽館"
+                },
+                "route":"X55",
+                "serviceType":"99",
+                "stops":{
+                    "ctb":[
+                        "999999"
                     ]
                 }
             },
@@ -457191,6 +457488,36 @@
                     "zh":"葵芳智芳街"
                 }
             },
+            "9999":{
+                "location":{
+                    "lat":22.203615,
+                    "lng":114.415195
+                },
+                "name":{
+                    "en":"Route Details TBD",
+                    "zh":"未有路線資訊"
+                }
+            },
+            "999999":{
+                "location":{
+                    "lat":22.203615,
+                    "lng":114.415195
+                },
+                "name":{
+                    "en":"Route Details TBD",
+                    "zh":"未有路線資訊"
+                }
+            },
+            "99999999":{
+                "location":{
+                    "lat":22.203615,
+                    "lng":114.415195
+                },
+                "name":{
+                    "en":"Route Details TBD",
+                    "zh":"未有路線資訊"
+                }
+            },
             "99A3962003285776":{
                 "location":{
                     "lat":22.30793,
@@ -490893,6 +491220,16 @@
                     "zh":"三聖"
                 }
             },
+            "LR99999":{
+                "location":{
+                    "lat":22.203615,
+                    "lng":114.415195
+                },
+                "name":{
+                    "en":"Route Details TBD",
+                    "zh":"未有路線資訊"
+                }
+            },
             "MEF":{
                 "location":{
                     "lat":22.33793,
@@ -491585,6 +491922,36 @@
                 "name":{
                     "en":"Yuen Long",
                     "zh":"元朗"
+                }
+            },
+            "Z99-Z999":{
+                "location":{
+                    "lat":22.203615,
+                    "lng":114.415195
+                },
+                "name":{
+                    "en":"Route Details TBD",
+                    "zh":"未有路線資訊"
+                }
+            },
+            "ZZZ":{
+                "location":{
+                    "lat":22.203615,
+                    "lng":114.415195
+                },
+                "name":{
+                    "en":"Route Details TBD",
+                    "zh":"未有路線資訊"
+                }
+            },
+            "ZZZZZZZZZZZZZZZZ":{
+                "location":{
+                    "lat":22.203615,
+                    "lng":114.415195
+                },
+                "name":{
+                    "en":"Route Details Tbd",
+                    "zh":"未有路線資訊"
                 }
             }
         },
@@ -690246,6 +690613,30 @@
     },
     "routeRemarks":{
         "ctb":{
+            "173R":{
+                "en":"Route Details TBD",
+                "zh":"未有路線資訊"
+            },
+            "347":{
+                "en":"Route Details TBD",
+                "zh":"未有路線資訊"
+            },
+            "43R":{
+                "en":"Route Details TBD",
+                "zh":"未有路線資訊"
+            },
+            "971R":{
+                "en":"Route Details TBD",
+                "zh":"未有路線資訊"
+            },
+            "9C":{
+                "en":"Route Details TBD",
+                "zh":"未有路線資訊"
+            },
+            "B7X":{
+                "en":"Route Details TBD",
+                "zh":"未有路線資訊"
+            },
             "H1":{
                 "en":"Cross Harbour Bus Tour",
                 "zh":"過海旅遊路線"
@@ -690257,6 +690648,10 @@
             "H2K":{
                 "en":"Cross Harbour Bus Tour",
                 "zh":"過海旅遊路線"
+            },
+            "X55":{
+                "en":"Route Details TBD",
+                "zh":"未有路線資訊"
             }
         },
         "kmb":{
@@ -690292,21 +690687,21 @@
                 "en":"Pet Bus 🐾",
                 "zh":"寵物巴士團 🐾"
             },
-            "PBN1":{
-                "en":"Evening Pet Bus 🐾",
-                "zh":"夜間寵物巴士團 🐾"
+            "PN17":{
+                "en":"Route Details TBD",
+                "zh":"未有路線資訊"
             },
-            "PBN2":{
-                "en":"Evening Pet Bus 🐾",
-                "zh":"夜間寵物巴士團 🐾"
+            "PN18":{
+                "en":"Route Details TBD",
+                "zh":"未有路線資訊"
             },
-            "PBN3":{
-                "en":"Evening Pet Bus 🐾",
-                "zh":"夜間寵物巴士團 🐾"
+            "PN19":{
+                "en":"Route Details TBD",
+                "zh":"未有路線資訊"
             },
-            "PBN4":{
-                "en":"Evening Pet Bus 🐾",
-                "zh":"夜間寵物巴士團 🐾"
+            "PN20":{
+                "en":"Route Details TBD",
+                "zh":"未有路線資訊"
             }
         }
     }
