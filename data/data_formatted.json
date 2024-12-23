@@ -1246,7 +1246,6 @@
         "K75P",
         "K76",
         "KTL",
-        "LB1",
         "N1",
         "N11",
         "N116",
@@ -39370,7 +39369,7 @@
                     "zh":"尖沙咀(麼地道)"
                 },
                 "freq":null,
-                "gtfsId":"40756969",
+                "gtfsId":"92612483",
                 "jt":null,
                 "nlbId":null,
                 "orig":{
@@ -107095,7 +107094,7 @@
                     "zh":"香港仔 (經域多利道)"
                 },
                 "freq":null,
-                "gtfsId":"94706418",
+                "gtfsId":"44029738",
                 "jt":null,
                 "nlbId":null,
                 "orig":{
@@ -131490,7 +131489,7 @@
                     "zh":"堅尼地城"
                 },
                 "freq":null,
-                "gtfsId":"31228670",
+                "gtfsId":"86880731",
                 "jt":null,
                 "nlbId":null,
                 "orig":{
@@ -273342,7 +273341,7 @@
                     "zh":"旺角"
                 },
                 "freq":null,
-                "gtfsId":"15408910",
+                "gtfsId":"45032619",
                 "jt":null,
                 "nlbId":null,
                 "orig":{
@@ -279821,7 +279820,7 @@
                     "zh":"歌連臣角"
                 },
                 "freq":null,
-                "gtfsId":"32563820",
+                "gtfsId":"86522196",
                 "jt":null,
                 "nlbId":null,
                 "orig":{
@@ -291546,7 +291545,7 @@
                     "zh":"香園圍口岸"
                 },
                 "freq":null,
-                "gtfsId":"71316115",
+                "gtfsId":"97967622",
                 "jt":null,
                 "nlbId":null,
                 "orig":{
@@ -337411,7 +337410,7 @@
                     "zh":"亞洲國際博覽館"
                 },
                 "freq":null,
-                "gtfsId":"55538863",
+                "gtfsId":"40936789",
                 "jt":null,
                 "nlbId":null,
                 "orig":{
@@ -377724,8 +377723,8 @@
                     "lng":114.13273
                 },
                 "name":{
-                    "en":"Belcher's Street, near Sun Shing Building",
-                    "zh":"卑路乍街, 近新城大樓"
+                    "en":"No.6 Belcher's Street",
+                    "zh":"卑路乍街6號"
                 }
             },
             "20000088":{
@@ -378114,7 +378113,7 @@
                     "lng":114.17179
                 },
                 "name":{
-                    "en":"Queen's Road East, outside Hopewell Centre",
+                    "en":"Queen's Road East, outside Three Pacific Place",
                     "zh":"皇后大道東, 合和中心外"
                 }
             },
@@ -378624,8 +378623,8 @@
                     "lng":114.15021
                 },
                 "name":{
-                    "en":"Tin Wan Estate Road Opposite Tin Hong House",
-                    "zh":"田灣邨道, 田康樓對面"
+                    "en":"Tin Wan Estate Road, outside Tin Hong House",
+                    "zh":"田灣邨道, 田康樓外"
                 }
             },
             "20000275":{
@@ -378714,7 +378713,7 @@
                     "lng":114.12705
                 },
                 "name":{
-                    "en":"No. 142 Belcher's Street",
+                    "en":"no.142 Belcher Street",
                     "zh":"卑路乍街142號"
                 }
             },
@@ -379725,7 +379724,7 @@
                 },
                 "name":{
                     "en":"Mongkok East Station",
-                    "zh":"港鐵旺角東站"
+                    "zh":"旺角東站"
                 }
             },
             "20000550":{
@@ -379804,8 +379803,8 @@
                     "lng":114.18661
                 },
                 "name":{
-                    "en":"Wang Tau Hom South Road, outside Wang Shun House, Wang Tau Hom Estate",
-                    "zh":"橫頭磡南道, 橫頭磡邨宏順樓外"
+                    "en":"Wang Tau Hom South Road outside Wang Shun House",
+                    "zh":"橫頭磡南道宏順樓外"
                 }
             },
             "20000563":{
@@ -380234,7 +380233,7 @@
                     "lng":114.19077
                 },
                 "name":{
-                    "en":"Tai Wan Road East, near HUTCHISON PARK",
+                    "en":"Tai Wan Road East, near Hutchison Park",
                     "zh":"大環道東, 近和黃公園"
                 }
             },
@@ -380254,8 +380253,8 @@
                     "lng":114.18536
                 },
                 "name":{
-                    "en":"Hung Lai Road near Royal Peninsula Block 5",
-                    "zh":"紅荔道, 近半島豪庭第五座"
+                    "en":"Hung Lai Road outside Royal Peninsular",
+                    "zh":"紅荔道半島豪庭"
                 }
             },
             "20000685":{
@@ -380374,7 +380373,7 @@
                     "lng":114.18504
                 },
                 "name":{
-                    "en":"Hung Hom South Road, near Hung Hong Court, HUNGHOM BAY CENTRE",
+                    "en":"Hung Hom South Road, near Hung Hong Court, Hunghom Bay Centre",
                     "zh":"紅磡南道, 近紅磡灣中心鴻康閣"
                 }
             },
@@ -380404,7 +380403,7 @@
                     "lng":114.18702
                 },
                 "name":{
-                    "en":"Maidstaone Road, North Of Lok Shan Road",
+                    "en":"Tin Kwong Road, Hillville Terrace",
                     "zh":"美善同道, 落山道以北"
                 }
             },
@@ -380414,8 +380413,8 @@
                     "lng":114.18694
                 },
                 "name":{
-                    "en":"Ko Shan Road, near Church Of Good Shepherd",
-                    "zh":"高山道, 近聖公會牧愛堂"
+                    "en":"Lok Man Sun Chuen, Lok Oi House",
+                    "zh":"樂民新邨, 樂愛樓"
                 }
             },
             "20000707":{
@@ -380434,8 +380433,8 @@
                     "lng":114.18527
                 },
                 "name":{
-                    "en":"Shun Yung Street, outside The Evergreen",
-                    "zh":"信用街, 長豐園外"
+                    "en":"Shun Yung Street, The Evergreen",
+                    "zh":"信用街, 長豐園"
                 }
             },
             "20000710":{
@@ -380444,8 +380443,8 @@
                     "lng":114.18314
                 },
                 "name":{
-                    "en":"Fat Kwong Street, outside Valley Road Estate Redevelopment Hos Project",
-                    "zh":"佛光街, 山谷道邨重建居屋項目外"
+                    "en":" Fat Kwong Street, Yan Fung Street",
+                    "zh":" 佛光街, 仁風街"
                 }
             },
             "20000714":{
@@ -382144,8 +382143,8 @@
                     "lng":114.17259
                 },
                 "name":{
-                    "en":"Nam Wan Road Sun Hing Garden",
-                    "zh":"南運路, 新興花園"
+                    "en":"Nam Wan Road, outside Sun Hing Garden",
+                    "zh":"南運路, 新興花園外"
                 }
             },
             "20001221":{
@@ -382385,7 +382384,7 @@
                 },
                 "name":{
                     "en":"Tung Lok Street, near Kam Wah Building",
-                    "zh":"同樂街, 近金華樓"
+                    "zh":"同樂街,近金華樓"
                 }
             },
             "20001263":{
@@ -382465,7 +382464,7 @@
                 },
                 "name":{
                     "en":"Ping Ha Road, near Century Centre",
-                    "zh":"屏廈路, 近世紀中心"
+                    "zh":"屏廈路,近世紀中心"
                 }
             },
             "20001276":{
@@ -382534,8 +382533,8 @@
                     "lng":114.04258
                 },
                 "name":{
-                    "en":"Castle Peak Road - Yuen Long, near Yeung Uk Tsuen",
-                    "zh":"青山公路 - 元朗段, 近楊屋村"
+                    "en":"Castle Peak Road  - Yuen Long, near Yeung Uk Tsuen",
+                    "zh":"青山公路－元朗段, 近楊屋村"
                 }
             },
             "20001287":{
@@ -383444,8 +383443,8 @@
                     "lng":114.14022
                 },
                 "name":{
-                    "en":"Cheung Chung House",
-                    "zh":"祥頌樓"
+                    "en":"San Wan Road, Near Cheung Chung House, Cheung Wah Estate",
+                    "zh":"新運路, 近祥華邨祥頌樓"
                 }
             },
             "20001457":{
@@ -383638,8 +383637,8 @@
                     "lng":114.19285
                 },
                 "name":{
-                    "en":"Fung Shun Street, outside Sha Tin Police Station",
-                    "zh":"豐順街,　近沙田警署"
+                    "en":"Fung Shun Street, outside Sha Tin District Headquarter & Divisional Police Station",
+                    "zh":"豐順街, 沙田區總部及分區警署外"
                 }
             },
             "20001494":{
@@ -383918,8 +383917,8 @@
                     "lng":114.21503
                 },
                 "name":{
-                    "en":"Siu Lei Yuen Road, outside Castello",
-                    "zh":"小瀝源路, 帝堡城外"
+                    "en":"Bus lay-by on Siu Lek Yuen Road opposite Kwong Yuen Estate,",
+                    "zh":"小瀝源路, 廣源邨對面的巴士停車灣"
                 }
             },
             "20001553":{
@@ -384378,7 +384377,7 @@
                     "lng":114.12788
                 },
                 "name":{
-                    "en":"Hing Fong Road outside King Po Mansion",
+                    "en":"Hing Fong Road, outside King Po Mansion",
                     "zh":"興芳路京寶大廈外"
                 }
             },
@@ -384669,7 +384668,7 @@
                 },
                 "name":{
                     "en":"Wo Yi Hop Road, outside North Kwai Chung Jockey Club Public Swimming Pool",
-                    "zh":"和宜合道, 北葵涌賽馬會公眾泳池外"
+                    "zh":"和宜合道北葵涌賽馬會公眾泳池外"
                 }
             },
             "20001854":{
@@ -384778,8 +384777,8 @@
                     "lng":114.0614
                 },
                 "name":{
-                    "en":"Bellagio",
-                    "zh":"碧堤半島"
+                    "en":"Castle Peak Road-Sham Tseng opposite to Rhine Garden",
+                    "zh":"青山公路-深井段海韻花園對面"
                 }
             },
             "20001889":{
@@ -384788,8 +384787,8 @@
                     "lng":114.05874
                 },
                 "name":{
-                    "en":"Castle Peak Road-Sham Tseng at the lay-by outside Lido Garden",
-                    "zh":"青山公路-深井段麗都花園外的停車灣"
+                    "en":"Castle Peak Road-Sham Tseng outside Lido Garden",
+                    "zh":"青山公路-深井段麗都花園外"
                 }
             },
             "20001893":{
@@ -384798,8 +384797,8 @@
                     "lng":114.05894
                 },
                 "name":{
-                    "en":"Castle Peak Road-Sham Tseng at the Lay-by opposite to Lido Garden",
-                    "zh":"青山公路-深井段麗都花園對面的停車灣"
+                    "en":"Castle Peak Road-Sham Tseng outside Sham Tseng Village",
+                    "zh":"青山公路-深井段深井村外"
                 }
             },
             "20001894":{
@@ -384808,8 +384807,8 @@
                     "lng":114.0617
                 },
                 "name":{
-                    "en":"Bellagio",
-                    "zh":"碧堤半島"
+                    "en":"Castle Peak Road-Sham Tseng outside Rhine Garden",
+                    "zh":"青山公路-深井段海韻花園外"
                 }
             },
             "20001909":{
@@ -385158,7 +385157,7 @@
                     "lng":114.22854
                 },
                 "name":{
-                    "en":"Sau Mau Ping Road, Outside Ning Po No.2 College",
+                    "en":"Sau Mau Ping Road, outside Ning Po No.2 College",
                     "zh":"秀茂坪道, 寧波第二中學外"
                 }
             },
@@ -385398,8 +385397,8 @@
                     "lng":114.05672
                 },
                 "name":{
-                    "en":"Castle Peak Road - Tsing Lung Tau at the lay-by opposite to Sham Tseng Public Pier",
-                    "zh":"青山公路-青龍頭段深井公眾碼頭對面的停車灣 "
+                    "en":"Castle Peak Road-Sham Tseng, the Lay-by opposite to Sham Tseng Public Pier",
+                    "zh":"青山公路-深井段青龍頭深井公眾碼頭對面的路傍"
                 }
             },
             "20002077":{
@@ -385729,7 +385728,7 @@
                 },
                 "name":{
                     "en":"Hing Ning Road, outside Metroplaza (Kwai Fong Station) ",
-                    "zh":"興寧路, 新都會廣場外(葵芳站)"
+                    "zh":"興寧路, 新都會廣場外(葵芳站) "
                 }
             },
             "20002131":{
@@ -386438,8 +386437,8 @@
                     "lng":114.20334
                 },
                 "name":{
-                    "en":"Ngan Shing Street, outside City One Shatin",
-                    "zh":"銀城街, 沙田第一城外"
+                    "en":"Ngan Shing Street, outside Ngan Shing Commercial Centre",
+                    "zh":"銀城街, 銀城商場外"
                 }
             },
             "20002260":{
@@ -386738,7 +386737,7 @@
                     "lng":114.22135
                 },
                 "name":{
-                    "en":"Ning Tai Road, Opposite Tak Shun Secondary School",
+                    "en":"Ning Tai Road, opposite Tak Shun Secondary School",
                     "zh":"寧泰路, 德信中學對面"
                 }
             },
@@ -386918,8 +386917,8 @@
                     "lng":114.2139
                 },
                 "name":{
-                    "en":"Science Park Road, near Ma Liu Shui Ferry Pier",
-                    "zh":"科學園路, 近馬料水渡輪碼頭"
+                    "en":"Science Park Road outside Ma Liu Shui Ferry Pier",
+                    "zh":"科學園路, 馬料水渡輪碼頭外"
                 }
             },
             "20002419":{
@@ -387138,7 +387137,7 @@
                     "lng":114.19879
                 },
                 "name":{
-                    "en":"Tung Tsz Road, outside Tung Tsz Scout Centre",
+                    "en":"Tung Tsz Road, outside Tubg Tsz Scout Centre",
                     "zh":"洞梓路, 近香港童軍總會洞梓童軍中心"
                 }
             },
@@ -387378,8 +387377,8 @@
                     "lng":114.27145
                 },
                 "name":{
-                    "en":"Bus lay-by on Wan Po Road near Pak Shing Kok Road ",
-                    "zh":"環保大道近百勝角路的巴士停車灣 "
+                    "en":"Wan Po Road, near Pak Shing Kok Road",
+                    "zh":"環保大道, 近百勝角路"
                 }
             },
             "20002652":{
@@ -387388,8 +387387,8 @@
                     "lng":114.26794
                 },
                 "name":{
-                    "en":"Bus lay-by on Wan Po Road near Creative Secondary School ",
-                    "zh":"環保大道近啟思中學的巴士停車灣 "
+                    "en":"Wan Po Road, outside Creative Secondary School",
+                    "zh":"環保大道, 啟思中學外"
                 }
             },
             "20002654":{
@@ -387828,8 +387827,8 @@
                     "lng":114.23633
                 },
                 "name":{
-                    "en":"Hiu Kwong Street opposite to Sau Mau Ping South Estate",
-                    "zh":"曉光街, 秀茂坪南邨對面"
+                    "en":"Hiu Kwong Street, opposite Sau Mau Ping South Estate",
+                    "zh":"曉光街, 秀茂坪南邨外"
                 }
             },
             "20003072":{
@@ -388108,8 +388107,8 @@
                     "lng":114.16016
                 },
                 "name":{
-                    "en":" Kweilin Street",
-                    "zh":"桂林街"
+                    "en":"No. 81 Kweilin Street",
+                    "zh":"桂林街81號"
                 }
             },
             "20003160":{
@@ -388438,8 +388437,8 @@
                     "lng":114.13669
                 },
                 "name":{
-                    "en":"Bus Stop on Wo Yi Hop Road near Lei Muk Road",
-                    "zh":"和宜合道近梨木道的巴士站"
+                    "en":"near Lei Muk Road, opposite Grand Industrial Building",
+                    "zh":"和宜合道華寶工業大廈對面"
                 }
             },
             "20003237":{
@@ -389298,8 +389297,8 @@
                     "lng":114.1389
                 },
                 "name":{
-                    "en":"Queen's Road West, near Water Street",
-                    "zh":"皇后大道西, 近水街"
+                    "en":"No.414 Queen's Road West",
+                    "zh":"皇后大道西414號"
                 }
             },
             "20003475":{
@@ -389568,7 +389567,7 @@
                     "lng":114.18469
                 },
                 "name":{
-                    "en":"Near Hong Kong Adventist Hospital, Stubbs Road",
+                    "en":"\tNear Hong Kong Adventist Hospital, Stubbs Road",
                     "zh":"司徒拔道, 近港安醫院"
                 }
             },
@@ -389978,8 +389977,8 @@
                     "lng":114.17302
                 },
                 "name":{
-                    "en":"Prince Edward Road East, outside MOKO",
-                    "zh":"太子道西, 新世紀廣場外"
+                    "en":"Prince Edward Road West, CCC Cheung Lo Church",
+                    "zh":"太子道西, 中華基督教會長老堂"
                 }
             },
             "20004127":{
@@ -390019,7 +390018,7 @@
                 },
                 "name":{
                     "en":"Castle Peak Road - Ping Shan, near Villa By The Park Block 5",
-                    "zh":"青山公路－屏山段, 近朗庭園第五座"
+                    "zh":"青山公路－屏山段,近朗庭園第五座"
                 }
             },
             "20004140":{
@@ -390158,8 +390157,8 @@
                     "lng":114.13876
                 },
                 "name":{
-                    "en":"Wah Ming Road, outside Yan Fai House",
-                    "zh":"華明路, 欣暉閣外"
+                    "en":"Wah Ming Road, opposite Yan Shing Court",
+                    "zh":"華明路, 欣盛苑對面"
                 }
             },
             "20004160":{
@@ -390459,7 +390458,7 @@
                 },
                 "name":{
                     "en":"Wing Kei Road, outside Good Ba Ba Hitech Building",
-                    "zh":"永基路, 好爸爸創科大廈外 "
+                    "zh":"永基路, 好爸爸創科大廈外"
                 }
             },
             "20004210":{
@@ -390648,8 +390647,8 @@
                     "lng":114.14629
                 },
                 "name":{
-                    "en":"Wo Hing Road, outside Wo Hing Tsuen",
-                    "zh":"和興路, 和興村外"
+                    "en":"Wo Hop Shek San Tsuen",
+                    "zh":"和合石新村"
                 }
             },
             "20004533":{
@@ -390728,8 +390727,8 @@
                     "lng":114.13057
                 },
                 "name":{
-                    "en":"Queen Mary Hospital",
-                    "zh":"瑪麗醫院"
+                    "en":"Queen Mary Hospital, Pok Fu Lam Road",
+                    "zh":"薄扶林道, 瑪麗醫院"
                 }
             },
             "20004549":{
@@ -390868,8 +390867,8 @@
                     "lng":114.15781
                 },
                 "name":{
-                    "en":"Lei Tung Estate Road, Yue On Court",
-                    "zh":"利東邨道, 漁安苑"
+                    "en":"LEI TUNG ESTATE ROAD, near Shan On House, YUE ON COURT",
+                    "zh":"利東邨道, 近漁安苑珊安閣"
                 }
             },
             "20004571":{
@@ -391449,7 +391448,7 @@
                 },
                 "name":{
                     "en":"Broadcast Drive near Marconi Road",
-                    "zh":"廣播道, 近馬可尼道"
+                    "zh":"廣播道近馬可尼道"
                 }
             },
             "20006050":{
@@ -391568,7 +391567,7 @@
                     "lng":114.18485
                 },
                 "name":{
-                    "en":"Hung Hom South Road, near Hung Hom South Road Rest Garden",
+                    "en":"Hong Hom South Road, near Hong Hom South Road Rest Garden",
                     "zh":"紅磡南道, 近紅磡南道休憩花園"
                 }
             },
@@ -391918,8 +391917,8 @@
                     "lng":113.99356
                 },
                 "name":{
-                    "en":"Castle Peak Road- So Kwun Wat, opposite Hong Kong Gold Coast Piazza",
-                    "zh":"青山公路掃管笏段, 黃金海岸商場對面"
+                    "en":"Castle Peak Road- So Kwun Wat, HK Gold Coast Marina Magic Shopping Mall",
+                    "zh":"青山公路-掃管笏段, 黃金海岸商場"
                 }
             },
             "20006915":{
@@ -392188,8 +392187,8 @@
                     "lng":114.21151
                 },
                 "name":{
-                    "en":"Chong San Road, near Science Park Phase 1",
-                    "zh":"創新路, 近科學園第一期"
+                    "en":"Chong San Road outside Hong Kong Science Park Phase 1",
+                    "zh":"創新路, 香港科學園一期外"
                 }
             },
             "20007048":{
@@ -392208,8 +392207,8 @@
                     "lng":114.20873
                 },
                 "name":{
-                    "en":"Chong San Road, near Science Park Phase 3",
-                    "zh":"創新路, 近科學園第三期"
+                    "en":"Chong San Road outside Hong Kong Science Park Phase 3",
+                    "zh":"創新路, 香港科學園三期外"
                 }
             },
             "20007050":{
@@ -393068,8 +393067,8 @@
                     "lng":114.16186
                 },
                 "name":{
-                    "en":"No. 2 Murray Road",
-                    "zh":"美利道2號"
+                    "en":"Murray Road, outside Murray Road multi-story car park",
+                    "zh":"美利道, 美利道多層停車場大廈外"
                 }
             },
             "20007409":{
@@ -393268,8 +393267,8 @@
                     "lng":114.18646
                 },
                 "name":{
-                    "en":"Lok Man Sun Chuen, oppsite to Lok Kei House",
-                    "zh":"樂民新邨, 樂基樓對面"
+                    "en":"Lok Man Sun Chuen, Lok Kei House",
+                    "zh":"樂民新邨, 樂基樓"
                 }
             },
             "20007536":{
@@ -394198,7 +394197,7 @@
                     "lng":114.13857
                 },
                 "name":{
-                    "en":"Public Light Bus (Scheduled) Service Terminus at Fanling Station",
+                    "en":"Fanling Station Public Light Bus (Scheduled) Service Terminus",
                     "zh":"粉嶺站專綫小巴總站"
                 }
             },
@@ -395549,7 +395548,7 @@
                 },
                 "name":{
                     "en":"Fo Chun Road, outside Mayfair by the Sea",
-                    "zh":"科進路逸瓏灣外"
+                    "zh":"科進路, 逸瓏灣外"
                 }
             },
             "20008783":{
@@ -395999,7 +395998,7 @@
                 },
                 "name":{
                     "en":"Ping Ha Road, near Fu Yee Garden Phase 2 Block 10, HA TSUEN SHI",
-                    "zh":"屏廈路, 近廈村市富怡花園第二期第十座"
+                    "zh":"屏廈路,近廈村市富怡花園第二期第十座"
                 }
             },
             "20009470":{
@@ -396318,8 +396317,8 @@
                     "lng":114.03043
                 },
                 "name":{
-                    "en":"Tai Fung Street, near Tsui Wah House",
-                    "zh":"泰豐街, 近翠華樓"
+                    "en":"Tai fung Street, Near Tung Sing Building",
+                    "zh":"泰豐街, 近東昇樓"
                 }
             },
             "20009904":{
@@ -396458,8 +396457,8 @@
                     "lng":114.13879
                 },
                 "name":{
-                    "en":"Chi Fu Road, outside block no. 14",
-                    "zh":"置富道第14座外"
+                    "en":"Chi Fu Road, outside block no. 15",
+                    "zh":"置富道第15座外"
                 }
             },
             "20010034":{
@@ -398792,7 +398791,7 @@
                     "lng":114.13238
                 },
                 "name":{
-                    "en":"Outside No.109-115 Wo Tong Tsui Street",
+                    "en":"Wo Tong Tsui Street outside House No.109-115",
                     "zh":"禾塘咀街109-115號外"
                 }
             },
@@ -398912,8 +398911,8 @@
                     "lng":114.12753
                 },
                 "name":{
-                    "en":"KWAI SHING CIRCUIT, near Hong Kong Institute of Vocational Education (Kwai Chung)",
-                    "zh":"葵盛圍, 近香港專業教育學院（葵涌）"
+                    "en":"Kwai Shing Circuit Public Light Bus Terminus",
+                    "zh":"葵盛圍小巴總站"
                 }
             },
             "20011986":{
@@ -400272,8 +400271,8 @@
                     "lng":114.14849
                 },
                 "name":{
-                    "en":"Cheung Yee Street near D2 Place",
-                    "zh":"長義街, 近D2 Place"
+                    "en":"D2 Place One",
+                    "zh":"D2 Place 一期"
                 }
             },
             "20012319":{
@@ -400552,7 +400551,7 @@
                     "lng":114.19375
                 },
                 "name":{
-                    "en":"CHUK YUEN ROAD, near Tung Yuen House, CHUK YUEN (NORTH) ESTATE",
+                    "en":"Chuk Yuen Road, Near Tung Yuen House, Chuk Yuen (North) Estate",
                     "zh":"竹園道, 近竹園北邨桐園樓"
                 }
             },
@@ -401342,7 +401341,7 @@
                     "lng":114.20663
                 },
                 "name":{
-                    "en":"Lung Cheung Road, outside Hung Ngok House, Choi Hung Estate ",
+                    "en":"Lung Cheung Roa,outside Hung Ngok House, Choi Hung Estate ",
                     "zh":"龍翔道, 彩虹邨紅萼樓外"
                 }
             },
@@ -402453,7 +402452,7 @@
                 },
                 "name":{
                     "en":"Kwong Fuk Road, near Kwong Fuk Building",
-                    "zh":"廣福道, 近廣福大樓"
+                    "zh":"廣福道, 近廣福大廈巴士站"
                 }
             },
             "20012890":{
@@ -403202,8 +403201,8 @@
                     "lng":114.2088
                 },
                 "name":{
-                    "en":"Shing Cheong Road, Near Training & Research Tower (Tower A), Hong Kong Children's Hospital\t",
-                    "zh":"承昌道, 近香港兒童醫院教學及科研大樓（A座）\t"
+                    "en":"Shing Cheong Road, Near Training & Research Tower (Tower A), Hong Kong Children's Hospital",
+                    "zh":"承昌道, 近香港兒童醫院教學及科研大樓（A座）"
                 }
             },
             "20013000":{
@@ -404303,7 +404302,7 @@
                 },
                 "name":{
                     "en":"LAI KONG STREET, near Princess Margaret Hospital Lai King Building",
-                    "zh":"荔崗街, 近瑪嘉烈醫院荔景大樓"
+                    "zh":"荔崗街,近瑪嘉烈醫院荔景大樓"
                 }
             },
             "20013693":{
@@ -404312,7 +404311,7 @@
                     "lng":114.14069
                 },
                 "name":{
-                    "en":"Mei Lai Road, near Mei Foo Bus Terminus",
+                    "en":"MEI LAI ROAD, near Mei Foo Bus Terminus",
                     "zh":"美荔道, 近美孚巴士總站"
                 }
             },
@@ -404322,7 +404321,7 @@
                     "lng":114.13835
                 },
                 "name":{
-                    "en":"Lai Wan Road, near Lai Chi Kok Park Sports Centre",
+                    "en":"LAI WAN ROAD, near Lai Chi Kok Park Sports Centre",
                     "zh":"荔灣道, 近荔枝角公園體育館"
                 }
             },
@@ -404353,7 +404352,7 @@
                 },
                 "name":{
                     "en":"LAI KING HILL ROAD, near Lai Ha House, YUET LAI COURT",
-                    "zh":"荔景山路, 近悅麗苑麗霞閣"
+                    "zh":"荔景山路,近悅麗苑麗霞閣"
                 }
             },
             "20013698":{
@@ -404362,8 +404361,8 @@
                     "lng":114.11738
                 },
                 "name":{
-                    "en":"Ham Tin Street, near Bo Shek Mansion Block 3",
-                    "zh":"鹹田街, 近寶石大廈第３座"
+                    "en":"HAM TIN STREET, near Bo Shek Mansion Block 3",
+                    "zh":"鹹田街,近寶石大廈第３座"
                 }
             },
             "20013699":{
@@ -405752,8 +405751,8 @@
                     "lng":114.17505
                 },
                 "name":{
-                    "en":"Festival Walk",
-                    "zh":"又一城"
+                    "en":"Festival Walk Public Transport Terminus",
+                    "zh":"又一城公共交通總站"
                 }
             },
             "20013967":{
@@ -405762,8 +405761,8 @@
                     "lng":114.17213
                 },
                 "name":{
-                    "en":"CORNWALL STREET, near Mount Beacon Tower 1",
-                    "zh":"歌和老街, 近畢架山峰Mount Beacon Tower 1"
+                    "en":"Cornwall Street, Near Mount Beacon Tower 1",
+                    "zh":"歌和老街, 近畢架山峰"
                 }
             },
             "20013968":{
@@ -405772,7 +405771,7 @@
                     "lng":114.17621
                 },
                 "name":{
-                    "en":"CORNWALL STREET, near Hillsea Court",
+                    "en":"Cornwall Street, Near Hillsea Court",
                     "zh":"歌和老街, 近匯山園"
                 }
             },
@@ -405782,7 +405781,7 @@
                     "lng":114.17854
                 },
                 "name":{
-                    "en":"CORNWALL STREET, near Cornwall Terrace",
+                    "en":"Cornwall Street, Near Cornwall Terrace",
                     "zh":"歌和老街, 近歌和台"
                 }
             },
@@ -405792,7 +405791,7 @@
                     "lng":114.18114
                 },
                 "name":{
-                    "en":"JUNCTION ROAD, near KAM SHING ROAD RECREATION GROUND",
+                    "en":"Junction Road, Near Kam Shing Road Recreation Ground",
                     "zh":"聯合道, 近金城道遊樂場"
                 }
             },
@@ -405802,7 +405801,7 @@
                     "lng":114.18621
                 },
                 "name":{
-                    "en":"CHUK YUEN ROAD, near Grace Methodist Church Kindergarten, TIN WANG COURT",
+                    "en":"Chuk Yuen Road, Near Grace Methodist Church Kindergarten, Tin Wang Court",
                     "zh":"竹園道, 近天宏苑循道衛理聯合教會主恩堂暨幼稚園"
                 }
             },
@@ -405812,8 +405811,8 @@
                     "lng":114.19003
                 },
                 "name":{
-                    "en":"CHUK YUEN ROAD, near Pang Ching Court",
-                    "zh":"竹園道, 近鵬程苑"
+                    "en":"Chuk Yuen Road, Near Pang Ching Court",
+                    "zh":"竹園道, 鵬程苑"
                 }
             },
             "20013973":{
@@ -406882,8 +406881,8 @@
                     "lng":114.17394
                 },
                 "name":{
-                    "en":"Mei Tin Road opposite Mei Lam Estate",
-                    "zh":"美田路, 美林邨對面"
+                    "en":"MEI TIN ROAD, near Mei Tin Road Sitting-out Area",
+                    "zh":"美田路, 近美田路休憩處"
                 }
             },
             "20014227":{
@@ -407703,7 +407702,7 @@
                 },
                 "name":{
                     "en":"MEI LAI ROAD, near Mei Foo Bus Terminus",
-                    "zh":"美荔道,近美孚巴士總站"
+                    "zh":"美荔道, 近美孚巴士總站"
                 }
             },
             "20014419":{
@@ -407762,7 +407761,7 @@
                     "lng":114.14005
                 },
                 "name":{
-                    "en":"San Wan Road, Near Cheung Chung House, Cheung Wah Estate",
+                    "en":"SAN WAN ROAD, near Cheung Chung House, CHEUNG WAH ESTATE",
                     "zh":"新運路, 近祥華邨祥頌樓"
                 }
             },
@@ -407823,7 +407822,7 @@
                 },
                 "name":{
                     "en":"SHA TAU KOK ROAD - LUNG YEUK TAU, near KWAN TEI",
-                    "zh":"沙頭角公路－龍躍頭段,近軍地"
+                    "zh":"沙頭角公路－龍躍頭段, 近軍地"
                 }
             },
             "20014465":{
@@ -408192,7 +408191,7 @@
                     "lng":114.12999
                 },
                 "name":{
-                    "en":"Sassoon Road, near The University of Hong Kong R.C. Lee Hall",
+                    "en":"SASSOON ROAD, near The University of Hong Kong R.C. Lee Hall",
                     "zh":"沙宣道, 近香港大學利銘澤堂"
                 }
             },
@@ -408202,7 +408201,7 @@
                     "lng":114.15104
                 },
                 "name":{
-                    "en":"Conduit Road, near Olympian Mansion",
+                    "en":"CONDUIT ROAD, near Conduit 18",
                     "zh":"干德道, 近Conduit 18"
                 }
             },
@@ -408212,7 +408211,7 @@
                     "lng":114.15015
                 },
                 "name":{
-                    "en":"Conduit Road, near Panorama Block 1",
+                    "en":"CONDUIT ROAD, near Panorama Block 1",
                     "zh":"干德道, 近全景大廈第１座"
                 }
             },
@@ -408222,7 +408221,7 @@
                     "lng":114.14899
                 },
                 "name":{
-                    "en":"Conduit Road, near The Morgan",
+                    "en":"CONDUIT ROAD, near THE MORGAN",
                     "zh":"干德道, 近敦皓"
                 }
             },
@@ -408232,7 +408231,7 @@
                     "lng":114.14207
                 },
                 "name":{
-                    "en":"Conduit Road, near Skyline Mansion Block 2",
+                    "en":"CONDUIT ROAD, near Skyline Mansion Block 2",
                     "zh":"干德道, 近年豐園二座"
                 }
             },
@@ -408242,8 +408241,8 @@
                     "lng":114.13991
                 },
                 "name":{
-                    "en":"Kotewall Road, opposite to The University of Hong Kong University Lodge",
-                    "zh":"旭龢道，香港大學校長寓所對面"
+                    "en":"HATTON ROAD, near Wisdom Court Block A",
+                    "zh":"克頓道, 近慧苑Ａ座"
                 }
             },
             "20014549":{
@@ -408252,7 +408251,7 @@
                     "lng":114.13898
                 },
                 "name":{
-                    "en":"Kotewall Road, near Hatton House",
+                    "en":"KOTEWALL ROAD, near Hatton House",
                     "zh":"旭龢道, 近赫頓大廈"
                 }
             },
@@ -408302,7 +408301,7 @@
                     "lng":114.15146
                 },
                 "name":{
-                    "en":"Conduit Road, near Botanic Terrace Block A",
+                    "en":"CONDUIT ROAD, near Botanic Terrace Block A",
                     "zh":"干德道, 近芝蘭台Ａ座"
                 }
             },
@@ -408372,8 +408371,8 @@
                     "lng":114.02761
                 },
                 "name":{
-                    "en":"Hong King Street Terminus\t",
-                    "zh":"康景街總站\t"
+                    "en":"HONG KING STREET, near Lee King Building",
+                    "zh":"康景街, 近利景樓"
                 }
             },
             "20014623":{
@@ -408382,8 +408381,8 @@
                     "lng":114.01123
                 },
                 "name":{
-                    "en":"Ma Fung Ling Road\t",
-                    "zh":"孖峰嶺路\t"
+                    "en":"Ma Fung Ling Road",
+                    "zh":"孖峰嶺路 "
                 }
             },
             "20014624":{
@@ -408433,7 +408432,7 @@
                 },
                 "name":{
                     "en":"Villa by the Park",
-                    "zh":"朗庭園 "
+                    "zh":" 朗庭園"
                 }
             },
             "20014632":{
@@ -410202,7 +410201,7 @@
                     "lng":114.12765
                 },
                 "name":{
-                    "en":"KWAI SHING CIRCUIT, near Hong Kong Institute of Vocational Education (Kwai Chung)",
+                    "en":"Kwai Shing Circuit, near Hong Kong Institute of Vocational Education (Kwai Chung)",
                     "zh":"葵盛圍, 近香港專業教育學院（葵涌）"
                 }
             },
@@ -410292,8 +410291,8 @@
                     "lng":114.18691
                 },
                 "name":{
-                    "en":"Junction Road, near Junction House",
-                    "zh":"聯合道, 近聯合大廈"
+                    "en":"Junction Road, Junction House",
+                    "zh":"聯合道, 聯合大廈"
                 }
             },
             "20015022":{
@@ -410832,7 +410831,7 @@
                     "lng":114.22511
                 },
                 "name":{
-                    "en":" Lee On Road, near Lee Ming House, Shun Lee Estate",
+                    "en":"Lee On Road, near Lee Ming House, Shun Lee Estate",
                     "zh":"利安道, 近順利邨利明樓"
                 }
             },
@@ -410942,8 +410941,8 @@
                     "lng":114.18227
                 },
                 "name":{
-                    "en":"Prince Edward Road West, near Edwardian Heights (Phase II)",
-                    "zh":"太子道西, 近愛華閣（二期）"
+                    "en":"Prince Edward Road West, Yee Yuen Mansion",
+                    "zh":"太子道西, 頤園大廈"
                 }
             },
             "20015159":{
@@ -411562,8 +411561,8 @@
                     "lng":114.22095
                 },
                 "name":{
-                    "en":"Chun Wah Road, near Nga Ping House, Lok Nga Court",
-                    "zh":"振華道, 近樂雅苑雅平閣"
+                    "en":"Chun Wah Road, opposite Nga Ping House, Lok Nga Court",
+                    "zh":"振華道, 樂雅苑雅平閣對面"
                 }
             },
             "20015293":{
@@ -411682,8 +411681,8 @@
                     "lng":114.18539
                 },
                 "name":{
-                    "en":"Lomond Road, near St. Theresa's Hospital",
-                    "zh":"露明道, 近聖德肋撒醫院"
+                    "en":"Lomond Road, St. Teresa's Hospital Extension Building",
+                    "zh":"露明道, 聖德肋撒法國醫院新翼"
                 }
             },
             "20015343":{
@@ -411946,8 +411945,8 @@
                     "lng":114.07665
                 },
                 "name":{
-                    "en":"Near Man Tin Cheung Park",
-                    "zh":"近文天祥公園"
+                    "en":"Castle Peak Road - San Tin, near Man Tin Cheung Park",
+                    "zh":"青山公路－新田段, 近文天祥公園"
                 }
             },
             "20015424":{
@@ -413904,7 +413903,7 @@
                     "lng":114.18841
                 },
                 "name":{
-                    "en":"Pai Tau Street, outside Sha Tin Station",
+                    "en":"Shatin Station",
                     "zh":"沙田中, 排頭街, 港鐵沙田站外"
                 }
             },
@@ -414284,7 +414283,7 @@
                     "lng":114.11613
                 },
                 "name":{
-                    "en":"Ho Pui Street, near Mary Of Providence Primary School",
+                    "en":"Ho Pui Street, near Mary of Providence Primary School",
                     "zh":"河背街, 近天佑小學"
                 }
             },
@@ -414294,7 +414293,7 @@
                     "lng":114.11908
                 },
                 "name":{
-                    "en":"Yeung Uk Road, near Jumbo Iadvantage",
+                    "en":"Yeung Uk Road, Near Jumbo iAdvantage",
                     "zh":"楊屋道, 近Jumbo iAdvantage"
                 }
             },
@@ -414304,7 +414303,7 @@
                     "lng":114.1232
                 },
                 "name":{
-                    "en":"Tai Wo Hau Road, near Fu Keung House, Tai Wo Hau Estate",
+                    "en":"Tai Wo Hau Road, Near Fu Keung House, Tai Wo Hau Estate",
                     "zh":"大窩口道, 近大窩口邨富強樓"
                 }
             },
@@ -414314,7 +414313,7 @@
                     "lng":114.12429
                 },
                 "name":{
-                    "en":"Tai Wo Hau Road, near Fu On House, Tai Wo Hau Estate",
+                    "en":"Tai Wo Hau Road, Near Fu On House, Tai Wo Hau Estate",
                     "zh":"大窩口道, 近大窩口邨富安樓"
                 }
             },
@@ -414334,7 +414333,7 @@
                     "lng":114.12231
                 },
                 "name":{
-                    "en":"Texaco Road, near S.K.H. Crown Of Thorns Church & Sadick Kindergarten",
+                    "en":"Texaco Road, Near S.K.H. Crown Of Thorns Church & Sadick Kindergarten",
                     "zh":"德士古道, 近聖公會荊冕堂暨士德幼稚園"
                 }
             },
@@ -416524,8 +416523,8 @@
                     "lng":114.04729
                 },
                 "name":{
-                    "en":"Yuen Long (Sung Shan San Tsuen) Minibus Terminus",
-                    "zh":"元朗(崇山新村)小巴總站"
+                    "en":"Yuen Long (Sung Shan San Tsuen)",
+                    "zh":"元朗(崇山新村)"
                 }
             },
             "20016669":{
@@ -417074,8 +417073,8 @@
                     "lng":114.0325
                 },
                 "name":{
-                    "en":"Shan Pui Road Near United Court",
-                    "zh":"山貝路近同心村"
+                    "en":"Shan Pui Road, Near The Parcville Tower 13",
+                    "zh":"山貝路, 近采葉庭13座"
                 }
             },
             "20016745":{
@@ -417834,8 +417833,8 @@
                     "lng":114.1039
                 },
                 "name":{
-                    "en":"Tsing Luk Street outside SKH Tsing Yi Estate Ho Chak Wan Primary School",
-                    "zh":"青綠街, 聖公會青衣邨何澤芸小學外"
+                    "en":"Tsing Luk Street, Near S.K.H. Tsing Yi Estate Ho Chak Wan Primary School",
+                    "zh":"青綠街, 近聖公會青衣邨何澤芸小學"
                 }
             },
             "20016861":{
@@ -418604,8 +418603,8 @@
                     "lng":114.15793
                 },
                 "name":{
-                    "en":"Tonkin Street near Cheung Sha Wan Station Exit A2 / Heep Woh Primary School",
-                    "zh":"東京街近港鐵長沙灣站A2出口 / 協和小學"
+                    "en":"Tonkin Street, Near C.C.C. Heep Woh Primary School (Cheung Sha Wan)",
+                    "zh":"東京街, 近中華基督教會協和小學（長沙灣）"
                 }
             },
             "20016998":{
@@ -690848,10 +690847,6 @@
             "HK1":{
                 "en":"Kowloon Bus Tour",
                 "zh":"九龍旅遊路線"
-            },
-            "LB1":{
-                "en":"Leisure Bus 🏞",
-                "zh":"郊遊遠足路線 🏞"
             },
             "PB1":{
                 "en":"Pet Bus 🐾",
