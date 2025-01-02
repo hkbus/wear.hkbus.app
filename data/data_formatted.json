@@ -39413,7 +39413,7 @@
                     "zh":"尖沙咀(麼地道)"
                 },
                 "freq":null,
-                "gtfsId":"30739899",
+                "gtfsId":"30821995",
                 "jt":null,
                 "nlbId":null,
                 "orig":{
@@ -107142,7 +107142,7 @@
                     "zh":"香港仔 (經域多利道)"
                 },
                 "freq":null,
-                "gtfsId":"14501797",
+                "gtfsId":"20231509",
                 "jt":null,
                 "nlbId":null,
                 "orig":{
@@ -131411,7 +131411,7 @@
                     "zh":"堅尼地城"
                 },
                 "freq":null,
-                "gtfsId":"90960018",
+                "gtfsId":"85905742",
                 "jt":null,
                 "nlbId":null,
                 "orig":{
@@ -273235,7 +273235,7 @@
                     "zh":"旺角"
                 },
                 "freq":null,
-                "gtfsId":"15686413",
+                "gtfsId":"88821008",
                 "jt":null,
                 "nlbId":null,
                 "orig":{
@@ -279714,7 +279714,7 @@
                     "zh":"歌連臣角"
                 },
                 "freq":null,
-                "gtfsId":"86138759",
+                "gtfsId":"69320400",
                 "jt":null,
                 "nlbId":null,
                 "orig":{
@@ -291439,7 +291439,7 @@
                     "zh":"香園圍口岸"
                 },
                 "freq":null,
-                "gtfsId":"60339890",
+                "gtfsId":"78312834",
                 "jt":null,
                 "nlbId":null,
                 "orig":{
@@ -337241,7 +337241,7 @@
                     "zh":"亞洲國際博覽館"
                 },
                 "freq":null,
-                "gtfsId":"52602469",
+                "gtfsId":"65473629",
                 "jt":null,
                 "nlbId":null,
                 "orig":{
@@ -692332,11 +692332,11 @@
         "ctb":{
             "101R":{
                 "en":"Horse Racing Days only, Cross Harbour",
-                "zh":"\\xe8\\xb3\\xbd\\xe9\\xa6\\xac\\xe6\\x97\\xa5\\xe6\\x9c\\x8d\\xe5\\x8b\\x99 \\xe9\\x81\\x8e\\xe6\\xb5\\xb7\\xe7\\xb7\\x9a"
+                "zh":"賽馬日服務 過海線"
             },
             "102R":{
                 "en":"Horse Racing Days only, Cross Harbour",
-                "zh":"\\xe8\\xb3\\xbd\\xe9\\xa6\\xac\\xe6\\x97\\xa5\\xe6\\x9c\\x8d\\xe5\\x8b\\x99 \\xe9\\x81\\x8e\\xe6\\xb5\\xb7\\xe7\\xb7\\x9a"
+                "zh":"賽馬日服務 過海線"
             },
             "173R":{
                 "en":"Route Details TBD",
@@ -692344,11 +692344,11 @@
             },
             "20R":{
                 "en":"Service on specified day",
-                "zh":"\\xe7\\x89\\xb9\\xe5\\xae\\x9a\\xe6\\x97\\xa5\\xe5\\xad\\x90\\xe6\\x9c\\x8d\\xe5\\x8b\\x99"
+                "zh":"特定日子服務"
             },
             "22R":{
                 "en":"Service on specified day",
-                "zh":"\\xe7\\x89\\xb9\\xe5\\xae\\x9a\\xe6\\x97\\xa5\\xe5\\xad\\x90\\xe6\\x9c\\x8d\\xe5\\x8b\\x99"
+                "zh":"特定日子服務"
             },
             "347":{
                 "en":"Route Details TBD",
@@ -692356,11 +692356,11 @@
             },
             "388":{
                 "en":"Circular, Service on specified day",
-                "zh":"\\xe5\\xbe\\xaa\\xe7\\x92\\xb0\\xe7\\xb7\\x9a \\xe7\\x89\\xb9\\xe5\\xae\\x9a\\xe6\\x97\\xa5\\xe5\\xad\\x90\\xe6\\x9c\\x8d\\xe5\\x8b\\x99"
+                "zh":"循環線 特定日子服務"
             },
             "389":{
                 "en":"Circular, Service on specified day",
-                "zh":"\\xe5\\xbe\\xaa\\xe7\\x92\\xb0\\xe7\\xb7\\x9a \\xe7\\x89\\xb9\\xe5\\xae\\x9a\\xe6\\x97\\xa5\\xe5\\xad\\x90\\xe6\\x9c\\x8d\\xe5\\x8b\\x99"
+                "zh":"循環線 特定日子服務"
             },
             "43R":{
                 "en":"Route Details TBD",
@@ -692368,27 +692368,23 @@
             },
             "50R":{
                 "en":"Service on specified day",
-                "zh":"\\xe7\\x89\\xb9\\xe5\\xae\\x9a\\xe6\\x97\\xa5\\xe5\\xad\\x90\\xe6\\x9c\\x8d\\xe5\\x8b\\x99"
+                "zh":"特定日子服務"
             },
             "61R":{
                 "en":"Peak only, Monday to Friday only",
-                "zh":"\\xe7\\xb9\\x81\\xe5\\xbf\\x99\\xe6\\x99\\x82\\xe9\\x96\\x93 \\xe6\\x98\\x9f\\xe6\\x9c\\x9f\\xe4\\xb8\\x80\\xe8\\x87\\xb3\\xe4\\xba\\x94"
+                "zh":"繁忙時間 星期一至五"
             },
             "629M":{
                 "en":"Service on specified day",
-                "zh":"\\xe7\\x89\\xb9\\xe5\\xae\\x9a\\xe6\\x97\\xa5\\xe5\\xad\\x90\\xe6\\x9c\\x8d\\xe5\\x8b\\x99"
+                "zh":"特定日子服務"
             },
             "796R":{
                 "en":"Service on specified day",
-                "zh":"\\xe7\\x89\\xb9\\xe5\\xae\\x9a\\xe6\\x97\\xa5\\xe5\\xad\\x90\\xe6\\x9c\\x8d\\xe5\\x8b\\x99"
-            },
-            "88R":{
-                "en":"",
-                "zh":""
+                "zh":"特定日子服務"
             },
             "8S":{
                 "en":"Horse Racing Days only",
-                "zh":"\\xe8\\xb3\\xbd\\xe9\\xa6\\xac\\xe6\\x97\\xa5\\xe6\\x9c\\x8d\\xe5\\x8b\\x99"
+                "zh":"賽馬日服務"
             },
             "971R":{
                 "en":"Route Details TBD",
@@ -692416,7 +692412,7 @@
             },
             "X1":{
                 "en":"Service on specified day",
-                "zh":"\\xe7\\x89\\xb9\\xe5\\xae\\x9a\\xe6\\x97\\xa5\\xe5\\xad\\x90\\xe6\\x9c\\x8d\\xe5\\x8b\\x99"
+                "zh":"特定日子服務"
             },
             "X55":{
                 "en":"Route Details TBD",
@@ -692424,7 +692420,11 @@
             },
             "X797":{
                 "en":"Service on specified day",
-                "zh":"\\xe7\\x89\\xb9\\xe5\\xae\\x9a\\xe6\\x97\\xa5\\xe5\\xad\\x90\\xe6\\x9c\\x8d\\xe5\\x8b\\x99"
+                "zh":"特定日子服務"
+            },
+            "路線號碼":{
+                "en":"",
+                "zh":"備註"
             }
         },
         "kmb":{
