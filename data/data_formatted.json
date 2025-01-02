@@ -39413,7 +39413,7 @@
                     "zh":"尖沙咀(麼地道)"
                 },
                 "freq":null,
-                "gtfsId":"56694560",
+                "gtfsId":"30739899",
                 "jt":null,
                 "nlbId":null,
                 "orig":{
@@ -107142,7 +107142,7 @@
                     "zh":"香港仔 (經域多利道)"
                 },
                 "freq":null,
-                "gtfsId":"28124687",
+                "gtfsId":"14501797",
                 "jt":null,
                 "nlbId":null,
                 "orig":{
@@ -131411,7 +131411,7 @@
                     "zh":"堅尼地城"
                 },
                 "freq":null,
-                "gtfsId":"95109026",
+                "gtfsId":"90960018",
                 "jt":null,
                 "nlbId":null,
                 "orig":{
@@ -273235,7 +273235,7 @@
                     "zh":"旺角"
                 },
                 "freq":null,
-                "gtfsId":"71397831",
+                "gtfsId":"15686413",
                 "jt":null,
                 "nlbId":null,
                 "orig":{
@@ -279714,7 +279714,7 @@
                     "zh":"歌連臣角"
                 },
                 "freq":null,
-                "gtfsId":"52427659",
+                "gtfsId":"86138759",
                 "jt":null,
                 "nlbId":null,
                 "orig":{
@@ -291439,7 +291439,7 @@
                     "zh":"香園圍口岸"
                 },
                 "freq":null,
-                "gtfsId":"63563741",
+                "gtfsId":"60339890",
                 "jt":null,
                 "nlbId":null,
                 "orig":{
@@ -337241,7 +337241,7 @@
                     "zh":"亞洲國際博覽館"
                 },
                 "freq":null,
-                "gtfsId":"28179879",
+                "gtfsId":"52602469",
                 "jt":null,
                 "nlbId":null,
                 "orig":{
@@ -692330,17 +692330,65 @@
     },
     "routeRemarks":{
         "ctb":{
+            "101R":{
+                "en":"Horse Racing Days only, Cross Harbour",
+                "zh":"\\xe8\\xb3\\xbd\\xe9\\xa6\\xac\\xe6\\x97\\xa5\\xe6\\x9c\\x8d\\xe5\\x8b\\x99 \\xe9\\x81\\x8e\\xe6\\xb5\\xb7\\xe7\\xb7\\x9a"
+            },
+            "102R":{
+                "en":"Horse Racing Days only, Cross Harbour",
+                "zh":"\\xe8\\xb3\\xbd\\xe9\\xa6\\xac\\xe6\\x97\\xa5\\xe6\\x9c\\x8d\\xe5\\x8b\\x99 \\xe9\\x81\\x8e\\xe6\\xb5\\xb7\\xe7\\xb7\\x9a"
+            },
             "173R":{
                 "en":"Route Details TBD",
                 "zh":"未有路線資訊"
+            },
+            "20R":{
+                "en":"Service on specified day",
+                "zh":"\\xe7\\x89\\xb9\\xe5\\xae\\x9a\\xe6\\x97\\xa5\\xe5\\xad\\x90\\xe6\\x9c\\x8d\\xe5\\x8b\\x99"
+            },
+            "22R":{
+                "en":"Service on specified day",
+                "zh":"\\xe7\\x89\\xb9\\xe5\\xae\\x9a\\xe6\\x97\\xa5\\xe5\\xad\\x90\\xe6\\x9c\\x8d\\xe5\\x8b\\x99"
             },
             "347":{
                 "en":"Route Details TBD",
                 "zh":"未有路線資訊"
             },
+            "388":{
+                "en":"Circular, Service on specified day",
+                "zh":"\\xe5\\xbe\\xaa\\xe7\\x92\\xb0\\xe7\\xb7\\x9a \\xe7\\x89\\xb9\\xe5\\xae\\x9a\\xe6\\x97\\xa5\\xe5\\xad\\x90\\xe6\\x9c\\x8d\\xe5\\x8b\\x99"
+            },
+            "389":{
+                "en":"Circular, Service on specified day",
+                "zh":"\\xe5\\xbe\\xaa\\xe7\\x92\\xb0\\xe7\\xb7\\x9a \\xe7\\x89\\xb9\\xe5\\xae\\x9a\\xe6\\x97\\xa5\\xe5\\xad\\x90\\xe6\\x9c\\x8d\\xe5\\x8b\\x99"
+            },
             "43R":{
                 "en":"Route Details TBD",
                 "zh":"未有路線資訊"
+            },
+            "50R":{
+                "en":"Service on specified day",
+                "zh":"\\xe7\\x89\\xb9\\xe5\\xae\\x9a\\xe6\\x97\\xa5\\xe5\\xad\\x90\\xe6\\x9c\\x8d\\xe5\\x8b\\x99"
+            },
+            "61R":{
+                "en":"Peak only, Monday to Friday only",
+                "zh":"\\xe7\\xb9\\x81\\xe5\\xbf\\x99\\xe6\\x99\\x82\\xe9\\x96\\x93 \\xe6\\x98\\x9f\\xe6\\x9c\\x9f\\xe4\\xb8\\x80\\xe8\\x87\\xb3\\xe4\\xba\\x94"
+            },
+            "629M":{
+                "en":"Service on specified day",
+                "zh":"\\xe7\\x89\\xb9\\xe5\\xae\\x9a\\xe6\\x97\\xa5\\xe5\\xad\\x90\\xe6\\x9c\\x8d\\xe5\\x8b\\x99"
+            },
+            "796R":{
+                "en":"Service on specified day",
+                "zh":"\\xe7\\x89\\xb9\\xe5\\xae\\x9a\\xe6\\x97\\xa5\\xe5\\xad\\x90\\xe6\\x9c\\x8d\\xe5\\x8b\\x99"
+            },
+            "88R":{
+                "en":"",
+                "zh":""
+            },
+            "8S":{
+                "en":"Horse Racing Days only",
+                "zh":"\\xe8\\xb3\\xbd\\xe9\\xa6\\xac\\xe6\\x97\\xa5\\xe6\\x9c\\x8d\\xe5\\x8b\\x99"
             },
             "971R":{
                 "en":"Route Details TBD",
@@ -692366,9 +692414,17 @@
                 "en":"Cross Harbour Bus Tour",
                 "zh":"過海旅遊路線"
             },
+            "X1":{
+                "en":"Service on specified day",
+                "zh":"\\xe7\\x89\\xb9\\xe5\\xae\\x9a\\xe6\\x97\\xa5\\xe5\\xad\\x90\\xe6\\x9c\\x8d\\xe5\\x8b\\x99"
+            },
             "X55":{
                 "en":"Route Details TBD",
                 "zh":"未有路線資訊"
+            },
+            "X797":{
+                "en":"Service on specified day",
+                "zh":"\\xe7\\x89\\xb9\\xe5\\xae\\x9a\\xe6\\x97\\xa5\\xe5\\xad\\x90\\xe6\\x9c\\x8d\\xe5\\x8b\\x99"
             }
         },
         "kmb":{
@@ -692451,6 +692507,10 @@
             "N273":{
                 "en":"Tthe route is operated only on 10 and 12 Feb 2024",
                 "zh":"本路線只於2024年2月10及12日提供服務"
+            },
+            "N276":{
+                "en":"On Specific Day Only 31/12,1,3-5,10-12,17-19,24-31",
+                "zh":"指定日期服務 31/12,1,3-5,10-12,17-19,24-31/1"
             },
             "N601":{
                 "en":"On 10 February 2024 only",
