@@ -39413,7 +39413,7 @@
                     "zh":"尖沙咀(麼地道)"
                 },
                 "freq":null,
-                "gtfsId":"30821995",
+                "gtfsId":"57360092",
                 "jt":null,
                 "nlbId":null,
                 "orig":{
@@ -107142,7 +107142,7 @@
                     "zh":"香港仔 (經域多利道)"
                 },
                 "freq":null,
-                "gtfsId":"20231509",
+                "gtfsId":"67647821",
                 "jt":null,
                 "nlbId":null,
                 "orig":{
@@ -131411,7 +131411,7 @@
                     "zh":"堅尼地城"
                 },
                 "freq":null,
-                "gtfsId":"85905742",
+                "gtfsId":"63176461",
                 "jt":null,
                 "nlbId":null,
                 "orig":{
@@ -273235,7 +273235,7 @@
                     "zh":"旺角"
                 },
                 "freq":null,
-                "gtfsId":"88821008",
+                "gtfsId":"44025852",
                 "jt":null,
                 "nlbId":null,
                 "orig":{
@@ -279714,7 +279714,7 @@
                     "zh":"歌連臣角"
                 },
                 "freq":null,
-                "gtfsId":"69320400",
+                "gtfsId":"28864827",
                 "jt":null,
                 "nlbId":null,
                 "orig":{
@@ -291439,7 +291439,7 @@
                     "zh":"香園圍口岸"
                 },
                 "freq":null,
-                "gtfsId":"78312834",
+                "gtfsId":"24890317",
                 "jt":null,
                 "nlbId":null,
                 "orig":{
@@ -337241,7 +337241,7 @@
                     "zh":"亞洲國際博覽館"
                 },
                 "freq":null,
-                "gtfsId":"65473629",
+                "gtfsId":"95423450",
                 "jt":null,
                 "nlbId":null,
                 "orig":{
@@ -692421,10 +692421,6 @@
             "X797":{
                 "en":"Service on specified day",
                 "zh":"特定日子服務"
-            },
-            "路線號碼":{
-                "en":"",
-                "zh":"備註"
             }
         },
         "kmb":{
