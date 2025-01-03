@@ -693256,13 +693256,145 @@
             }
         },
         "kmb":{
+            "254R":{
+                "en":"only service on Shek Kong Barrack open day",
+                "zh":"只在石崗軍營開放日服務"
+            },
             "25R":{
                 "en":"Service on 23 & 24 September 2023 only",
                 "zh":"只於2023年9月23及24日提供服務"
             },
+            "32P":{
+                "en":"On Specific Day Only",
+                "zh":"指定日期服務"
+            },
+            "331":{
+                "en":"Sun Bus(NR331)",
+                "zh":"陽光巴士(NR331)"
+            },
+            "331S":{
+                "en":"Sun Bus(NR331S)",
+                "zh":"陽光巴士(NR331S)"
+            },
+            "36R":{
+                "en":"On Specific Day Only",
+                "zh":"指定日期服務"
+            },
+            "38S":{
+                "en":"On Specific Day Only",
+                "zh":"指定日期服務"
+            },
+            "41R":{
+                "en":"On Specific Day Only",
+                "zh":"指定日期服務"
+            },
+            "63R":{
+                "en":"On 4 May 2024 Only",
+                "zh":"只於5月4日提供服務"
+            },
+            "75R":{
+                "en":"28-31/12/2024",
+                "zh":"28-31/12/2024"
+            },
+            "848":{
+                "en":"On Specific Day Only",
+                "zh":"指定日期服務"
+            },
+            "917":{
+                "en":"Sun Bus(NR917)",
+                "zh":"陽光巴士(NR917)"
+            },
+            "918":{
+                "en":"Sun Bus(NR918)",
+                "zh":"陽光巴士(NR918)"
+            },
+            "945":{
+                "en":"Sun Bus(NR945)",
+                "zh":"陽光巴士(NR945)"
+            },
+            "960R":{
+                "en":"On Specific Day Only 8/12/2024",
+                "zh":"指定日期服務 8/12/2024"
+            },
             "HK1":{
                 "en":"Kowloon Bus Tour",
                 "zh":"九龍旅遊路線"
+            },
+            "N116":{
+                "en":"On 10 February 2024 only",
+                "zh":"只在年三十晚服務"
+            },
+            "N243":{
+                "en":"Specific Day Only",
+                "zh":"指定日期服務"
+            },
+            "N272":{
+                "en":"On 25/12/2024, 1/1/2025 mid-night only",
+                "zh":"只於 25/12/2024, 1/1/2025 凌晨提供服務"
+            },
+            "N273":{
+                "en":"Tthe route is operated only on 10 and 12 Feb 2024",
+                "zh":"本路線只於2024年2月10及12日提供服務"
+            },
+            "N276":{
+                "en":"On Specific Day Only 31/12,1,3-5,10-12,17-19,24-31",
+                "zh":"指定日期服務 31/12,1,3-5,10-12,17-19,24-31/1"
+            },
+            "N601":{
+                "en":"On 10 February 2024 only",
+                "zh":"只在年三十晚服務"
+            },
+            "N64P":{
+                "en":"On 25/12/2024 and 1/1/2025 mid-night only",
+                "zh":"只於 25/12/2024, 1/1/2025 凌晨提供服務"
+            },
+            "PB1":{
+                "en":"HK Gold Coast Pet Bus Tour",
+                "zh":"黃金海岸寵物巴士團"
+            },
+            "PB2":{
+                "en":"West Kowloon & Central Pet Bus",
+                "zh":"西九、中環寵物巴士團"
+            },
+            "PB3":{
+                "en":"Pak Shek Kok Pet Bus Tour",
+                "zh":"白石角寵物巴士團"
+            },
+            "PB4":{
+                "en":"Tung Chung & Disneyland Pet Bus Tour",
+                "zh":"東涌、士尼樂園寵物巴士團"
+            },
+            "PB5":{
+                "en":"Sai Sha Go Park, Sai Kung Pet Bus Tour",
+                "zh":"西沙 Go Park, 西貢寵物巴士團"
+            },
+            "PB6":{
+                "en":"Tseung Kwan O Pet Bus Tour",
+                "zh":"將軍澳寵物巴士團"
+            },
+            "PN17":{
+                "en":"Pet Bus",
+                "zh":"寵物巴士團"
+            },
+            "PN18":{
+                "en":"Pet Bus",
+                "zh":"寵物巴士團"
+            },
+            "PN19":{
+                "en":"Pet Bus",
+                "zh":"寵物巴士團"
+            },
+            "PN20":{
+                "en":"Pet Bus",
+                "zh":"寵物巴士團"
+            },
+            "R934":{
+                "en":"Marathon Special Route",
+                "zh":"馬拉松特別路線"
+            },
+            "R948":{
+                "en":"Marathon Special Route",
+                "zh":"馬拉松特別路線"
             }
         },
         "nlb":{
