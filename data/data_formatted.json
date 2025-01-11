@@ -45452,7 +45452,7 @@
                     ]
                 }
             },
-            "20A+1+High Speed Rail West Kowloon Station (via: Mong Kok)+Kai Tak Cruise Terminal (via: Mong Kok)":{
+            "20A+1+HSR West Kowloon Station (via: Mong Kok)+Kai Tak Cruise Terminal (via: Mong Kok)":{
                 "bound":{
                     "ctb":"I"
                 },
@@ -45505,7 +45505,7 @@
                 "jt":"62",
                 "nlbId":null,
                 "orig":{
-                    "en":"High Speed Rail West Kowloon Station (via: Mong Kok)",
+                    "en":"HSR West Kowloon Station (via: Mong Kok)",
                     "zh":"高鐵西九龍站 (經:旺角)"
                 },
                 "route":"20A",
@@ -45548,7 +45548,7 @@
                     ]
                 }
             },
-            "20A+1+Kai Tak Cruise Terminal (via: Mong Kok)+High Speed Rail West Kowloon Station (via: Mong Kok)":{
+            "20A+1+Kai Tak Cruise Terminal (via: Mong Kok)+HSR West Kowloon Station (via: Mong Kok)":{
                 "bound":{
                     "ctb":"O"
                 },
@@ -45556,7 +45556,7 @@
                     "ctb"
                 ],
                 "dest":{
-                    "en":"High Speed Rail West Kowloon Station (via: Mong Kok)",
+                    "en":"HSR West Kowloon Station (via: Mong Kok)",
                     "zh":"高鐵西九龍站 (經:旺角)"
                 },
                 "freq":{
@@ -45717,7 +45717,7 @@
                     ]
                 }
             },
-            "20A+2+High Speed Rail West Kowloon Station (via: Mong Kok)+Kai Tak Cruise Terminal (via: Mong Kok)":{
+            "20A+2+HSR West Kowloon Station (via: Mong Kok)+Kai Tak Cruise Terminal (via: Mong Kok)":{
                 "bound":{
                     "ctb":"I"
                 },
@@ -45737,7 +45737,7 @@
                 "jt":"68",
                 "nlbId":null,
                 "orig":{
-                    "en":"High Speed Rail West Kowloon Station (via: Mong Kok)",
+                    "en":"HSR West Kowloon Station (via: Mong Kok)",
                     "zh":"高鐵西九龍站 (經:旺角)"
                 },
                 "route":"20A",
@@ -45781,7 +45781,7 @@
                     ]
                 }
             },
-            "20A+2+Kai Tak Cruise Terminal (via: Mong Kok)+High Speed Rail West Kowloon Station (via: Mong Kok)":{
+            "20A+2+Kai Tak Cruise Terminal (via: Mong Kok)+HSR West Kowloon Station (via: Mong Kok)":{
                 "bound":{
                     "ctb":"O"
                 },
@@ -45789,7 +45789,7 @@
                     "ctb"
                 ],
                 "dest":{
-                    "en":"High Speed Rail West Kowloon Station (via: Mong Kok)",
+                    "en":"HSR West Kowloon Station (via: Mong Kok)",
                     "zh":"高鐵西九龍站 (經:旺角)"
                 },
                 "freq":{
@@ -262965,6 +262965,65 @@
                     ]
                 }
             },
+            "952P+2+Avignon, So Kwun Wat Road+Causeway Bay (Moreton Terrace)":{
+                "bound":{
+                    "ctb":"O"
+                },
+                "co":[
+                    "ctb"
+                ],
+                "dest":{
+                    "en":"Causeway Bay (Moreton Terrace)",
+                    "zh":"銅鑼灣 (摩頓台)"
+                },
+                "freq":{
+                    "287":{
+                        "0715":null,
+                        "0730":null,
+                        "0740":null,
+                        "0750":null
+                    }
+                },
+                "gtfsId":"1000009",
+                "jt":"74",
+                "nlbId":null,
+                "orig":{
+                    "en":"Avignon, So Kwun Wat Road",
+                    "zh":"星堤, 掃管笏路"
+                },
+                "route":"952P",
+                "serviceType":"2",
+                "stops":{
+                    "ctb":[
+                        "003490",
+                        "003484",
+                        "003543",
+                        "003793",
+                        "003486",
+                        "003487",
+                        "001891",
+                        "001892",
+                        "002048",
+                        "002049",
+                        "001893",
+                        "001894",
+                        "002050",
+                        "003363",
+                        "001629",
+                        "001027",
+                        "001029",
+                        "001031",
+                        "001174",
+                        "002427",
+                        "002432",
+                        "002435",
+                        "002437",
+                        "002555",
+                        "002535",
+                        "002536"
+                    ]
+                }
+            },
             "952P+2+Golden Beach, Castle Peak Road+Causeway Bay (Moreton Terrace)":{
                 "bound":{
                     "ctb":"O"
@@ -262994,65 +263053,6 @@
                     "ctb":[
                         "001889",
                         "001890",
-                        "001891",
-                        "001892",
-                        "002048",
-                        "002049",
-                        "001893",
-                        "001894",
-                        "002050",
-                        "003363",
-                        "001629",
-                        "001027",
-                        "001029",
-                        "001031",
-                        "001174",
-                        "002427",
-                        "002432",
-                        "002435",
-                        "002437",
-                        "002555",
-                        "002535",
-                        "002536"
-                    ]
-                }
-            },
-            "952P+2+So Kwun Wat Tsuen, So Kwun Wat Road+Causeway Bay (Moreton Terrace)":{
-                "bound":{
-                    "ctb":"O"
-                },
-                "co":[
-                    "ctb"
-                ],
-                "dest":{
-                    "en":"Causeway Bay (Moreton Terrace)",
-                    "zh":"銅鑼灣 (摩頓台)"
-                },
-                "freq":{
-                    "287":{
-                        "0715":null,
-                        "0730":null,
-                        "0740":null,
-                        "0750":null
-                    }
-                },
-                "gtfsId":"1000009",
-                "jt":"74",
-                "nlbId":null,
-                "orig":{
-                    "en":"So Kwun Wat Tsuen, So Kwun Wat Road",
-                    "zh":"掃管笏村, 掃管笏路"
-                },
-                "route":"952P",
-                "serviceType":"2",
-                "stops":{
-                    "ctb":[
-                        "003490",
-                        "003484",
-                        "003543",
-                        "003793",
-                        "003486",
-                        "003487",
                         "001891",
                         "001892",
                         "002048",
@@ -356881,7 +356881,7 @@
                     "lng":114.24228
                 },
                 "name":{
-                    "en":"Citybus Chong Fu Road Gararge, Sheung Tat Street",
+                    "en":"Citybus Chong Fu Road Garage, Sheung Tat Street",
                     "zh":"城巴創富道車廠, 常達街"
                 }
             },
@@ -364295,8 +364295,8 @@
                     "lng":113.99979
                 },
                 "name":{
-                    "en":"So Kwun Wat Tsuen, So Kwun Wat Road",
-                    "zh":"掃管笏村, 掃管笏路"
+                    "en":"Avignon, So Kwun Wat Road",
+                    "zh":"星堤, 掃管笏路"
                 }
             },
             "003491":{
@@ -364575,8 +364575,8 @@
                     "lng":114.20778
                 },
                 "name":{
-                    "en":"Shing Fung Road",
-                    "zh":"承豐道"
+                    "en":"Cullinan Harbour, Shing Fung Road",
+                    "zh":"天璽．海, 承豐道"
                 }
             },
             "003521":{
@@ -364675,8 +364675,8 @@
                     "lng":114.20791
                 },
                 "name":{
-                    "en":"Shing Fung Road",
-                    "zh":"承豐道"
+                    "en":"Miami Quay, Shing Fung Road",
+                    "zh":"Miami Quay, 承豐道"
                 }
             },
             "003536":{
@@ -364745,8 +364745,8 @@
                     "lng":114.00277
                 },
                 "name":{
-                    "en":"88 So Kwun Wat Road, So Kwun Wat Road",
-                    "zh":"掃管笏路 88 號, 掃管笏路"
+                    "en":"LEPONT, So Kwun Wat Road",
+                    "zh":"上源, 掃管笏路"
                 }
             },
             "003543":{
@@ -364755,8 +364755,8 @@
                     "lng":114.00223
                 },
                 "name":{
-                    "en":"88 So Kwun Wat Road, So Kwun Wat Road",
-                    "zh":"掃管笏路 88 號, 掃管笏路"
+                    "en":"NAPA, So Kwun Wat Road",
+                    "zh":"NAPA, 掃管笏路"
                 }
             },
             "003544":{
@@ -366945,8 +366945,8 @@
                     "lng":114.00023
                 },
                 "name":{
-                    "en":"18 Kwun Chui Road, Kwun Chui Road",
-                    "zh":"管翠路18號, 管翠路"
+                    "en":"MORI, Kwun Chui Road",
+                    "zh":"凱和山, 管翠路"
                 }
             },
             "003794":{
@@ -692192,6 +692192,10 @@
             "H2K":{
                 "en":"Cross Harbour Bus Tour",
                 "zh":"過海旅遊路線"
+            },
+            "R11":{
+                "en":"Service on specified day, Disneyland",
+                "zh":"特定日子服務 迪士尼樂園路線"
             },
             "X1":{
                 "en":"Service on specified day",
