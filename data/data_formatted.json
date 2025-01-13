@@ -53046,16 +53046,16 @@
                     ]
                 }
             },
-            "22D+1+Kai Tak - MTR Exit A, Muk On Street+Kai Tak - MTR Exit A, Muk On Street":{
+            "22D+1+Kai Tak - MTR Exit A, Muk On Street+EMSD Headquarters, Shing Kai Road":{
                 "bound":{
-                    "ctb":"OI"
+                    "ctb":"I"
                 },
                 "co":[
                     "ctb"
                 ],
                 "dest":{
-                    "en":"Kai Tak - MTR Exit A, Muk On Street (Circular)",
-                    "zh":"啟德 - 港鐵 A 出口, 沐安街 (循環線)"
+                    "en":"EMSD Headquarters, Shing Kai Road",
+                    "zh":"機電工程署總部, 承啟道"
                 },
                 "freq":{
                     "319":{
@@ -53084,9 +53084,9 @@
                         "003535",
                         "003790",
                         "003520",
+                        "003535",
                         "003708",
-                        "003612",
-                        "003587"
+                        "003612"
                     ]
                 }
             },
@@ -53097,7 +53097,6 @@
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Kai Tak Station",
                     "zh":"啟德站"
@@ -53117,8 +53116,7 @@
                         "003790",
                         "003520",
                         "003708",
-                        "003612",
-                        "003587"
+                        "003612"
                     ]
                 }
             },
@@ -53129,7 +53127,6 @@
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Kai Tak Runway Area",
                     "zh":"啟德跑道區"
@@ -53272,11 +53269,11 @@
                         "001609",
                         "003537",
                         "003705",
-                        "003587",
                         "003706",
                         "003369",
                         "003505",
                         "003808",
+                        "001576",
                         "001576",
                         "001577",
                         "002981",
@@ -53336,7 +53333,6 @@
                         "001609",
                         "003537",
                         "003705",
-                        "003587",
                         "003706",
                         "003369",
                         "003505",
