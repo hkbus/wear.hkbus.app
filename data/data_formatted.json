@@ -1353,6 +1353,8 @@
         "PN19",
         "PN20",
         "R11",
+        "R260",
+        "R261",
         "R33",
         "R42",
         "R78",
@@ -333447,6 +333449,62 @@
                         "001244",
                         "001254",
                         "001249"
+                    ]
+                }
+            },
+            "R260+99+TUEN MUN PIER HEAD+TSIM SHA TSUI EAST (MODY ROAD)":{
+                "bound":{
+                    "kmb":"O"
+                },
+                "co":[
+                    "kmb"
+                ],
+                "dest":{
+                    "en":"Tsim Sha Tsui East (Mody Road)",
+                    "zh":"尖沙咀東(麼地道)"
+                },
+                "freq":null,
+                "gtfsId":null,
+                "jt":null,
+                "nlbId":null,
+                "orig":{
+                    "en":"Tuen Mun Pier Head",
+                    "zh":"屯門碼頭"
+                },
+                "route":"R260",
+                "serviceType":"99",
+                "stops":{
+                    "kmb":[
+                        "ZZZZZZZZZZZZZZZY",
+                        "ZZZZZZZZZZZZZZZZ"
+                    ]
+                }
+            },
+            "R261+99+TUEN MUN (SAM SHING ESTATE)+TSIM SHA TSUI EAST (MODY ROAD)":{
+                "bound":{
+                    "kmb":"O"
+                },
+                "co":[
+                    "kmb"
+                ],
+                "dest":{
+                    "en":"Tsim Sha Tsui East (Mody Road)",
+                    "zh":"尖沙咀東(麼地道)"
+                },
+                "freq":null,
+                "gtfsId":null,
+                "jt":null,
+                "nlbId":null,
+                "orig":{
+                    "en":"Tuen Mun (Sam Shing Estate)",
+                    "zh":"屯門(三聖邨)"
+                },
+                "route":"R261",
+                "serviceType":"99",
+                "stops":{
+                    "kmb":[
+                        "ZZZZZZZZZZZZZZZY",
+                        "ZZZZZZZZZZZZZZZZ"
                     ]
                 }
             },
@@ -692338,6 +692396,14 @@
             "PN20":{
                 "en":"Pet Bus",
                 "zh":"寵物巴士團"
+            },
+            "R260":{
+                "en":"on 9/2/2025 - Route Details TBD",
+                "zh":"9/2/2025 (一天) - 未有路線資訊"
+            },
+            "R261":{
+                "en":"on 9/2/2025 - Route Details TBD",
+                "zh":"9/2/2025 (一天) - 未有路線資訊"
             },
             "R934":{
                 "en":"Marathon Special Route",
