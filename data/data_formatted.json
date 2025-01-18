@@ -1296,6 +1296,7 @@
         "N41X",
         "N42",
         "N42A",
+        "N43",
         "N44B",
         "N48",
         "N4A",
@@ -1354,12 +1355,14 @@
         "R11",
         "R260",
         "R261",
+        "R269",
         "R33",
         "R42",
         "R78",
         "R8",
         "R934",
         "R948",
+        "R968",
         "S1",
         "S52",
         "S52A",
@@ -327635,6 +327638,34 @@
                     ]
                 }
             },
+            "N43+99+TSUEN WAN STATION+TSING YI (CHEUNG WANG ESTATE)":{
+                "bound":{
+                    "kmb":"O"
+                },
+                "co":[
+                    "kmb"
+                ],
+                "dest":{
+                    "en":"Tsing Yi (Cheung Wang Estate)",
+                    "zh":"青衣(長宏邨)"
+                },
+                "freq":null,
+                "gtfsId":null,
+                "jt":null,
+                "nlbId":null,
+                "orig":{
+                    "en":"Tsuen Wan Station",
+                    "zh":"荃灣站"
+                },
+                "route":"N43",
+                "serviceType":"99",
+                "stops":{
+                    "kmb":[
+                        "ZZZZZZZZZZZZZZZY",
+                        "ZZZZZZZZZZZZZZZZ"
+                    ]
+                }
+            },
             "N44B+2+Lok Ma Chau Control Point+Tuen Mun Ferry Pier":{
                 "bound":{
                     "gmb":"O"
@@ -333728,6 +333759,34 @@
                     ]
                 }
             },
+            "R269+99+TIN TSZ+TSIM SHA TSUI EAST (MODY ROAD)":{
+                "bound":{
+                    "kmb":"O"
+                },
+                "co":[
+                    "kmb"
+                ],
+                "dest":{
+                    "en":"Tsim Sha Tsui East (Mody Road)",
+                    "zh":"尖沙咀東(麼地道)"
+                },
+                "freq":null,
+                "gtfsId":null,
+                "jt":null,
+                "nlbId":null,
+                "orig":{
+                    "en":"Tin Tsz",
+                    "zh":"天慈"
+                },
+                "route":"R269",
+                "serviceType":"99",
+                "stops":{
+                    "kmb":[
+                        "ZZZZZZZZZZZZZZZY",
+                        "ZZZZZZZZZZZZZZZZ"
+                    ]
+                }
+            },
             "R33+1+DISNEYLAND+TUEN MUN STATION":{
                 "bound":{
                     "kmb":"O"
@@ -334358,6 +334417,34 @@
                         "06C9926B2E2B304F",
                         "76B4054F2E1F00B0",
                         "17B98BD1165A7B92"
+                    ]
+                }
+            },
+            "R968+99+YUEN LONG (FUNG CHEUNG ROAD)+CAUSEWAY BAY (VICTORIA PARK)":{
+                "bound":{
+                    "kmb":"O"
+                },
+                "co":[
+                    "kmb"
+                ],
+                "dest":{
+                    "en":"Causeway Bay (Victoria Park)",
+                    "zh":"銅鑼灣(維多利亞公園)"
+                },
+                "freq":null,
+                "gtfsId":null,
+                "jt":null,
+                "nlbId":null,
+                "orig":{
+                    "en":"Yuen Long (Fung Cheung Road)",
+                    "zh":"元朗(鳳翔路)"
+                },
+                "route":"R968",
+                "serviceType":"99",
+                "stops":{
+                    "kmb":[
+                        "ZZZZZZZZZZZZZZZY",
+                        "ZZZZZZZZZZZZZZZZ"
                     ]
                 }
             },
@@ -692955,6 +693042,10 @@
                 "en":"On Specific Day Only 1,3-5,10-12,17-19,24-31/1",
                 "zh":"指定日期服務 1,3-5,10-12,17-19,24-31/1"
             },
+            "N43":{
+                "en":"Service on LNY EVE - Route Details TBD",
+                "zh":"只在指定服務日 - 未有路線資訊"
+            },
             "N64P":{
                 "en":"On 29/1/2025 mid-night only",
                 "zh":"只於 29/1/2025 凌晨提供服務"
@@ -693007,6 +693098,10 @@
                 "en":"on 9/2/2025",
                 "zh":"9/2/2025 (一天)"
             },
+            "R269":{
+                "en":"on 9/2/2025 - Route Details TBD",
+                "zh":"9/2/2025 (一天) - 未有路線資訊"
+            },
             "R934":{
                 "en":"Marathon Special Route",
                 "zh":"馬拉松特別路線"
@@ -693014,6 +693109,10 @@
             "R948":{
                 "en":"Marathon Special Route",
                 "zh":"馬拉松特別路線"
+            },
+            "R968":{
+                "en":"on 9/2/2025 - Route Details TBD",
+                "zh":"9/2/2025 (一天) - 未有路線資訊"
             }
         },
         "nlb":{
