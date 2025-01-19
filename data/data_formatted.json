@@ -1210,6 +1210,7 @@
         "E33P",
         "E36",
         "E36A",
+        "E36C",
         "E36P",
         "E36S",
         "E37",
@@ -78508,117 +78509,6 @@
                     ]
                 }
             },
-            "272A+1+UNIVERSITY STATION+PAK SHEK KOK (CIRCULAR)":{
-                "bound":{
-                    "kmb":"O"
-                },
-                "co":[
-                    "kmb"
-                ],
-                "dest":{
-                    "en":"Pak Shek Kok (Circular)",
-                    "zh":"白石角(循環線)"
-                },
-                "freq":{
-                    "287":{
-                        "0600":[
-                            "0700",
-                            "1200"
-                        ],
-                        "0700":[
-                            "0740",
-                            "480"
-                        ],
-                        "0740":[
-                            "0800",
-                            "600"
-                        ],
-                        "0800":[
-                            "0830",
-                            "900"
-                        ],
-                        "0830":[
-                            "1710",
-                            "1200"
-                        ],
-                        "1710":[
-                            "1910",
-                            "900"
-                        ],
-                        "1910":[
-                            "2230",
-                            "1200"
-                        ],
-                        "2230":[
-                            "2400",
-                            "1800"
-                        ]
-                    },
-                    "288":{
-                        "0600":[
-                            "0700",
-                            "1200"
-                        ],
-                        "0700":[
-                            "0830",
-                            "900"
-                        ],
-                        "0830":[
-                            "2230",
-                            "1200"
-                        ],
-                        "2230":[
-                            "2400",
-                            "1800"
-                        ]
-                    },
-                    "480":{
-                        "0600":[
-                            "0650",
-                            "1500"
-                        ],
-                        "0650":[
-                            "2230",
-                            "1200"
-                        ],
-                        "2230":[
-                            "2400",
-                            "1800"
-                        ]
-                    }
-                },
-                "gtfsId":"8134",
-                "jt":"12",
-                "nlbId":null,
-                "orig":{
-                    "en":"University Station",
-                    "zh":"大學站"
-                },
-                "route":"272A",
-                "serviceType":"1",
-                "stops":{
-                    "kmb":[
-                        "9F542D4B6CF41651",
-                        "739A5DDE0CF1970C",
-                        "9E95343C77BB85E2",
-                        "F808AF482CCA028E",
-                        "BE940A2F1B154D6E",
-                        "E8F5E085BAEFE100",
-                        "3313B37BF82AFF18",
-                        "F8F0E91589F099CD",
-                        "5747450359C7907C",
-                        "D31420E8C08168FC",
-                        "3F24CFF9046300D9",
-                        "3A7AC3A5F9530786",
-                        "39E7051B17D302DA",
-                        "1C6EAAF5F48167F9",
-                        "1D1571E9D1588FBE",
-                        "64101F297D3C1C55",
-                        "5B39CC28607910E4",
-                        "EC5018363D5C45EB"
-                    ]
-                }
-            },
             "272A+2+UNIVERSITY STATION+POK YIN ROAD":{
                 "bound":{
                     "kmb":"O"
@@ -78687,6 +78577,49 @@
                 "serviceType":"3",
                 "stops":{
                     "kmb":[
+                        "F8F0E91589F099CD",
+                        "5747450359C7907C",
+                        "D31420E8C08168FC",
+                        "3F24CFF9046300D9",
+                        "3A7AC3A5F9530786",
+                        "39E7051B17D302DA",
+                        "1C6EAAF5F48167F9",
+                        "1D1571E9D1588FBE",
+                        "64101F297D3C1C55",
+                        "5B39CC28607910E4",
+                        "EC5018363D5C45EB"
+                    ]
+                }
+            },
+            "272A+4+UNIVERSITY STATION+PAK SHEK KOK (CIRCULAR)":{
+                "bound":{
+                    "kmb":"O"
+                },
+                "co":[
+                    "kmb"
+                ],
+                "dest":{
+                    "en":"Pak Shek Kok (Circular)",
+                    "zh":"白石角(循環線)"
+                },
+                "freq":null,
+                "gtfsId":null,
+                "nlbId":null,
+                "orig":{
+                    "en":"University Station",
+                    "zh":"大學站"
+                },
+                "route":"272A",
+                "serviceType":"4",
+                "stops":{
+                    "kmb":[
+                        "9F542D4B6CF41651",
+                        "739A5DDE0CF1970C",
+                        "9E95343C77BB85E2",
+                        "F808AF482CCA028E",
+                        "BE940A2F1B154D6E",
+                        "E8F5E085BAEFE100",
+                        "3313B37BF82AFF18",
                         "F8F0E91589F099CD",
                         "5747450359C7907C",
                         "D31420E8C08168FC",
@@ -297336,6 +297269,34 @@
                     ]
                 }
             },
+            "E36C+99+AIRCRAFT MAINTENANCE AREA+YUEN LONG (TAK YIP STREET)":{
+                "bound":{
+                    "kmb":"O"
+                },
+                "co":[
+                    "kmb"
+                ],
+                "dest":{
+                    "en":"Yuen Long (Tak Yip Street)",
+                    "zh":"元朗(德業街)"
+                },
+                "freq":null,
+                "gtfsId":null,
+                "jt":null,
+                "nlbId":null,
+                "orig":{
+                    "en":"Aircraft Maintenance Area",
+                    "zh":"飛機維修區"
+                },
+                "route":"E36C",
+                "serviceType":"99",
+                "stops":{
+                    "kmb":[
+                        "ZZZZZZZZZZZZZZZY",
+                        "ZZZZZZZZZZZZZZZZ"
+                    ]
+                }
+            },
             "E36P+1+SHEUNG TSUEN+SKYCITY":{
                 "bound":{
                     "kmb":"O"
@@ -327638,7 +327599,7 @@
                     ]
                 }
             },
-            "N43+99+TSUEN WAN STATION+TSING YI (CHEUNG WANG ESTATE)":{
+            "N43+1+TSUEN WAN STATION+TSING YI (CHEUNG WANG ESTATE)":{
                 "bound":{
                     "kmb":"O"
                 },
@@ -327651,18 +327612,34 @@
                 },
                 "freq":null,
                 "gtfsId":null,
-                "jt":null,
                 "nlbId":null,
                 "orig":{
                     "en":"Tsuen Wan Station",
                     "zh":"荃灣站"
                 },
                 "route":"N43",
-                "serviceType":"99",
+                "serviceType":"1",
                 "stops":{
                     "kmb":[
-                        "ZZZZZZZZZZZZZZZY",
-                        "ZZZZZZZZZZZZZZZZ"
+                        "520D0D5DB7FAB41C",
+                        "92A8281D80524F78",
+                        "CDEB07C7C0841D5B",
+                        "F9F75324B8F1D7E3",
+                        "FE90421D0B82E691",
+                        "F9F4E00007242BED",
+                        "4E870B220826BEE0",
+                        "5AD2A4D21C226335",
+                        "A454170B2B59B587",
+                        "D6E7412666B1175B",
+                        "21A1859E80CD542A",
+                        "6DF1AF2871D4B7D9",
+                        "196A1E44C305C174",
+                        "BDE0F1679E1C8ABF",
+                        "13458794A52910B0",
+                        "3F13933D0157CFCF",
+                        "A2BE47AFF20CD4F6",
+                        "CC6B75E6D60B4C57",
+                        "79842A7E2FC0844F"
                     ]
                 }
             },
@@ -333759,7 +333736,7 @@
                     ]
                 }
             },
-            "R269+99+TIN TSZ+TSIM SHA TSUI EAST (MODY ROAD)":{
+            "R269+1+TIN TSZ+TSIM SHA TSUI EAST (MODY ROAD)":{
                 "bound":{
                     "kmb":"O"
                 },
@@ -333772,18 +333749,39 @@
                 },
                 "freq":null,
                 "gtfsId":null,
-                "jt":null,
                 "nlbId":null,
                 "orig":{
                     "en":"Tin Tsz",
                     "zh":"天慈"
                 },
                 "route":"R269",
-                "serviceType":"99",
+                "serviceType":"1",
                 "stops":{
                     "kmb":[
-                        "ZZZZZZZZZZZZZZZY",
-                        "ZZZZZZZZZZZZZZZZ"
+                        "868AEC6A9B5704FB",
+                        "D813C93D9AD1C45B",
+                        "7BB395B6FE66E102",
+                        "6D4E7B9D5F9584E7",
+                        "47AB1894215AECEE",
+                        "42AEF6365E78DA56",
+                        "8753A8442C2FFF53",
+                        "8D56DB404D264D5A",
+                        "67D80F37744E1277",
+                        "080EF1BEA737A5D3",
+                        "AFB9321F7CD2C2E4",
+                        "7898B605E39613A8",
+                        "CB853E4BCBB13F30",
+                        "C20316E552E64387",
+                        "1C0A89BD67A4CFF0",
+                        "BCC6E5BA6810FED6",
+                        "B02B0B9F73E50D93",
+                        "D54B0CA58FE5559D",
+                        "51BD0FD05C62F3F4",
+                        "53AC50E46ABDA85B",
+                        "591FA32FB4B53682",
+                        "447C1D79A10C83E2",
+                        "F2508598F5A43655",
+                        "1E5EADCD9F424F07"
                     ]
                 }
             },
@@ -334420,7 +334418,7 @@
                     ]
                 }
             },
-            "R968+99+YUEN LONG (FUNG CHEUNG ROAD)+CAUSEWAY BAY (VICTORIA PARK)":{
+            "R968+1+YUEN LONG (FUNG CHEUNG ROAD)+CAUSEWAY BAY (VICTORIA PARK)":{
                 "bound":{
                     "kmb":"O"
                 },
@@ -334433,18 +334431,30 @@
                 },
                 "freq":null,
                 "gtfsId":null,
-                "jt":null,
                 "nlbId":null,
                 "orig":{
                     "en":"Yuen Long (Fung Cheung Road)",
                     "zh":"元朗(鳳翔路)"
                 },
                 "route":"R968",
-                "serviceType":"99",
+                "serviceType":"1",
                 "stops":{
                     "kmb":[
-                        "ZZZZZZZZZZZZZZZY",
-                        "ZZZZZZZZZZZZZZZZ"
+                        "E81DF9AB738F076E",
+                        "C8FF8B4A87A98184",
+                        "D412D24055680560",
+                        "5169CFB5102E1129",
+                        "C5890150706FE1A0",
+                        "283BB233842FCCEB",
+                        "B02B0B9F73E50D93",
+                        "C296D9B3313C1F77",
+                        "AD4CB5E1CAAF8063",
+                        "723EF8D7809D3ADB",
+                        "591FA32FB4B53682",
+                        "211D93217331B040",
+                        "06C9926B2E2B304F",
+                        "76B4054F2E1F00B0",
+                        "17B98BD1165A7B92"
                     ]
                 }
             },
@@ -335673,6 +335683,7 @@
                 "serviceType":1,
                 "stops":{
                     "ctb":[
+                        "003874",
                         "002566",
                         "002537",
                         "002445",
@@ -335706,6 +335717,7 @@
                 "serviceType":1,
                 "stops":{
                     "ctb":[
+                        "003874",
                         "003692",
                         "001559"
                     ]
@@ -368038,6 +368050,16 @@
                 "name":{
                     "en":"Heng Wing House Fu Heng Estate, Chung Nga Road",
                     "zh":"富亨邨亨榮樓, 頌雅路"
+                }
+            },
+            "003874":{
+                "location":{
+                    "lat":22.32311,
+                    "lng":114.19348
+                },
+                "name":{
+                    "en":"Kai Tak Sports Park, Sung Wong Toi Road",
+                    "zh":"啟德體育園, 宋皇臺道"
                 }
             },
             "003875":{
@@ -574150,6 +574172,10 @@
                 [
                     "kmb",
                     "B7039F29C48A3CC2"
+                ],
+                [
+                    "kmb",
+                    "FE90421D0B82E691"
                 ]
             ],
             "20015970":[
@@ -638578,6 +638604,10 @@
                 [
                     "kmb",
                     "973EBE6A3543C701"
+                ],
+                [
+                    "kmb",
+                    "D6E7412666B1175B"
                 ]
             ],
             "A147FDE0CFB7A60D":[
@@ -660192,6 +660222,10 @@
                 [
                     "kmb",
                     "973EBE6A3543C701"
+                ],
+                [
+                    "kmb",
+                    "A1456D9E78A4CBE9"
                 ]
             ],
             "D6E7443BD2222BD7":[
@@ -676956,6 +676990,10 @@
                 [
                     "kmb",
                     "81BBDC83713D1C2F"
+                ],
+                [
+                    "gmb",
+                    "20015943"
                 ]
             ],
             "FEA41B63452C8EED":[
@@ -693018,6 +693056,10 @@
                 "en":"On Specific Day Only 8/12/2024",
                 "zh":"指定日期服務 8/12/2024"
             },
+            "E36C":{
+                "en":"Route Details TBD",
+                "zh":"未有路線資訊"
+            },
             "HK1":{
                 "en":"Kowloon Bus Tour",
                 "zh":"九龍旅遊路線"
@@ -693043,8 +693085,8 @@
                 "zh":"指定日期服務 1,3-5,10-12,17-19,24-31/1"
             },
             "N43":{
-                "en":"Service on LNY EVE - Route Details TBD",
-                "zh":"只在指定服務日 - 未有路線資訊"
+                "en":"Service on LNY EVE",
+                "zh":"只在指定服務日"
             },
             "N64P":{
                 "en":"On 29/1/2025 mid-night only",
@@ -693099,8 +693141,8 @@
                 "zh":"9/2/2025 (一天)"
             },
             "R269":{
-                "en":"on 9/2/2025 - Route Details TBD",
-                "zh":"9/2/2025 (一天) - 未有路線資訊"
+                "en":"on 9/2/2025",
+                "zh":"9/2/2025 (一天)"
             },
             "R934":{
                 "en":"Marathon Special Route",
@@ -693111,8 +693153,8 @@
                 "zh":"馬拉松特別路線"
             },
             "R968":{
-                "en":"on 9/2/2025 - Route Details TBD",
-                "zh":"9/2/2025 (一天) - 未有路線資訊"
+                "en":"on 9/2/2025",
+                "zh":"9/2/2025 (一天)"
             }
         },
         "nlb":{
