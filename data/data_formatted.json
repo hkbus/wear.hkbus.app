@@ -1248,6 +1248,7 @@
         "K75P",
         "K76",
         "KTL",
+        "LB2",
         "N1",
         "N11",
         "N116",
@@ -1378,7 +1379,11 @@
         "SP10",
         "SP11",
         "SP2",
+        "SP5A",
         "SP5B",
+        "SP6",
+        "SP7",
+        "SWH2",
         "T270",
         "T277",
         "T74",
@@ -97668,7 +97673,7 @@
                         "9E655CE3250647EA",
                         "2C7AEE8C6B2BC06A",
                         "0B8D095A45B05587",
-                        "C3427DE8E291FFA6"
+                        "1D0E096C4E9766C6"
                     ]
                 }
             },
@@ -194265,7 +194270,7 @@
                         "9E655CE3250647EA",
                         "2C7AEE8C6B2BC06A",
                         "0B8D095A45B05587",
-                        "C3427DE8E291FFA6"
+                        "1D0E096C4E9766C6"
                     ]
                 }
             },
@@ -194784,7 +194789,7 @@
                         "9E655CE3250647EA",
                         "2C7AEE8C6B2BC06A",
                         "0B8D095A45B05587",
-                        "C3427DE8E291FFA6"
+                        "1D0E096C4E9766C6"
                     ]
                 }
             },
@@ -195233,7 +195238,7 @@
                         "9E655CE3250647EA",
                         "2C7AEE8C6B2BC06A",
                         "0B8D095A45B05587",
-                        "C3427DE8E291FFA6"
+                        "1D0E096C4E9766C6"
                     ]
                 }
             },
@@ -321086,6 +321091,34 @@
                     ]
                 }
             },
+            "LB2+99+SAI KUNG+SAN TIN PUBLIC TRANSPORT INTERCHANGE":{
+                "bound":{
+                    "kmb":"O"
+                },
+                "co":[
+                    "kmb"
+                ],
+                "dest":{
+                    "en":"San Tin Public Transport Interchange",
+                    "zh":"新田運輸交匯處"
+                },
+                "freq":null,
+                "gtfsId":null,
+                "jt":null,
+                "nlbId":null,
+                "orig":{
+                    "en":"Sai Kung",
+                    "zh":"西貢"
+                },
+                "route":"LB2",
+                "serviceType":"99",
+                "stops":{
+                    "kmb":[
+                        "ZZZZZZZZZZZZZZZY",
+                        "ZZZZZZZZZZZZZZZZ"
+                    ]
+                }
+            },
             "MWCE+1+MUI WO+CENTRAL":{
                 "bound":{
                     "sunferry":"I"
@@ -335891,6 +335924,34 @@
                     ]
                 }
             },
+            "SP5A+99+KAI TAK SPORTS PARK BUS TERMINUS+TUEN MUN PIER HEAD":{
+                "bound":{
+                    "kmb":"O"
+                },
+                "co":[
+                    "kmb"
+                ],
+                "dest":{
+                    "en":"Tuen Mun Pier Head",
+                    "zh":"屯門碼頭"
+                },
+                "freq":null,
+                "gtfsId":null,
+                "jt":null,
+                "nlbId":null,
+                "orig":{
+                    "en":"Kai Tak Sports Park Bus Terminus",
+                    "zh":"啟德體育園巴士總站"
+                },
+                "route":"SP5A",
+                "serviceType":"99",
+                "stops":{
+                    "kmb":[
+                        "ZZZZZZZZZZZZZZZY",
+                        "ZZZZZZZZZZZZZZZZ"
+                    ]
+                }
+            },
             "SP5B+99+Kai Tak Sports Park+Tuen Mun (Ching Tin and Wo Tin)":{
                 "bound":{
                     "ctb":"O"
@@ -335911,6 +335972,90 @@
                     "zh":"啟德體育園"
                 },
                 "route":"SP5B",
+                "serviceType":"99",
+                "stops":{
+                    "ctb":[
+                        "999998",
+                        "999999"
+                    ]
+                }
+            },
+            "SP6+99+KAI TAK SPORTS PARK BUS TERMINUS+TIN HENG ESTATE":{
+                "bound":{
+                    "kmb":"O"
+                },
+                "co":[
+                    "kmb"
+                ],
+                "dest":{
+                    "en":"Tin Heng Estate",
+                    "zh":"天恆邨"
+                },
+                "freq":null,
+                "gtfsId":null,
+                "jt":null,
+                "nlbId":null,
+                "orig":{
+                    "en":"Kai Tak Sports Park Bus Terminus",
+                    "zh":"啟德體育園巴士總站"
+                },
+                "route":"SP6",
+                "serviceType":"99",
+                "stops":{
+                    "kmb":[
+                        "ZZZZZZZZZZZZZZZY",
+                        "ZZZZZZZZZZZZZZZZ"
+                    ]
+                }
+            },
+            "SP7+99+KAI TAK SPORTS PARK BUS TERMINUS+SHEUNG SHUI":{
+                "bound":{
+                    "kmb":"O"
+                },
+                "co":[
+                    "kmb"
+                ],
+                "dest":{
+                    "en":"Sheung Shui",
+                    "zh":"上水"
+                },
+                "freq":null,
+                "gtfsId":null,
+                "jt":null,
+                "nlbId":null,
+                "orig":{
+                    "en":"Kai Tak Sports Park Bus Terminus",
+                    "zh":"啟德體育園巴士總站"
+                },
+                "route":"SP7",
+                "serviceType":"99",
+                "stops":{
+                    "kmb":[
+                        "ZZZZZZZZZZZZZZZY",
+                        "ZZZZZZZZZZZZZZZZ"
+                    ]
+                }
+            },
+            "SWH2+99+Central (Star Ferry)+Sai Wan Ho (Lei King Wan)":{
+                "bound":{
+                    "ctb":"O"
+                },
+                "co":[
+                    "ctb"
+                ],
+                "dest":{
+                    "en":"Sai Wan Ho (Lei King Wan)",
+                    "zh":"西灣河 (鯉景灣)"
+                },
+                "freq":null,
+                "gtfsId":null,
+                "jt":null,
+                "nlbId":null,
+                "orig":{
+                    "en":"Central (Star Ferry)",
+                    "zh":"中環 (天星碼頭)"
+                },
+                "route":"SWH2",
                 "serviceType":"99",
                 "stops":{
                     "ctb":[
@@ -468920,8 +469065,8 @@
             },
             "C3427DE8E291FFA6":{
                 "location":{
-                    "lat":22.31841,
-                    "lng":114.19343
+                    "lat":22.31823,
+                    "lng":114.19313
                 },
                 "name":{
                     "en":"Kowloon City Ferry Bus Terminus",
@@ -515025,10 +515170,6 @@
                 ],
                 [
                     "kmb",
-                    "C3427DE8E291FFA6"
-                ],
-                [
-                    "kmb",
                     "D6BE89205CDC6645"
                 ],
                 [
@@ -515038,6 +515179,10 @@
                 [
                     "kmb",
                     "F088E9BC1B13B13D"
+                ],
+                [
+                    "kmb",
+                    "C3427DE8E291FFA6"
                 ]
             ],
             "003027":[
@@ -653012,10 +653157,6 @@
             ],
             "C3427DE8E291FFA6":[
                 [
-                    "ctb",
-                    "003026"
-                ],
-                [
                     "kmb",
                     "60C1F7910C07C52B"
                 ],
@@ -653030,6 +653171,10 @@
                 [
                     "kmb",
                     "F088E9BC1B13B13D"
+                ],
+                [
+                    "ctb",
+                    "003026"
                 ]
             ],
             "C355E5F825B9864F":[
@@ -693523,6 +693668,10 @@
                 "en":"Route Details TBD",
                 "zh":"未有路線資訊"
             },
+            "SWH2":{
+                "en":"Route Details TBD",
+                "zh":"未有路線資訊"
+            },
             "X1":{
                 "en":"Service on specified day",
                 "zh":"特定日子服務"
@@ -693600,6 +693749,10 @@
             "HK1":{
                 "en":"Kowloon Bus Tour",
                 "zh":"九龍旅遊路線"
+            },
+            "LB2":{
+                "en":"Leisure Bus 🏞 - Route Details TBD",
+                "zh":"郊遊遠足路線 🏞 - 未有路線資訊"
             },
             "N116":{
                 "en":"On Lunar New Year Eve only",
@@ -693692,6 +693845,18 @@
             "R968":{
                 "en":"on 9/2/2025",
                 "zh":"9/2/2025 (一天)"
+            },
+            "SP5A":{
+                "en":"on 24/1/2025 only - Route Details TBD",
+                "zh":"24/1/2025 (一天) - 未有路線資訊"
+            },
+            "SP6":{
+                "en":"Service on 24/1/2025 - Route Details TBD",
+                "zh":"24/1提供服務 - 未有路線資訊"
+            },
+            "SP7":{
+                "en":"Route Details TBD",
+                "zh":"未有路線資訊"
             }
         },
         "nlb":{
