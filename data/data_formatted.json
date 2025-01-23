@@ -1376,6 +1376,7 @@
         "S64P",
         "S64X",
         "SIL",
+        "SP1",
         "SP10",
         "SP11",
         "SP2",
@@ -1383,6 +1384,7 @@
         "SP5B",
         "SP6",
         "SP7",
+        "SP9",
         "SWH2",
         "T270",
         "T277",
@@ -250646,7 +250648,7 @@
                         "FD91979BDA3DE7D8",
                         "A63B90588F747496",
                         "83B717529F9794BC",
-                        "1D8A902219897402",
+                        "98FEDCA813462C77",
                         "A81B13297DB1C481",
                         "13E0A0449C73F4DE",
                         "DEBD2B9A856C0B1F",
@@ -250698,7 +250700,7 @@
                         "FD91979BDA3DE7D8",
                         "A63B90588F747496",
                         "83B717529F9794BC",
-                        "1D8A902219897402",
+                        "98FEDCA813462C77",
                         "A81B13297DB1C481",
                         "13E0A0449C73F4DE",
                         "DEBD2B9A856C0B1F",
@@ -321091,9 +321093,9 @@
                     ]
                 }
             },
-            "LB2+99+SAI KUNG+SAN TIN PUBLIC TRANSPORT INTERCHANGE":{
+            "LB2+1+SAI KUNG+SAN TIN PUBLIC TRANSPORT INTERCHANGE":{
                 "bound":{
-                    "kmb":"O"
+                    "kmb":"I"
                 },
                 "co":[
                     "kmb"
@@ -321104,18 +321106,44 @@
                 },
                 "freq":null,
                 "gtfsId":null,
-                "jt":null,
                 "nlbId":null,
                 "orig":{
                     "en":"Sai Kung",
                     "zh":"西貢"
                 },
                 "route":"LB2",
-                "serviceType":"99",
+                "serviceType":"1",
                 "stops":{
                     "kmb":[
-                        "ZZZZZZZZZZZZZZZY",
-                        "ZZZZZZZZZZZZZZZZ"
+                        "FFB9E8929671D06E",
+                        "41EF38A42AC3C3D2"
+                    ]
+                }
+            },
+            "LB2+1+SAN TIN PUBLIC TRANSPORT INTERCHANGE+SAI KUNG":{
+                "bound":{
+                    "kmb":"O"
+                },
+                "co":[
+                    "kmb"
+                ],
+                "dest":{
+                    "en":"Sai Kung",
+                    "zh":"西貢"
+                },
+                "freq":null,
+                "gtfsId":null,
+                "nlbId":null,
+                "orig":{
+                    "en":"San Tin Public Transport Interchange",
+                    "zh":"新田運輸交匯處"
+                },
+                "route":"LB2",
+                "serviceType":"1",
+                "stops":{
+                    "kmb":[
+                        "41EF38A42AC3C3D2",
+                        "FFB9E8929671D06E"
                     ]
                 }
             },
@@ -335834,6 +335862,34 @@
                     ]
                 }
             },
+            "SP1+99+KAI TAK SPORTS PARK BUS TERMINUS+HANG HAU (NORTH) (TSEUNG KWAN O HOSPITAL)":{
+                "bound":{
+                    "kmb":"O"
+                },
+                "co":[
+                    "kmb"
+                ],
+                "dest":{
+                    "en":"Hang Hau (North) (Tseung Kwan O Hospital)",
+                    "zh":"坑口(北)(將軍澳醫院)"
+                },
+                "freq":null,
+                "gtfsId":null,
+                "jt":null,
+                "nlbId":null,
+                "orig":{
+                    "en":"Kai Tak Sports Park Bus Terminus",
+                    "zh":"啟德體育園巴士總站"
+                },
+                "route":"SP1",
+                "serviceType":"99",
+                "stops":{
+                    "kmb":[
+                        "ZZZZZZZZZZZZZZZY",
+                        "ZZZZZZZZZZZZZZZZ"
+                    ]
+                }
+            },
             "SP10+1+Kai Tak Sports Park+Central (Macau Ferry)":{
                 "bound":{
                     "ctb":"O"
@@ -335924,7 +335980,7 @@
                     ]
                 }
             },
-            "SP5A+99+KAI TAK SPORTS PARK BUS TERMINUS+TUEN MUN PIER HEAD":{
+            "SP5A+1+KAI TAK SPORTS PARK BUS TERMINUS+TUEN MUN PIER HEAD":{
                 "bound":{
                     "kmb":"O"
                 },
@@ -335937,18 +335993,43 @@
                 },
                 "freq":null,
                 "gtfsId":null,
-                "jt":null,
                 "nlbId":null,
                 "orig":{
                     "en":"Kai Tak Sports Park Bus Terminus",
                     "zh":"啟德體育園巴士總站"
                 },
                 "route":"SP5A",
-                "serviceType":"99",
+                "serviceType":"1",
                 "stops":{
                     "kmb":[
-                        "ZZZZZZZZZZZZZZZY",
-                        "ZZZZZZZZZZZZZZZZ"
+                        "414AD39F5040C30F",
+                        "DB516EC0B8DAF046",
+                        "64312A5DFF11636C",
+                        "CB2A65E69B2B71BE",
+                        "59081A58EA5BC728",
+                        "28C36BBE416103C2",
+                        "BC301D7E7F063331",
+                        "CBE54DB551C24A02",
+                        "EC225F6F55BFA35E",
+                        "E01BD8E1BEC29EA6",
+                        "E16D49ECA536ECC6",
+                        "F224A907BD68406A",
+                        "4F36FEF121788834",
+                        "ECE3F3BE270C27E2",
+                        "594A765BE3A43C73",
+                        "507D90B4B976DBD6",
+                        "1F6BFDF34BABCE6A",
+                        "C192BEF2264E0CC6",
+                        "D09590C6061D9FE7",
+                        "1F5BF0C69F30C752",
+                        "854E787D0F56BF91",
+                        "AD25F24A6E6ACEE3",
+                        "83A02749D0CB2EE8",
+                        "3104B2FBA1EEE592",
+                        "86D1BF834F627D5C",
+                        "1D944152BA58ABF3",
+                        "722B3DD3D7BCFA21",
+                        "4DA3813D3CE3A5DF"
                     ]
                 }
             },
@@ -335980,7 +336061,7 @@
                     ]
                 }
             },
-            "SP6+99+KAI TAK SPORTS PARK BUS TERMINUS+TIN HENG ESTATE":{
+            "SP6+1+KAI TAK SPORTS PARK BUS TERMINUS+TIN HENG ESTATE":{
                 "bound":{
                     "kmb":"O"
                 },
@@ -335993,22 +336074,37 @@
                 },
                 "freq":null,
                 "gtfsId":null,
-                "jt":null,
                 "nlbId":null,
                 "orig":{
                     "en":"Kai Tak Sports Park Bus Terminus",
                     "zh":"啟德體育園巴士總站"
                 },
                 "route":"SP6",
-                "serviceType":"99",
+                "serviceType":"1",
                 "stops":{
                     "kmb":[
-                        "ZZZZZZZZZZZZZZZY",
-                        "ZZZZZZZZZZZZZZZZ"
+                        "5453C5D010F3D53A",
+                        "E55FA660A59AB64A",
+                        "14157BA5C06B0B6B",
+                        "605B05317A40A2A4",
+                        "78AD2432201EF5EE",
+                        "D9CE618F99BAC2B6",
+                        "0E2B8E1D544C6889",
+                        "A010FE2C473103A8",
+                        "70FEB409760C77EE",
+                        "A264A7BA921EEE6E",
+                        "ABE1BADF8D43CB24",
+                        "6A90A40248059768",
+                        "48D55BCE2E97E1DE",
+                        "FBBF4EB577663A13",
+                        "F97A667725CDEB82",
+                        "73FE2D32F218DA9C",
+                        "A264255E81F51111",
+                        "223DAE7E925E3BB9"
                     ]
                 }
             },
-            "SP7+99+KAI TAK SPORTS PARK BUS TERMINUS+SHEUNG SHUI":{
+            "SP7+1+KAI TAK SPORTS PARK BUS TERMINUS+SHEUNG SHUI":{
                 "bound":{
                     "kmb":"O"
                 },
@@ -336021,18 +336117,58 @@
                 },
                 "freq":null,
                 "gtfsId":null,
-                "jt":null,
                 "nlbId":null,
                 "orig":{
                     "en":"Kai Tak Sports Park Bus Terminus",
                     "zh":"啟德體育園巴士總站"
                 },
                 "route":"SP7",
-                "serviceType":"99",
+                "serviceType":"1",
                 "stops":{
                     "kmb":[
-                        "ZZZZZZZZZZZZZZZY",
-                        "ZZZZZZZZZZZZZZZZ"
+                        "CF2AA9B99A043548",
+                        "9274EF6791CA3ED8",
+                        "E8F5E085BAEFE100",
+                        "79FD1B44D37205B8",
+                        "369A5601F8A63B5E",
+                        "A339426A8F633D63",
+                        "11B658F68A9F577C",
+                        "0A8E2BA2F75E472E",
+                        "18E4449F4C5CE30B",
+                        "14BDB94A8F3ED3EC",
+                        "D0FB28B8EED62431",
+                        "9D388587636920DA",
+                        "ADB9356BBF06F7C7",
+                        "8E3F5AE0A97053F9",
+                        "A7CE931D8AA9E7F6"
+                    ]
+                }
+            },
+            "SP9+99+Kai Tak Sports Park+LOHAS Park":{
+                "bound":{
+                    "ctb":"O"
+                },
+                "co":[
+                    "ctb"
+                ],
+                "dest":{
+                    "en":"LOHAS Park",
+                    "zh":"日出康城"
+                },
+                "freq":null,
+                "gtfsId":null,
+                "jt":null,
+                "nlbId":null,
+                "orig":{
+                    "en":"Kai Tak Sports Park",
+                    "zh":"啟德體育園"
+                },
+                "route":"SP9",
+                "serviceType":"99",
+                "stops":{
+                    "ctb":[
+                        "999998",
+                        "999999"
                     ]
                 }
             },
@@ -434606,6 +434742,16 @@
                     "zh":"石硤尾邨美盛樓"
                 }
             },
+            "414AD39F5040C30F":{
+                "location":{
+                    "lat":22.32287,
+                    "lng":114.19358
+                },
+                "name":{
+                    "en":"Kai Tak Sports Park Bus Terminus",
+                    "zh":"啟德體育園巴士總站"
+                }
+            },
             "4167D2781EB3027C":{
                 "location":{
                     "lat":22.46668,
@@ -434774,6 +434920,16 @@
                 "name":{
                     "en":"Wai Lok Street, Kwun Tong",
                     "zh":"觀塘偉樂街"
+                }
+            },
+            "41EF38A42AC3C3D2":{
+                "location":{
+                    "lat":22.50282,
+                    "lng":114.08134
+                },
+                "name":{
+                    "en":"San Tin Public Transport Interchange",
+                    "zh":"新田運輸交匯處"
                 }
             },
             "41F54895BBB74FEF":{
@@ -440113,6 +440269,16 @@
                 "name":{
                     "en":"Ying Ming Court",
                     "zh":"英明苑"
+                }
+            },
+            "5453C5D010F3D53A":{
+                "location":{
+                    "lat":22.32287,
+                    "lng":114.19358
+                },
+                "name":{
+                    "en":"Kai Tak Sports Park Bus Terminus",
+                    "zh":"啟德體育園巴士總站"
                 }
             },
             "54693CF35B03CC69":{
@@ -457817,6 +457983,16 @@
                     "zh":"九龍醫院"
                 }
             },
+            "98FEDCA813462C77":{
+                "location":{
+                    "lat":22.28543,
+                    "lng":114.15447
+                },
+                "name":{
+                    "en":"Wing Kut Street",
+                    "zh":"永吉街"
+                }
+            },
             "99":{
                 "location":{
                     "lat":22.29796,
@@ -471857,6 +472033,16 @@
                 "name":{
                     "en":"Tsz Wan Shan (Central) Bus Terminus",
                     "zh":"慈雲山(中)巴士總站"
+                }
+            },
+            "CF2AA9B99A043548":{
+                "location":{
+                    "lat":22.32287,
+                    "lng":114.19358
+                },
+                "name":{
+                    "en":"Kai Tak Sports Park Bus Terminus",
+                    "zh":"啟德體育園巴士總站"
                 }
             },
             "CF2B9E9382183398":{
@@ -493549,6 +493735,10 @@
                 [
                     "kmb",
                     "1D8A902219897402"
+                ],
+                [
+                    "kmb",
+                    "98FEDCA813462C77"
                 ],
                 [
                     "kmb",
@@ -523149,6 +523339,10 @@
                     "20001403"
                 ],
                 [
+                    "kmb",
+                    "C192BEF2264E0CC6"
+                ],
+                [
                     "lrtfeeder",
                     "K58-U120"
                 ]
@@ -524101,6 +524295,16 @@
                 [
                     "kmb",
                     "0962265A8720C38C"
+                ]
+            ],
+            "003874":[
+                [
+                    "kmb",
+                    "414AD39F5040C30F"
+                ],
+                [
+                    "kmb",
+                    "5453C5D010F3D53A"
                 ]
             ],
             "003875":[
@@ -525649,6 +525853,10 @@
                 [
                     "gmb",
                     "20001403"
+                ],
+                [
+                    "kmb",
+                    "C192BEF2264E0CC6"
                 ],
                 [
                     "lrtfeeder",
@@ -534126,6 +534334,10 @@
                 ],
                 [
                     "kmb",
+                    "98FEDCA813462C77"
+                ],
+                [
+                    "kmb",
                     "A95DD63E3A98FF7F"
                 ],
                 [
@@ -536183,6 +536395,10 @@
                     "20001403"
                 ],
                 [
+                    "kmb",
+                    "C192BEF2264E0CC6"
+                ],
+                [
                     "lrtfeeder",
                     "K58-U120"
                 ]
@@ -537693,6 +537909,10 @@
                 [
                     "ctb",
                     "001057"
+                ],
+                [
+                    "kmb",
+                    "98FEDCA813462C77"
                 ],
                 [
                     "kmb",
@@ -545459,6 +545679,10 @@
                 [
                     "kmb",
                     "19B569A51034271F"
+                ],
+                [
+                    "kmb",
+                    "C192BEF2264E0CC6"
                 ],
                 [
                     "lrtfeeder",
@@ -598559,6 +598783,16 @@
                     "C49D1FFAEBDFE617"
                 ]
             ],
+            "414AD39F5040C30F":[
+                [
+                    "ctb",
+                    "003874"
+                ],
+                [
+                    "kmb",
+                    "5453C5D010F3D53A"
+                ]
+            ],
             "4167D2781EB3027C":[
                 [
                     "gmb",
@@ -607577,6 +607811,16 @@
                 [
                     "kmb",
                     "C74927024F67EAD5"
+                ]
+            ],
+            "5453C5D010F3D53A":[
+                [
+                    "ctb",
+                    "003874"
+                ],
+                [
+                    "kmb",
+                    "414AD39F5040C30F"
                 ]
             ],
             "54693CF35B03CC69":[
@@ -635889,6 +636133,20 @@
                     "20007412"
                 ]
             ],
+            "98FEDCA813462C77":[
+                [
+                    "ctb",
+                    "001057"
+                ],
+                [
+                    "kmb",
+                    "1D8A902219897402"
+                ],
+                [
+                    "kmb",
+                    "B4962A215D3DFA65"
+                ]
+            ],
             "9900A2A1E1FC8260":[
                 [
                     "kmb",
@@ -647237,6 +647495,10 @@
                 [
                     "kmb",
                     "1D8A902219897402"
+                ],
+                [
+                    "kmb",
+                    "98FEDCA813462C77"
                 ]
             ],
             "B49F719CC4A8BD7E":[
@@ -652240,7 +652502,23 @@
             "C192BEF2264E0CC6":[
                 [
                     "ctb",
+                    "003756"
+                ],
+                [
+                    "ctb",
                     "003758"
+                ],
+                [
+                    "kmb",
+                    "044276F0C057E98B"
+                ],
+                [
+                    "kmb",
+                    "19B569A51034271F"
+                ],
+                [
+                    "gmb",
+                    "20001403"
                 ],
                 [
                     "gmb",
@@ -652253,6 +652531,10 @@
                 [
                     "lrtfeeder",
                     "K58-D110"
+                ],
+                [
+                    "lrtfeeder",
+                    "K58-U120"
                 ]
             ],
             "C1A148BD237E4438":[
@@ -685317,6 +685599,10 @@
                 [
                     "gmb",
                     "20001403"
+                ],
+                [
+                    "kmb",
+                    "C192BEF2264E0CC6"
                 ]
             ],
             "K58-U130":[
@@ -693668,6 +693954,10 @@
                 "en":"Route Details TBD",
                 "zh":"未有路線資訊"
             },
+            "SP9":{
+                "en":"Route Details TBD",
+                "zh":"未有路線資訊"
+            },
             "SWH2":{
                 "en":"Route Details TBD",
                 "zh":"未有路線資訊"
@@ -693751,8 +694041,8 @@
                 "zh":"九龍旅遊路線"
             },
             "LB2":{
-                "en":"Leisure Bus 🏞 - Route Details TBD",
-                "zh":"郊遊遠足路線 🏞 - 未有路線資訊"
+                "en":"Leisure Bus 🏞",
+                "zh":"郊遊遠足路線 🏞"
             },
             "N116":{
                 "en":"On Lunar New Year Eve only",
@@ -693846,17 +694136,17 @@
                 "en":"on 9/2/2025",
                 "zh":"9/2/2025 (一天)"
             },
+            "SP1":{
+                "en":"Service on 24 January 2025 only. - Route Details TBD",
+                "zh":"只於2025年1月24日提供服務 - 未有路線資訊"
+            },
             "SP5A":{
-                "en":"on 24/1/2025 only - Route Details TBD",
-                "zh":"24/1/2025 (一天) - 未有路線資訊"
+                "en":"Service on 24/1/2025 only",
+                "zh":"只於24/1/2025 提供服務"
             },
             "SP6":{
-                "en":"Service on 24/1/2025 - Route Details TBD",
-                "zh":"24/1提供服務 - 未有路線資訊"
-            },
-            "SP7":{
-                "en":"Route Details TBD",
-                "zh":"未有路線資訊"
+                "en":"Service on 24/1/2025 only",
+                "zh":"只於24/1/2025 提供服務"
             }
         },
         "nlb":{
