@@ -1306,6 +1306,7 @@
         "N4X",
         "N50",
         "N51S",
+        "N601",
         "N619",
         "N64",
         "N64P",
@@ -1380,6 +1381,7 @@
         "SP10",
         "SP11",
         "SP2",
+        "SP3",
         "SP5A",
         "SP5B",
         "SP6",
@@ -1396,6 +1398,7 @@
         "W2",
         "W3",
         "W4",
+        "WB1",
         "X1",
         "X11R",
         "X15",
@@ -216666,8 +216669,7 @@
                         "6C2DBC45160AA4BF",
                         "E5F082F4C7300273",
                         "91E946260F8BCBE8",
-                        "9381998EA6DC33CA",
-                        "91E946260F8BCBE8"
+                        "9381998EA6DC33CA"
                     ]
                 }
             },
@@ -216835,8 +216837,7 @@
                         "6C2DBC45160AA4BF",
                         "E5F082F4C7300273",
                         "91E946260F8BCBE8",
-                        "9381998EA6DC33CA",
-                        "91E946260F8BCBE8"
+                        "9381998EA6DC33CA"
                     ]
                 }
             },
@@ -216927,8 +216928,7 @@
                         "6C2DBC45160AA4BF",
                         "E5F082F4C7300273",
                         "91E946260F8BCBE8",
-                        "9381998EA6DC33CA",
-                        "91E946260F8BCBE8"
+                        "9381998EA6DC33CA"
                     ]
                 }
             },
@@ -217027,8 +217027,7 @@
                         "6C2DBC45160AA4BF",
                         "E5F082F4C7300273",
                         "91E946260F8BCBE8",
-                        "9381998EA6DC33CA",
-                        "91E946260F8BCBE8"
+                        "9381998EA6DC33CA"
                     ]
                 }
             },
@@ -328356,6 +328355,60 @@
                     ]
                 }
             },
+            "N601+1+ADMIRALTY STATION (EAST)+PO TAT":{
+                "bound":{
+                    "kmb":"O"
+                },
+                "co":[
+                    "kmb"
+                ],
+                "dest":{
+                    "en":"Po Tat",
+                    "zh":"寶達"
+                },
+                "freq":null,
+                "gtfsId":null,
+                "nlbId":null,
+                "orig":{
+                    "en":"Admiralty Station (East)",
+                    "zh":"金鐘站(東)"
+                },
+                "route":"N601",
+                "serviceType":"1",
+                "stops":{
+                    "kmb":[
+                        "E30B8672A91A50B9",
+                        "E74202351AF7F37D",
+                        "9DA98A5E3914E2E3",
+                        "92C62E07455F7C6C",
+                        "1FFFFBAE28F48D03",
+                        "CCBCD7F613287BC8",
+                        "B4372FB3544677BB",
+                        "913E96996F3B7E3A",
+                        "328C9939240A94CA",
+                        "58C47FBFFF12E65F",
+                        "4AEB8A22E18AB111",
+                        "AE4423E551C360BF",
+                        "9DE043DB23CEDAA8",
+                        "D678B3364437D16B",
+                        "2EF9764BE18FC290",
+                        "F1A90CEE2B8C40CC",
+                        "CB341BEEABF66D6E",
+                        "6530130BE25E909C",
+                        "D3FEF85E4DAEEE4E",
+                        "C3201264CC8E5C5D",
+                        "C8830886D41FB5FA",
+                        "D9ABBD996944C4D3",
+                        "D17050E8964504BB",
+                        "04DDF4F7F1C74876",
+                        "BF08F9C08BB54A2B",
+                        "5FF5FCFD1121F033",
+                        "B809C24DC8C87767",
+                        "3BA4DBB4520188DF",
+                        "FA5C305D16B299A5"
+                    ]
+                }
+            },
             "N619+1+CENTRAL (MACAU FERRY)+SHUN LEE":{
                 "bound":{
                     "ctb":"O",
@@ -329548,8 +329601,7 @@
                         "552DA8FCE732ABF0",
                         "ADB789C140CFBE00",
                         "37AEC610CEBCEA48",
-                        "8EA1F6CDA69E539C",
-                        "AC1FD9BDD09D1DD6"
+                        "8EA1F6CDA69E539C"
                     ]
                 }
             },
@@ -335910,6 +335962,40 @@
                     ]
                 }
             },
+            "SP10+1+KAI TAK SPORTS PARK BUS TERMINUS+CENTRAL (MACAU FERRY)":{
+                "bound":{
+                    "kmb":"O"
+                },
+                "co":[
+                    "kmb"
+                ],
+                "dest":{
+                    "en":"Central (Macau Ferry)",
+                    "zh":"中環(港澳碼頭)"
+                },
+                "freq":null,
+                "gtfsId":null,
+                "nlbId":null,
+                "orig":{
+                    "en":"Kai Tak Sports Park Bus Terminus",
+                    "zh":"啟德體育園巴士總站"
+                },
+                "route":"SP10",
+                "serviceType":"1",
+                "stops":{
+                    "kmb":[
+                        "A4260736CBC94F30",
+                        "742D35CD1DEA10FD",
+                        "8B5745F31A5778D7",
+                        "D15281453EE5E0B4",
+                        "A0424645102B1D9C",
+                        "9D0E44D3210264C3",
+                        "EC2573EE5FF42AAC",
+                        "C0B3CCF700EDA89C",
+                        "633A3F4B4A5637C2"
+                    ]
+                }
+            },
             "SP10+1+Kai Tak Sports Park+Central (Macau Ferry)":{
                 "bound":{
                     "ctb":"O"
@@ -336018,6 +336104,73 @@
                         "003874",
                         "003692",
                         "001559"
+                    ]
+                }
+            },
+            "SP3+1+KAI TAK SPORTS PARK BUS TERMINUS+CHING FU COURT":{
+                "bound":{
+                    "kmb":"O"
+                },
+                "co":[
+                    "kmb"
+                ],
+                "dest":{
+                    "en":"Ching Fu Court",
+                    "zh":"青富苑"
+                },
+                "freq":null,
+                "gtfsId":null,
+                "nlbId":null,
+                "orig":{
+                    "en":"Kai Tak Sports Park Bus Terminus",
+                    "zh":"啟德體育園巴士總站"
+                },
+                "route":"SP3",
+                "serviceType":"1",
+                "stops":{
+                    "kmb":[
+                        "CF2AA9B99A043548",
+                        "CF17F8C87DBBF2BC",
+                        "246ECB0F3B94855D",
+                        "D17DA49D5EFC6DD4",
+                        "ABA04608DBB7C351",
+                        "2658CCFAB79763B6",
+                        "264B29FD223D9C4E",
+                        "3E376000C84807D6",
+                        "C84CAD6CCD18F87F",
+                        "478ACE8A8C9A2705",
+                        "A13C2C1D5D3EE0D7",
+                        "AE7C79C814E6BD95",
+                        "D5382A8A3773E6FE",
+                        "FCBCC90E0ECE4F58",
+                        "257A6E19DD7F156C",
+                        "28A57C043C111604",
+                        "F82CDE4D15A43CA3",
+                        "DEDD6247441C8C05",
+                        "B1D6CA16EE22225D",
+                        "3B54D43994CAC165",
+                        "D9655458715EBBF8",
+                        "8374DD78C287D9A7",
+                        "D5252DAD51812506",
+                        "09DF70F8DE2426BE",
+                        "5AF593F7A11180E2",
+                        "3F545756160D7BEA",
+                        "B2C63864D1C98F56",
+                        "033CB7A21D6DC60C",
+                        "36880B47F043D519",
+                        "4E870B220826BEE0",
+                        "5AD2A4D21C226335",
+                        "A454170B2B59B587",
+                        "D6E7412666B1175B",
+                        "AB87BD2749FFEACA",
+                        "43398296F1D1BD48",
+                        "67F3E54FF145BA65",
+                        "F93448A5F1168FB1",
+                        "DFB7FD5832A4BA4E",
+                        "0F60AAE48C3B22EE",
+                        "0CFB814CB6C356C1",
+                        "5B5107DB7CE969DE",
+                        "333E9F98EEB84849"
                     ]
                 }
             },
@@ -337189,6 +337342,36 @@
                         "B3E70C6DEFD93416",
                         "C50C67D1BFF70DDF",
                         "1A0F813116024D92"
+                    ]
+                }
+            },
+            "WB1+1+TUEN MUN STATION+LAM TSUEN WISHING TREE (From Tuen Mun) (Circular)":{
+                "bound":{
+                    "kmb":"O"
+                },
+                "co":[
+                    "kmb"
+                ],
+                "dest":{
+                    "en":"Lam Tsuen Wishing Tree (From Tuen Mun) (Circular)",
+                    "zh":"林村許願樹 (由屯門出發 循環行走)"
+                },
+                "freq":null,
+                "gtfsId":null,
+                "nlbId":null,
+                "orig":{
+                    "en":"Tuen Mun Station",
+                    "zh":"屯門站"
+                },
+                "route":"WB1",
+                "serviceType":"1",
+                "stops":{
+                    "kmb":[
+                        "0678C85600B1A019",
+                        "41EF38A42AC3C3D2",
+                        "0EAA1DC8345202C3",
+                        "41EF38A42AC3C3D2",
+                        "0678C85600B1A019"
                     ]
                 }
             },
@@ -368591,8 +368774,8 @@
             },
             "003874":{
                 "location":{
-                    "lat":22.32311,
-                    "lng":114.19348
+                    "lat":22.32328,
+                    "lng":114.1927
                 },
                 "name":{
                     "en":"Kai Tak Sports Park, Sung Wong Toi Road",
@@ -368617,6 +368800,16 @@
                 "name":{
                     "en":"Twin Victoria, Shing Fung Road",
                     "zh":"維港．雙鑽, 承豐道"
+                }
+            },
+            "003879":{
+                "location":{
+                    "lat":22.29442,
+                    "lng":114.17282
+                },
+                "name":{
+                    "en":"K11 MUSEA, Salisbury Road",
+                    "zh":"K11人文購物藝術館, 梳士巴利道"
                 }
             },
             "003880":{
@@ -372021,6 +372214,16 @@
                 "name":{
                     "en":"Chung Tsai Yuen Lookout",
                     "zh":"松仔園瞭望台"
+                }
+            },
+            "0EAA1DC8345202C3":{
+                "location":{
+                    "lat":22.45766,
+                    "lng":114.14293
+                },
+                "name":{
+                    "en":"Lam Tsuen Wishing Tree",
+                    "zh":"林村許願樹"
                 }
             },
             "0EAFBD8737911A6A":{
@@ -396328,7 +396531,7 @@
                 },
                 "name":{
                     "en":"Near Hilltop, Cloud View Road",
-                    "zh":"雲景道,近峯景"
+                    "zh":"雲景道, 近峯景"
                 }
             },
             "20009183":{
@@ -461088,6 +461291,16 @@
                     "zh":"鯉魚門邨巴士總站"
                 }
             },
+            "A4260736CBC94F30":{
+                "location":{
+                    "lat":22.32287,
+                    "lng":114.19358
+                },
+                "name":{
+                    "en":"Kai Tak Sports Park Bus Terminus",
+                    "zh":"啟德體育園巴士總站"
+                }
+            },
             "A432A047D1B0DD62":{
                 "location":{
                     "lat":22.3707,
@@ -472113,6 +472326,16 @@
                 "name":{
                     "en":"Tsz Wan Shan (Central) Bus Terminus",
                     "zh":"慈雲山(中)巴士總站"
+                }
+            },
+            "CF2AA9B99A043548":{
+                "location":{
+                    "lat":22.32287,
+                    "lng":114.19358
+                },
+                "name":{
+                    "en":"Kai Tak Sports Park Bus Terminus",
+                    "zh":"啟德體育園巴士總站"
                 }
             },
             "CF2B9E9382183398":{
@@ -519172,6 +519395,10 @@
             "003361":[
                 [
                     "kmb",
+                    "0678C85600B1A019"
+                ],
+                [
+                    "kmb",
                     "69EA07FBAB612E68"
                 ],
                 [
@@ -519184,11 +519411,11 @@
                 ],
                 [
                     "kmb",
-                    "D74B67D55C63895F"
+                    "DBD6820299653B4E"
                 ],
                 [
                     "kmb",
-                    "DBD6820299653B4E"
+                    "D74B67D55C63895F"
                 ],
                 [
                     "mtr",
@@ -524367,20 +524594,6 @@
                     "0962265A8720C38C"
                 ]
             ],
-            "003874":[
-                [
-                    "kmb",
-                    "3F5763699F3D5DD6"
-                ],
-                [
-                    "kmb",
-                    "414AD39F5040C30F"
-                ],
-                [
-                    "kmb",
-                    "5453C5D010F3D53A"
-                ]
-            ],
             "003875":[
                 [
                     "gmb",
@@ -526849,12 +527062,28 @@
             ],
             "0678C85600B1A019":[
                 [
+                    "ctb",
+                    "003361"
+                ],
+                [
+                    "gmb",
+                    "20011812"
+                ],
+                [
                     "kmb",
                     "79D68EE7C6CBAB9D"
                 ],
                 [
                     "kmb",
                     "A6A60ADA171EE7C8"
+                ],
+                [
+                    "kmb",
+                    "DBD6820299653B4E"
+                ],
+                [
+                    "gmb",
+                    "20001311"
                 ],
                 [
                     "kmb",
@@ -526869,8 +527098,8 @@
                     "D74B67D55C63895F"
                 ],
                 [
-                    "gmb",
-                    "20001311"
+                    "mtr",
+                    "TUM"
                 ],
                 [
                     "lrtfeeder",
@@ -560106,11 +560335,19 @@
             "20011812":[
                 [
                     "kmb",
+                    "0678C85600B1A019"
+                ],
+                [
+                    "kmb",
                     "DBD6820299653B4E"
                 ],
                 [
                     "mtr",
                     "TUM"
+                ],
+                [
+                    "ctb",
+                    "003361"
                 ]
             ],
             "20011845":[
@@ -597971,12 +598208,6 @@
                     "77070BA4D8554234"
                 ]
             ],
-            "3F5763699F3D5DD6":[
-                [
-                    "ctb",
-                    "003874"
-                ]
-            ],
             "3F68D834013E6E08":[
                 [
                     "ctb",
@@ -598865,12 +599096,12 @@
             ],
             "414AD39F5040C30F":[
                 [
-                    "ctb",
-                    "003874"
+                    "kmb",
+                    "5453C5D010F3D53A"
                 ],
                 [
                     "kmb",
-                    "5453C5D010F3D53A"
+                    "CF2AA9B99A043548"
                 ]
             ],
             "4167D2781EB3027C":[
@@ -607895,12 +608126,12 @@
             ],
             "5453C5D010F3D53A":[
                 [
-                    "ctb",
-                    "003874"
+                    "kmb",
+                    "414AD39F5040C30F"
                 ],
                 [
                     "kmb",
-                    "414AD39F5040C30F"
+                    "CF2AA9B99A043548"
                 ]
             ],
             "54693CF35B03CC69":[
@@ -658175,6 +658406,16 @@
                     "CA866CBB3EC92B9F"
                 ]
             ],
+            "CF2AA9B99A043548":[
+                [
+                    "kmb",
+                    "414AD39F5040C30F"
+                ],
+                [
+                    "kmb",
+                    "5453C5D010F3D53A"
+                ]
+            ],
             "CF2FE4F019F51438":[
                 [
                     "kmb",
@@ -663625,12 +663866,20 @@
             ],
             "DBD6820299653B4E":[
                 [
+                    "kmb",
+                    "0678C85600B1A019"
+                ],
+                [
                     "gmb",
                     "20011812"
                 ],
                 [
                     "mtr",
                     "TUM"
+                ],
+                [
+                    "ctb",
+                    "003361"
                 ]
             ],
             "DBEA3F848C7981F2":[
@@ -691643,6 +691892,14 @@
                 [
                     "kmb",
                     "DBD6820299653B4E"
+                ],
+                [
+                    "kmb",
+                    "0678C85600B1A019"
+                ],
+                [
+                    "ctb",
+                    "003361"
                 ]
             ],
             "TWH":[
@@ -694148,6 +694405,10 @@
                 "en":"Service on LNY EVE",
                 "zh":"只在指定服務日"
             },
+            "N601":{
+                "en":"Service on Lunar New Year Eve only",
+                "zh":"只在農曆除夕行走"
+            },
             "N64P":{
                 "en":"On 29/1/2025 mid-night only",
                 "zh":"只於 29/1/2025 凌晨提供服務"
@@ -694217,6 +694478,14 @@
                 "zh":"9/2/2025 (一天)"
             },
             "SP1":{
+                "en":"Service on Specific Day only.",
+                "zh":"只於指定日期提供服務"
+            },
+            "SP10":{
+                "en":"Service on Specific Day only.",
+                "zh":"只於指定日期提供服務"
+            },
+            "SP3":{
                 "en":"Service on 24 January 2025 only.",
                 "zh":"只於2025年1月24日提供服務"
             },
@@ -694227,6 +694496,10 @@
             "SP6":{
                 "en":"Service on 24/1/2025 only",
                 "zh":"只於24/1/2025 提供服務"
+            },
+            "WB1":{
+                "en":"On 30 Jan to 2 Feb Only",
+                "zh":"於1月30日至2月2日(年初二至五)提供服務"
             }
         },
         "nlb":{
