@@ -329481,8 +329481,7 @@
                         "EDFAC4F35C0E51C7",
                         "EF78DD9F765C6565",
                         "D4A97E2A758EDC64",
-                        "61A59EA108B158F6",
-                        "C799751FDFCE292E"
+                        "61A59EA108B158F6"
                     ]
                 }
             },
@@ -335862,7 +335861,7 @@
                     ]
                 }
             },
-            "SP1+99+KAI TAK SPORTS PARK BUS TERMINUS+HANG HAU (NORTH) (TSEUNG KWAN O HOSPITAL)":{
+            "SP1+1+KAI TAK SPORTS PARK BUS TERMINUS+HANG HAU (NORTH) (TSEUNG KWAN O HOSPITAL)":{
                 "bound":{
                     "kmb":"O"
                 },
@@ -335875,18 +335874,39 @@
                 },
                 "freq":null,
                 "gtfsId":null,
-                "jt":null,
                 "nlbId":null,
                 "orig":{
                     "en":"Kai Tak Sports Park Bus Terminus",
                     "zh":"啟德體育園巴士總站"
                 },
                 "route":"SP1",
-                "serviceType":"99",
+                "serviceType":"1",
                 "stops":{
                     "kmb":[
-                        "ZZZZZZZZZZZZZZZY",
-                        "ZZZZZZZZZZZZZZZZ"
+                        "3F5763699F3D5DD6",
+                        "38B86AC474D1060D",
+                        "0B8C52E4C34E3B64",
+                        "072046BF00257739",
+                        "3093477EA64DDA89",
+                        "BFF2560B1C1687B2",
+                        "6882248B39345F28",
+                        "B809C24DC8C87767",
+                        "3BA4DBB4520188DF",
+                        "03C3F537C41E4986",
+                        "2FFC93C766E566B5",
+                        "F5A61D37E2DDA9D8",
+                        "31079A9B244C679B",
+                        "ABC15E2110BF7A49",
+                        "BC66863007C0592B",
+                        "848CA90EB0DB1146",
+                        "7486D53F341F1AAC",
+                        "FC42DCBDC3AB0B6F",
+                        "22E2678081E88368",
+                        "7613538D58A9C452",
+                        "336FF66D1F0AC4A0",
+                        "D732B7AE560F7326",
+                        "99A3DFDBDF41F0E9",
+                        "8E246EE4AB82C670"
                     ]
                 }
             },
@@ -335924,7 +335944,7 @@
                     ]
                 }
             },
-            "SP11+99+Kai Tak Sports Park+Siu Sai Wan (Island Resort)":{
+            "SP11+1+Kai Tak Sports Park+Siu Sai Wan (Island Resort)":{
                 "bound":{
                     "ctb":"O"
                 },
@@ -335937,18 +335957,39 @@
                 },
                 "freq":null,
                 "gtfsId":null,
-                "jt":null,
                 "nlbId":null,
                 "orig":{
                     "en":"Kai Tak Sports Park",
                     "zh":"啟德體育園"
                 },
                 "route":"SP11",
-                "serviceType":"99",
+                "serviceType":1,
                 "stops":{
                     "ctb":[
-                        "999998",
-                        "999999"
+                        "003874",
+                        "001463",
+                        "001265",
+                        "002677",
+                        "001267",
+                        "001268",
+                        "001393",
+                        "001270",
+                        "001296",
+                        "001297",
+                        "001298",
+                        "001299",
+                        "001216",
+                        "001217",
+                        "001218",
+                        "001219",
+                        "001220",
+                        "001221",
+                        "001222",
+                        "001224",
+                        "001225",
+                        "001362",
+                        "001383",
+                        "001382"
                     ]
                 }
             },
@@ -336033,7 +336074,7 @@
                     ]
                 }
             },
-            "SP5B+99+Kai Tak Sports Park+Tuen Mun (Ching Tin and Wo Tin)":{
+            "SP5B+1+Kai Tak Sports Park+Tuen Mun (Ching Tin and Wo Tin)":{
                 "bound":{
                     "ctb":"O"
                 },
@@ -336046,18 +336087,25 @@
                 },
                 "freq":null,
                 "gtfsId":null,
-                "jt":null,
                 "nlbId":null,
                 "orig":{
                     "en":"Kai Tak Sports Park",
                     "zh":"啟德體育園"
                 },
                 "route":"SP5B",
-                "serviceType":"99",
+                "serviceType":1,
                 "stops":{
                     "ctb":[
-                        "999998",
-                        "999999"
+                        "003874",
+                        "003359",
+                        "003153",
+                        "003192",
+                        "003431",
+                        "003351",
+                        "003209",
+                        "003760",
+                        "003767",
+                        "003752"
                     ]
                 }
             },
@@ -336126,7 +336174,7 @@
                 "serviceType":"1",
                 "stops":{
                     "kmb":[
-                        "CF2AA9B99A043548",
+                        "6F9ED75E419D6BAA",
                         "9274EF6791CA3ED8",
                         "E8F5E085BAEFE100",
                         "79FD1B44D37205B8",
@@ -336144,7 +336192,7 @@
                     ]
                 }
             },
-            "SP9+99+Kai Tak Sports Park+LOHAS Park":{
+            "SP9+1+Kai Tak Sports Park+LOHAS Park":{
                 "bound":{
                     "ctb":"O"
                 },
@@ -336157,18 +336205,30 @@
                 },
                 "freq":null,
                 "gtfsId":null,
-                "jt":null,
                 "nlbId":null,
                 "orig":{
                     "en":"Kai Tak Sports Park",
                     "zh":"啟德體育園"
                 },
                 "route":"SP9",
-                "serviceType":"99",
+                "serviceType":1,
                 "stops":{
                     "ctb":[
-                        "999998",
-                        "999999"
+                        "003874",
+                        "003595",
+                        "002917",
+                        "001821",
+                        "001778",
+                        "002906",
+                        "002933",
+                        "003477",
+                        "003473",
+                        "003160",
+                        "003225",
+                        "002919",
+                        "002928",
+                        "002929",
+                        "003329"
                     ]
                 }
             },
@@ -358747,8 +358807,8 @@
             },
             "002714":{
                 "location":{
-                    "lat":22.31544,
-                    "lng":113.93623
+                    "lat":22.31617,
+                    "lng":113.93595
                 },
                 "name":{
                     "en":"Airport (Terminal One)",
@@ -434217,6 +434277,16 @@
                     "zh":"福來邨永康樓"
                 }
             },
+            "3F5763699F3D5DD6":{
+                "location":{
+                    "lat":22.32287,
+                    "lng":114.19358
+                },
+                "name":{
+                    "en":"Kai Tak Sports Park Bus Terminus",
+                    "zh":"啟德體育園巴士總站"
+                }
+            },
             "3F68D834013E6E08":{
                 "location":{
                     "lat":22.36939,
@@ -447691,6 +447761,16 @@
                 "name":{
                     "en":"Pacific Place (A3)",
                     "zh":"太古廣場 (A3)"
+                }
+            },
+            "6F9ED75E419D6BAA":{
+                "location":{
+                    "lat":22.32287,
+                    "lng":114.19358
+                },
+                "name":{
+                    "en":"Kai Tak Sports Park Bus Terminus",
+                    "zh":"啟德體育園巴士總站"
                 }
             },
             "6FA31E38468068B6":{
@@ -472033,16 +472113,6 @@
                 "name":{
                     "en":"Tsz Wan Shan (Central) Bus Terminus",
                     "zh":"慈雲山(中)巴士總站"
-                }
-            },
-            "CF2AA9B99A043548":{
-                "location":{
-                    "lat":22.32287,
-                    "lng":114.19358
-                },
-                "name":{
-                    "en":"Kai Tak Sports Park Bus Terminus",
-                    "zh":"啟德體育園巴士總站"
                 }
             },
             "CF2B9E9382183398":{
@@ -524298,6 +524368,10 @@
                 ]
             ],
             "003874":[
+                [
+                    "kmb",
+                    "3F5763699F3D5DD6"
+                ],
                 [
                     "kmb",
                     "414AD39F5040C30F"
@@ -597895,6 +597969,12 @@
                 [
                     "kmb",
                     "77070BA4D8554234"
+                ]
+            ],
+            "3F5763699F3D5DD6":[
+                [
+                    "ctb",
+                    "003874"
                 ]
             ],
             "3F68D834013E6E08":[
@@ -693943,20 +694023,20 @@
                 "zh":"特定日子服務 過海線"
             },
             "SP11":{
-                "en":"Route Details TBD",
-                "zh":"未有路線資訊"
+                "en":"Service on specified day, Cross Harbour",
+                "zh":"特定日子服務 過海線"
             },
             "SP2":{
                 "en":"Service on specified day",
                 "zh":"特定日子服務"
             },
             "SP5B":{
-                "en":"Route Details TBD",
-                "zh":"未有路線資訊"
+                "en":"Service on specified day",
+                "zh":"特定日子服務"
             },
             "SP9":{
-                "en":"Route Details TBD",
-                "zh":"未有路線資訊"
+                "en":"Service on specified day",
+                "zh":"特定日子服務"
             },
             "SWH2":{
                 "en":"Route Details TBD",
@@ -694137,8 +694217,8 @@
                 "zh":"9/2/2025 (一天)"
             },
             "SP1":{
-                "en":"Service on 24 January 2025 only. - Route Details TBD",
-                "zh":"只於2025年1月24日提供服務 - 未有路線資訊"
+                "en":"Service on 24 January 2025 only.",
+                "zh":"只於2025年1月24日提供服務"
             },
             "SP5A":{
                 "en":"Service on 24/1/2025 only",
