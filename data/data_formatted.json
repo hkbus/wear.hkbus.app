@@ -59371,10 +59371,14 @@
                             "600"
                         ],
                         "0600":[
-                            "0730",
-                            "300"
+                            "0830",
+                            "240"
                         ],
-                        "0730":[
+                        "0830":[
+                            "1600",
+                            "480"
+                        ],
+                        "1600":[
                             "2000",
                             "240"
                         ],
@@ -76843,6 +76847,48 @@
                         "22138E6C8051FDBD",
                         "F5098BFD784B8FAB",
                         "1C7C526A52EF9171"
+                    ]
+                }
+            },
+            "270B+3+OLYMPIC STATION+SHEUNG SHUI":{
+                "bound":{
+                    "kmb":"I"
+                },
+                "co":[
+                    "kmb"
+                ],
+                "dest":{
+                    "en":"Sheung Shui",
+                    "zh":"上水"
+                },
+                "freq":null,
+                "gtfsId":null,
+                "nlbId":null,
+                "orig":{
+                    "en":"Olympic Station",
+                    "zh":"奧運站"
+                },
+                "route":"270B",
+                "serviceType":"3",
+                "stops":{
+                    "kmb":[
+                        "17B8C938E2E113D0",
+                        "E6915B4BA88D2DB5",
+                        "A7F35DC09E1A1528",
+                        "D242B538BA760551",
+                        "11ED493F674F4888",
+                        "704AF52FDCA7AE1B",
+                        "BE1A19A3705F5B70",
+                        "C13E41666B5A1394",
+                        "1A85B99EDE6D01D8",
+                        "04FC6E130D4953F4",
+                        "EEBBD352B7F16E3F",
+                        "01E580BD435E9301",
+                        "B4F2BAAED2470D0A",
+                        "3F21ED54F86D9B1D",
+                        "2F202818B5A6F424",
+                        "D876A83244ECB838",
+                        "CF0C67920B22ED62"
                     ]
                 }
             },
@@ -152606,6 +152652,63 @@
                     ]
                 }
             },
+            "55K+2+Loi Tung+Sheung Shui Station Public Light Bus Terminus":{
+                "bound":{
+                    "gmb":"O"
+                },
+                "co":[
+                    "gmb"
+                ],
+                "dest":{
+                    "en":"Sheung Shui Station Public Light Bus Terminus",
+                    "zh":"上水站小巴總站"
+                },
+                "freq":{
+                    "63":{
+                        "0610":[
+                            "0610",
+                            "60"
+                        ],
+                        "0635":[
+                            "0635",
+                            "60"
+                        ],
+                        "0655":[
+                            "0655",
+                            "60"
+                        ],
+                        "0715":[
+                            "0715",
+                            "60"
+                        ]
+                    }
+                },
+                "gmbRegion":"NT",
+                "gtfsId":"2010500",
+                "nlbId":null,
+                "orig":{
+                    "en":"Loi Tung",
+                    "zh":"萊洞"
+                },
+                "route":"55K",
+                "serviceType":2,
+                "stops":{
+                    "gmb":[
+                        "20003244",
+                        "20003245",
+                        "20003246",
+                        "20001455",
+                        "20001471",
+                        "20001478",
+                        "20007291",
+                        "20001479",
+                        "20001480",
+                        "20007292",
+                        "20007293",
+                        "20001384"
+                    ]
+                }
+            },
             "55K+2+Sha Tau Kok Public Transport Interchange+Sheung Shui Station Public Light Bus Terminus":{
                 "bound":{
                     "gmb":"O"
@@ -152687,6 +152790,55 @@
                         "20001466",
                         "20007780",
                         "20001455"
+                    ]
+                }
+            },
+            "55K+2+Tam Shui Hang+Sheung Shui Station Public Light Bus Terminus":{
+                "bound":{
+                    "gmb":"O"
+                },
+                "co":[
+                    "gmb"
+                ],
+                "dest":{
+                    "en":"Sheung Shui Station Public Light Bus Terminus",
+                    "zh":"上水站小巴總站"
+                },
+                "freq":{
+                    "31":{
+                        "0715":[
+                            "0715",
+                            "60"
+                        ]
+                    }
+                },
+                "gmbRegion":"NT",
+                "gtfsId":"2010501",
+                "nlbId":null,
+                "orig":{
+                    "en":"Tam Shui Hang",
+                    "zh":"擔水坑"
+                },
+                "route":"55K",
+                "serviceType":2,
+                "stops":{
+                    "gmb":[
+                        "20020986",
+                        "20004539",
+                        "20003242",
+                        "20003243",
+                        "20003244",
+                        "20003245",
+                        "20003246",
+                        "20001455",
+                        "20001471",
+                        "20001478",
+                        "20007291",
+                        "20001479",
+                        "20001480",
+                        "20007292",
+                        "20007293",
+                        "20001384"
                     ]
                 }
             },
@@ -216669,7 +216821,8 @@
                         "6C2DBC45160AA4BF",
                         "E5F082F4C7300273",
                         "91E946260F8BCBE8",
-                        "9381998EA6DC33CA"
+                        "9381998EA6DC33CA",
+                        "91E946260F8BCBE8"
                     ]
                 }
             },
@@ -216837,7 +216990,8 @@
                         "6C2DBC45160AA4BF",
                         "E5F082F4C7300273",
                         "91E946260F8BCBE8",
-                        "9381998EA6DC33CA"
+                        "9381998EA6DC33CA",
+                        "91E946260F8BCBE8"
                     ]
                 }
             },
@@ -216928,7 +217082,8 @@
                         "6C2DBC45160AA4BF",
                         "E5F082F4C7300273",
                         "91E946260F8BCBE8",
-                        "9381998EA6DC33CA"
+                        "9381998EA6DC33CA",
+                        "91E946260F8BCBE8"
                     ]
                 }
             },
@@ -217027,7 +217182,8 @@
                         "6C2DBC45160AA4BF",
                         "E5F082F4C7300273",
                         "91E946260F8BCBE8",
-                        "9381998EA6DC33CA"
+                        "9381998EA6DC33CA",
+                        "91E946260F8BCBE8"
                     ]
                 }
             },
@@ -329534,7 +329690,8 @@
                         "EDFAC4F35C0E51C7",
                         "EF78DD9F765C6565",
                         "D4A97E2A758EDC64",
-                        "61A59EA108B158F6"
+                        "61A59EA108B158F6",
+                        "C799751FDFCE292E"
                     ]
                 }
             },
@@ -329601,7 +329758,8 @@
                         "552DA8FCE732ABF0",
                         "ADB789C140CFBE00",
                         "37AEC610CEBCEA48",
-                        "8EA1F6CDA69E539C"
+                        "8EA1F6CDA69E539C",
+                        "AC1FD9BDD09D1DD6"
                     ]
                 }
             },
@@ -424790,6 +424948,16 @@
                     "zh":"堅道119-125號"
                 }
             },
+            "20020986":{
+                "location":{
+                    "lat":22.54498,
+                    "lng":114.21894
+                },
+                "name":{
+                    "en":"Sha Tau Kok Road, Tam Shui Hang",
+                    "zh":"沙頭角公路, 擔水坑"
+                }
+            },
             "201":{
                 "location":{
                     "lat":22.42959,
@@ -470266,6 +470434,16 @@
                 "name":{
                     "en":"Lung Mun Station",
                     "zh":"龍門站"
+                }
+            },
+            "C6DEF1AF70EC3375":{
+                "location":{
+                    "lat":22.50484,
+                    "lng":114.15453
+                },
+                "name":{
+                    "en":"Lung Ma Road",
+                    "zh":"龍馬路"
                 }
             },
             "C6E63C45FF2EA573":{
@@ -584162,6 +584340,12 @@
                     "20000018"
                 ]
             ],
+            "20020986":[
+                [
+                    "kmb",
+                    "6E31EAD2D04F8310"
+                ]
+            ],
             "201":[
                 [
                     "kmb",
@@ -619218,6 +619402,12 @@
                 [
                     "ctb",
                     "002817"
+                ]
+            ],
+            "6E31EAD2D04F8310":[
+                [
+                    "gmb",
+                    "20020986"
                 ]
             ],
             "6E410E80F8C9915B":[
@@ -655154,6 +655344,16 @@
                 [
                     "lightRail",
                     "LR030"
+                ]
+            ],
+            "C6DEF1AF70EC3375":[
+                [
+                    "gmb",
+                    "20012129"
+                ],
+                [
+                    "gmb",
+                    "20012131"
                 ]
             ],
             "C6E63C45FF2EA573":[
