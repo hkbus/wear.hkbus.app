@@ -91101,7 +91101,8 @@
                         "2D6EFC20FC4DE105",
                         "7263D9DB43BD3332",
                         "57A4742358B804D4",
-                        "F2ADAE66B5249736"
+                        "F2ADAE66B5249736",
+                        "3205DE941791278B"
                     ]
                 }
             },
@@ -94742,7 +94743,7 @@
                     ]
                 }
             },
-            "298E+1+HANG HAU STATION+TSEUNG KWAN O INDUSTRIAL ESTATE (CIRCULAR)":{
+            "298E+1+HANG HAU (NORTH)(TSEUNG KWAN O HOSPITAL)+HANG HAU STATION":{
                 "bound":{
                     "kmb":"O"
                 },
@@ -94750,8 +94751,8 @@
                     "kmb"
                 ],
                 "dest":{
-                    "en":"Tseung Kwan O Industrial Estate (Circular)",
-                    "zh":"將軍澳工業邨(循環線)"
+                    "en":"Hang Hau Station",
+                    "zh":"坑口站"
                 },
                 "freq":{
                     "287":{
@@ -94813,17 +94814,17 @@
                 "jt":"18",
                 "nlbId":null,
                 "orig":{
-                    "en":"Hang Hau Station",
-                    "zh":"坑口站"
+                    "en":"Hang Hau (North)(Tseung Kwan O Hospital)",
+                    "zh":"坑口(北)(將軍澳醫院)"
                 },
                 "route":"298E",
                 "serviceType":"1",
                 "stops":{
                     "kmb":[
-                        "B00A32AD2E0DA209",
-                        "87CD68EAD90352E9",
-                        "F9853D9712072CCB",
+                        "F5B19145922F18CC",
                         "D32019CB6290C2EF",
+                        "B00A32AD2E0DA209",
+                        "54FCA9F5D8F3587E",
                         "4E7C1C7F6D191BCB",
                         "815BC43527FD9247",
                         "B3F2EC8E42FA3184",
@@ -94841,11 +94842,11 @@
                         "0A1D83D50B49933D",
                         "38A37564B3F3CACF",
                         "6C3F6AF77695CAE9",
-                        "B00A32AD2E0DA209"
+                        "7E5A9F7D64C12E4C"
                     ]
                 }
             },
-            "298F+1+HANG HAU STATION+TSEUNG KWAN O INDUSTRIAL ESTATE (CIRCULAR)":{
+            "298F+1+HANG HAU (NORTH)(TSEUNG KWAN O HOSPITAL)+HANG HAU STATION":{
                 "bound":{
                     "kmb":"O"
                 },
@@ -94853,8 +94854,8 @@
                     "kmb"
                 ],
                 "dest":{
-                    "en":"Tseung Kwan O Industrial Estate (Circular)",
-                    "zh":"將軍澳工業邨(循環線)"
+                    "en":"Hang Hau Station",
+                    "zh":"坑口站"
                 },
                 "freq":{
                     "287":{
@@ -94900,17 +94901,17 @@
                 "jt":"21",
                 "nlbId":null,
                 "orig":{
-                    "en":"Hang Hau Station",
-                    "zh":"坑口站"
+                    "en":"Hang Hau (North)(Tseung Kwan O Hospital)",
+                    "zh":"坑口(北)(將軍澳醫院)"
                 },
                 "route":"298F",
                 "serviceType":"1",
                 "stops":{
                     "kmb":[
-                        "B00A32AD2E0DA209",
-                        "87CD68EAD90352E9",
-                        "F9853D9712072CCB",
+                        "F5B19145922F18CC",
                         "D32019CB6290C2EF",
+                        "B00A32AD2E0DA209",
+                        "54FCA9F5D8F3587E",
                         "4E7C1C7F6D191BCB",
                         "BED3E96AAC2B3B3D",
                         "815BC43527FD9247",
@@ -94928,7 +94929,7 @@
                         "0A1D83D50B49933D",
                         "38A37564B3F3CACF",
                         "6C3F6AF77695CAE9",
-                        "B00A32AD2E0DA209"
+                        "7E5A9F7D64C12E4C"
                     ]
                 }
             },
@@ -95271,7 +95272,8 @@
                         "888D5E0DD7261BB3",
                         "C7548A3C37ADC1AA",
                         "7BA7AF0DB4924B4E",
-                        "DAFAF65DCEA183D8"
+                        "DAFAF65DCEA183D8",
+                        "7547D90C500629AF"
                     ]
                 }
             },
@@ -106429,7 +106431,8 @@
                         "D77E7D97EC99B790",
                         "F05A07492FBBAB3F",
                         "669C12C26A3CFFB4",
-                        "BBD78E81CC1B113E"
+                        "BBD78E81CC1B113E",
+                        "03A082D6B4C517D9"
                     ]
                 }
             },
@@ -111047,7 +111050,7 @@
                     ]
                 }
             },
-            "373+1+CENTRAL (HONG KONG STATION)+SHEUNG SHUI":{
+            "373+1+CENTRAL (HONG KONG STATION)+FANLING (LUEN WO HUI)":{
                 "bound":{
                     "kmb":"I"
                 },
@@ -111055,8 +111058,8 @@
                     "kmb"
                 ],
                 "dest":{
-                    "en":"Sheung Shui",
-                    "zh":"上水"
+                    "en":"Fanling (Luen Wo Hui)",
+                    "zh":"粉嶺(聯和墟)"
                 },
                 "freq":null,
                 "gtfsId":null,
@@ -111098,7 +111101,7 @@
                     ]
                 }
             },
-            "373+1+SHEUNG SHUI+CENTRAL (HONG KONG STATION)":{
+            "373+1+FANLING (LUEN WO HUI)+CENTRAL (HONG KONG STATION)":{
                 "bound":{
                     "kmb":"O"
                 },
@@ -111113,8 +111116,8 @@
                 "gtfsId":null,
                 "nlbId":null,
                 "orig":{
-                    "en":"Sheung Shui",
-                    "zh":"上水"
+                    "en":"Fanling (Luen Wo Hui)",
+                    "zh":"粉嶺(聯和墟)"
                 },
                 "route":"373",
                 "serviceType":"1",
@@ -209496,7 +209499,8 @@
                         "D77E7D97EC99B790",
                         "F05A07492FBBAB3F",
                         "669C12C26A3CFFB4",
-                        "BBD78E81CC1B113E"
+                        "BBD78E81CC1B113E",
+                        "03A082D6B4C517D9"
                     ]
                 }
             },
@@ -277870,7 +277874,8 @@
                         "7BA7AF0DB4924B4E",
                         "A8526F930120F94A",
                         "D4D5DDEE7B735D83",
-                        "23B5C67999C778E0"
+                        "23B5C67999C778E0",
+                        "378A8EA13D10FB05"
                     ]
                 }
             },
@@ -278763,7 +278768,8 @@
                         "C7548A3C37ADC1AA",
                         "7BA7AF0DB4924B4E",
                         "DAFAF65DCEA183D8",
-                        "0BCB4FE6B0F5AB3D"
+                        "0BCB4FE6B0F5AB3D",
+                        "B5EC1749CBFD03C7"
                     ]
                 }
             },
@@ -440940,8 +440946,8 @@
                     "lng":114.26658
                 },
                 "name":{
-                    "en":"Yuk Ming Court",
-                    "zh":"煜明苑"
+                    "en":"Ngan O Road",
+                    "zh":"銀澳路"
                 }
             },
             "54FF927A38FDC562":{
@@ -448434,6 +448440,16 @@
                 "name":{
                     "en":"Prince Edward Station (N78)",
                     "zh":"太子站 (N78)"
+                }
+            },
+            "704C764F674E500D":{
+                "location":{
+                    "lat":22.42432,
+                    "lng":114.26358
+                },
+                "name":{
+                    "en":"Tai Tung",
+                    "zh":"大洞"
                 }
             },
             "7055FEADC58CB1F1":{
@@ -515028,6 +515044,10 @@
                 ],
                 [
                     "kmb",
+                    "F5B19145922F18CC"
+                ],
+                [
+                    "kmb",
                     "F9853D9712072CCB"
                 ]
             ],
@@ -529295,14 +529315,6 @@
             ],
             "0BCB4FE6B0F5AB3D":[
                 [
-                    "ctb",
-                    "002109"
-                ],
-                [
-                    "kmb",
-                    "10C3778233E05E2E"
-                ],
-                [
                     "kmb",
                     "2876907DEE816C98"
                 ],
@@ -530747,10 +530759,6 @@
                 [
                     "kmb",
                     "7E5A9F7D64C12E4C"
-                ],
-                [
-                    "kmb",
-                    "B00A32AD2E0DA209"
                 ],
                 [
                     "gmb",
@@ -544104,6 +544112,10 @@
                 ],
                 [
                     "kmb",
+                    "F5B19145922F18CC"
+                ],
+                [
+                    "kmb",
                     "F9853D9712072CCB"
                 ]
             ],
@@ -551103,10 +551115,6 @@
                 [
                     "kmb",
                     "7E5A9F7D64C12E4C"
-                ],
-                [
-                    "kmb",
-                    "B00A32AD2E0DA209"
                 ],
                 [
                     "mtr",
@@ -588202,6 +588210,10 @@
             "2876907DEE816C98":[
                 [
                     "kmb",
+                    "0BCB4FE6B0F5AB3D"
+                ],
+                [
+                    "kmb",
                     "378A8EA13D10FB05"
                 ],
                 [
@@ -588681,10 +588693,6 @@
                 [
                     "kmb",
                     "7E5A9F7D64C12E4C"
-                ],
-                [
-                    "kmb",
-                    "B00A32AD2E0DA209"
                 ],
                 [
                     "gmb",
@@ -595182,6 +595190,10 @@
                 ]
             ],
             "378A8EA13D10FB05":[
+                [
+                    "kmb",
+                    "0BCB4FE6B0F5AB3D"
+                ],
                 [
                     "kmb",
                     "2876907DEE816C98"
@@ -620713,6 +620725,12 @@
                     "D0A763AFCDE36124"
                 ]
             ],
+            "704C764F674E500D":[
+                [
+                    "gmb",
+                    "20003420"
+                ]
+            ],
             "7055FEADC58CB1F1":[
                 [
                     "ctb",
@@ -622590,6 +622608,10 @@
             "7547D90C500629AF":[
                 [
                     "kmb",
+                    "0BCB4FE6B0F5AB3D"
+                ],
+                [
+                    "kmb",
                     "10C3778233E05E2E"
                 ],
                 [
@@ -622811,6 +622833,10 @@
                 [
                     "kmb",
                     "AD4C1C7B2D1DF6FC"
+                ],
+                [
+                    "kmb",
+                    "F5B19145922F18CC"
                 ],
                 [
                     "kmb",
@@ -624496,6 +624522,10 @@
                 ],
                 [
                     "kmb",
+                    "0BCB4FE6B0F5AB3D"
+                ],
+                [
+                    "kmb",
                     "2876907DEE816C98"
                 ],
                 [
@@ -625691,10 +625721,6 @@
                 [
                     "kmb",
                     "5BE08E5DCD826740"
-                ],
-                [
-                    "kmb",
-                    "B00A32AD2E0DA209"
                 ],
                 [
                     "mtr",
@@ -632295,6 +632321,10 @@
                 [
                     "kmb",
                     "D9AAA33F19B8E45A"
+                ],
+                [
+                    "kmb",
+                    "F5B19145922F18CC"
                 ],
                 [
                     "kmb",
@@ -645458,6 +645488,10 @@
                 ],
                 [
                     "kmb",
+                    "F5B19145922F18CC"
+                ],
+                [
+                    "kmb",
                     "F9853D9712072CCB"
                 ],
                 [
@@ -646409,24 +646443,6 @@
                 [
                     "gmb",
                     "20000420"
-                ]
-            ],
-            "B00A32AD2E0DA209":[
-                [
-                    "gmb",
-                    "20002597"
-                ],
-                [
-                    "kmb",
-                    "29A07F043B4D5919"
-                ],
-                [
-                    "kmb",
-                    "7E5A9F7D64C12E4C"
-                ],
-                [
-                    "kmb",
-                    "0F283CD99F7295F3"
                 ]
             ],
             "B02B0B9F73E50D93":[
@@ -674127,6 +674143,10 @@
                 [
                     "kmb",
                     "7A79D102443D6822"
+                ],
+                [
+                    "kmb",
+                    "0BCB4FE6B0F5AB3D"
                 ]
             ],
             "F4D2D9D3575AECF6":[
@@ -674420,15 +674440,7 @@
                 ],
                 [
                     "gmb",
-                    "20001140"
-                ],
-                [
-                    "gmb",
                     "20001161"
-                ],
-                [
-                    "kmb",
-                    "28AEFA619AAB9688"
                 ],
                 [
                     "kmb",
@@ -674440,39 +674452,11 @@
                 ],
                 [
                     "kmb",
-                    "92BC52AEBC658E49"
-                ],
-                [
-                    "kmb",
                     "AD4C1C7B2D1DF6FC"
                 ],
                 [
                     "kmb",
-                    "D9AAA33F19B8E45A"
-                ],
-                [
-                    "kmb",
                     "F9853D9712072CCB"
-                ],
-                [
-                    "ctb",
-                    "002910"
-                ],
-                [
-                    "gmb",
-                    "20001172"
-                ],
-                [
-                    "gmb",
-                    "20007736"
-                ],
-                [
-                    "kmb",
-                    "5016E25156D72ADA"
-                ],
-                [
-                    "kmb",
-                    "76AA75F4BF183FB3"
                 ]
             ],
             "F5BB84FC3C97BC6A":[
@@ -676589,6 +676573,10 @@
                 [
                     "kmb",
                     "D9AAA33F19B8E45A"
+                ],
+                [
+                    "kmb",
+                    "F5B19145922F18CC"
                 ],
                 [
                     "kmb",
