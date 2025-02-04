@@ -231849,8 +231849,7 @@
                         "001359",
                         "001360",
                         "001361",
-                        "001375",
-                        "001313"
+                        "001375"
                     ]
                 }
             },
@@ -484274,6 +484273,16 @@
                     "zh":"雲景台"
                 }
             },
+            "F77B2A9037BF71ED":{
+                "location":{
+                    "lat":22.28437,
+                    "lng":114.174
+                },
+                "name":{
+                    "en":"Golden Bauhinia Garden",
+                    "zh":"金紫荊廣場"
+                }
+            },
             "F78B61532972282D":{
                 "location":{
                     "lat":22.31241,
@@ -676503,6 +676512,20 @@
                     "20009184"
                 ]
             ],
+            "F77B2A9037BF71ED":[
+                [
+                    "ctb",
+                    "003300"
+                ],
+                [
+                    "kmb",
+                    "3B254E7FFFCC0A2F"
+                ],
+                [
+                    "kmb",
+                    "6F4C27D4E845432E"
+                ]
+            ],
             "F78B61532972282D":[
                 [
                     "ctb",
@@ -695624,6 +695647,38 @@
                 "en":"Service on specified day, Disneyland",
                 "zh":"特定日子服務 迪士尼樂園路線"
             },
+            "R307":{
+                "en":"Service on specified day",
+                "zh":"特定日子服務"
+            },
+            "R680":{
+                "en":"Service on specified day",
+                "zh":"特定日子服務"
+            },
+            "R796":{
+                "en":"Service on specified day",
+                "zh":"特定日子服務"
+            },
+            "R930":{
+                "en":"Service on specified day",
+                "zh":"特定日子服務"
+            },
+            "R948":{
+                "en":"Service on specified day",
+                "zh":"特定日子服務"
+            },
+            "R950":{
+                "en":"Service on specified day",
+                "zh":"特定日子服務"
+            },
+            "R962":{
+                "en":"Service on specified day",
+                "zh":"特定日子服務"
+            },
+            "R969":{
+                "en":"Service on specified day",
+                "zh":"特定日子服務"
+            },
             "SP10":{
                 "en":"Service on specified day, Cross Harbour",
                 "zh":"特定日子服務 過海線"
@@ -695875,8 +695930,8 @@
                 "zh":"只於指定日期提供服務"
             },
             "SP10":{
-                "en":"Service on 4 February 2025 only.",
-                "zh":"只於2025年2月4日提供服務"
+                "en":"Service on Specific Day only.",
+                "zh":"只於指定日期提供服務"
             },
             "SP3":{
                 "en":"Service on 4 February 2025 only.",
