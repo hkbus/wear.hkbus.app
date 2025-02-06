@@ -1363,13 +1363,17 @@
         "R260",
         "R261",
         "R269",
+        "R270",
         "R271",
+        "R283",
         "R287",
         "R298",
         "R307",
         "R33",
+        "R38",
         "R42",
         "R603",
+        "R673",
         "R680",
         "R78",
         "R796",
@@ -1379,6 +1383,8 @@
         "R936",
         "R948",
         "R950",
+        "R960",
+        "R961",
         "R962",
         "R968",
         "R969",
@@ -1406,6 +1412,7 @@
         "T270",
         "T277",
         "T74",
+        "T80",
         "TCL",
         "TKL",
         "TML",
@@ -37219,7 +37226,6 @@
                         "EC757345195E6EAC",
                         "427A1FF65094D4D0",
                         "317BECDAF11EB461",
-                        "4D9419874306D82F",
                         "C80FB453C9F53569",
                         "C5F7AF8D65B268E4",
                         "AE2A53D953B640BE",
@@ -37402,6 +37408,50 @@
                 },
                 "freq":{
                     "287":{
+                        "0710":null
+                    }
+                },
+                "gtfsId":"1000337",
+                "jt":"25",
+                "nlbId":null,
+                "orig":{
+                    "en":"Kowloon Bay Station",
+                    "zh":"九龍灣站"
+                },
+                "route":"17",
+                "serviceType":"2",
+                "stops":{
+                    "kmb":[
+                        "427A1FF65094D4D0",
+                        "317BECDAF11EB461",
+                        "C80FB453C9F53569",
+                        "C5F7AF8D65B268E4",
+                        "AE2A53D953B640BE",
+                        "ACD50EDB57CC1618",
+                        "8111C852B4D849ED",
+                        "950668CA03FE879F",
+                        "7CA14768A9D3B451",
+                        "4FDF5E1EC677A66C",
+                        "BC3B37FDEE7EE51B",
+                        "5CE1C1296F98C6C4",
+                        "28D4FD61902C9392",
+                        "D93BC4178BA9232A"
+                    ]
+                }
+            },
+            "17+2+TELFORD GARDENS+HO MAN TIN (OI MAN ESTATE) BUS TERMINUS":{
+                "bound":{
+                    "kmb":"O"
+                },
+                "co":[
+                    "kmb"
+                ],
+                "dest":{
+                    "en":"Ho Man Tin (Oi Man Estate) Bus Terminus",
+                    "zh":"何文田(愛民邨)巴士總站"
+                },
+                "freq":{
+                    "287":{
                         "0700":null,
                         "0710":null,
                         "0715":null,
@@ -37412,17 +37462,17 @@
                 "jt":"27",
                 "nlbId":null,
                 "orig":{
-                    "en":"Kowloon Bay Station",
-                    "zh":"九龍灣站"
+                    "en":"Telford Gardens",
+                    "zh":"德福花園"
                 },
                 "route":"17",
                 "serviceType":"2",
                 "stops":{
                     "kmb":[
+                        "D45CEDE6A9DFA30B",
                         "EC757345195E6EAC",
                         "427A1FF65094D4D0",
                         "317BECDAF11EB461",
-                        "4D9419874306D82F",
                         "C80FB453C9F53569",
                         "C5F7AF8D65B268E4",
                         "AE2A53D953B640BE",
@@ -37449,13 +37499,8 @@
                     "en":"Ho Man Tin (Oi Man Estate)",
                     "zh":"何文田(愛民邨)"
                 },
-                "freq":{
-                    "287":{
-                        "0710":null
-                    }
-                },
-                "gtfsId":"1000337",
-                "jt":"25",
+                "freq":null,
+                "gtfsId":null,
                 "nlbId":null,
                 "orig":{
                     "en":"Prince Edward Road East (Richland Gardens)",
@@ -37466,7 +37511,6 @@
                 "stops":{
                     "kmb":[
                         "317BECDAF11EB461",
-                        "4D9419874306D82F",
                         "C80FB453C9F53569",
                         "C5F7AF8D65B268E4",
                         "AE2A53D953B640BE",
@@ -223608,7 +223652,7 @@
                         "20014326",
                         "20014327",
                         "20014328",
-                        "20014345",
+                        "20014329",
                         "20014330",
                         "20014331",
                         "20014332"
@@ -334546,6 +334590,48 @@
                     ]
                 }
             },
+            "R270+1+SHEUNG SHUI+TSIM SHA TSUI EAST (MODY ROAD)":{
+                "bound":{
+                    "kmb":"O"
+                },
+                "co":[
+                    "kmb"
+                ],
+                "dest":{
+                    "en":"Tsim Sha Tsui East (Mody Road)",
+                    "zh":"尖沙咀東(麼地道)"
+                },
+                "freq":null,
+                "gtfsId":null,
+                "nlbId":null,
+                "orig":{
+                    "en":"Sheung Shui",
+                    "zh":"上水"
+                },
+                "route":"R270",
+                "serviceType":"1",
+                "stops":{
+                    "kmb":[
+                        "CF0C67920B22ED62",
+                        "98EBAB9468C80DD2",
+                        "6DD6B837EF1FA76C",
+                        "AFD29CB1A4F71AB9",
+                        "60952B4A38F3D82E",
+                        "0E41E02CD9055626",
+                        "EE81A30BE4BDC8AC",
+                        "F129DD8D9E3268FB",
+                        "D0FB28B8EED62431",
+                        "FA52803E2628A212",
+                        "2431FF3100478DEE",
+                        "ED6FCB0422D541F5",
+                        "850F72123F644500",
+                        "98FCC750B322B706",
+                        "66C6FDFC88F56E51",
+                        "7CD8F96A087CDDF2",
+                        "F3D86A2A72FF3582"
+                    ]
+                }
+            },
             "R271+1+TAI PO (FU HENG)+TSIM SHA TSUI EAST (MODY ROAD)":{
                 "bound":{
                     "kmb":"O"
@@ -334591,6 +334677,54 @@
                         "98FCC750B322B706",
                         "66C6FDFC88F56E51",
                         "7CD8F96A087CDDF2",
+                        "F3D86A2A72FF3582"
+                    ]
+                }
+            },
+            "R283+1+SHEK MUN ESTATE+TSIM SHA TSUI EAST (MODY ROAD)":{
+                "bound":{
+                    "kmb":"O"
+                },
+                "co":[
+                    "kmb"
+                ],
+                "dest":{
+                    "en":"Tsim Sha Tsui East (Mody Road)",
+                    "zh":"尖沙咀東(麼地道)"
+                },
+                "freq":null,
+                "gtfsId":null,
+                "nlbId":null,
+                "orig":{
+                    "en":"Shek Mun Estate",
+                    "zh":"碩門邨"
+                },
+                "route":"R283",
+                "serviceType":"1",
+                "stops":{
+                    "kmb":[
+                        "0035CDF15614428C",
+                        "2223D64E9ED2E1A7",
+                        "69E4C417312C10C0",
+                        "C1E1199805BCC92D",
+                        "F0852C7827CC97EB",
+                        "7E3C2CA5ABEC8416",
+                        "D54A59914E577E3F",
+                        "3F01C915E856B018",
+                        "6282A73360ACEBEA",
+                        "FF98F738E3D0FE6B",
+                        "0333C7A4008A8DE3",
+                        "38CCA601583A5C55",
+                        "6FA31E38468068B6",
+                        "5C6B22551FFEB285",
+                        "B6B1AB47AB07887F",
+                        "61CB41A4FE2AD8E5",
+                        "363957ECE0924AC4",
+                        "F2E381299EA74E3E",
+                        "60F6F482EFA8FE18",
+                        "AD0E19B05666A22B",
+                        "C7C1C12D89968698",
+                        "F2508598F5A43655",
                         "F3D86A2A72FF3582"
                     ]
                 }
@@ -334974,6 +335108,44 @@
                     ]
                 }
             },
+            "R38+1+Chi Fu Fa Yuen+Causeway Bay (Victoria Park)":{
+                "bound":{
+                    "ctb":"O"
+                },
+                "co":[
+                    "ctb"
+                ],
+                "dest":{
+                    "en":"Causeway Bay (Victoria Park)",
+                    "zh":"銅鑼灣 (維多利亞公園)"
+                },
+                "freq":null,
+                "gtfsId":null,
+                "nlbId":null,
+                "orig":{
+                    "en":"Chi Fu Fa Yuen",
+                    "zh":"置富花園"
+                },
+                "route":"R38",
+                "serviceType":1,
+                "stops":{
+                    "ctb":[
+                        "002186",
+                        "002190",
+                        "002328",
+                        "002339",
+                        "002341",
+                        "002342",
+                        "002259",
+                        "002363",
+                        "002159",
+                        "002343",
+                        "002347",
+                        "002474",
+                        "001213"
+                    ]
+                }
+            },
             "R42+1+DISNEYLAND+TAI WAI STATION":{
                 "bound":{
                     "kmb":"O"
@@ -335113,6 +335285,54 @@
                         "06C9926B2E2B304F",
                         "76B4054F2E1F00B0",
                         "DF901EF2F9A46F7B"
+                    ]
+                }
+            },
+            "R673+1+SHEUNG SHUI (CHING HO)+CAUSEWAY BAY (VICTORIA PARK)":{
+                "bound":{
+                    "kmb":"O"
+                },
+                "co":[
+                    "kmb"
+                ],
+                "dest":{
+                    "en":"Causeway Bay (Victoria Park)",
+                    "zh":"銅鑼灣 (維多利亞公園)"
+                },
+                "freq":null,
+                "gtfsId":null,
+                "nlbId":null,
+                "orig":{
+                    "en":"Sheung Shui (Ching Ho)",
+                    "zh":"上水(清河)"
+                },
+                "route":"R673",
+                "serviceType":"1",
+                "stops":{
+                    "kmb":[
+                        "583E102838FA4D0A",
+                        "6F11F73C749338DB",
+                        "D3E18D04B69DF388",
+                        "C4F843F93CDCBE64",
+                        "4235BA400EB10F0E",
+                        "879A98CD29D9433F",
+                        "A22E315AD21129EB",
+                        "944EC71DD1731BE0",
+                        "EF78DD9F765C6565",
+                        "BFAE1E951D3B63EC",
+                        "C67060F448591E4F",
+                        "F7D40D08CB05EA87",
+                        "923E5B79E1B48739",
+                        "FA52803E2628A212",
+                        "2431FF3100478DEE",
+                        "ED6FCB0422D541F5",
+                        "850F72123F644500",
+                        "3821D64D2BF1BB66",
+                        "66C6FDFC88F56E51",
+                        "7CD8F96A087CDDF2",
+                        "4D3CBBDB95447F2E",
+                        "76B4054F2E1F00B0",
+                        "17B98BD1165A7B92"
                     ]
                 }
             },
@@ -335688,6 +335908,96 @@
                         "001476",
                         "002474",
                         "001213"
+                    ]
+                }
+            },
+            "R960+1+HUNG SHUI KIU (HUNG YUEN ROAD)+CAUSEWAY BAY (VICTORIA PARK)":{
+                "bound":{
+                    "kmb":"O"
+                },
+                "co":[
+                    "kmb"
+                ],
+                "dest":{
+                    "en":"Causeway Bay (Victoria Park)",
+                    "zh":"銅鑼灣(維多利亞公園)"
+                },
+                "freq":null,
+                "gtfsId":null,
+                "nlbId":null,
+                "orig":{
+                    "en":"Hung Shui Kiu (Hung Yuen Road)",
+                    "zh":"洪水橋(洪元路)"
+                },
+                "route":"R960",
+                "serviceType":"1",
+                "stops":{
+                    "kmb":[
+                        "595CE3974AB6F377",
+                        "AC1A0FA3D0743FCC",
+                        "8FA8E142E834CB7C",
+                        "92A09EC9B712A1ED",
+                        "4885700825A72F51",
+                        "A1541789F09C89BA",
+                        "D073CC71A1B4F79C",
+                        "B64EEA7F564C7853",
+                        "46D1A9FD1F84CA5C",
+                        "E01BD8E1BEC29EA6",
+                        "E16D49ECA536ECC6",
+                        "F224A907BD68406A",
+                        "4F36FEF121788834",
+                        "ECE3F3BE270C27E2",
+                        "594A765BE3A43C73",
+                        "507D90B4B976DBD6",
+                        "1F6BFDF34BABCE6A",
+                        "19B569A51034271F",
+                        "1AD9C759A42F9003",
+                        "EB64718829DFC071",
+                        "92A8D40E66E76F6B",
+                        "DD56DC2336C878C1",
+                        "8121695666A4D9CE",
+                        "C2787E27F82716BF",
+                        "ACB5FEA2BF9FC5AD",
+                        "06C9926B2E2B304F",
+                        "76B4054F2E1F00B0",
+                        "17B98BD1165A7B92"
+                    ]
+                }
+            },
+            "R961+1+TUEN MUN (SHAN KING ESTATE)+CAUSEWAY BAY (VICTORIA PARK)":{
+                "bound":{
+                    "kmb":"O"
+                },
+                "co":[
+                    "kmb"
+                ],
+                "dest":{
+                    "en":"Causeway Bay (Victoria Park)",
+                    "zh":"銅鑼灣(維多利亞公園)"
+                },
+                "freq":null,
+                "gtfsId":null,
+                "nlbId":null,
+                "orig":{
+                    "en":"Tuen Mun (Shan King Estate)",
+                    "zh":"屯門(山景邨)"
+                },
+                "route":"R961",
+                "serviceType":"1",
+                "stops":{
+                    "kmb":[
+                        "2297CADDD7BC438D",
+                        "B3CCA98CC6CE7C8C",
+                        "490F1A302D8C32FC",
+                        "584E6744385F6463",
+                        "C1BF4509359B0895",
+                        "C425164651C7EF52",
+                        "ABDD74161F650B6E",
+                        "123A364D76B2CE5D",
+                        "ACB5FEA2BF9FC5AD",
+                        "06C9926B2E2B304F",
+                        "76B4054F2E1F00B0",
+                        "17B98BD1165A7B92"
                     ]
                 }
             },
@@ -337034,7 +337344,7 @@
                     ]
                 }
             },
-            "SP1+1+KAI TAK SPORTS PARK BUS TERMINUS+HANG HAU (NORTH) (TSEUNG KWAN O HOSPITAL)":{
+            "SP1+1+KAI TAK SPORTS PARK+HANG HAU (NORTH) (TSEUNG KWAN O HOSPITAL)":{
                 "bound":{
                     "kmb":"O"
                 },
@@ -337049,8 +337359,8 @@
                 "gtfsId":null,
                 "nlbId":null,
                 "orig":{
-                    "en":"Kai Tak Sports Park Bus Terminus",
-                    "zh":"啟德體育園巴士總站"
+                    "en":"Kai Tak Sports Park",
+                    "zh":"啟德體育園"
                 },
                 "route":"SP1",
                 "serviceType":"1",
@@ -337083,7 +337393,7 @@
                     ]
                 }
             },
-            "SP10+1+KAI TAK SPORTS PARK BUS TERMINUS+CENTRAL (MACAU FERRY)":{
+            "SP10+1+KAI TAK SPORTS PARK+CENTRAL (MACAU FERRY)":{
                 "bound":{
                     "kmb":"O"
                 },
@@ -337098,8 +337408,8 @@
                 "gtfsId":null,
                 "nlbId":null,
                 "orig":{
-                    "en":"Kai Tak Sports Park Bus Terminus",
-                    "zh":"啟德體育園巴士總站"
+                    "en":"Kai Tak Sports Park",
+                    "zh":"啟德體育園"
                 },
                 "route":"SP10",
                 "serviceType":"1",
@@ -337228,7 +337538,7 @@
                     ]
                 }
             },
-            "SP3+1+KAI TAK SPORTS PARK BUS TERMINUS+CHING FU COURT":{
+            "SP3+1+KAI TAK SPORTS PARK+CHING FU COURT":{
                 "bound":{
                     "kmb":"O"
                 },
@@ -337243,8 +337553,8 @@
                 "gtfsId":null,
                 "nlbId":null,
                 "orig":{
-                    "en":"Kai Tak Sports Park Bus Terminus",
-                    "zh":"啟德體育園巴士總站"
+                    "en":"Kai Tak Sports Park",
+                    "zh":"啟德體育園"
                 },
                 "route":"SP3",
                 "serviceType":"1",
@@ -337295,7 +337605,7 @@
                     ]
                 }
             },
-            "SP5A+1+KAI TAK SPORTS PARK BUS TERMINUS+TUEN MUN PIER HEAD":{
+            "SP5A+1+KAI TAK SPORTS PARK+TUEN MUN PIER HEAD":{
                 "bound":{
                     "kmb":"O"
                 },
@@ -337310,8 +337620,8 @@
                 "gtfsId":null,
                 "nlbId":null,
                 "orig":{
-                    "en":"Kai Tak Sports Park Bus Terminus",
-                    "zh":"啟德體育園巴士總站"
+                    "en":"Kai Tak Sports Park",
+                    "zh":"啟德體育園"
                 },
                 "route":"SP5A",
                 "serviceType":"1",
@@ -337383,7 +337693,7 @@
                     ]
                 }
             },
-            "SP6+1+KAI TAK SPORTS PARK BUS TERMINUS+TIN HENG ESTATE":{
+            "SP6+1+KAI TAK SPORTS PARK+TIN HENG ESTATE":{
                 "bound":{
                     "kmb":"O"
                 },
@@ -337398,8 +337708,8 @@
                 "gtfsId":null,
                 "nlbId":null,
                 "orig":{
-                    "en":"Kai Tak Sports Park Bus Terminus",
-                    "zh":"啟德體育園巴士總站"
+                    "en":"Kai Tak Sports Park",
+                    "zh":"啟德體育園"
                 },
                 "route":"SP6",
                 "serviceType":"1",
@@ -337426,7 +337736,7 @@
                     ]
                 }
             },
-            "SP7+1+KAI TAK SPORTS PARK BUS TERMINUS+SHEUNG SHUI":{
+            "SP7+1+KAI TAK SPORTS PARK+SHEUNG SHUI":{
                 "bound":{
                     "kmb":"O"
                 },
@@ -337441,8 +337751,8 @@
                 "gtfsId":null,
                 "nlbId":null,
                 "orig":{
-                    "en":"Kai Tak Sports Park Bus Terminus",
-                    "zh":"啟德體育園巴士總站"
+                    "en":"Kai Tak Sports Park",
+                    "zh":"啟德體育園"
                 },
                 "route":"SP7",
                 "serviceType":"1",
@@ -337767,6 +338077,87 @@
                         "C2605DED84199B84",
                         "BF8E440F5584D39D",
                         "8D0555A78A132018"
+                    ]
+                }
+            },
+            "T80+1+MEI TIN+KOWLOON BAY":{
+                "bound":{
+                    "kmb":"O"
+                },
+                "co":[
+                    "kmb"
+                ],
+                "dest":{
+                    "en":"Kowloon Bay",
+                    "zh":"九龍灣"
+                },
+                "freq":null,
+                "gtfsId":null,
+                "nlbId":null,
+                "orig":{
+                    "en":"Mei Tin",
+                    "zh":"美田"
+                },
+                "route":"T80",
+                "serviceType":"1",
+                "stops":{
+                    "kmb":[
+                        "E1F73A6B69F39365",
+                        "02D4D2C0C430EAD0",
+                        "460D29054B1D54B1",
+                        "60F6F482EFA8FE18",
+                        "A66159E033DDEA04",
+                        "C92E80A5D7E0E8EC",
+                        "52B02EAC7AAB23C1",
+                        "B9EE83CA8ABB578B",
+                        "6CDAC4513AD44DB7",
+                        "72936E1AD7A19462",
+                        "30D564180B68ECA8",
+                        "F8D908466E28E9C2",
+                        "70CD99F4D487740A",
+                        "992F89F2265F8D8D",
+                        "8CCC6A9A25E82BCF"
+                    ]
+                }
+            },
+            "T80+2+HIN KENG+KOWLOON BAY":{
+                "bound":{
+                    "kmb":"O"
+                },
+                "co":[
+                    "kmb"
+                ],
+                "dest":{
+                    "en":"Kowloon Bay",
+                    "zh":"九龍灣"
+                },
+                "freq":null,
+                "gtfsId":null,
+                "nlbId":null,
+                "orig":{
+                    "en":"Hin Keng",
+                    "zh":"顯徑"
+                },
+                "route":"T80",
+                "serviceType":"2",
+                "stops":{
+                    "kmb":[
+                        "09AC1B6D147CA643",
+                        "1D13B640481F4CD1",
+                        "AC2A4AB84E52364C",
+                        "F3D3D5E7F698B748",
+                        "B11E10F012C57433",
+                        "A66159E033DDEA04",
+                        "C92E80A5D7E0E8EC",
+                        "52B02EAC7AAB23C1",
+                        "B9EE83CA8ABB578B",
+                        "6CDAC4513AD44DB7",
+                        "72936E1AD7A19462",
+                        "30D564180B68ECA8",
+                        "F8D908466E28E9C2",
+                        "70CD99F4D487740A",
+                        "992F89F2265F8D8D",
+                        "8CCC6A9A25E82BCF"
                     ]
                 }
             },
@@ -395840,8 +396231,8 @@
                     "lng":113.99781
                 },
                 "name":{
-                    "en":"Castle Peak Road near Hung Shui Kiu LR Stop",
-                    "zh":"青山公路近洪水橋輕鐵站"
+                    "en":"Castle Peak Road – Hung Shui Kiu near Hung Shui Kiu LR Stop",
+                    "zh":"青山公路－洪水橋段近洪水橋輕鐵站"
                 }
             },
             "20007694":{
@@ -409496,16 +409887,6 @@
                 "name":{
                     "en":"SALISBURY ROAD, near K11 Musea, Victoria Dockside",
                     "zh":"梳士巴利道, 近維港文化匯K11人文購物藝術館"
-                }
-            },
-            "20014345":{
-                "location":{
-                    "lat":22.31214,
-                    "lng":114.17793
-                },
-                "name":{
-                    "en":"CHUNG HAU STREET, near Tak Man House, OI MAN ESTATE",
-                    "zh":"忠孝街, 近愛民邨德民樓"
                 }
             },
             "20014346":{
@@ -435626,8 +436007,8 @@
                     "lng":114.19358
                 },
                 "name":{
-                    "en":"Kai Tak Sports Park Bus Terminus",
-                    "zh":"啟德體育園巴士總站"
+                    "en":"Kai Tak Sports Park",
+                    "zh":"啟德體育園"
                 }
             },
             "3F68D834013E6E08":{
@@ -436161,8 +436542,8 @@
                     "lng":114.19358
                 },
                 "name":{
-                    "en":"Kai Tak Sports Park Bus Terminus",
-                    "zh":"啟德體育園巴士總站"
+                    "en":"Kai Tak Sports Park",
+                    "zh":"啟德體育園"
                 }
             },
             "4167D2781EB3027C":{
@@ -441690,8 +442071,8 @@
                     "lng":114.19358
                 },
                 "name":{
-                    "en":"Kai Tak Sports Park Bus Terminus",
-                    "zh":"啟德體育園巴士總站"
+                    "en":"Kai Tak Sports Park",
+                    "zh":"啟德體育園"
                 }
             },
             "54693CF35B03CC69":{
@@ -449112,8 +449493,8 @@
                     "lng":114.19358
                 },
                 "name":{
-                    "en":"Kai Tak Sports Park Bus Terminus",
-                    "zh":"啟德體育園巴士總站"
+                    "en":"Kai Tak Sports Park",
+                    "zh":"啟德體育園"
                 }
             },
             "6FA31E38468068B6":{
@@ -456327,6 +456708,16 @@
                     "zh":"唐明街公園"
                 }
             },
+            "8CCC6A9A25E82BCF":{
+                "location":{
+                    "lat":22.32299,
+                    "lng":114.21143
+                },
+                "name":{
+                    "en":"Telford Gardens (Wai Yip Street)",
+                    "zh":"德福花園 (偉業街)"
+                }
+            },
             "8CD1D697477E50D0":{
                 "location":{
                     "lat":22.32759,
@@ -462447,8 +462838,8 @@
                     "lng":114.19358
                 },
                 "name":{
-                    "en":"Kai Tak Sports Park Bus Terminus",
-                    "zh":"啟德體育園巴士總站"
+                    "en":"Kai Tak Sports Park",
+                    "zh":"啟德體育園"
                 }
             },
             "A432A047D1B0DD62":{
@@ -473494,8 +473885,8 @@
                     "lng":114.19358
                 },
                 "name":{
-                    "en":"Kai Tak Sports Park Bus Terminus",
-                    "zh":"啟德體育園巴士總站"
+                    "en":"Kai Tak Sports Park",
+                    "zh":"啟德體育園"
                 }
             },
             "CF2B9E9382183398":{
@@ -516586,10 +516977,6 @@
                     "20014329"
                 ],
                 [
-                    "gmb",
-                    "20014345"
-                ],
-                [
                     "kmb",
                     "3D403F8CF70C7FE4"
                 ],
@@ -536790,10 +537177,6 @@
                 [
                     "kmb",
                     "460D29054B1D54B1"
-                ],
-                [
-                    "kmb",
-                    "F2E381299EA74E3E"
                 ]
             ],
             "180DC2E520E7A4D0":[
@@ -569168,10 +569551,6 @@
                     "003002"
                 ],
                 [
-                    "gmb",
-                    "20014345"
-                ],
-                [
                     "kmb",
                     "3D403F8CF70C7FE4"
                 ],
@@ -569308,24 +569687,6 @@
                 [
                     "kmb",
                     "9CAF2FDA35EEF9E2"
-                ]
-            ],
-            "20014345":[
-                [
-                    "ctb",
-                    "003002"
-                ],
-                [
-                    "gmb",
-                    "20014329"
-                ],
-                [
-                    "kmb",
-                    "3D403F8CF70C7FE4"
-                ],
-                [
-                    "kmb",
-                    "E24537CF3879CD25"
                 ]
             ],
             "20014346":[
@@ -586664,6 +587025,10 @@
                 [
                     "ctb",
                     "002052"
+                ],
+                [
+                    "kmb",
+                    "FF98F738E3D0FE6B"
                 ]
             ],
             "22D525468860D203":[
@@ -595518,6 +595883,12 @@
                     "AB2BD1CDDCB213CB"
                 ]
             ],
+            "363957ECE0924AC4":[
+                [
+                    "kmb",
+                    "B22D53E1FE805F7A"
+                ]
+            ],
             "363A9BD5A7BE81D0":[
                 [
                     "kmb",
@@ -598334,10 +598705,6 @@
                 [
                     "gmb",
                     "20014329"
-                ],
-                [
-                    "gmb",
-                    "20014345"
                 ],
                 [
                     "kmb",
@@ -602705,6 +603072,14 @@
                 ],
                 [
                     "kmb",
+                    "4654E57A8E9D32EB"
+                ],
+                [
+                    "kmb",
+                    "4ECC890698B17056"
+                ],
+                [
+                    "kmb",
                     "F2E381299EA74E3E"
                 ]
             ],
@@ -602848,6 +603223,10 @@
                 [
                     "ctb",
                     "003095"
+                ],
+                [
+                    "kmb",
+                    "460D29054B1D54B1"
                 ],
                 [
                     "kmb",
@@ -606260,6 +606639,10 @@
                 [
                     "ctb",
                     "003095"
+                ],
+                [
+                    "kmb",
+                    "460D29054B1D54B1"
                 ],
                 [
                     "kmb",
@@ -630818,10 +631201,6 @@
                 [
                     "kmb",
                     "A5C1234F60BBF1EB"
-                ],
-                [
-                    "kmb",
-                    "F3D3D5E7F698B748"
                 ]
             ],
             "87825C8E4FE99CD8":[
@@ -648136,6 +648515,10 @@
                 [
                     "ctb",
                     "003771"
+                ],
+                [
+                    "kmb",
+                    "363957ECE0924AC4"
                 ]
             ],
             "B241331CC87A36D4":[
@@ -667468,10 +667851,6 @@
                     "20014329"
                 ],
                 [
-                    "gmb",
-                    "20014345"
-                ],
-                [
                     "kmb",
                     "3D403F8CF70C7FE4"
                 ]
@@ -674117,10 +674496,6 @@
                 ],
                 [
                     "kmb",
-                    "17F010FBF594E572"
-                ],
-                [
-                    "kmb",
                     "460D29054B1D54B1"
                 ],
                 [
@@ -674585,35 +674960,11 @@
                 ],
                 [
                     "kmb",
-                    "8775AFC1C836C39F"
-                ],
-                [
-                    "kmb",
                     "99D2D097C44A98D0"
                 ],
                 [
                     "kmb",
                     "A5C1234F60BBF1EB"
-                ],
-                [
-                    "gmb",
-                    "20014249"
-                ],
-                [
-                    "kmb",
-                    "5EAE23D8DC3A7121"
-                ],
-                [
-                    "kmb",
-                    "95C43FF4684FCADA"
-                ],
-                [
-                    "kmb",
-                    "E1FF74B455D86144"
-                ],
-                [
-                    "ctb",
-                    "003551"
                 ]
             ],
             "F3D86A2A72FF3582":[
@@ -680158,6 +680509,10 @@
                 [
                     "gmb",
                     "20012420"
+                ],
+                [
+                    "kmb",
+                    "22D2A3F5CDAEA390"
                 ],
                 [
                     "kmb",
@@ -695891,7 +696246,15 @@
                 "en":"on 9/2/2025",
                 "zh":"9/2/2025 (一天)"
             },
+            "R270":{
+                "en":"Service on 9.2.2025 only",
+                "zh":"只於 2025年2月9日提供服務"
+            },
             "R271":{
+                "en":"Service on 9.2.2025 only",
+                "zh":"只於 2025年2月9日提供服務"
+            },
+            "R283":{
                 "en":"Service on 9.2.2025 only",
                 "zh":"只於 2025年2月9日提供服務"
             },
@@ -695911,6 +696274,10 @@
                 "en":"Service on 9.2.2025 only",
                 "zh":"只在2025年2月9日行走"
             },
+            "R673":{
+                "en":"Service on 9.2.2025 only",
+                "zh":"只於 2025年2月9日提供服務"
+            },
             "R680":{
                 "en":"Service on 9.2.2025",
                 "zh":"只於 2025年2月9日提供服務"
@@ -695926,6 +696293,14 @@
             "R948":{
                 "en":"Marathon Special Route",
                 "zh":"馬拉松特別路線"
+            },
+            "R960":{
+                "en":"on 9/2/2025",
+                "zh":"9/2/2025 (一天)"
+            },
+            "R961":{
+                "en":"on 9/2/2025",
+                "zh":"9/2/2025 (一天)"
             },
             "R968":{
                 "en":"on 9/2/2025",
