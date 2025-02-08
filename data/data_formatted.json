@@ -37226,6 +37226,7 @@
                         "EC757345195E6EAC",
                         "427A1FF65094D4D0",
                         "317BECDAF11EB461",
+                        "F2DE08EC0816987B",
                         "C80FB453C9F53569",
                         "C5F7AF8D65B268E4",
                         "AE2A53D953B640BE",
@@ -37408,50 +37409,6 @@
                 },
                 "freq":{
                     "287":{
-                        "0710":null
-                    }
-                },
-                "gtfsId":"1000337",
-                "jt":"25",
-                "nlbId":null,
-                "orig":{
-                    "en":"Kowloon Bay Station",
-                    "zh":"九龍灣站"
-                },
-                "route":"17",
-                "serviceType":"2",
-                "stops":{
-                    "kmb":[
-                        "427A1FF65094D4D0",
-                        "317BECDAF11EB461",
-                        "C80FB453C9F53569",
-                        "C5F7AF8D65B268E4",
-                        "AE2A53D953B640BE",
-                        "ACD50EDB57CC1618",
-                        "8111C852B4D849ED",
-                        "950668CA03FE879F",
-                        "7CA14768A9D3B451",
-                        "4FDF5E1EC677A66C",
-                        "BC3B37FDEE7EE51B",
-                        "5CE1C1296F98C6C4",
-                        "28D4FD61902C9392",
-                        "D93BC4178BA9232A"
-                    ]
-                }
-            },
-            "17+2+TELFORD GARDENS+HO MAN TIN (OI MAN ESTATE) BUS TERMINUS":{
-                "bound":{
-                    "kmb":"O"
-                },
-                "co":[
-                    "kmb"
-                ],
-                "dest":{
-                    "en":"Ho Man Tin (Oi Man Estate) Bus Terminus",
-                    "zh":"何文田(愛民邨)巴士總站"
-                },
-                "freq":{
-                    "287":{
                         "0700":null,
                         "0710":null,
                         "0715":null,
@@ -37462,17 +37419,17 @@
                 "jt":"27",
                 "nlbId":null,
                 "orig":{
-                    "en":"Telford Gardens",
-                    "zh":"德福花園"
+                    "en":"Kowloon Bay Station",
+                    "zh":"九龍灣站"
                 },
                 "route":"17",
                 "serviceType":"2",
                 "stops":{
                     "kmb":[
-                        "D45CEDE6A9DFA30B",
                         "EC757345195E6EAC",
                         "427A1FF65094D4D0",
                         "317BECDAF11EB461",
+                        "F2DE08EC0816987B",
                         "C80FB453C9F53569",
                         "C5F7AF8D65B268E4",
                         "AE2A53D953B640BE",
@@ -37499,8 +37456,13 @@
                     "en":"Ho Man Tin (Oi Man Estate)",
                     "zh":"何文田(愛民邨)"
                 },
-                "freq":null,
-                "gtfsId":null,
+                "freq":{
+                    "287":{
+                        "0710":null
+                    }
+                },
+                "gtfsId":"1000337",
+                "jt":"25",
                 "nlbId":null,
                 "orig":{
                     "en":"Prince Edward Road East (Richland Gardens)",
@@ -37511,6 +37473,7 @@
                 "stops":{
                     "kmb":[
                         "317BECDAF11EB461",
+                        "F2DE08EC0816987B",
                         "C80FB453C9F53569",
                         "C5F7AF8D65B268E4",
                         "AE2A53D953B640BE",
@@ -483183,6 +483146,16 @@
                     "zh":"利群道"
                 }
             },
+            "F2DE08EC0816987B":{
+                "location":{
+                    "lat":22.33485,
+                    "lng":114.20187
+                },
+                "name":{
+                    "en":"Rhythm Garden",
+                    "zh":"采頤花園"
+                }
+            },
             "F2DFF3A02940D925":{
                 "location":{
                     "lat":22.29636,
@@ -502321,6 +502294,10 @@
                 [
                     "kmb",
                     "D1AAD1771F3FA9A0"
+                ],
+                [
+                    "kmb",
+                    "F2DE08EC0816987B"
                 ]
             ],
             "001576":[
@@ -549641,6 +549618,10 @@
                 [
                     "kmb",
                     "D1AAD1771F3FA9A0"
+                ],
+                [
+                    "kmb",
+                    "F2DE08EC0816987B"
                 ]
             ],
             "20002013":[
@@ -571789,6 +571770,10 @@
                 [
                     "kmb",
                     "D1AAD1771F3FA9A0"
+                ],
+                [
+                    "kmb",
+                    "F2DE08EC0816987B"
                 ]
             ],
             "20015017":[
@@ -573231,6 +573216,10 @@
                 [
                     "kmb",
                     "D1AAD1771F3FA9A0"
+                ],
+                [
+                    "kmb",
+                    "F2DE08EC0816987B"
                 ]
             ],
             "20015248":[
@@ -584517,6 +584506,10 @@
                 [
                     "kmb",
                     "D1AAD1771F3FA9A0"
+                ],
+                [
+                    "kmb",
+                    "F2DE08EC0816987B"
                 ]
             ],
             "20020164":[
@@ -606041,6 +606034,10 @@
                 [
                     "kmb",
                     "D1AAD1771F3FA9A0"
+                ],
+                [
+                    "kmb",
+                    "F2DE08EC0816987B"
                 ]
             ],
             "4D99E0E24AF289E9":[
@@ -650741,6 +650738,10 @@
                 [
                     "kmb",
                     "D1AAD1771F3FA9A0"
+                ],
+                [
+                    "kmb",
+                    "F2DE08EC0816987B"
                 ]
             ],
             "B802C4681F58E3E2":[
@@ -661431,6 +661432,10 @@
                 [
                     "kmb",
                     "B7FD59E0DC385B38"
+                ],
+                [
+                    "kmb",
+                    "F2DE08EC0816987B"
                 ]
             ],
             "D1C1E33BB9350C65":[
@@ -674531,6 +674536,40 @@
                 [
                     "gmb",
                     "20000146"
+                ]
+            ],
+            "F2DE08EC0816987B":[
+                [
+                    "ctb",
+                    "001575"
+                ],
+                [
+                    "gmb",
+                    "20002010"
+                ],
+                [
+                    "gmb",
+                    "20015016"
+                ],
+                [
+                    "gmb",
+                    "20015246"
+                ],
+                [
+                    "gmb",
+                    "20020163"
+                ],
+                [
+                    "kmb",
+                    "4D9419874306D82F"
+                ],
+                [
+                    "kmb",
+                    "B7FD59E0DC385B38"
+                ],
+                [
+                    "kmb",
+                    "D1AAD1771F3FA9A0"
                 ]
             ],
             "F2DFF3A02940D925":[
