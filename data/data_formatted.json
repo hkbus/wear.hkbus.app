@@ -1364,9 +1364,6 @@
         "R261",
         "R269",
         "R270",
-        "R271",
-        "R283",
-        "R287",
         "R298",
         "R307",
         "R33",
@@ -26838,10 +26835,10 @@
                         "003158",
                         "002732",
                         "001154",
-                        "001155",
                         "001156",
                         "001149",
-                        "001150"
+                        "001150",
+                        "001072"
                     ]
                 }
             },
@@ -26894,7 +26891,7 @@
                         "001020",
                         "001021",
                         "001154",
-                        "001155",
+                        "001020",
                         "001156",
                         "001149",
                         "001150",
@@ -27279,7 +27276,6 @@
                         "003158",
                         "002732",
                         "001154",
-                        "001155",
                         "001156",
                         "001149",
                         "001150",
@@ -123152,7 +123148,7 @@
                     ]
                 }
             },
-            "40P+1+Wah Lam Path+Garden Terrace, Robinson Road":{
+            "40P+1+Wah Fu Road, Shek Pai Wan Road+Garden Terrace, Robinson Road":{
                 "bound":{
                     "ctb":"O"
                 },
@@ -123179,13 +123175,14 @@
                 "jt":"35",
                 "nlbId":null,
                 "orig":{
-                    "en":"Wah Lam Path",
-                    "zh":"華林徑"
+                    "en":"Wah Fu Road, Shek Pai Wan Road",
+                    "zh":"華富道, 石排灣道"
                 },
                 "route":"40P",
                 "serviceType":"1",
                 "stops":{
                     "ctb":[
+                        "002261",
                         "003875",
                         "002338",
                         "002339",
@@ -123213,7 +123210,6 @@
                         "001009",
                         "001010",
                         "001154",
-                        "001155",
                         "001156",
                         "001149",
                         "001150"
@@ -123307,6 +123303,7 @@
                         "002162",
                         "002163",
                         "002261",
+                        "002338",
                         "002226",
                         "002183",
                         "002184",
@@ -123329,7 +123326,6 @@
                         "001009",
                         "001010",
                         "001154",
-                        "001155",
                         "001156",
                         "001149",
                         "001150"
@@ -123366,6 +123362,7 @@
                         "002372",
                         "002295",
                         "002261",
+                        "002338",
                         "002226",
                         "002183",
                         "002184",
@@ -123388,7 +123385,6 @@
                         "001009",
                         "001010",
                         "001154",
-                        "001155",
                         "001156",
                         "001149",
                         "001150"
@@ -334655,149 +334651,6 @@
                     ]
                 }
             },
-            "R271+1+TAI PO (FU HENG)+TSIM SHA TSUI EAST (MODY ROAD)":{
-                "bound":{
-                    "kmb":"O"
-                },
-                "co":[
-                    "kmb"
-                ],
-                "dest":{
-                    "en":"Tsim Sha Tsui East (Mody Road)",
-                    "zh":"尖沙咀東(麼地道)"
-                },
-                "freq":null,
-                "gtfsId":null,
-                "nlbId":null,
-                "orig":{
-                    "en":"Tai Po (Fu Heng)",
-                    "zh":"大埔(富亨)"
-                },
-                "route":"R271",
-                "serviceType":"1",
-                "stops":{
-                    "kmb":[
-                        "D3EC6E5D48291437",
-                        "2CC694E5A84B05A0",
-                        "5A1A5F0DEB7F8EBE",
-                        "7081CE830F3E9B50",
-                        "45628FA7B8D7C5D2",
-                        "5734545592215022",
-                        "3FD481FB9B9DC36C",
-                        "062FFE8F1560E8A4",
-                        "74648B92E0E80E2E",
-                        "4DD5EC5516B360D7",
-                        "33ABA49F0E91A247",
-                        "B34F59A0270AEDA4",
-                        "B644204AEDE7A031",
-                        "5C2A974134634635",
-                        "A0D379E172F5BC93",
-                        "853CD1316EB5227B",
-                        "BE6EC9708F5FB613",
-                        "DF9E89A391CAC245",
-                        "657E5836BC932790",
-                        "850F72123F644500",
-                        "98FCC750B322B706",
-                        "66C6FDFC88F56E51",
-                        "7CD8F96A087CDDF2",
-                        "F3D86A2A72FF3582"
-                    ]
-                }
-            },
-            "R283+1+SHEK MUN ESTATE+TSIM SHA TSUI EAST (MODY ROAD)":{
-                "bound":{
-                    "kmb":"O"
-                },
-                "co":[
-                    "kmb"
-                ],
-                "dest":{
-                    "en":"Tsim Sha Tsui East (Mody Road)",
-                    "zh":"尖沙咀東(麼地道)"
-                },
-                "freq":null,
-                "gtfsId":null,
-                "nlbId":null,
-                "orig":{
-                    "en":"Shek Mun Estate",
-                    "zh":"碩門邨"
-                },
-                "route":"R283",
-                "serviceType":"1",
-                "stops":{
-                    "kmb":[
-                        "0035CDF15614428C",
-                        "2223D64E9ED2E1A7",
-                        "69E4C417312C10C0",
-                        "C1E1199805BCC92D",
-                        "F0852C7827CC97EB",
-                        "7E3C2CA5ABEC8416",
-                        "D54A59914E577E3F",
-                        "3F01C915E856B018",
-                        "6282A73360ACEBEA",
-                        "FF98F738E3D0FE6B",
-                        "0333C7A4008A8DE3",
-                        "38CCA601583A5C55",
-                        "6FA31E38468068B6",
-                        "5C6B22551FFEB285",
-                        "B6B1AB47AB07887F",
-                        "61CB41A4FE2AD8E5",
-                        "363957ECE0924AC4",
-                        "F2E381299EA74E3E",
-                        "60F6F482EFA8FE18",
-                        "AD0E19B05666A22B",
-                        "C7C1C12D89968698",
-                        "F2508598F5A43655",
-                        "F3D86A2A72FF3582"
-                    ]
-                }
-            },
-            "R287+1+WU KAI SHA STATION+TSIM SHA TSUI EAST (MODY ROAD)":{
-                "bound":{
-                    "kmb":"O"
-                },
-                "co":[
-                    "kmb"
-                ],
-                "dest":{
-                    "en":"Tsim Sha Tsui East (Mody Road)",
-                    "zh":"尖沙咀東(麼地道)"
-                },
-                "freq":null,
-                "gtfsId":null,
-                "nlbId":null,
-                "orig":{
-                    "en":"Wu Kai Sha Station",
-                    "zh":"烏溪沙站"
-                },
-                "route":"R287",
-                "serviceType":"1",
-                "stops":{
-                    "kmb":[
-                        "E22B819E638307CC",
-                        "8337F935242C5CC3",
-                        "6BD93B827893E41E",
-                        "3C61E9226688CA79",
-                        "8507CD56EB29D1CF",
-                        "1D99BD02B9B45429",
-                        "1D6A8B8C58C268FF",
-                        "96B1EEEF3B7B29A0",
-                        "03354DBC3AD86BAC",
-                        "A07D2012213FC19D",
-                        "6B46C7E695EF21CF",
-                        "96012665619E0B98",
-                        "C234CA2FB1299922",
-                        "BDC2B3601964F0DD",
-                        "C81CBD93FB2B5C60",
-                        "34740DD5ABC36F12",
-                        "25E1BAE2C272ED4C",
-                        "823E3EE2413E40E2",
-                        "E7133179F5800E85",
-                        "F2508598F5A43655",
-                        "F3D86A2A72FF3582"
-                    ]
-                }
-            },
             "R298+1+HONG SING GARDEN+TSIM SHA TSUI EAST (MODY ROAD)":{
                 "bound":{
                     "kmb":"O"
@@ -334836,13 +334689,11 @@
                     ]
                 }
             },
-            "R307+1+TAI PO TING TAI ROAD+CAUSEWAY BAY (VICTORIA PARK)":{
+            "R307+1+Tai Po (Ting Tai Road)+Causeway Bay (Victoria Park)":{
                 "bound":{
-                    "ctb":"O",
-                    "kmb":"O"
+                    "ctb":"O"
                 },
                 "co":[
-                    "kmb",
                     "ctb"
                 ],
                 "dest":{
@@ -334851,14 +334702,13 @@
                 },
                 "freq":null,
                 "gtfsId":null,
-                "kmbCtbJoint":true,
                 "nlbId":null,
                 "orig":{
-                    "en":"Tai Po Ting Tai Road",
-                    "zh":"大埔汀太路"
+                    "en":"Tai Po (Ting Tai Road)",
+                    "zh":"大埔 (汀太路)"
                 },
                 "route":"R307",
-                "serviceType":"1",
+                "serviceType":1,
                 "stops":{
                     "ctb":[
                         "003246",
@@ -334878,25 +334728,6 @@
                         "001476",
                         "002474",
                         "001213"
-                    ],
-                    "kmb":[
-                        "F9AB54847EF884BB",
-                        "8C1810DE2419A30B",
-                        "56F79FB1FC157E22",
-                        "95B249916F323BD4",
-                        "F1F1C3A91C6EB439",
-                        "27222F0DE22582ED",
-                        "ACDCC9E65172243D",
-                        "12E4BAFA2B73435B",
-                        "2431FF3100478DEE",
-                        "ED6FCB0422D541F5",
-                        "850F72123F644500",
-                        "3821D64D2BF1BB66",
-                        "66C6FDFC88F56E51",
-                        "7CD8F96A087CDDF2",
-                        "4D3CBBDB95447F2E",
-                        "76B4054F2E1F00B0",
-                        "17B98BD1165A7B92"
                     ]
                 }
             },
@@ -335359,13 +335190,11 @@
                     ]
                 }
             },
-            "R680+1+KAM YING COURT+CAUSEWAY BAY (VICTORIA PARK)":{
+            "R680+1+Ma On Shan (Kam Ying Court)+Causeway Bay (Victoria Park)":{
                 "bound":{
-                    "ctb":"O",
-                    "kmb":"O"
+                    "ctb":"O"
                 },
                 "co":[
-                    "kmb",
                     "ctb"
                 ],
                 "dest":{
@@ -335374,14 +335203,13 @@
                 },
                 "freq":null,
                 "gtfsId":null,
-                "kmbCtbJoint":true,
                 "nlbId":null,
                 "orig":{
-                    "en":"Kam Ying Court",
-                    "zh":"錦英苑"
+                    "en":"Ma On Shan (Kam Ying Court)",
+                    "zh":"馬鞍山 (錦英苑)"
                 },
                 "route":"R680",
-                "serviceType":"1",
+                "serviceType":1,
                 "stops":{
                     "ctb":[
                         "003090",
@@ -335402,26 +335230,6 @@
                         "002962",
                         "002474",
                         "001213"
-                    ],
-                    "kmb":[
-                        "4D8E5172E1C1EAF5",
-                        "D156C558FF163BE3",
-                        "013F884CBCB1CBE4",
-                        "1D99BD02B9B45429",
-                        "028E0B68D3166C00",
-                        "1D6A8B8C58C268FF",
-                        "F86BDB236D6ACDC3",
-                        "30553FA19D045D25",
-                        "4A3D71FFAB41B756",
-                        "A78292AA77A277A7",
-                        "578C11F0F4197509",
-                        "A295FD27A4E5A7C5",
-                        "C43782B93826F4CD",
-                        "2223D64E9ED2E1A7",
-                        "4D3CBBDB95447F2E",
-                        "D1D807234805DBF4",
-                        "76B4054F2E1F00B0",
-                        "17B98BD1165A7B92"
                     ]
                 }
             },
@@ -346310,16 +346118,6 @@
                 "name":{
                     "en":"Jadestone Court, Seymour Road",
                     "zh":"寶玉閣, 西摩道"
-                }
-            },
-            "001155":{
-                "location":{
-                    "lat":22.28249,
-                    "lng":114.14939
-                },
-                "name":{
-                    "en":"Castle Road, Seymour Road",
-                    "zh":"衛城道, 西摩道"
                 }
             },
             "001156":{
@@ -496432,12 +496230,6 @@
                     "7D77D56CB708BCED"
                 ]
             ],
-            "001155":[
-                [
-                    "ctb",
-                    "002732"
-                ]
-            ],
             "001156":[
                 [
                     "ctb",
@@ -514922,12 +514714,6 @@
                 [
                     "kmb",
                     "EEB8F0A7B9A9AA7D"
-                ]
-            ],
-            "002732":[
-                [
-                    "ctb",
-                    "001155"
                 ]
             ],
             "002733":[
@@ -537214,6 +537000,10 @@
                 [
                     "kmb",
                     "460D29054B1D54B1"
+                ],
+                [
+                    "kmb",
+                    "F2E381299EA74E3E"
                 ]
             ],
             "180DC2E520E7A4D0":[
@@ -587076,10 +586866,6 @@
                 [
                     "ctb",
                     "002052"
-                ],
-                [
-                    "kmb",
-                    "FF98F738E3D0FE6B"
                 ]
             ],
             "22D525468860D203":[
@@ -595932,12 +595718,6 @@
                 [
                     "kmb",
                     "AB2BD1CDDCB213CB"
-                ]
-            ],
-            "363957ECE0924AC4":[
-                [
-                    "kmb",
-                    "B22D53E1FE805F7A"
                 ]
             ],
             "363A9BD5A7BE81D0":[
@@ -648570,10 +648350,6 @@
                 [
                     "ctb",
                     "003771"
-                ],
-                [
-                    "kmb",
-                    "363957ECE0924AC4"
                 ]
             ],
             "B241331CC87A36D4":[
@@ -674589,6 +674365,10 @@
                 ],
                 [
                     "kmb",
+                    "17F010FBF594E572"
+                ],
+                [
+                    "kmb",
                     "460D29054B1D54B1"
                 ],
                 [
@@ -680598,10 +680378,6 @@
                 [
                     "gmb",
                     "20012420"
-                ],
-                [
-                    "kmb",
-                    "22D2A3F5CDAEA390"
                 ],
                 [
                     "kmb",
@@ -696343,25 +696119,9 @@
                 "en":"Service on 9.2.2025 only",
                 "zh":"只於 2025年2月9日提供服務"
             },
-            "R271":{
-                "en":"Service on 9.2.2025 only",
-                "zh":"只於 2025年2月9日提供服務"
-            },
-            "R283":{
-                "en":"Service on 9.2.2025 only",
-                "zh":"只於 2025年2月9日提供服務"
-            },
-            "R287":{
-                "en":"Service on 9.2.2025 only",
-                "zh":"只於 2025年2月9日提供服務"
-            },
             "R298":{
                 "en":"Service on 9.2.2025 only",
                 "zh":"只於2025年2月9日提供服務"
-            },
-            "R307":{
-                "en":"Service on 9.2.2025 only",
-                "zh":"只於 2025年2月9日提供服務"
             },
             "R603":{
                 "en":"Service on 9.2.2025 only",
@@ -696369,10 +696129,6 @@
             },
             "R673":{
                 "en":"Service on 9.2.2025 only",
-                "zh":"只於 2025年2月9日提供服務"
-            },
-            "R680":{
-                "en":"Service on 9.2.2025",
                 "zh":"只於 2025年2月9日提供服務"
             },
             "R934":{
