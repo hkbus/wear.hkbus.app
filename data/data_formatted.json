@@ -1391,7 +1391,6 @@
         "SP6",
         "SP7",
         "SP9",
-        "SWH2",
         "T270",
         "T277",
         "T74",
@@ -1415,6 +1414,7 @@
         "X43",
         "X47",
         "X55",
+        "X581",
         "X6C",
         "X797",
         "X8",
@@ -223094,7 +223094,7 @@
                         "20014333",
                         "20014348",
                         "20007348",
-                        "20014334",
+                        "20000724",
                         "20014335",
                         "20014336",
                         "20014337",
@@ -336926,34 +336926,6 @@
                     ]
                 }
             },
-            "SWH2+99+Central (Star Ferry)+Sai Wan Ho (Lei King Wan)":{
-                "bound":{
-                    "ctb":"O"
-                },
-                "co":[
-                    "ctb"
-                ],
-                "dest":{
-                    "en":"Sai Wan Ho (Lei King Wan)",
-                    "zh":"西灣河 (鯉景灣)"
-                },
-                "freq":null,
-                "gtfsId":null,
-                "jt":null,
-                "nlbId":null,
-                "orig":{
-                    "en":"Central (Star Ferry)",
-                    "zh":"中環 (天星碼頭)"
-                },
-                "route":"SWH2",
-                "serviceType":"99",
-                "stops":{
-                    "ctb":[
-                        "999998",
-                        "999999"
-                    ]
-                }
-            },
             "T270+1+FANLING (CHEUNG WAH)+TSIM SHA TSUI EAST (MODY ROAD)":{
                 "bound":{
                     "kmb":"O"
@@ -338787,6 +338759,58 @@
                     "ctb":[
                         "999998",
                         "999999"
+                    ]
+                }
+            },
+            "X581+1+GO PARK Sai Sha+Ma On Shan (On Chun Street)":{
+                "bound":{
+                    "ctb":"I"
+                },
+                "co":[
+                    "ctb"
+                ],
+                "dest":{
+                    "en":"Ma On Shan (On Chun Street)",
+                    "zh":"馬鞍山 (鞍駿街)"
+                },
+                "freq":null,
+                "gtfsId":null,
+                "nlbId":null,
+                "orig":{
+                    "en":"GO PARK Sai Sha",
+                    "zh":"西沙GO PARK"
+                },
+                "route":"X581",
+                "serviceType":1,
+                "stops":{
+                    "ctb":[
+                        "001944"
+                    ]
+                }
+            },
+            "X581+1+Ma On Shan (On Chun Street)+GO PARK Sai Sha":{
+                "bound":{
+                    "ctb":"O"
+                },
+                "co":[
+                    "ctb"
+                ],
+                "dest":{
+                    "en":"GO PARK Sai Sha",
+                    "zh":"西沙GO PARK"
+                },
+                "freq":null,
+                "gtfsId":null,
+                "nlbId":null,
+                "orig":{
+                    "en":"Ma On Shan (On Chun Street)",
+                    "zh":"馬鞍山 (鞍駿街)"
+                },
+                "route":"X581",
+                "serviceType":1,
+                "stops":{
+                    "ctb":[
+                        "001944"
                     ]
                 }
             },
@@ -408827,16 +408851,6 @@
                 "name":{
                     "en":"SHEUNG WO STREET, near Chan Sui Ki (La Salle) College",
                     "zh":"常和街, 近陳瑞祺 (喇沙) 書院"
-                }
-            },
-            "20014334":{
-                "location":{
-                    "lat":22.31517,
-                    "lng":114.18159
-                },
-                "name":{
-                    "en":"FAT KWONG STREET, near Nga Man House, HO MAN TIN ESTATE",
-                    "zh":"佛光街, 近何文田邨雅文樓"
                 }
             },
             "20014335":{
@@ -513787,10 +513801,6 @@
                     "20000724"
                 ],
                 [
-                    "gmb",
-                    "20014334"
-                ],
-                [
                     "kmb",
                     "7CA14768A9D3B451"
                 ]
@@ -543229,10 +543239,6 @@
                     "002720"
                 ],
                 [
-                    "gmb",
-                    "20014334"
-                ],
-                [
                     "kmb",
                     "7CA14768A9D3B451"
                 ]
@@ -568489,20 +568495,6 @@
                 [
                     "kmb",
                     "6E9A9467758898B7"
-                ]
-            ],
-            "20014334":[
-                [
-                    "ctb",
-                    "002720"
-                ],
-                [
-                    "gmb",
-                    "20000724"
-                ],
-                [
-                    "kmb",
-                    "7CA14768A9D3B451"
                 ]
             ],
             "20014335":[
@@ -625175,10 +625167,6 @@
                 [
                     "gmb",
                     "20000724"
-                ],
-                [
-                    "gmb",
-                    "20014334"
                 ]
             ],
             "7CA480A59A2F904E":[
@@ -694852,10 +694840,6 @@
                 "en":"Service on specified day",
                 "zh":"特定日子服務"
             },
-            "SWH2":{
-                "en":"Route Details TBD",
-                "zh":"未有路線資訊"
-            },
             "X1":{
                 "en":"Service on specified day",
                 "zh":"特定日子服務"
@@ -695067,8 +695051,8 @@
                 "zh":"只於2025年2月16日提供服務"
             },
             "SP5A":{
-                "en":"Service on 4/2/2025 only",
-                "zh":"只於4/2/2025 提供服務"
+                "en":"Service on 16/2/2025 only",
+                "zh":"只於16/2/2025 提供服務"
             },
             "SP6":{
                 "en":"Service on 16/2/2025 only",
