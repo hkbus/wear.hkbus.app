@@ -692,7 +692,6 @@
         "63A",
         "63B",
         "63K",
-        "63R",
         "63S",
         "63X",
         "641",
@@ -1248,7 +1247,6 @@
         "K75P",
         "K76",
         "KTL",
-        "LB2",
         "N1",
         "N11",
         "N116",
@@ -1361,10 +1359,8 @@
         "R260",
         "R261",
         "R269",
-        "R270",
         "R33",
         "R42",
-        "R673",
         "R78",
         "R8",
         "R934",
@@ -1402,7 +1398,6 @@
         "W2",
         "W3",
         "W4",
-        "WB1",
         "X1",
         "X11R",
         "X15",
@@ -76973,6 +76968,48 @@
                         "3A5C336CCB38A3FA",
                         "7BA304A9D0662541",
                         "0F4D809AED62F6E9"
+                    ]
+                }
+            },
+            "270D+1+SHAM SHUI PO (YEN CHOW ST)+FANLING (LUEN WO HUI)":{
+                "bound":{
+                    "kmb":"I"
+                },
+                "co":[
+                    "kmb"
+                ],
+                "dest":{
+                    "en":"Fanling (Luen Wo Hui)",
+                    "zh":"粉嶺(聯和墟)"
+                },
+                "freq":null,
+                "gtfsId":null,
+                "nlbId":null,
+                "orig":{
+                    "en":"Sham Shui Po (Yen Chow St)",
+                    "zh":"深水埗(欽州街)"
+                },
+                "route":"270D",
+                "serviceType":"1",
+                "stops":{
+                    "kmb":[
+                        "099E9950742D6414",
+                        "1A85B99EDE6D01D8",
+                        "04FC6E130D4953F4",
+                        "EEBBD352B7F16E3F",
+                        "01E580BD435E9301",
+                        "B4F2BAAED2470D0A",
+                        "3F21ED54F86D9B1D",
+                        "2F202818B5A6F424",
+                        "F8D7946AFDBA377E",
+                        "D876A83244ECB838",
+                        "9170FC8FFFD12204",
+                        "D2C1DACCC74B69C5",
+                        "EBE1766B508217AF",
+                        "C4F843F93CDCBE64",
+                        "4235BA400EB10F0E",
+                        "879A98CD29D9433F",
+                        "12DC09C113E1C873"
                     ]
                 }
             },
@@ -179604,66 +179641,6 @@
                     ]
                 }
             },
-            "63R+1+LAM TSUEN WISHING TREE+TAI PO MARKET STATION":{
-                "bound":{
-                    "kmb":"I"
-                },
-                "co":[
-                    "kmb"
-                ],
-                "dest":{
-                    "en":"Tai Po Market Station",
-                    "zh":"大埔墟站"
-                },
-                "freq":null,
-                "gtfsId":null,
-                "nlbId":null,
-                "orig":{
-                    "en":"Lam Tsuen Wishing Tree",
-                    "zh":"林村許願樹"
-                },
-                "route":"63R",
-                "serviceType":"1",
-                "stops":{
-                    "kmb":[
-                        "74A3A3037E047C81",
-                        "BCC83D8C953DC504",
-                        "399EF919E10C7F33",
-                        "512C07C3D131AB5A",
-                        "46604706EE6CC765",
-                        "8581908CE476D2CF"
-                    ]
-                }
-            },
-            "63R+1+TAI PO MARKET STATION+LAM TSUEN WISHING TREE":{
-                "bound":{
-                    "kmb":"O"
-                },
-                "co":[
-                    "kmb"
-                ],
-                "dest":{
-                    "en":"Lam Tsuen Wishing Tree",
-                    "zh":"林村許願樹"
-                },
-                "freq":null,
-                "gtfsId":null,
-                "nlbId":null,
-                "orig":{
-                    "en":"Tai Po Market Station",
-                    "zh":"大埔墟站"
-                },
-                "route":"63R",
-                "serviceType":"1",
-                "stops":{
-                    "kmb":[
-                        "8581908CE476D2CF",
-                        "0A8E2BA2F75E472E",
-                        "CCC4773031BC0FD8",
-                        "74A3A3037E047C81"
-                    ]
-                }
-            },
             "63S+2+Mei Tin Estate Public Transport Interchange+Mong Kok":{
                 "bound":{
                     "gmb":"O"
@@ -237873,6 +237850,7 @@
                         "20014801",
                         "20014802",
                         "20014803",
+                        "20021052",
                         "20014804"
                     ]
                 }
@@ -237969,6 +237947,7 @@
                     "gmb":[
                         "20014804",
                         "20014806",
+                        "20021052",
                         "20014807",
                         "20014808",
                         "20014809",
@@ -321400,60 +321379,6 @@
                     ]
                 }
             },
-            "LB2+1+SAI KUNG+SAN TIN PUBLIC TRANSPORT INTERCHANGE":{
-                "bound":{
-                    "kmb":"I"
-                },
-                "co":[
-                    "kmb"
-                ],
-                "dest":{
-                    "en":"San Tin Public Transport Interchange",
-                    "zh":"新田運輸交匯處"
-                },
-                "freq":null,
-                "gtfsId":null,
-                "nlbId":null,
-                "orig":{
-                    "en":"Sai Kung",
-                    "zh":"西貢"
-                },
-                "route":"LB2",
-                "serviceType":"1",
-                "stops":{
-                    "kmb":[
-                        "FFB9E8929671D06E",
-                        "41EF38A42AC3C3D2"
-                    ]
-                }
-            },
-            "LB2+1+SAN TIN PUBLIC TRANSPORT INTERCHANGE+SAI KUNG":{
-                "bound":{
-                    "kmb":"O"
-                },
-                "co":[
-                    "kmb"
-                ],
-                "dest":{
-                    "en":"Sai Kung",
-                    "zh":"西貢"
-                },
-                "freq":null,
-                "gtfsId":null,
-                "nlbId":null,
-                "orig":{
-                    "en":"San Tin Public Transport Interchange",
-                    "zh":"新田運輸交匯處"
-                },
-                "route":"LB2",
-                "serviceType":"1",
-                "stops":{
-                    "kmb":[
-                        "41EF38A42AC3C3D2",
-                        "FFB9E8929671D06E"
-                    ]
-                }
-            },
             "MWCE+1+MUI WO+CENTRAL":{
                 "bound":{
                     "sunferry":"I"
@@ -334446,48 +334371,6 @@
                     ]
                 }
             },
-            "R270+1+SHEUNG SHUI+TSIM SHA TSUI EAST (MODY ROAD)":{
-                "bound":{
-                    "kmb":"O"
-                },
-                "co":[
-                    "kmb"
-                ],
-                "dest":{
-                    "en":"Tsim Sha Tsui East (Mody Road)",
-                    "zh":"尖沙咀東(麼地道)"
-                },
-                "freq":null,
-                "gtfsId":null,
-                "nlbId":null,
-                "orig":{
-                    "en":"Sheung Shui",
-                    "zh":"上水"
-                },
-                "route":"R270",
-                "serviceType":"1",
-                "stops":{
-                    "kmb":[
-                        "C799751FDFCE292E",
-                        "98EBAB9468C80DD2",
-                        "6DD6B837EF1FA76C",
-                        "AFD29CB1A4F71AB9",
-                        "60952B4A38F3D82E",
-                        "0E41E02CD9055626",
-                        "EE81A30BE4BDC8AC",
-                        "F129DD8D9E3268FB",
-                        "D0FB28B8EED62431",
-                        "FA52803E2628A212",
-                        "2431FF3100478DEE",
-                        "ED6FCB0422D541F5",
-                        "850F72123F644500",
-                        "98FCC750B322B706",
-                        "66C6FDFC88F56E51",
-                        "7CD8F96A087CDDF2",
-                        "F3D86A2A72FF3582"
-                    ]
-                }
-            },
             "R33+1+DISNEYLAND+TUEN MUN STATION":{
                 "bound":{
                     "kmb":"O"
@@ -334801,55 +334684,6 @@
                         "65C8216FB0BC4FBC",
                         "444BEB5BB189B3A0",
                         "FE235D7DCABCA944"
-                    ]
-                }
-            },
-            "R673+1+SHEUNG SHUI (CHING HO)+CAUSEWAY BAY (VICTORIA PARK)":{
-                "bound":{
-                    "kmb":"O"
-                },
-                "co":[
-                    "kmb"
-                ],
-                "dest":{
-                    "en":"Causeway Bay (Victoria Park)",
-                    "zh":"銅鑼灣 (維多利亞公園)"
-                },
-                "freq":null,
-                "gtfsId":null,
-                "nlbId":null,
-                "orig":{
-                    "en":"Sheung Shui (Ching Ho)",
-                    "zh":"上水(清河)"
-                },
-                "route":"R673",
-                "serviceType":"1",
-                "stops":{
-                    "kmb":[
-                        "583E102838FA4D0A",
-                        "6F11F73C749338DB",
-                        "C799751FDFCE292E",
-                        "D3E18D04B69DF388",
-                        "C4F843F93CDCBE64",
-                        "4235BA400EB10F0E",
-                        "879A98CD29D9433F",
-                        "A22E315AD21129EB",
-                        "944EC71DD1731BE0",
-                        "EF78DD9F765C6565",
-                        "BFAE1E951D3B63EC",
-                        "C67060F448591E4F",
-                        "F7D40D08CB05EA87",
-                        "923E5B79E1B48739",
-                        "FA52803E2628A212",
-                        "2431FF3100478DEE",
-                        "ED6FCB0422D541F5",
-                        "850F72123F644500",
-                        "3821D64D2BF1BB66",
-                        "66C6FDFC88F56E51",
-                        "7CD8F96A087CDDF2",
-                        "4D3CBBDB95447F2E",
-                        "76B4054F2E1F00B0",
-                        "17B98BD1165A7B92"
                     ]
                 }
             },
@@ -337939,36 +337773,6 @@
                     ]
                 }
             },
-            "WB1+1+TUEN MUN STATION+LAM TSUEN WISHING TREE (From Tuen Mun) (Circular)":{
-                "bound":{
-                    "kmb":"O"
-                },
-                "co":[
-                    "kmb"
-                ],
-                "dest":{
-                    "en":"Lam Tsuen Wishing Tree (From Tuen Mun) (Circular)",
-                    "zh":"林村許願樹 (由屯門出發 循環行走)"
-                },
-                "freq":null,
-                "gtfsId":null,
-                "nlbId":null,
-                "orig":{
-                    "en":"Tuen Mun Station",
-                    "zh":"屯門站"
-                },
-                "route":"WB1",
-                "serviceType":"1",
-                "stops":{
-                    "kmb":[
-                        "0678C85600B1A019",
-                        "41EF38A42AC3C3D2",
-                        "0EAA1DC8345202C3",
-                        "41EF38A42AC3C3D2",
-                        "0678C85600B1A019"
-                    ]
-                }
-            },
             "X1+1+ASIAWORLD EXPO+TUNG CHUNG STATION":{
                 "bound":{
                     "ctb":"I",
@@ -338784,6 +338588,7 @@
                 "serviceType":1,
                 "stops":{
                     "ctb":[
+                        "003882",
                         "001944"
                     ]
                 }
@@ -338810,7 +338615,8 @@
                 "serviceType":1,
                 "stops":{
                     "ctb":[
-                        "001944"
+                        "001944",
+                        "003882"
                     ]
                 }
             },
@@ -356769,8 +356575,8 @@
                     "lng":114.16908
                 },
                 "name":{
-                    "en":"Police School Road",
-                    "zh":"警校道"
+                    "en":"MTR Wong Chuk Hang Depot, Police School Road",
+                    "zh":"港鐵黃竹坑車廠, 警校道"
                 }
             },
             "002372":{
@@ -369467,6 +369273,16 @@
                     "zh":"啟德 - 港鐵 A 出口, 沐安街"
                 }
             },
+            "003882":{
+                "location":{
+                    "lat":22.42789,
+                    "lng":114.26558
+                },
+                "name":{
+                    "en":"GO PARK Sai Sha",
+                    "zh":"西沙GO PARK"
+                }
+            },
             "003D1263A14908F6":{
                 "location":{
                     "lat":22.37354,
@@ -372859,16 +372675,6 @@
                 "name":{
                     "en":"Chung Tsai Yuen Lookout",
                     "zh":"松仔園瞭望台"
-                }
-            },
-            "0EAA1DC8345202C3":{
-                "location":{
-                    "lat":22.45766,
-                    "lng":114.14293
-                },
-                "name":{
-                    "en":"Lam Tsuen Wishing Tree",
-                    "zh":"林村許願樹"
                 }
             },
             "0EAFBD8737911A6A":{
@@ -410820,7 +410626,7 @@
                 },
                 "name":{
                     "en":"NGONG WAN ROAD, near Stonecutters Island Public Cargo Working Area",
-                    "zh":"昂運路,　近　昂船洲公眾貨物裝卸區"
+                    "zh":"昂運路, 近昂船洲公眾貨物裝卸區"
                 }
             },
             "20014805":{
@@ -425365,6 +425171,16 @@
                     "zh":"上海街, 朗豪坊外"
                 }
             },
+            "20021052":{
+                "location":{
+                    "lat":22.31874,
+                    "lng":114.13139
+                },
+                "name":{
+                    "en":"CHI NGONG ROAD, outside Ngong Shuen Chau Barracks",
+                    "zh":"志昂路, 昂船洲軍營外"
+                }
+            },
             "201":{
                 "location":{
                     "lat":22.42959,
@@ -435768,16 +435584,6 @@
                 "name":{
                     "en":"Wai Lok Street, Kwun Tong",
                     "zh":"觀塘偉樂街"
-                }
-            },
-            "41EF38A42AC3C3D2":{
-                "location":{
-                    "lat":22.50282,
-                    "lng":114.08134
-                },
-                "name":{
-                    "en":"San Tin Public Transport Interchange",
-                    "zh":"新田運輸交匯處"
                 }
             },
             "41F54895BBB74FEF":{
@@ -449842,16 +449648,6 @@
                 "name":{
                     "en":"Tai Long",
                     "zh":"大朗"
-                }
-            },
-            "74A3A3037E047C81":{
-                "location":{
-                    "lat":22.45766,
-                    "lng":114.14293
-                },
-                "name":{
-                    "en":"Lam Tsuen Wishing Tree",
-                    "zh":"林村許願樹"
                 }
             },
             "74C0E91D535648A2":{
@@ -519980,10 +519776,6 @@
             "003361":[
                 [
                     "kmb",
-                    "0678C85600B1A019"
-                ],
-                [
-                    "kmb",
                     "69EA07FBAB612E68"
                 ],
                 [
@@ -519996,11 +519788,11 @@
                 ],
                 [
                     "kmb",
-                    "DBD6820299653B4E"
+                    "D74B67D55C63895F"
                 ],
                 [
                     "kmb",
-                    "D74B67D55C63895F"
+                    "DBD6820299653B4E"
                 ],
                 [
                     "mtr",
@@ -527661,28 +527453,12 @@
             ],
             "0678C85600B1A019":[
                 [
-                    "ctb",
-                    "003361"
-                ],
-                [
-                    "gmb",
-                    "20011812"
-                ],
-                [
                     "kmb",
                     "79D68EE7C6CBAB9D"
                 ],
                 [
                     "kmb",
                     "A6A60ADA171EE7C8"
-                ],
-                [
-                    "kmb",
-                    "DBD6820299653B4E"
-                ],
-                [
-                    "gmb",
-                    "20001311"
                 ],
                 [
                     "kmb",
@@ -527697,8 +527473,8 @@
                     "D74B67D55C63895F"
                 ],
                 [
-                    "mtr",
-                    "TUM"
+                    "gmb",
+                    "20001311"
                 ],
                 [
                     "lrtfeeder",
@@ -559947,12 +559723,6 @@
                     "90A92A87C0491478"
                 ]
             ],
-            "20011097":[
-                [
-                    "kmb",
-                    "BCC83D8C953DC504"
-                ]
-            ],
             "20011123":[
                 [
                     "gmb",
@@ -560882,19 +560652,11 @@
             "20011812":[
                 [
                     "kmb",
-                    "0678C85600B1A019"
-                ],
-                [
-                    "kmb",
                     "DBD6820299653B4E"
                 ],
                 [
                     "mtr",
                     "TUM"
-                ],
-                [
-                    "ctb",
-                    "003361"
                 ]
             ],
             "20011845":[
@@ -569921,6 +569683,18 @@
                 [
                     "gmb",
                     "20014775"
+                ]
+            ],
+            "20014803":[
+                [
+                    "gmb",
+                    "20014806"
+                ]
+            ],
+            "20014806":[
+                [
+                    "gmb",
+                    "20014803"
                 ]
             ],
             "20014811":[
@@ -584657,6 +584431,12 @@
                     "6E31EAD2D04F8310"
                 ]
             ],
+            "20021052":[
+                [
+                    "kmb",
+                    "9E76DA1634822CDB"
+                ]
+            ],
             "201":[
                 [
                     "kmb",
@@ -588638,6 +588418,10 @@
                 ]
             ],
             "293A78248611EF42":[
+                [
+                    "kmb",
+                    "C799751FDFCE292E"
+                ],
                 [
                     "kmb",
                     "F6C4CEFB8C5DB31F"
@@ -629144,10 +628928,6 @@
                 ],
                 [
                     "kmb",
-                    "B4721B39CC29C634"
-                ],
-                [
-                    "kmb",
                     "D2F0F58F146419A3"
                 ],
                 [
@@ -639047,6 +638827,12 @@
                     "4B03758AF99951A6"
                 ]
             ],
+            "9E76DA1634822CDB":[
+                [
+                    "gmb",
+                    "20021052"
+                ]
+            ],
             "9E87D9D0191DACE9":[
                 [
                     "ctb",
@@ -648238,10 +648024,6 @@
                 ],
                 [
                     "kmb",
-                    "8581908CE476D2CF"
-                ],
-                [
-                    "kmb",
                     "919C2FE90FDCAD6A"
                 ],
                 [
@@ -651681,12 +651463,6 @@
                 [
                     "lrtfeeder",
                     "K65-D150"
-                ]
-            ],
-            "BCC83D8C953DC504":[
-                [
-                    "gmb",
-                    "20011097"
                 ]
             ],
             "BCEEE192EF01C361":[
@@ -655958,6 +655734,10 @@
             "C799751FDFCE292E":[
                 [
                     "kmb",
+                    "293A78248611EF42"
+                ],
+                [
+                    "kmb",
                     "4A35BB617F75F41D"
                 ],
                 [
@@ -656003,6 +655783,30 @@
                 [
                     "kmb",
                     "CF0C67920B22ED62"
+                ],
+                [
+                    "gmb",
+                    "20014293"
+                ],
+                [
+                    "ctb",
+                    "003849"
+                ],
+                [
+                    "gmb",
+                    "20012125"
+                ],
+                [
+                    "kmb",
+                    "647CBF3FE0DF2FAE"
+                ],
+                [
+                    "kmb",
+                    "9CA76C3AEAB52DC2"
+                ],
+                [
+                    "mtr",
+                    "SHS"
                 ]
             ],
             "C7A337AC40E14E19":[
@@ -664407,20 +664211,12 @@
             ],
             "DBD6820299653B4E":[
                 [
-                    "kmb",
-                    "0678C85600B1A019"
-                ],
-                [
                     "gmb",
                     "20011812"
                 ],
                 [
                     "mtr",
                     "TUM"
-                ],
-                [
-                    "ctb",
-                    "003361"
                 ]
             ],
             "DBEA3F848C7981F2":[
@@ -692441,14 +692237,6 @@
                 [
                     "kmb",
                     "DBD6820299653B4E"
-                ],
-                [
-                    "kmb",
-                    "0678C85600B1A019"
-                ],
-                [
-                    "ctb",
-                    "003361"
                 ]
             ],
             "TWH":[
@@ -694848,6 +694636,10 @@
                 "en":"Route Details TBD",
                 "zh":"未有路線資訊"
             },
+            "X581":{
+                "en":"Service on specified day",
+                "zh":"特定日子服務"
+            },
             "X797":{
                 "en":"Service on specified day",
                 "zh":"特定日子服務"
@@ -694886,10 +694678,6 @@
                 "en":"On Specific Day Only",
                 "zh":"指定日期服務"
             },
-            "63R":{
-                "en":"On 29 Jan to 12 Feb Only",
-                "zh":"於1月29日至2月12日期間提供服務"
-            },
             "75R":{
                 "en":"28-31/12/2024",
                 "zh":"28-31/12/2024"
@@ -694917,10 +694705,6 @@
             "HK1":{
                 "en":"Kowloon Bus Tour",
                 "zh":"九龍旅遊路線"
-            },
-            "LB2":{
-                "en":"Leisure Bus 🏞",
-                "zh":"郊遊遠足路線 🏞"
             },
             "N116":{
                 "en":"On Lunar New Year Eve only",
@@ -695014,14 +694798,6 @@
                 "en":"on 9/2/2025",
                 "zh":"9/2/2025 (一天)"
             },
-            "R270":{
-                "en":"Service on 9.2.2025 only",
-                "zh":"只於 2025年2月9日提供服務"
-            },
-            "R673":{
-                "en":"Service on 9.2.2025 only",
-                "zh":"只於 2025年2月9日提供服務"
-            },
             "R934":{
                 "en":"Marathon Special Route",
                 "zh":"馬拉松特別路線"
@@ -695061,10 +694837,6 @@
             "T80":{
                 "en":"Morning Peak Monday to Friday Departure from Mei T",
                 "zh":"星期一至五 早上繁忙時間 由美田開出"
-            },
-            "WB1":{
-                "en":"On 30 Jan to 2 Feb Only",
-                "zh":"於1月30日至2月2日(年初二至五)提供服務"
             }
         },
         "nlb":{
