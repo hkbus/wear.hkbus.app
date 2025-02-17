@@ -1409,7 +1409,6 @@
         "X43",
         "X47",
         "X55",
-        "X581",
         "X6C",
         "X797",
         "X8",
@@ -338566,60 +338565,6 @@
                     ]
                 }
             },
-            "X581+1+GO PARK Sai Sha+Ma On Shan (On Chun Street)":{
-                "bound":{
-                    "ctb":"I"
-                },
-                "co":[
-                    "ctb"
-                ],
-                "dest":{
-                    "en":"Ma On Shan (On Chun Street)",
-                    "zh":"馬鞍山 (鞍駿街)"
-                },
-                "freq":null,
-                "gtfsId":null,
-                "nlbId":null,
-                "orig":{
-                    "en":"GO PARK Sai Sha",
-                    "zh":"西沙GO PARK"
-                },
-                "route":"X581",
-                "serviceType":1,
-                "stops":{
-                    "ctb":[
-                        "003882",
-                        "001944"
-                    ]
-                }
-            },
-            "X581+1+Ma On Shan (On Chun Street)+GO PARK Sai Sha":{
-                "bound":{
-                    "ctb":"O"
-                },
-                "co":[
-                    "ctb"
-                ],
-                "dest":{
-                    "en":"GO PARK Sai Sha",
-                    "zh":"西沙GO PARK"
-                },
-                "freq":null,
-                "gtfsId":null,
-                "nlbId":null,
-                "orig":{
-                    "en":"Ma On Shan (On Chun Street)",
-                    "zh":"馬鞍山 (鞍駿街)"
-                },
-                "route":"X581",
-                "serviceType":1,
-                "stops":{
-                    "ctb":[
-                        "001944",
-                        "003882"
-                    ]
-                }
-            },
             "X6C+1+KOWLOON BAY+MEI FOO":{
                 "bound":{
                     "kmb":"I"
@@ -369271,16 +369216,6 @@
                 "name":{
                     "en":"Kai Tak - MTR Exit A, Muk On Street",
                     "zh":"啟德 - 港鐵 A 出口, 沐安街"
-                }
-            },
-            "003882":{
-                "location":{
-                    "lat":22.42789,
-                    "lng":114.26558
-                },
-                "name":{
-                    "en":"GO PARK Sai Sha",
-                    "zh":"西沙GO PARK"
                 }
             },
             "003D1263A14908F6":{
@@ -694636,10 +694571,6 @@
                 "en":"Route Details TBD",
                 "zh":"未有路線資訊"
             },
-            "X581":{
-                "en":"Service on specified day",
-                "zh":"特定日子服務"
-            },
             "X797":{
                 "en":"Service on specified day",
                 "zh":"特定日子服務"
@@ -694815,12 +694746,12 @@
                 "zh":"9/2/2025 (一天)"
             },
             "SP1":{
-                "en":"Service on 16 February 2025 only.",
-                "zh":"只於2025年2月16日提供服務"
+                "en":"Service on Specific Day only.",
+                "zh":"只於指定日期提供服務"
             },
             "SP10":{
-                "en":"Service on 16 February 2025 only.",
-                "zh":"只於2025年2月16日提供服務"
+                "en":"Service on Specific Day only.",
+                "zh":"只於指定日期提供服務"
             },
             "SP3":{
                 "en":"Service on 16 February 2025 only.",
