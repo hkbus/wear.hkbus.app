@@ -197,7 +197,6 @@
         "252",
         "252B",
         "252X",
-        "254R",
         "258A",
         "258D",
         "258P",
@@ -741,7 +740,6 @@
         "68F",
         "68K",
         "68M",
-        "68R",
         "68S",
         "68X",
         "69",
@@ -1272,7 +1270,6 @@
         "N269",
         "N27",
         "N271",
-        "N272",
         "N273",
         "N276",
         "N281",
@@ -1307,7 +1304,6 @@
         "N601",
         "N619",
         "N64",
-        "N64P",
         "N680",
         "N681",
         "N691",
@@ -1358,7 +1354,6 @@
         "R241",
         "R260",
         "R261",
-        "R269",
         "R33",
         "R42",
         "R78",
@@ -1366,7 +1361,6 @@
         "R934",
         "R936",
         "R948",
-        "R968",
         "S1",
         "S52",
         "S52A",
@@ -62742,36 +62736,6 @@
                         "0644E10571B8CA12",
                         "5AAC6A858427D04E",
                         "F36C1B3AC57D96FA"
-                    ]
-                }
-            },
-            "254R+1+YOHO MALL+SHEK KONG BARRACKS (CIRCULAR)":{
-                "bound":{
-                    "kmb":"O"
-                },
-                "co":[
-                    "kmb"
-                ],
-                "dest":{
-                    "en":"Shek Kong Barracks (Circular)",
-                    "zh":"石崗軍營 (循環線)"
-                },
-                "freq":null,
-                "gtfsId":null,
-                "nlbId":null,
-                "orig":{
-                    "en":"Yoho Mall",
-                    "zh":"形點"
-                },
-                "route":"254R",
-                "serviceType":"1",
-                "stops":{
-                    "kmb":[
-                        "65B07713A0DDFF22",
-                        "B930AD84BC1A8655",
-                        "2D10E16919B5A96E",
-                        "6A4B371546D489BF",
-                        "65B07713A0DDFF22"
                     ]
                 }
             },
@@ -130745,9 +130709,6 @@
                 "serviceType":1,
                 "stops":{
                     "ctb":[
-                        "001022",
-                        "003407",
-                        "002590",
                         "001070",
                         "001082",
                         "001083",
@@ -190146,60 +190107,6 @@
                         "D893FD9E88E2A98D",
                         "81C7DC25FD107DD2",
                         "BAE59C318B0E0C63"
-                    ]
-                }
-            },
-            "68R+1+TAI TONG+YOHO MALL (YUEN LONG)":{
-                "bound":{
-                    "kmb":"I"
-                },
-                "co":[
-                    "kmb"
-                ],
-                "dest":{
-                    "en":"Yoho Mall (Yuen Long)",
-                    "zh":"元朗 形點"
-                },
-                "freq":null,
-                "gtfsId":null,
-                "nlbId":null,
-                "orig":{
-                    "en":"Tai Tong",
-                    "zh":"大棠"
-                },
-                "route":"68R",
-                "serviceType":"1",
-                "stops":{
-                    "kmb":[
-                        "DC81D1176824125F",
-                        "65B07713A0DDFF22"
-                    ]
-                }
-            },
-            "68R+1+YOHO MALL (YUEN LONG)+TAI TONG":{
-                "bound":{
-                    "kmb":"O"
-                },
-                "co":[
-                    "kmb"
-                ],
-                "dest":{
-                    "en":"Tai Tong",
-                    "zh":"大棠"
-                },
-                "freq":null,
-                "gtfsId":null,
-                "nlbId":null,
-                "orig":{
-                    "en":"Yoho Mall (Yuen Long)",
-                    "zh":"元朗 形點"
-                },
-                "route":"68R",
-                "serviceType":"1",
-                "stops":{
-                    "kmb":[
-                        "65B07713A0DDFF22",
-                        "DC81D1176824125F"
                     ]
                 }
             },
@@ -286829,7 +286736,7 @@
                         "CE813C1E1A72C7B0",
                         "297B262BF8D00544",
                         "A6424D59E135C4EC",
-                        "8FA84681B967B3E2",
+                        "24CD3B0F3389F822",
                         "040478A068F3E0EB",
                         "8EB192ED041A8459",
                         "14F7E124D3972753",
@@ -286889,7 +286796,7 @@
                         "0AA7219BB2418438",
                         "844648D1EDB4A4CD",
                         "3DD89EF20A237A4C",
-                        "8FA84681B967B3E2",
+                        "24CD3B0F3389F822",
                         "5EDA0C1BE5CE95CF",
                         "424003F7939E9F01",
                         "4EFF1135BD93EE9E",
@@ -286956,7 +286863,7 @@
                         "CE813C1E1A72C7B0",
                         "297B262BF8D00544",
                         "A6424D59E135C4EC",
-                        "8FA84681B967B3E2",
+                        "24CD3B0F3389F822",
                         "040478A068F3E0EB",
                         "8EB192ED041A8459",
                         "14F7E124D3972753",
@@ -287003,7 +286910,7 @@
                         "0AA7219BB2418438",
                         "844648D1EDB4A4CD",
                         "3DD89EF20A237A4C",
-                        "8FA84681B967B3E2",
+                        "24CD3B0F3389F822",
                         "5EDA0C1BE5CE95CF",
                         "424003F7939E9F01",
                         "4EFF1135BD93EE9E",
@@ -325075,49 +324982,6 @@
                     ]
                 }
             },
-            "N272+1+UNIVERSITY STATION+PAK SHEK KOK (CIRCULAR)":{
-                "bound":{
-                    "kmb":"O"
-                },
-                "co":[
-                    "kmb"
-                ],
-                "dest":{
-                    "en":"Pak Shek Kok (Circular)",
-                    "zh":"白石角(循環線)"
-                },
-                "freq":null,
-                "gtfsId":null,
-                "nlbId":null,
-                "orig":{
-                    "en":"University Station",
-                    "zh":"大學站"
-                },
-                "route":"N272",
-                "serviceType":"1",
-                "stops":{
-                    "kmb":[
-                        "9F542D4B6CF41651",
-                        "739A5DDE0CF1970C",
-                        "9E95343C77BB85E2",
-                        "2D1A8946EF054FC9",
-                        "DADEC4FDAD7C58B3",
-                        "E8F5E085BAEFE100",
-                        "3313B37BF82AFF18",
-                        "F8F0E91589F099CD",
-                        "5747450359C7907C",
-                        "D31420E8C08168FC",
-                        "3F24CFF9046300D9",
-                        "3A7AC3A5F9530786",
-                        "39E7051B17D302DA",
-                        "1C6EAAF5F48167F9",
-                        "1D1571E9D1588FBE",
-                        "64101F297D3C1C55",
-                        "5B39CC28607910E4",
-                        "9F542D4B6CF41651"
-                    ]
-                }
-            },
             "N273+1+CHOI YUEN+SHEUNG SHUI (CHOI YUEN)":{
                 "bound":{
                     "kmb":"O"
@@ -327734,7 +327598,7 @@
                     ]
                 }
             },
-            "N42+1+TUNG CHUNG STATION+Yiu On Bus Terminus":{
+            "N42+1+TUNG CHUNG STATION+YIU ON":{
                 "bound":{
                     "kmb":"I"
                 },
@@ -327742,8 +327606,8 @@
                     "kmb"
                 ],
                 "dest":{
-                    "en":"Yiu On Bus Terminus",
-                    "zh":"耀安巴士總站"
+                    "en":"Yiu On",
+                    "zh":"耀安"
                 },
                 "freq":{
                     "511":{
@@ -327800,11 +327664,11 @@
                         "EEF73B5695D2AB0F",
                         "16F307C8DC4F835E",
                         "361710E40F71E503",
-                        "8FA84681B967B3E2"
+                        "24CD3B0F3389F822"
                     ]
                 }
             },
-            "N42+1+Yiu On Bus Terminus+TUNG CHUNG STATION":{
+            "N42+1+YIU ON+TUNG CHUNG STATION":{
                 "bound":{
                     "kmb":"O"
                 },
@@ -327825,14 +327689,14 @@
                 "jt":"105",
                 "nlbId":null,
                 "orig":{
-                    "en":"Yiu On Bus Terminus",
-                    "zh":"耀安巴士總站"
+                    "en":"Yiu On",
+                    "zh":"耀安"
                 },
                 "route":"N42",
                 "serviceType":"1",
                 "stops":{
                     "kmb":[
-                        "8FA84681B967B3E2",
+                        "24CD3B0F3389F822",
                         "56A0F742DE6B1316",
                         "473AF4463A49DA24",
                         "362D0188DD0985FF",
@@ -328908,51 +328772,6 @@
                         "FAC118A395652466",
                         "1A74AE460E7BEA16",
                         "FA265A8238AD5E8D"
-                    ]
-                }
-            },
-            "N64P+1+TAI PO MARKET STATION+NG TUNG CHAI (PAK NGAU SHEK)":{
-                "bound":{
-                    "kmb":"O"
-                },
-                "co":[
-                    "kmb"
-                ],
-                "dest":{
-                    "en":"Ng Tung Chai (Pak Ngau Shek)",
-                    "zh":"梧桐寨 (白牛石)"
-                },
-                "freq":null,
-                "gtfsId":null,
-                "nlbId":null,
-                "orig":{
-                    "en":"Tai Po Market Station",
-                    "zh":"大埔墟站"
-                },
-                "route":"N64P",
-                "serviceType":"1",
-                "stops":{
-                    "kmb":[
-                        "7910B0EBDD33B71B",
-                        "56C003E99C21984A",
-                        "6219234626AC9DD5",
-                        "DA30F5393480B81D",
-                        "6716018C3EE42733",
-                        "1A0BF02F827F6A20",
-                        "CCC4773031BC0FD8",
-                        "2A86FE3FCDB9760B",
-                        "5FCD0D727920EC65",
-                        "0B786699889F0AEB",
-                        "A53F6592C4173B4E",
-                        "A61CDC435D1C6C37",
-                        "B473A39CEDD5069D",
-                        "2A092A3FB143443A",
-                        "BEEF3ECF24FF4F1A",
-                        "A26AAC44AD49B9DB",
-                        "51AFF58670A6BE9B",
-                        "C97D9654FC4427C9",
-                        "42B5697C975C3953",
-                        "B4C010DBFBD55834"
                     ]
                 }
             },
@@ -332882,7 +332701,7 @@
                         "E900EC472C60D5D8",
                         "297B262BF8D00544",
                         "A6424D59E135C4EC",
-                        "8FA84681B967B3E2",
+                        "24CD3B0F3389F822",
                         "040478A068F3E0EB",
                         "8EB192ED041A8459",
                         "14F7E124D3972753",
@@ -332930,7 +332749,7 @@
                         "0AA7219BB2418438",
                         "844648D1EDB4A4CD",
                         "3DD89EF20A237A4C",
-                        "8FA84681B967B3E2",
+                        "24CD3B0F3389F822",
                         "5EDA0C1BE5CE95CF",
                         "424003F7939E9F01",
                         "E900EC472C60D5D8",
@@ -334321,55 +334140,6 @@
                     ]
                 }
             },
-            "R269+1+TIN TSZ+TSIM SHA TSUI EAST (MODY ROAD)":{
-                "bound":{
-                    "kmb":"O"
-                },
-                "co":[
-                    "kmb"
-                ],
-                "dest":{
-                    "en":"Tsim Sha Tsui East (Mody Road)",
-                    "zh":"尖沙咀東(麼地道)"
-                },
-                "freq":null,
-                "gtfsId":null,
-                "nlbId":null,
-                "orig":{
-                    "en":"Tin Tsz",
-                    "zh":"天慈"
-                },
-                "route":"R269",
-                "serviceType":"1",
-                "stops":{
-                    "kmb":[
-                        "868AEC6A9B5704FB",
-                        "D813C93D9AD1C45B",
-                        "7BB395B6FE66E102",
-                        "6D4E7B9D5F9584E7",
-                        "47AB1894215AECEE",
-                        "42AEF6365E78DA56",
-                        "8753A8442C2FFF53",
-                        "8D56DB404D264D5A",
-                        "67D80F37744E1277",
-                        "080EF1BEA737A5D3",
-                        "AFB9321F7CD2C2E4",
-                        "7898B605E39613A8",
-                        "CB853E4BCBB13F30",
-                        "C20316E552E64387",
-                        "1C0A89BD67A4CFF0",
-                        "BCC6E5BA6810FED6",
-                        "B02B0B9F73E50D93",
-                        "D54B0CA58FE5559D",
-                        "51BD0FD05C62F3F4",
-                        "53AC50E46ABDA85B",
-                        "591FA32FB4B53682",
-                        "447C1D79A10C83E2",
-                        "F2508598F5A43655",
-                        "1E5EADCD9F424F07"
-                    ]
-                }
-            },
             "R33+1+DISNEYLAND+TUEN MUN STATION":{
                 "bound":{
                     "kmb":"O"
@@ -335037,46 +334807,6 @@
                         "7192051038B36F08",
                         "1A37A52F97A04C81",
                         "CA60760D2303E6D0",
-                        "06C9926B2E2B304F",
-                        "76B4054F2E1F00B0",
-                        "17B98BD1165A7B92"
-                    ]
-                }
-            },
-            "R968+1+YUEN LONG (FUNG CHEUNG ROAD)+CAUSEWAY BAY (VICTORIA PARK)":{
-                "bound":{
-                    "kmb":"O"
-                },
-                "co":[
-                    "kmb"
-                ],
-                "dest":{
-                    "en":"Causeway Bay (Victoria Park)",
-                    "zh":"銅鑼灣(維多利亞公園)"
-                },
-                "freq":null,
-                "gtfsId":null,
-                "nlbId":null,
-                "orig":{
-                    "en":"Yuen Long (Fung Cheung Road)",
-                    "zh":"元朗(鳳翔路)"
-                },
-                "route":"R968",
-                "serviceType":"1",
-                "stops":{
-                    "kmb":[
-                        "E81DF9AB738F076E",
-                        "C8FF8B4A87A98184",
-                        "D412D24055680560",
-                        "5169CFB5102E1129",
-                        "C5890150706FE1A0",
-                        "283BB233842FCCEB",
-                        "B02B0B9F73E50D93",
-                        "C296D9B3313C1F77",
-                        "AD4CB5E1CAAF8063",
-                        "723EF8D7809D3ADB",
-                        "591FA32FB4B53682",
-                        "211D93217331B040",
                         "06C9926B2E2B304F",
                         "76B4054F2E1F00B0",
                         "17B98BD1165A7B92"
@@ -390378,7 +390108,7 @@
                 },
                 "name":{
                     "en":"Tai Tam Road, opposite Shan Tsui Court",
-                    "zh":"大潭道, 山翠苑对面"
+                    "zh":"大潭道, 山翠苑對面"
                 }
             },
             "20003468":{
@@ -392957,8 +392687,8 @@
                     "lng":114.16951
                 },
                 "name":{
-                    "en":"Fife Street, outside Trade And Industry Department Tower",
-                    "zh":"快富街, 工業貿易署大樓外"
+                    "en":"Fife Street, near Sai Yeung Choi Street South",
+                    "zh":"快富街近西洋菜南街"
                 }
             },
             "20006610":{
@@ -396368,7 +396098,7 @@
                 },
                 "name":{
                     "en":"Ting Kok Road, Plover Cove Country Park",
-                    "zh":"汀角路, 船灣郊野公園"
+                    "zh":"船灣郊野公園"
                 }
             },
             "20008331":{
@@ -396438,7 +396168,7 @@
                 },
                 "name":{
                     "en":"Ting Kok Road, Plover Cove Country Park",
-                    "zh":"汀角路, 船灣郊野公園"
+                    "zh":"船灣郊野公園"
                 }
             },
             "20008380":{
@@ -396447,8 +396177,8 @@
                     "lng":114.16995
                 },
                 "name":{
-                    "en":"Portland Street near Yau Ma Tei Station",
-                    "zh":"砵蘭街近油麻地鐵路站"
+                    "en":"Portland Street near Yau Ma Tei MTR Station",
+                    "zh":"砵蘭街近油麻地港鐵站"
                 }
             },
             "20008381":{
@@ -408121,8 +407851,8 @@
                     "lng":114.16912
                 },
                 "name":{
-                    "en":"SAI YEUNG CHOI STREET SOUTH, near Cheung Ling Mansion",
-                    "zh":"西洋菜南街, 近長寧大廈"
+                    "en":"SAI YEUNG CHOI STREET SOUTH, outside Cheung Ling Mansion",
+                    "zh":"西洋菜南街, 長寧大廈外"
                 }
             },
             "20014247":{
@@ -408912,7 +408642,7 @@
                 },
                 "name":{
                     "en":"JUNCTION ROAD, near Nga Tsin Wai Road",
-                    "zh":"聯合道,  近衙前圍道"
+                    "zh":"聯合道, 近衙前圍道"
                 }
             },
             "20014486":{
@@ -408961,7 +408691,7 @@
                     "lng":114.16292
                 },
                 "name":{
-                    "en":"Peak Road, near 56 Peak Road B",
+                    "en":"PEAK ROAD, near 56 Peak Road B",
                     "zh":"山頂道, 近山頂道五十六號Ｂ"
                 }
             },
@@ -421704,7 +421434,7 @@
                 },
                 "name":{
                     "en":"King Cho Road outside Cho Yiu Centre",
-                    "zh":"敬祖路祖堯坊外"
+                    "zh":"敬祖路, 祖堯坊外"
                 }
             },
             "20017917":{
@@ -426741,6 +426471,16 @@
                 "name":{
                     "en":"Aegean Coast",
                     "zh":"愛琴海岸"
+                }
+            },
+            "24CD3B0F3389F822":{
+                "location":{
+                    "lat":22.41933,
+                    "lng":114.22967
+                },
+                "name":{
+                    "en":"Yiu On Estate Bus Terminus",
+                    "zh":"耀安邨總站"
                 }
             },
             "24D77D8722934A82":{
@@ -456055,16 +455795,6 @@
                     "zh":"田灣街"
                 }
             },
-            "8FA84681B967B3E2":{
-                "location":{
-                    "lat":22.41933,
-                    "lng":114.22967
-                },
-                "name":{
-                    "en":"Yiu On Estate",
-                    "zh":"耀安邨"
-                }
-            },
             "8FA8E142E834CB7C":{
                 "location":{
                     "lat":22.43363,
@@ -476387,16 +476117,6 @@
                 "name":{
                     "en":"Yick Yuen Tsuen",
                     "zh":"亦園村"
-                }
-            },
-            "DC81D1176824125F":{
-                "location":{
-                    "lat":22.41355,
-                    "lng":114.02776
-                },
-                "name":{
-                    "en":"Tai Tong",
-                    "zh":"大棠"
                 }
             },
             "DC825DF01C49316F":{
@@ -507924,7 +507644,7 @@
                 ],
                 [
                     "kmb",
-                    "8FA84681B967B3E2"
+                    "24CD3B0F3389F822"
                 ],
                 [
                     "kmb",
@@ -538482,7 +538202,7 @@
             "1D72A93975EE33E9":[
                 [
                     "kmb",
-                    "8FA84681B967B3E2"
+                    "24CD3B0F3389F822"
                 ]
             ],
             "1D7A47D38CE1E6D7":[
@@ -574832,7 +574552,7 @@
                 ],
                 [
                     "kmb",
-                    "8FA84681B967B3E2"
+                    "24CD3B0F3389F822"
                 ],
                 [
                     "kmb",
@@ -586507,6 +586227,48 @@
                     "K58-U260"
                 ]
             ],
+            "24CD3B0F3389F822":[
+                [
+                    "ctb",
+                    "002026"
+                ],
+                [
+                    "kmb",
+                    "1D72A93975EE33E9"
+                ],
+                [
+                    "gmb",
+                    "20015772"
+                ],
+                [
+                    "kmb",
+                    "96B1EEEF3B7B29A0"
+                ],
+                [
+                    "kmb",
+                    "C8ED5EC0CD6C1A6F"
+                ],
+                [
+                    "kmb",
+                    "F1F906098E7C35E9"
+                ],
+                [
+                    "kmb",
+                    "CB667DC000F66D40"
+                ],
+                [
+                    "ctb",
+                    "001916"
+                ],
+                [
+                    "gmb",
+                    "20001227"
+                ],
+                [
+                    "kmb",
+                    "6F5592E4FF8A35E8"
+                ]
+            ],
             "24E16716BBB7F2D0":[
                 [
                     "kmb",
@@ -591626,10 +591388,6 @@
                 ],
                 [
                     "kmb",
-                    "65B07713A0DDFF22"
-                ],
-                [
-                    "kmb",
                     "73CDC61EBA1C9431"
                 ],
                 [
@@ -595757,10 +595515,6 @@
                 [
                     "kmb",
                     "591FA32FB4B53682"
-                ],
-                [
-                    "kmb",
-                    "65B07713A0DDFF22"
                 ],
                 [
                     "kmb",
@@ -600633,10 +600387,6 @@
                 [
                     "kmb",
                     "591FA32FB4B53682"
-                ],
-                [
-                    "kmb",
-                    "65B07713A0DDFF22"
                 ],
                 [
                     "kmb",
@@ -610498,10 +610248,6 @@
                 ],
                 [
                     "kmb",
-                    "65B07713A0DDFF22"
-                ],
-                [
-                    "kmb",
                     "73CDC61EBA1C9431"
                 ],
                 [
@@ -615939,36 +615685,6 @@
                 [
                     "kmb",
                     "EE1C91F3EDCEBB7E"
-                ]
-            ],
-            "65B07713A0DDFF22":[
-                [
-                    "kmb",
-                    "30A583775F35FD7D"
-                ],
-                [
-                    "kmb",
-                    "39CA64EA95DEE080"
-                ],
-                [
-                    "kmb",
-                    "445A166A348A82DB"
-                ],
-                [
-                    "kmb",
-                    "591FA32FB4B53682"
-                ],
-                [
-                    "kmb",
-                    "73CDC61EBA1C9431"
-                ],
-                [
-                    "kmb",
-                    "7917E395940F86AF"
-                ],
-                [
-                    "kmb",
-                    "AB0F79ED382081D0"
                 ]
             ],
             "65B59AD247A818A0":[
@@ -621932,10 +621648,6 @@
                 ],
                 [
                     "kmb",
-                    "65B07713A0DDFF22"
-                ],
-                [
-                    "kmb",
                     "7917E395940F86AF"
                 ],
                 [
@@ -623963,10 +623675,6 @@
                 [
                     "kmb",
                     "591FA32FB4B53682"
-                ],
-                [
-                    "kmb",
-                    "65B07713A0DDFF22"
                 ],
                 [
                     "kmb",
@@ -632825,48 +632533,6 @@
                     "20000329"
                 ]
             ],
-            "8FA84681B967B3E2":[
-                [
-                    "ctb",
-                    "002026"
-                ],
-                [
-                    "kmb",
-                    "1D72A93975EE33E9"
-                ],
-                [
-                    "gmb",
-                    "20015772"
-                ],
-                [
-                    "kmb",
-                    "96B1EEEF3B7B29A0"
-                ],
-                [
-                    "kmb",
-                    "C8ED5EC0CD6C1A6F"
-                ],
-                [
-                    "kmb",
-                    "F1F906098E7C35E9"
-                ],
-                [
-                    "kmb",
-                    "CB667DC000F66D40"
-                ],
-                [
-                    "ctb",
-                    "001916"
-                ],
-                [
-                    "gmb",
-                    "20001227"
-                ],
-                [
-                    "kmb",
-                    "6F5592E4FF8A35E8"
-                ]
-            ],
             "8FA8E142E834CB7C":[
                 [
                     "ctb",
@@ -636006,7 +635672,7 @@
                 ],
                 [
                     "kmb",
-                    "8FA84681B967B3E2"
+                    "24CD3B0F3389F822"
                 ],
                 [
                     "kmb",
@@ -644365,10 +644031,6 @@
                 [
                     "kmb",
                     "591FA32FB4B53682"
-                ],
-                [
-                    "kmb",
-                    "65B07713A0DDFF22"
                 ],
                 [
                     "kmb",
@@ -656214,7 +655876,7 @@
                 ],
                 [
                     "kmb",
-                    "8FA84681B967B3E2"
+                    "24CD3B0F3389F822"
                 ],
                 [
                     "kmb",
@@ -657296,7 +656958,7 @@
                 ],
                 [
                     "kmb",
-                    "8FA84681B967B3E2"
+                    "24CD3B0F3389F822"
                 ],
                 [
                     "kmb",
@@ -672740,7 +672402,7 @@
                 ],
                 [
                     "kmb",
-                    "8FA84681B967B3E2"
+                    "24CD3B0F3389F822"
                 ],
                 [
                     "kmb",
@@ -694578,10 +694240,6 @@
             }
         },
         "kmb":{
-            "254R":{
-                "en":"only service on Shek Kong Barrack open day",
-                "zh":"只在石崗軍營開放日服務"
-            },
             "25R":{
                 "en":"Service on 23 & 24 September 2023 only",
                 "zh":"只於2023年9月23及24日提供服務"
@@ -694646,10 +694304,6 @@
                 "en":"Specific Day Only",
                 "zh":"指定日期服務"
             },
-            "N272":{
-                "en":"On 29/1/2025 mid-night only",
-                "zh":"只於 29/1/2025 凌晨提供服務"
-            },
             "N273":{
                 "en":"Tthe route is operated only on 10 and 12 Feb 2024",
                 "zh":"本路線只於2024年2月10及12日提供服務"
@@ -694665,10 +694319,6 @@
             "N601":{
                 "en":"Service on Lunar New Year Eve only",
                 "zh":"只在農曆除夕行走"
-            },
-            "N64P":{
-                "en":"On 29/1/2025 mid-night only",
-                "zh":"只於 29/1/2025 凌晨提供服務"
             },
             "PB1":{
                 "en":"HK Gold Coast Pet Bus Tour",
@@ -694726,10 +694376,6 @@
                 "en":"on 9/2/2025",
                 "zh":"9/2/2025 (一天)"
             },
-            "R269":{
-                "en":"on 9/2/2025",
-                "zh":"9/2/2025 (一天)"
-            },
             "R934":{
                 "en":"Marathon Special Route",
                 "zh":"馬拉松特別路線"
@@ -694741,10 +694387,6 @@
             "R948":{
                 "en":"Marathon Special Route",
                 "zh":"馬拉松特別路線"
-            },
-            "R968":{
-                "en":"on 9/2/2025",
-                "zh":"9/2/2025 (一天)"
             },
             "SP1":{
                 "en":"Service on Specific Day only.",
