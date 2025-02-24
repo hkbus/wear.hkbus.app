@@ -33283,7 +33283,7 @@
                     ]
                 }
             },
-            "15+2+Central Ferry - Cheung Chau Ferry+The Peak":{
+            "15+2+Central Ferry – Cheung Chau & Lamma Island Ferry+The Peak":{
                 "bound":{
                     "ctb":"O"
                 },
@@ -33358,8 +33358,8 @@
                 "jt":"48",
                 "nlbId":null,
                 "orig":{
-                    "en":"Central Ferry - Cheung Chau Ferry",
-                    "zh":"中環碼頭 - 長洲渡輪"
+                    "en":"Central Ferry – Cheung Chau & Lamma Island Ferry",
+                    "zh":"中環碼頭 - 長洲及南丫島渡輪"
                 },
                 "route":"15",
                 "serviceType":"2",
@@ -33534,7 +33534,7 @@
                     ]
                 }
             },
-            "15+2+The Peak+Central Ferry - Cheung Chau Ferry":{
+            "15+2+The Peak+Central Ferry – Cheung Chau & Lamma Island Ferry":{
                 "bound":{
                     "ctb":"I"
                 },
@@ -33542,8 +33542,8 @@
                     "ctb"
                 ],
                 "dest":{
-                    "en":"Central Ferry - Cheung Chau Ferry",
-                    "zh":"中環碼頭 - 長洲渡輪"
+                    "en":"Central Ferry – Cheung Chau & Lamma Island Ferry",
+                    "zh":"中環碼頭 - 長洲及南丫島渡輪"
                 },
                 "freq":{
                     "287":{
@@ -33931,7 +33931,7 @@
                     ]
                 }
             },
-            "15+3+Central Ferry - Cheung Chau Ferry+The Peak":{
+            "15+3+Central Ferry – Cheung Chau & Lamma Island Ferry+The Peak":{
                 "bound":{
                     "ctb":"O"
                 },
@@ -34064,8 +34064,8 @@
                 "jt":"50",
                 "nlbId":null,
                 "orig":{
-                    "en":"Central Ferry - Cheung Chau Ferry",
-                    "zh":"中環碼頭 - 長洲渡輪"
+                    "en":"Central Ferry – Cheung Chau & Lamma Island Ferry",
+                    "zh":"中環碼頭 - 長洲及南丫島渡輪"
                 },
                 "route":"15",
                 "serviceType":"3",
@@ -61574,7 +61574,7 @@
                     ]
                 }
             },
-            "25+1+Central Ferry - Discovery Bay Ferry, Man Kwong Street+Central Ferry - Cheung Chau Ferry":{
+            "25+1+Central Ferry - Discovery Bay Ferry, Man Kwong Street+Central Ferry – Cheung Chau & Lamma Island Ferry":{
                 "bound":{
                     "ctb":"OI"
                 },
@@ -61582,8 +61582,8 @@
                     "ctb"
                 ],
                 "dest":{
-                    "en":"Central Ferry - Cheung Chau Ferry (Circular)",
-                    "zh":"中環碼頭 - 長洲渡輪 (循環線)"
+                    "en":"Central Ferry – Cheung Chau & Lamma Island Ferry (Circular)",
+                    "zh":"中環碼頭 - 長洲及南丫島渡輪 (循環線)"
                 },
                 "freq":{
                     "31":{
@@ -61805,7 +61805,7 @@
                     ]
                 }
             },
-            "25+2+Central Ferry - Discovery Bay Ferry, Man Kwong Street+Central Ferry - Cheung Chau Ferry":{
+            "25+2+Central Ferry - Discovery Bay Ferry, Man Kwong Street+Central Ferry – Cheung Chau & Lamma Island Ferry":{
                 "bound":{
                     "ctb":"OI"
                 },
@@ -61813,8 +61813,8 @@
                     "ctb"
                 ],
                 "dest":{
-                    "en":"Central Ferry - Cheung Chau Ferry (Circular)",
-                    "zh":"中環碼頭 - 長洲渡輪 (循環線)"
+                    "en":"Central Ferry – Cheung Chau & Lamma Island Ferry (Circular)",
+                    "zh":"中環碼頭 - 長洲及南丫島渡輪 (循環線)"
                 },
                 "freq":{
                     "480":{
@@ -344477,8 +344477,8 @@
                     "lng":114.1592
                 },
                 "name":{
-                    "en":"Central Ferry - Cheung Chau Ferry",
-                    "zh":"中環碼頭 - 長洲渡輪"
+                    "en":"Central Ferry – Cheung Chau & Lamma Island Ferry",
+                    "zh":"中環碼頭 - 長洲及南丫島渡輪"
                 }
             },
             "001196":{
