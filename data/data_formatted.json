@@ -61650,8 +61650,7 @@
                         "001054",
                         "001056",
                         "001107",
-                        "001170",
-                        "001195"
+                        "001170"
                     ]
                 }
             },
@@ -61721,7 +61720,7 @@
                     ]
                 }
             },
-            "25+1+Central Ferry - Discovery Bay Ferry, Man Kwong Street+Central Ferry – Cheung Chau & Lamma Island Ferry":{
+            "25+1+Central Ferry - Discovery Bay Ferry, Man Kwong Street+Central Ferry - Discovery Bay Ferry, Man Kwong Street":{
                 "bound":{
                     "ctb":"OI"
                 },
@@ -61729,8 +61728,8 @@
                     "ctb"
                 ],
                 "dest":{
-                    "en":"Central Ferry – Cheung Chau & Lamma Island Ferry (Circular)",
-                    "zh":"中環碼頭 - 長洲及南丫島渡輪 (循環線)"
+                    "en":"Central Ferry - Discovery Bay Ferry, Man Kwong Street (Circular)",
+                    "zh":"中環碼頭 - 愉景灣渡輪, 民光街 (循環線)"
                 },
                 "freq":{
                     "31":{
@@ -61823,7 +61822,8 @@
                         "001237",
                         "001238",
                         "001247",
-                        "001283",
+                        "001328",
+                        "001238",
                         "001286",
                         "001215",
                         "002439",
@@ -61836,8 +61836,7 @@
                         "001054",
                         "001056",
                         "001107",
-                        "001170",
-                        "001195"
+                        "001170"
                     ]
                 }
             },
@@ -61952,7 +61951,7 @@
                     ]
                 }
             },
-            "25+2+Central Ferry - Discovery Bay Ferry, Man Kwong Street+Central Ferry – Cheung Chau & Lamma Island Ferry":{
+            "25+2+Central Ferry - Discovery Bay Ferry, Man Kwong Street+Central Ferry - Discovery Bay Ferry, Man Kwong Street":{
                 "bound":{
                     "ctb":"OI"
                 },
@@ -61960,8 +61959,8 @@
                     "ctb"
                 ],
                 "dest":{
-                    "en":"Central Ferry – Cheung Chau & Lamma Island Ferry (Circular)",
-                    "zh":"中環碼頭 - 長洲及南丫島渡輪 (循環線)"
+                    "en":"Central Ferry - Discovery Bay Ferry, Man Kwong Street (Circular)",
+                    "zh":"中環碼頭 - 愉景灣渡輪, 民光街 (循環線)"
                 },
                 "freq":{
                     "480":{
@@ -62017,7 +62016,8 @@
                         "001237",
                         "001238",
                         "001247",
-                        "001283",
+                        "001328",
+                        "001238",
                         "001286",
                         "001215",
                         "002439",
@@ -62030,8 +62030,7 @@
                         "001054",
                         "001056",
                         "001107",
-                        "001170",
-                        "001195"
+                        "001170"
                     ]
                 }
             },
@@ -119601,9 +119600,69 @@
                     ]
                 }
             },
-            "4+1+Wong Chuk Hang (Nam Long Shan)+Central (Exchange Square)":{
+            "4+1+Wah Fu (South)+Hang Seng Bank Headquarters, Connaught Road Central":{
                 "bound":{
                     "ctb":"O"
+                },
+                "co":[
+                    "ctb"
+                ],
+                "dest":{
+                    "en":"Hang Seng Bank Headquarters, Connaught Road Central",
+                    "zh":"恒生銀行總行大廈, 干諾道中"
+                },
+                "freq":{
+                    "287":{
+                        "0530":[
+                            "0710",
+                            "1200"
+                        ],
+                        "0830":[
+                            "0950",
+                            "1200"
+                        ]
+                    }
+                },
+                "gtfsId":"1545",
+                "jt":"36",
+                "nlbId":null,
+                "orig":{
+                    "en":"Wah Fu (South)",
+                    "zh":"華富 (南)"
+                },
+                "route":"4",
+                "serviceType":"1",
+                "stops":{
+                    "ctb":[
+                        "002341",
+                        "002342",
+                        "002226",
+                        "002227",
+                        "002228",
+                        "002229",
+                        "002230",
+                        "002231",
+                        "002232",
+                        "001109",
+                        "001110",
+                        "001111",
+                        "001112",
+                        "001113",
+                        "001114",
+                        "001153",
+                        "001062",
+                        "001063",
+                        "001064",
+                        "001065",
+                        "001028",
+                        "001108",
+                        "001035"
+                    ]
+                }
+            },
+            "4+1+Wong Chuk Hang (Nam Long Shan)+Central (Exchange Square)":{
+                "bound":{
+                    "ctb":"I"
                 },
                 "co":[
                     "ctb"
@@ -119670,8 +119729,8 @@
                         "001028",
                         "001107",
                         "001170",
-                        "001195",
                         "001144",
+                        "001032",
                         "001032"
                     ]
                 }
@@ -119916,66 +119975,6 @@
                         "266",
                         "57",
                         "305"
-                    ]
-                }
-            },
-            "4+2+Wah Fu (South)+Hang Seng Bank Headquarters, Connaught Road Central":{
-                "bound":{
-                    "ctb":"O"
-                },
-                "co":[
-                    "ctb"
-                ],
-                "dest":{
-                    "en":"Hang Seng Bank Headquarters, Connaught Road Central",
-                    "zh":"恒生銀行總行大廈, 干諾道中"
-                },
-                "freq":{
-                    "287":{
-                        "0530":[
-                            "0710",
-                            "1200"
-                        ],
-                        "0830":[
-                            "0950",
-                            "1200"
-                        ]
-                    }
-                },
-                "gtfsId":"1545",
-                "jt":"36",
-                "nlbId":null,
-                "orig":{
-                    "en":"Wah Fu (South)",
-                    "zh":"華富 (南)"
-                },
-                "route":"4",
-                "serviceType":"2",
-                "stops":{
-                    "ctb":[
-                        "002341",
-                        "002342",
-                        "002226",
-                        "002227",
-                        "002228",
-                        "002229",
-                        "002230",
-                        "002231",
-                        "002232",
-                        "001109",
-                        "001110",
-                        "001111",
-                        "001112",
-                        "001113",
-                        "001114",
-                        "001153",
-                        "001062",
-                        "001063",
-                        "001064",
-                        "001065",
-                        "001028",
-                        "001108",
-                        "001035"
                     ]
                 }
             },
@@ -140984,6 +140983,65 @@
                     "en":"Wah Fu (South)",
                     "zh":"華富 (南)"
                 },
+                "freq":null,
+                "gtfsId":null,
+                "nlbId":null,
+                "orig":{
+                    "en":"Central (Exchange Square)",
+                    "zh":"中環 (交易廣場)"
+                },
+                "route":"4X",
+                "serviceType":1,
+                "stops":{
+                    "ctb":[
+                        "002678",
+                        "001028",
+                        "001107",
+                        "001170",
+                        "001144",
+                        "001032",
+                        "001034",
+                        "001191",
+                        "001035",
+                        "001124",
+                        "001126",
+                        "001127",
+                        "001134",
+                        "001135",
+                        "001130",
+                        "001131",
+                        "001119",
+                        "001116",
+                        "001117",
+                        "001120",
+                        "001118",
+                        "002234",
+                        "002236",
+                        "002237",
+                        "002238",
+                        "002239",
+                        "002240",
+                        "002233",
+                        "002333",
+                        "002334",
+                        "002335",
+                        "002336",
+                        "002339",
+                        "002341"
+                    ]
+                }
+            },
+            "4X+1+Sun Yat Sen Memorial Park, Connaught Road West+Wah Fu (South)":{
+                "bound":{
+                    "ctb":"I"
+                },
+                "co":[
+                    "ctb"
+                ],
+                "dest":{
+                    "en":"Wah Fu (South)",
+                    "zh":"華富 (南)"
+                },
                 "freq":{
                     "287":{
                         "0915":[
@@ -141006,18 +141064,18 @@
                 "jt":"36",
                 "nlbId":null,
                 "orig":{
-                    "en":"Central (Exchange Square)",
-                    "zh":"中環 (交易廣場)"
+                    "en":"Sun Yat Sen Memorial Park, Connaught Road West",
+                    "zh":"中山紀念公園, 干諾道西"
                 },
                 "route":"4X",
-                "serviceType":1,
+                "serviceType":"1",
                 "stops":{
                     "ctb":[
                         "002678",
                         "001028",
                         "001107",
                         "001170",
-                        "001195",
+                        "001170",
                         "001144",
                         "001032",
                         "001034",
@@ -141060,6 +141118,52 @@
                 "dest":{
                     "en":"Central (Exchange Square)",
                     "zh":"中環 (交易廣場)"
+                },
+                "freq":null,
+                "gtfsId":null,
+                "nlbId":null,
+                "orig":{
+                    "en":"Wah Fu (South)",
+                    "zh":"華富 (南)"
+                },
+                "route":"4X",
+                "serviceType":1,
+                "stops":{
+                    "ctb":[
+                        "002341",
+                        "002342",
+                        "002226",
+                        "002227",
+                        "002228",
+                        "002229",
+                        "002230",
+                        "002231",
+                        "002232",
+                        "001109",
+                        "001110",
+                        "001111",
+                        "001112",
+                        "001113",
+                        "002678",
+                        "001028",
+                        "001107",
+                        "001170",
+                        "001144",
+                        "001032",
+                        "001034"
+                    ]
+                }
+            },
+            "4X+1+Wah Fu (South)+Pottinger Street, Connaught Road Central":{
+                "bound":{
+                    "ctb":"I"
+                },
+                "co":[
+                    "ctb"
+                ],
+                "dest":{
+                    "en":"Pottinger Street, Connaught Road Central",
+                    "zh":"砵典乍街, 干諾道中"
                 },
                 "freq":{
                     "287":{
@@ -141107,7 +141211,7 @@
                     "zh":"華富 (南)"
                 },
                 "route":"4X",
-                "serviceType":1,
+                "serviceType":"1",
                 "stops":{
                     "ctb":[
                         "002341",
@@ -141128,7 +141232,7 @@
                         "001028",
                         "001107",
                         "001170",
-                        "001195",
+                        "001170",
                         "001144",
                         "001032",
                         "001034"
@@ -141213,7 +141317,7 @@
                         "001028",
                         "001107",
                         "001170",
-                        "001195",
+                        "001170",
                         "001144",
                         "001032",
                         "001034",
@@ -153032,6 +153136,7 @@
                         "20020098",
                         "20000303",
                         "20000016",
+                        "20021184",
                         "20000173",
                         "20000017",
                         "20000018",
@@ -153449,6 +153554,7 @@
                         "20003571",
                         "20000020",
                         "20000307",
+                        "20020100",
                         "20000308",
                         "20000309",
                         "20000310",
@@ -154071,6 +154177,7 @@
                         "20000324",
                         "20000026",
                         "20002713",
+                        "20020096",
                         "20000325",
                         "20020097",
                         "20003565",
@@ -214914,7 +215021,6 @@
                         "001036",
                         "001185",
                         "001170",
-                        "001195",
                         "001145"
                     ]
                 }
@@ -214981,7 +215087,6 @@
                         "001036",
                         "001185",
                         "001170",
-                        "001195",
                         "001145"
                     ]
                 }
@@ -266004,7 +266109,6 @@
                         "001027",
                         "001107",
                         "001170",
-                        "001195",
                         "001180",
                         "001174"
                     ]
@@ -334129,6 +334233,45 @@
                     ]
                 }
             },
+            "S1+6+TUNG CHUNG STATION+Airport (Circular)":{
+                "bound":{
+                    "kmb":"O"
+                },
+                "co":[
+                    "kmb"
+                ],
+                "dest":{
+                    "en":"Airport (Circular)",
+                    "zh":"機場(循環線)"
+                },
+                "freq":null,
+                "gtfsId":null,
+                "kmbCtbJoint":true,
+                "nlbId":null,
+                "orig":{
+                    "en":"Tung Chung Station",
+                    "zh":"東涌站"
+                },
+                "route":"S1",
+                "serviceType":"6",
+                "stops":{
+                    "kmb":[
+                        "E2BB3825832556CA",
+                        "77D21A8395AAC001",
+                        "91F728BB4F9CE96B",
+                        "D3B54388E91DAB57",
+                        "C05A618A6C13350B",
+                        "20AEF0F80E06013D",
+                        "9DCBD34740D95B23",
+                        "9C9F817064169CE7",
+                        "61C957321A4DE4A9",
+                        "5B8A639645E2BC49",
+                        "57DB1124DEF92894",
+                        "89A83934270E9BFB",
+                        "E2BB3825832556CA"
+                    ]
+                }
+            },
             "S52+1+Aircraft Maintenance Area+Tung Chung (Yat Tung Estate)":{
                 "bound":{
                     "ctb":"I"
@@ -377627,8 +377770,8 @@
                     "lng":114.14881
                 },
                 "name":{
-                    "en":"Caine Road, Ladder Street",
-                    "zh":"堅道, 樓梯街"
+                    "en":"Caine Road, near Ladder Street",
+                    "zh":"堅道, 近樓梯街"
                 }
             },
             "20000018":{
@@ -377638,7 +377781,7 @@
                 },
                 "name":{
                     "en":"Caine Road, Shing Wong Street",
-                    "zh":"堅道, 城皇街"
+                    "zh":"堅道, 近城皇街"
                 }
             },
             "20000019":{
@@ -377657,8 +377800,8 @@
                     "lng":114.16468
                 },
                 "name":{
-                    "en":"Queensway, outside Golden Bell Gallery",
-                    "zh":"金鐘道, 金鐘廊外"
+                    "en":"Queensway, near Admiralty Station Exit C1",
+                    "zh":"金鐘道, 近金鐘站C1出口"
                 }
             },
             "20000021":{
@@ -377687,8 +377830,8 @@
                     "lng":114.18557
                 },
                 "name":{
-                    "en":"Leighton Road, near Sunning Road",
-                    "zh":"禮頓道, 近新寧道"
+                    "en":"Leighton Road, outside Bonaventure House",
+                    "zh":"禮頓道, 雲翠大廈外"
                 }
             },
             "20000026":{
@@ -378367,8 +378510,8 @@
                     "lng":114.1474
                 },
                 "name":{
-                    "en":"Bonham Road, Hospital Road",
-                    "zh":"般咸道, 醫院道"
+                    "en":"Bonham Road, near Hospital Road",
+                    "zh":"般咸道, 近醫院道"
                 }
             },
             "20000174":{
@@ -378677,8 +378820,8 @@
                     "lng":114.19224
                 },
                 "name":{
-                    "en":"No.7-9 Ngan Mok Street",
-                    "zh":"銀幕街7-9號"
+                    "en":"Ngan Mok Street, outside Grand Seaview Heights",
+                    "zh":"銀幕街, 海景軒外"
                 }
             },
             "20000270":{
@@ -378947,7 +379090,7 @@
                     "lng":114.1718
                 },
                 "name":{
-                    "en":"Queen's Road East, opposite Hopewell Centre",
+                    "en":"Queen's Road East, opposite to Hopewell Centre",
                     "zh":"皇后大道東, 合和中心對面"
                 }
             },
@@ -378977,8 +379120,8 @@
                     "lng":114.18599
                 },
                 "name":{
-                    "en":"Caroline Centre, Pennington Street",
-                    "zh":"邊寧頓街, 嘉蘭中心"
+                    "en":"Pennington Street, outside Lee Gardens Two",
+                    "zh":"邊寧頓街, 利園二期外"
                 }
             },
             "20000312":{
@@ -378987,7 +379130,7 @@
                     "lng":114.19372
                 },
                 "name":{
-                    "en":"Electric Road, near Market Complex",
+                    "en":"Electric Road, near Municipal Services Building",
                     "zh":"電氣道, 近市政大廈"
                 }
             },
@@ -389811,8 +389954,8 @@
                     "lng":114.14981
                 },
                 "name":{
-                    "en":"No.65 Robinson Road",
-                    "zh":"羅便臣道65號"
+                    "en":"Robinson Road, near Yin Yee Mansion",
+                    "zh":"羅便臣道, 近燕貽大廈"
                 }
             },
             "20003566":{
@@ -389841,7 +389984,7 @@
                     "lng":114.14724
                 },
                 "name":{
-                    "en":"Robinson Road near Ying Wa Girls’ School",
+                    "en":"Robinson Road, near Ying Wa Girls’ School",
                     "zh":"羅便臣道, 近英華女學校"
                 }
             },
@@ -389851,8 +389994,8 @@
                     "lng":114.15045
                 },
                 "name":{
-                    "en":"No. 60 Robinson Road",
-                    "zh":"羅便臣道60號"
+                    "en":"Robinson Road, outside Carlos Court",
+                    "zh":"羅便臣道, 嘉樂園外"
                 }
             },
             "20003570":{
@@ -389861,8 +390004,8 @@
                     "lng":114.15326
                 },
                 "name":{
-                    "en":"No. 4 Robinson Road",
-                    "zh":"羅便臣道4號"
+                    "en":"4 Robinson Road, outside Bishop Lei International House",
+                    "zh":"羅便臣道, 宏基國際賓館外"
                 }
             },
             "20003571":{
@@ -392031,8 +392174,8 @@
                     "lng":114.18016
                 },
                 "name":{
-                    "en":"Morrison Hill Road, Happy Valley Racecourse",
-                    "zh":"摩理臣山道, 跑馬地馬場"
+                    "en":"Morrison Hill Road, near Happy Valley Racecourse",
+                    "zh":"摩理臣山道, 近跑馬地馬場"
                 }
             },
             "20006938":{
@@ -392921,8 +393064,8 @@
                     "lng":114.18471
                 },
                 "name":{
-                    "en":"Jardine's Bazaar,  Jinghua Center",
-                    "zh":"渣甸街, 京華中心"
+                    "en":"Jardine's Bazaar, near Jinghua Center",
+                    "zh":"渣甸街, 近京華中心"
                 }
             },
             "20007314":{
@@ -420577,8 +420720,8 @@
                     "lng":114.14871
                 },
                 "name":{
-                    "en":"70 Robinson Road outside Ohel Leah Synagogue",
-                    "zh":"羅便臣道70號猶太廟外"
+                    "en":"Robinson Road, outside Ohel Leah Synagogue",
+                    "zh":"羅便臣道, 猶太廟外"
                 }
             },
             "20017818":{
@@ -422637,8 +422780,8 @@
                     "lng":114.16994
                 },
                 "name":{
-                    "en":"Queen's Road East, outside Kui Chi Mansion",
-                    "zh":"皇后大道東, 近鉅芝樓"
+                    "en":"Queen's Road East, house no. 100",
+                    "zh":"皇后大道東100號"
                 }
             },
             "20020101":{
@@ -424039,6 +424182,16 @@
                 "name":{
                     "en":"Chung Wa Road, near TKO Gateway, Hau Tak Estate",
                     "zh":"重華路, 近厚德邨 TKO Gateway"
+                }
+            },
+            "20021184":{
+                "location":{
+                    "lat":22.28479,
+                    "lng":114.14588
+                },
+                "name":{
+                    "en":"Bonham Road, near High Street",
+                    "zh":"般咸道, 近高街"
                 }
             },
             "201":{
@@ -455612,6 +455765,16 @@
                 "name":{
                     "en":"Queen's Hill Bus Terminus",
                     "zh":"皇后山總站"
+                }
+            },
+            "91F728BB4F9CE96B":{
+                "location":{
+                    "lat":22.29887,
+                    "lng":113.93467
+                },
+                "name":{
+                    "en":"Airport Golden Trumpet Trail",
+                    "zh":"機場風鈴徑"
                 }
             },
             "92":{
@@ -492639,6 +492802,10 @@
                     "20020957"
                 ],
                 [
+                    "gmb",
+                    "20021184"
+                ],
+                [
                     "kmb",
                     "54F26831BD4A5EBD"
                 ]
@@ -494173,12 +494340,6 @@
                 [
                     "kmb",
                     "6B7C2A21D95241A5"
-                ]
-            ],
-            "001195":[
-                [
-                    "kmb",
-                    "255CE76A95FC1A80"
                 ]
             ],
             "001196":[
@@ -511909,6 +512070,10 @@
                 [
                     "gmb",
                     "20007561"
+                ],
+                [
+                    "kmb",
+                    "91F728BB4F9CE96B"
                 ]
             ],
             "002658":[
@@ -551721,6 +551886,10 @@
                     "20020293"
                 ],
                 [
+                    "gmb",
+                    "20021184"
+                ],
+                [
                     "kmb",
                     "54F26831BD4A5EBD"
                 ],
@@ -554989,6 +555158,10 @@
                 [
                     "ctb",
                     "002657"
+                ],
+                [
+                    "kmb",
+                    "91F728BB4F9CE96B"
                 ]
             ],
             "20007562":[
@@ -568597,6 +568770,10 @@
                     "20020293"
                 ],
                 [
+                    "gmb",
+                    "20021184"
+                ],
+                [
                     "kmb",
                     "54F26831BD4A5EBD"
                 ],
@@ -582197,6 +582374,10 @@
                     "20020957"
                 ],
                 [
+                    "gmb",
+                    "20021184"
+                ],
+                [
                     "kmb",
                     "54F26831BD4A5EBD"
                 ]
@@ -582995,6 +583176,10 @@
                     "20014881"
                 ],
                 [
+                    "gmb",
+                    "20021184"
+                ],
+                [
                     "kmb",
                     "54F26831BD4A5EBD"
                 ]
@@ -583055,6 +583240,32 @@
                 [
                     "gmb",
                     "20002563"
+                ]
+            ],
+            "20021184":[
+                [
+                    "ctb",
+                    "001009"
+                ],
+                [
+                    "gmb",
+                    "20004105"
+                ],
+                [
+                    "gmb",
+                    "20014881"
+                ],
+                [
+                    "gmb",
+                    "20020293"
+                ],
+                [
+                    "kmb",
+                    "54F26831BD4A5EBD"
+                ],
+                [
+                    "gmb",
+                    "20020957"
                 ]
             ],
             "201":[
@@ -585359,12 +585570,6 @@
                 [
                     "kmb",
                     "E74202351AF7F37D"
-                ]
-            ],
-            "255CE76A95FC1A80":[
-                [
-                    "ctb",
-                    "001195"
                 ]
             ],
             "2560149CE75EABA0":[
@@ -607197,6 +607402,10 @@
                 [
                     "gmb",
                     "20020293"
+                ],
+                [
+                    "gmb",
+                    "20021184"
                 ],
                 [
                     "gmb",
@@ -632559,6 +632768,16 @@
                 [
                     "kmb",
                     "E284CEE504CCDFB1"
+                ]
+            ],
+            "91F728BB4F9CE96B":[
+                [
+                    "ctb",
+                    "002657"
+                ],
+                [
+                    "gmb",
+                    "20007561"
                 ]
             ],
             "9217F5E1950F12BF":[
