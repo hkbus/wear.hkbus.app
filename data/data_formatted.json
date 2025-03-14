@@ -1212,6 +1212,7 @@
         "E43",
         "EAL",
         "H1",
+        "H1S",
         "H2",
         "H2K",
         "HK1",
@@ -108074,7 +108075,7 @@
                         "20004135",
                         "20001263",
                         "20001253",
-                        "20009903"
+                        "20001264"
                     ]
                 }
             },
@@ -255415,9 +255416,8 @@
                         "6A01E709D806A5D6",
                         "E0BAA3364D0CE860",
                         "CB341BEEABF66D6E",
-                        "0306B53F46955E3E",
-                        "3F9AE21DC3A540B9",
-                        "5FD7848A339751B6"
+                        "3D40B78AACF268D7",
+                        "0306B53F46955E3E"
                     ]
                 }
             },
@@ -300486,6 +300486,78 @@
                     ]
                 }
             },
+            "H1S+1+Central (Star Ferry)+West Kowloon Cultural District":{
+                "bound":{
+                    "ctb":"O"
+                },
+                "co":[
+                    "ctb"
+                ],
+                "dest":{
+                    "en":"West Kowloon Cultural District",
+                    "zh":"西九文化區"
+                },
+                "freq":null,
+                "gtfsId":null,
+                "nlbId":null,
+                "orig":{
+                    "en":"Central (Star Ferry)",
+                    "zh":"中環 (天星碼頭)"
+                },
+                "route":"H1S",
+                "serviceType":1,
+                "stops":{
+                    "ctb":[
+                        "001171",
+                        "001040",
+                        "002741",
+                        "002743",
+                        "002745",
+                        "001075",
+                        "002707",
+                        "001051",
+                        "001025",
+                        "001136",
+                        "003300",
+                        "002559",
+                        "003789",
+                        "001475",
+                        "002630",
+                        "003772"
+                    ]
+                }
+            },
+            "H1S+1+West Kowloon Cultural District+Central (Star Ferry)":{
+                "bound":{
+                    "ctb":"I"
+                },
+                "co":[
+                    "ctb"
+                ],
+                "dest":{
+                    "en":"Central (Star Ferry)",
+                    "zh":"中環 (天星碼頭)"
+                },
+                "freq":null,
+                "gtfsId":null,
+                "nlbId":null,
+                "orig":{
+                    "en":"West Kowloon Cultural District",
+                    "zh":"西九文化區"
+                },
+                "route":"H1S",
+                "serviceType":1,
+                "stops":{
+                    "ctb":[
+                        "002630",
+                        "003772",
+                        "001476",
+                        "002570",
+                        "002964",
+                        "001171"
+                    ]
+                }
+            },
             "H2+1+Tsim Sha Tsui+Central (Star Ferry)":{
                 "bound":{
                     "ctb":"I"
@@ -335836,7 +335908,57 @@
                     ]
                 }
             },
-            "T74+1+TAI PO TAI WO+KWUN TONG FERRY":{
+            "T74+1+KWUN TONG FERRY+NG TUNG CHAI (PAK NGAU SHEK)":{
+                "bound":{
+                    "kmb":"I"
+                },
+                "co":[
+                    "kmb"
+                ],
+                "dest":{
+                    "en":"Ng Tung Chai (Pak Ngau Shek)",
+                    "zh":"梧桐寨 (白牛石)"
+                },
+                "freq":null,
+                "gtfsId":null,
+                "nlbId":null,
+                "orig":{
+                    "en":"Kwun Tong Ferry",
+                    "zh":"觀塘碼頭"
+                },
+                "route":"T74",
+                "serviceType":"1",
+                "stops":{
+                    "kmb":[
+                        "6F666C5235BD859B",
+                        "70CD99F4D487740A",
+                        "992F89F2265F8D8D",
+                        "1E71CBFE8560B0EF",
+                        "9274EF6791CA3ED8",
+                        "E94AD3FBEF23A842",
+                        "56C003E99C21984A",
+                        "6219234626AC9DD5",
+                        "DA30F5393480B81D",
+                        "6716018C3EE42733",
+                        "1A0BF02F827F6A20",
+                        "CCC4773031BC0FD8",
+                        "2A86FE3FCDB9760B",
+                        "5FCD0D727920EC65",
+                        "0B786699889F0AEB",
+                        "A53F6592C4173B4E",
+                        "A61CDC435D1C6C37",
+                        "B473A39CEDD5069D",
+                        "2A092A3FB143443A",
+                        "BEEF3ECF24FF4F1A",
+                        "A26AAC44AD49B9DB",
+                        "51AFF58670A6BE9B",
+                        "C97D9654FC4427C9",
+                        "42B5697C975C3953",
+                        "B4C010DBFBD55834"
+                    ]
+                }
+            },
+            "T74+1+PARC VERSAILLES+KWUN TONG FERRY (ALIGHTING STOP)":{
                 "bound":{
                     "kmb":"O"
                 },
@@ -335844,8 +335966,8 @@
                     "kmb"
                 ],
                 "dest":{
-                    "en":"Kwun Tong Ferry",
-                    "zh":"觀塘碼頭"
+                    "en":"Kwun Tong Ferry (Alighting Stop)",
+                    "zh":"觀塘碼頭 (落客站)"
                 },
                 "freq":{
                     "287":{
@@ -335856,20 +335978,20 @@
                 "jt":"66",
                 "nlbId":null,
                 "orig":{
-                    "en":"Tai Po Tai Wo",
-                    "zh":"大埔太和"
+                    "en":"Parc Versailles",
+                    "zh":"帝欣苑"
                 },
                 "route":"T74",
                 "serviceType":"1",
                 "stops":{
                     "kmb":[
+                        "4C82D99D0721ADE9",
                         "399EF919E10C7F33",
                         "95B249916F323BD4",
                         "5D6FB6C3F67A70DC",
                         "5734545592215022",
                         "CAD1ABCBA72CF365",
-                        "AF04BB6F5FFF4C45",
-                        "12E4BAFA2B73435B",
+                        "340FB0AD1BF68951",
                         "30D564180B68ECA8",
                         "9A0959AB68FA5E1F",
                         "81C6D8E74259157E",
@@ -396343,8 +396465,8 @@
                     "lng":114.03043
                 },
                 "name":{
-                    "en":"Tai Fung Street, near Tsui Wah House",
-                    "zh":"泰豐街, 近翠華樓"
+                    "en":"Tai fung Street, Near Tung Sing Building",
+                    "zh":"泰豐街, 近東昇樓"
                 }
             },
             "20009904":{
@@ -520950,6 +521072,10 @@
                 ],
                 [
                     "kmb",
+                    "6F666C5235BD859B"
+                ],
+                [
+                    "kmb",
                     "2D3C0F18F9131DA2"
                 ]
             ],
@@ -530021,6 +530147,10 @@
                 [
                     "kmb",
                     "53FC6F95C61542C1"
+                ],
+                [
+                    "kmb",
+                    "6F666C5235BD859B"
                 ],
                 [
                     "kmb",
@@ -565350,6 +565480,10 @@
                 ],
                 [
                     "kmb",
+                    "6F666C5235BD859B"
+                ],
+                [
+                    "kmb",
                     "2D3C0F18F9131DA2"
                 ]
             ],
@@ -589471,6 +589605,10 @@
                 [
                     "kmb",
                     "53FC6F95C61542C1"
+                ],
+                [
+                    "kmb",
+                    "6F666C5235BD859B"
                 ],
                 [
                     "kmb",
@@ -618782,6 +618920,10 @@
                 ],
                 [
                     "kmb",
+                    "1001A444985DA59D"
+                ],
+                [
+                    "kmb",
                     "2255A14989E8F149"
                 ],
                 [
@@ -618791,6 +618933,10 @@
                 [
                     "kmb",
                     "2D3C0F18F9131DA2"
+                ],
+                [
+                    "kmb",
+                    "2ED2AD0C19C9CAAB"
                 ],
                 [
                     "kmb",
@@ -618817,8 +618963,20 @@
                     "D1DCF0AEFDDA4EF0"
                 ],
                 [
+                    "ctb",
+                    "003590"
+                ],
+                [
+                    "gmb",
+                    "20013833"
+                ],
+                [
                     "gmb",
                     "20015218"
+                ],
+                [
+                    "kmb",
+                    "8D0555A78A132018"
                 ]
             ],
             "6F755DD7C8AEB1B4":[
@@ -630603,6 +630761,10 @@
                 [
                     "kmb",
                     "2FCE924121B95FE8"
+                ],
+                [
+                    "kmb",
+                    "6F666C5235BD859B"
                 ],
                 [
                     "kmb",
