@@ -906,7 +906,6 @@
         "81C",
         "81K",
         "81M",
-        "81S",
         "81X",
         "82",
         "82B",
@@ -229814,61 +229813,6 @@
                         "20013891",
                         "20013870",
                         "20013495"
-                    ]
-                }
-            },
-            "81S+1+MEI TIN+NATHAN ROAD (PUBLIC SQUARE STREET)":{
-                "bound":{
-                    "kmb":"O"
-                },
-                "co":[
-                    "kmb"
-                ],
-                "dest":{
-                    "en":"Nathan Road (Public Square Street)",
-                    "zh":"彌敦道(眾坊街)"
-                },
-                "freq":{
-                    "287":{
-                        "0730":null,
-                        "0800":null,
-                        "0830":null
-                    }
-                },
-                "gtfsId":"1340",
-                "jt":"48",
-                "nlbId":null,
-                "orig":{
-                    "en":"Mei Tin",
-                    "zh":"美田"
-                },
-                "route":"81S",
-                "serviceType":"1",
-                "stops":{
-                    "kmb":[
-                        "737E4D696E371271",
-                        "C8A9DAB5E9051324",
-                        "924D67DD8AB7683D",
-                        "E7BFF1027930CCCD",
-                        "4654E57A8E9D32EB",
-                        "1276AEF95F6564A2",
-                        "2A72F4041A7E6783",
-                        "9C117FB6B6590825",
-                        "5FB8DC89C84A7F2B",
-                        "04C4E5AE4F8F21E1",
-                        "1D13B640481F4CD1",
-                        "AC2A4AB84E52364C",
-                        "99D2D097C44A98D0",
-                        "674BF383CB19E1A3",
-                        "DF9E89A391CAC245",
-                        "657E5836BC932790",
-                        "7A1C43F91CF8A6FC",
-                        "60F1DDDCB555E319",
-                        "F7CAA2D4FF9D61F7",
-                        "14F176D358D65A8B",
-                        "8E3A5C15E42020BB",
-                        "D48E82AC2961C581",
-                        "00040ED8B61CA94B"
                     ]
                 }
             },
@@ -693181,6 +693125,10 @@
             "H1":{
                 "en":"Cross Harbour Bus Tour",
                 "zh":"過海旅遊路線"
+            },
+            "H1S":{
+                "en":"HK City Sightseeing",
+                "zh":"觀光城巴"
             },
             "H2":{
                 "en":"Cross Harbour Bus Tour",
