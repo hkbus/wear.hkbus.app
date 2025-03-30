@@ -1338,12 +1338,7 @@
         "NB2",
         "P960",
         "P968",
-        "PB1",
         "PB2",
-        "PB3",
-        "PB4",
-        "PB5",
-        "PB6",
         "PN17",
         "PN18",
         "PN19",
@@ -240681,6 +240676,52 @@
                     ]
                 }
             },
+            "88A+2+Kai Ching Estate+Hong Kong Children’s Hospital (Circular)":{
+                "bound":{
+                    "gmb":"O"
+                },
+                "co":[
+                    "gmb"
+                ],
+                "dest":{
+                    "en":"Hong Kong Children’s Hospital (Circular)",
+                    "zh":"香港兒童醫院(循環線)"
+                },
+                "freq":{
+                    "96":{
+                        "0700":[
+                            "1900",
+                            "1800"
+                        ]
+                    }
+                },
+                "gmbRegion":"KLN",
+                "gtfsId":"2010798",
+                "nlbId":null,
+                "orig":{
+                    "en":"Kai Ching Estate",
+                    "zh":"啟晴邨"
+                },
+                "route":"88A",
+                "serviceType":2,
+                "stops":{
+                    "gmb":[
+                        "20021399",
+                        "20021388",
+                        "20021398",
+                        "20021390",
+                        "20021391",
+                        "20021392",
+                        "20021393",
+                        "20021394",
+                        "20021395",
+                        "20021396",
+                        "20021397",
+                        "20021398",
+                        "20021399"
+                    ]
+                }
+            },
             "88A+2+Mayfair Gardens+Cheung On Estate (Circular)":{
                 "bound":{
                     "gmb":"O"
@@ -240860,6 +240901,62 @@
                         "20016755",
                         "20014982",
                         "20016746"
+                    ]
+                }
+            },
+            "88A+2+Wong Tai Sin Station+Hong Kong Children’s Hospital (Circular)":{
+                "bound":{
+                    "gmb":"O"
+                },
+                "co":[
+                    "gmb"
+                ],
+                "dest":{
+                    "en":"Hong Kong Children’s Hospital (Circular)",
+                    "zh":"香港兒童醫院(循環線)"
+                },
+                "freq":{
+                    "31":{
+                        "0700":[
+                            "1900",
+                            "1800"
+                        ]
+                    }
+                },
+                "gmbRegion":"KLN",
+                "gtfsId":"2010797",
+                "nlbId":null,
+                "orig":{
+                    "en":"Wong Tai Sin Station",
+                    "zh":"黃大仙站"
+                },
+                "route":"88A",
+                "serviceType":2,
+                "stops":{
+                    "gmb":[
+                        "20021382",
+                        "20021383",
+                        "20021384",
+                        "20021385",
+                        "20021400",
+                        "20008528",
+                        "20021387",
+                        "20021388",
+                        "20021389",
+                        "20021390",
+                        "20021391",
+                        "20021392",
+                        "20021393",
+                        "20021394",
+                        "20021395",
+                        "20021396",
+                        "20021397",
+                        "20021398",
+                        "20021399",
+                        "20021400",
+                        "20021401",
+                        "20021402",
+                        "20021382"
                     ]
                 }
             },
@@ -273585,8 +273682,96 @@
                     "en":"Exhibition Centre Station",
                     "zh":"會展站"
                 },
-                "freq":null,
-                "gtfsId":null,
+                "freq":{
+                    "287":{
+                        "0540":[
+                            "0600",
+                            "1200"
+                        ],
+                        "0600":[
+                            "0615",
+                            "900"
+                        ],
+                        "0615":[
+                            "0703",
+                            "720"
+                        ],
+                        "0703":[
+                            "0730",
+                            "540"
+                        ],
+                        "0730":[
+                            "0800",
+                            "600"
+                        ],
+                        "0800":[
+                            "0900",
+                            "900"
+                        ],
+                        "0900":[
+                            "1200",
+                            "1200"
+                        ],
+                        "1200":[
+                            "1900",
+                            "1800"
+                        ],
+                        "1900":[
+                            "2100",
+                            "2400"
+                        ],
+                        "2100":[
+                            "2300",
+                            "3600"
+                        ]
+                    },
+                    "288":{
+                        "0600":[
+                            "0700",
+                            "1200"
+                        ],
+                        "0700":[
+                            "0800",
+                            "900"
+                        ],
+                        "0800":[
+                            "1300",
+                            "1200"
+                        ],
+                        "1300":[
+                            "1900",
+                            "1800"
+                        ],
+                        "1900":[
+                            "2100",
+                            "2400"
+                        ],
+                        "2100":[
+                            "2300",
+                            "3600"
+                        ]
+                    },
+                    "448":{
+                        "0600":[
+                            "0730",
+                            "1800"
+                        ],
+                        "0730":[
+                            "1330",
+                            "1200"
+                        ],
+                        "1330":[
+                            "1900",
+                            "1800"
+                        ],
+                        "1900":[
+                            "2300",
+                            "3600"
+                        ]
+                    }
+                },
+                "gtfsId":"1195",
+                "jt":"91",
                 "nlbId":null,
                 "orig":{
                     "en":"Fanling (Wah Ming)",
@@ -273599,7 +273784,6 @@
                         "5CB1BDF367F1989F",
                         "4CA5DEBCC576E371",
                         "14BDB94A8F3ED3EC",
-                        "923E5B79E1B48739",
                         "C7120BD9A94B4F6A",
                         "825199DC3BC0C5A3",
                         "ADB9356BBF06F7C7",
@@ -273620,7 +273804,8 @@
                         "B4EBE05A59376062",
                         "E75D7F316C638995",
                         "15CF21F494E81BA6",
-                        "CF978D9F9779F527"
+                        "CF978D9F9779F527",
+                        "F6E65ED7BA637652"
                     ]
                 }
             },
@@ -333689,38 +333874,6 @@
                     ]
                 }
             },
-            "PB1+1+YUEN LONG (YOHO MALL I)+TSUEN WAN(From Yuen Long) (Circular)":{
-                "bound":{
-                    "kmb":"O"
-                },
-                "co":[
-                    "kmb"
-                ],
-                "dest":{
-                    "en":"Tsuen Wan(From Yuen Long) (Circular)",
-                    "zh":"荃灣  (由元朗出發 循環行走)"
-                },
-                "freq":null,
-                "gtfsId":null,
-                "nlbId":null,
-                "orig":{
-                    "en":"Yuen Long (Yoho Mall I)",
-                    "zh":"元朗(形點)"
-                },
-                "route":"PB1",
-                "serviceType":"1",
-                "stops":{
-                    "kmb":[
-                        "F493236404A4FABF",
-                        "315813D4C69F73E8",
-                        "CC43907C8D4CED33",
-                        "321060BAE1447BEE",
-                        "CC43907C8D4CED33",
-                        "315813D4C69F73E8",
-                        "F493236404A4FABF"
-                    ]
-                }
-            },
             "PB2+1+MA WAN+CENTRAL(From Ma Wan) (Circular)":{
                 "bound":{
                     "kmb":"O"
@@ -333752,140 +333905,6 @@
                         "860671A5FA383DA3",
                         "321060BAE1447BEE",
                         "02FBFA6B14F230C6"
-                    ]
-                }
-            },
-            "PB3+1+TAI PO MEGA MALL (TAI WO ROAD)+TSUEN WAN(From Tai Po) (Circular)":{
-                "bound":{
-                    "kmb":"O"
-                },
-                "co":[
-                    "kmb"
-                ],
-                "dest":{
-                    "en":"Tsuen Wan(From Tai Po) (Circular)",
-                    "zh":"荃灣 (由大埔出發 循環行走)"
-                },
-                "freq":null,
-                "gtfsId":null,
-                "nlbId":null,
-                "orig":{
-                    "en":"Tai Po Mega Mall (Tai Wo Road)",
-                    "zh":"大埔超級城(太和路)"
-                },
-                "route":"PB3",
-                "serviceType":"1",
-                "stops":{
-                    "kmb":[
-                        "AFFD0E0C6077741D",
-                        "2B011CC82C51D518",
-                        "B1882202E2B36620",
-                        "8C90768E30E981C6",
-                        "321060BAE1447BEE",
-                        "8C90768E30E981C6",
-                        "B1882202E2B36620",
-                        "2B011CC82C51D518",
-                        "AFFD0E0C6077741D"
-                    ]
-                }
-            },
-            "PB4+1+TUEN MUN STATION+TSUEN WAN (From Tuen Mun) (Circular)":{
-                "bound":{
-                    "kmb":"O"
-                },
-                "co":[
-                    "kmb"
-                ],
-                "dest":{
-                    "en":"Tsuen Wan (From Tuen Mun) (Circular)",
-                    "zh":"荃灣(由屯門出發 循環行走)"
-                },
-                "freq":null,
-                "gtfsId":null,
-                "nlbId":null,
-                "orig":{
-                    "en":"Tuen Mun Station",
-                    "zh":"屯門站"
-                },
-                "route":"PB4",
-                "serviceType":"1",
-                "stops":{
-                    "kmb":[
-                        "0678C85600B1A019",
-                        "3CA179A8B3DC79DC",
-                        "5C6754BD37D3F4D0",
-                        "2EA448DB63E8D43C",
-                        "321060BAE1447BEE",
-                        "2EA448DB63E8D43C",
-                        "5C6754BD37D3F4D0",
-                        "86E9F1CDA10B3F16",
-                        "0678C85600B1A019"
-                    ]
-                }
-            },
-            "PB5+1+SHA TIN TOWN HALL+SAI KUNG (From Sha Tin) (Circular)":{
-                "bound":{
-                    "kmb":"O"
-                },
-                "co":[
-                    "kmb"
-                ],
-                "dest":{
-                    "en":"Sai Kung (From Sha Tin) (Circular)",
-                    "zh":"西貢 (由沙田出發 循環行走)"
-                },
-                "freq":null,
-                "gtfsId":null,
-                "nlbId":null,
-                "orig":{
-                    "en":"Sha Tin Town Hall",
-                    "zh":"沙田大會堂"
-                },
-                "route":"PB5",
-                "serviceType":"1",
-                "stops":{
-                    "kmb":[
-                        "8C90768E30E981C6",
-                        "3C6231BF9A77F8B4",
-                        "8B9E121BB71771F4",
-                        "FFB9E8929671D06E",
-                        "8B9E121BB71771F4",
-                        "3C6231BF9A77F8B4",
-                        "8C90768E30E981C6"
-                    ]
-                }
-            },
-            "PB6+1+TSEUNG KWAN O (TONG CHUN STREET)+CENTRAL (From Tseung Kwan O)(Circular)":{
-                "bound":{
-                    "kmb":"O"
-                },
-                "co":[
-                    "kmb"
-                ],
-                "dest":{
-                    "en":"Central (From Tseung Kwan O)(Circular)",
-                    "zh":"中環(由將軍澳出發循環行走)"
-                },
-                "freq":null,
-                "gtfsId":null,
-                "nlbId":null,
-                "orig":{
-                    "en":"Tseung Kwan O (Tong Chun Street)",
-                    "zh":"將軍澳(唐俊街)"
-                },
-                "route":"PB6",
-                "serviceType":"1",
-                "stops":{
-                    "kmb":[
-                        "06CC6423AA236B72",
-                        "DE8AB4B54CD3D4F2",
-                        "C1EE377B1D421E2F",
-                        "E85A10E61A00CC09",
-                        "90F0F685E42CC10D",
-                        "C1EE377B1D421E2F",
-                        "E85A10E61A00CC09",
-                        "DE8AB4B54CD3D4F2",
-                        "06CC6423AA236B72"
                     ]
                 }
             },
@@ -371029,16 +371048,6 @@
                     "zh":"和宜合道運動場"
                 }
             },
-            "0678C85600B1A019":{
-                "location":{
-                    "lat":22.39523,
-                    "lng":113.97385
-                },
-                "name":{
-                    "en":"Tuen Mun Station(V City)",
-                    "zh":"屯門站(V City)"
-                }
-            },
             "067F57DA0477D026":{
                 "kmbBbiId":"0020",
                 "location":{
@@ -371089,16 +371098,6 @@
                 "name":{
                     "en":"Cross Harbour Tunnel BBI (A6)",
                     "zh":"紅隧轉車站 (A6)"
-                }
-            },
-            "06CC6423AA236B72":{
-                "location":{
-                    "lat":22.303,
-                    "lng":114.26143
-                },
-                "name":{
-                    "en":"Tong Chun Street",
-                    "zh":"唐俊街"
                 }
             },
             "06D3396F1F07B07D":{
@@ -397081,6 +397080,16 @@
                 "name":{
                     "en":"Choi Hing Lane, near Choi Hing Court",
                     "zh":"彩興里, 近彩興苑彩蕎閣"
+                }
+            },
+            "20008528":{
+                "location":{
+                    "lat":22.33217,
+                    "lng":114.19794
+                },
+                "name":{
+                    "en":"Concorde Road eastbound near Trade and Industry Tower",
+                    "zh":"協調道東行線近工業貿易大樓"
                 }
             },
             "20008529":{
@@ -425769,6 +425778,206 @@
                     "zh":"卑路乍街142號"
                 }
             },
+            "20021382":{
+                "location":{
+                    "lat":22.34079,
+                    "lng":114.19484
+                },
+                "name":{
+                    "en":"Wong Tai Sin Bus Terminus",
+                    "zh":"黃大仙巴士總站"
+                }
+            },
+            "20021383":{
+                "location":{
+                    "lat":22.34014,
+                    "lng":114.19592
+                },
+                "name":{
+                    "en":"Shatin Pass Road southbound near Chun Yan Street",
+                    "zh":"沙田坳道南行線近親仁街"
+                }
+            },
+            "20021384":{
+                "location":{
+                    "lat":22.3393,
+                    "lng":114.19927
+                },
+                "name":{
+                    "en":"Choi Hung Road eastbound opposite to Shing King Industrial Building (near L/P AA6798)",
+                    "zh":"彩虹道東行線盛景工業大廈對面(近燈柱AA6798)"
+                }
+            },
+            "20021385":{
+                "location":{
+                    "lat":22.33717,
+                    "lng":114.2011
+                },
+                "name":{
+                    "en":"Sze Mei Street opposite to Wang Fai Industrial Building",
+                    "zh":"四美街宏輝工業大廈對面"
+                }
+            },
+            "20021387":{
+                "location":{
+                    "lat":22.3328,
+                    "lng":114.19913
+                },
+                "name":{
+                    "en":"Concorde Road eastbound near Inland Revenue Centre",
+                    "zh":"協調道東行近稅務大樓"
+                }
+            },
+            "20021388":{
+                "location":{
+                    "lat":22.3324,
+                    "lng":114.20387
+                },
+                "name":{
+                    "en":"Muk Hung Street southbound bus lay-by",
+                    "zh":"沐虹街南行停車灣"
+                }
+            },
+            "20021389":{
+                "location":{
+                    "lat":22.33133,
+                    "lng":114.2027
+                },
+                "name":{
+                    "en":"Muk Chui Street eastbound near Ching Long Shopping Centre",
+                    "zh":"沐翠街東行近晴朗商場"
+                }
+            },
+            "20021390":{
+                "location":{
+                    "lat":22.32106,
+                    "lng":114.20775
+                },
+                "name":{
+                    "en":"Sheung Yee Road southbound near Zero Carbon Building",
+                    "zh":"常怡道南行近零碳天地"
+                }
+            },
+            "20021391":{
+                "location":{
+                    "lat":22.31639,
+                    "lng":114.21177
+                },
+                "name":{
+                    "en":"Cheung Yip Street southbound near Harbourside HQ",
+                    "zh":"祥業街南行線近啟匯"
+                }
+            },
+            "20021392":{
+                "location":{
+                    "lat":22.31585,
+                    "lng":114.20945
+                },
+                "name":{
+                    "en":"Shing Cheong Road near Hong Kong Children’s Hospital",
+                    "zh":"承昌道近香港兒童醫院"
+                }
+            },
+            "20021393":{
+                "location":{
+                    "lat":22.31618,
+                    "lng":114.21136
+                },
+                "name":{
+                    "en":"Cheung Yip Street northound near Kai Tak Fire Station",
+                    "zh":"祥業街近啟德消防局"
+                }
+            },
+            "20021394":{
+                "location":{
+                    "lat":22.32263,
+                    "lng":114.20881
+                },
+                "name":{
+                    "en":"Wang Chiu Road northbound bus lay-by outside Proficient Industrial Centre",
+                    "zh":"宏照道北行線鴻力工業中心外巴士停車灣"
+                }
+            },
+            "20021395":{
+                "location":{
+                    "lat":22.32424,
+                    "lng":114.20678
+                },
+                "name":{
+                    "en":"Lam Hing Street westbound opposite to Kellett School",
+                    "zh":"臨興街西行啟曆學校對面"
+                }
+            },
+            "20021396":{
+                "location":{
+                    "lat":22.32629,
+                    "lng":114.20578
+                },
+                "name":{
+                    "en":"Wang Kwong Road northbound near Skyline Tower",
+                    "zh":"宏光道北行線近宏天廣場"
+                }
+            },
+            "20021397":{
+                "location":{
+                    "lat":22.33019,
+                    "lng":114.20468
+                },
+                "name":{
+                    "en":"Shing Kai Road northbound near Tak Long Estate",
+                    "zh":"承啟道北行近德朗邨"
+                }
+            },
+            "20021398":{
+                "location":{
+                    "lat":22.33133,
+                    "lng":114.2027
+                },
+                "name":{
+                    "en":"Muk Chui Street eastbound near Ching Long Shopping Centre",
+                    "zh":"沐翠街東行近晴朗商場"
+                }
+            },
+            "20021399":{
+                "location":{
+                    "lat":22.33205,
+                    "lng":114.20468
+                },
+                "name":{
+                    "en":"Shing Kai Road northbound bus lay-by outside Kai Ching Estate",
+                    "zh":"承啟道北行啟晴邨外巴士停車灣"
+                }
+            },
+            "20021400":{
+                "location":{
+                    "lat":22.33251,
+                    "lng":114.19921
+                },
+                "name":{
+                    "en":"Concorde Road westbound layby near Muk Yuen Street",
+                    "zh":"協調道西行近沐元街"
+                }
+            },
+            "20021401":{
+                "location":{
+                    "lat":22.33865,
+                    "lng":114.20036
+                },
+                "name":{
+                    "en":"Choi Hung Road westbound outside Ka Wing Factory Building",
+                    "zh":"彩虹道西行嘉榮工業大廈外"
+                }
+            },
+            "20021402":{
+                "location":{
+                    "lat":22.33931,
+                    "lng":114.19582
+                },
+                "name":{
+                    "en":"Shatin Pass Road northbound opposite to Hong Kong Sheng Kung Hui Calvary Church",
+                    "zh":"沙田坳道北行線龍逸樓外"
+                }
+            },
             "20021415":{
                 "location":{
                     "lat":22.47315,
@@ -429587,16 +429796,6 @@
                     "zh":"廣福道轉車站 - 寶鄉橋 (B2)"
                 }
             },
-            "2B011CC82C51D518":{
-                "location":{
-                    "lat":22.44322,
-                    "lng":114.16883
-                },
-                "name":{
-                    "en":"Wan Tau Tong Estate",
-                    "zh":"運頭塘邨"
-                }
-            },
             "2B0183A25DA19AE3":{
                 "location":{
                     "lat":22.33935,
@@ -430398,16 +430597,6 @@
                 "name":{
                     "en":"YMCA",
                     "zh":"青年會"
-                }
-            },
-            "2EA448DB63E8D43C":{
-                "location":{
-                    "lat":22.30915,
-                    "lng":114.04341
-                },
-                "name":{
-                    "en":"Disneyland Magic Road",
-                    "zh":"迪士尼神奇道"
                 }
             },
             "2EA8AA00E0850F35":{
@@ -431384,16 +431573,6 @@
                 "name":{
                     "en":"Caribbean Coast",
                     "zh":"映灣園"
-                }
-            },
-            "315813D4C69F73E8":{
-                "location":{
-                    "lat":22.45829,
-                    "lng":114.00381
-                },
-                "name":{
-                    "en":"Tin Shui Wai Ginza Square",
-                    "zh":"天水圍銀座"
                 }
             },
             "315B55985B328146":{
@@ -434591,16 +434770,6 @@
                     "zh":"錦英苑"
                 }
             },
-            "3C6231BF9A77F8B4":{
-                "location":{
-                    "lat":22.42502,
-                    "lng":114.23144
-                },
-                "name":{
-                    "en":"Bayshore Towers",
-                    "zh":"海栢花園"
-                }
-            },
             "3C624F6CB2D5BBEA":{
                 "location":{
                     "lat":22.38678,
@@ -434669,16 +434838,6 @@
                 "name":{
                     "en":"Ha Kwai Chung Polyclinic",
                     "zh":"下葵涌分科診所"
-                }
-            },
-            "3CA179A8B3DC79DC":{
-                "location":{
-                    "lat":22.38383,
-                    "lng":113.97274
-                },
-                "name":{
-                    "en":"Goodview Garden",
-                    "zh":"豐景園"
                 }
             },
             "3CA62A3B1C8415D0":{
@@ -443747,16 +443906,6 @@
                 "name":{
                     "en":"Jubilant Place",
                     "zh":"欣榮花園"
-                }
-            },
-            "5C6754BD37D3F4D0":{
-                "location":{
-                    "lat":22.29026,
-                    "lng":113.94056
-                },
-                "name":{
-                    "en":"Tung Chung Station Bus Terminus",
-                    "zh":"東涌站巴士總站"
                 }
             },
             "5C6A29BCDA410664":{
@@ -454907,16 +455056,6 @@
                     "zh":"佐敦廟街"
                 }
             },
-            "86E9F1CDA10B3F16":{
-                "location":{
-                    "lat":22.38401,
-                    "lng":113.97282
-                },
-                "name":{
-                    "en":"Goodview Garden",
-                    "zh":"豐景園"
-                }
-            },
             "86F4FDCF2F5D13ED":{
                 "location":{
                     "lat":22.29501,
@@ -456013,16 +456152,6 @@
                     "zh":"觀塘(裕民坊)總站"
                 }
             },
-            "8B9E121BB71771F4":{
-                "location":{
-                    "lat":22.42703,
-                    "lng":114.26579
-                },
-                "name":{
-                    "en":"GO PARK Sai Sha",
-                    "zh":"西沙 GO PARK"
-                }
-            },
             "8BAB6AA783EE0508":{
                 "kmbBbiId":"0026",
                 "location":{
@@ -456264,16 +456393,6 @@
                 "name":{
                     "en":"Cho Yiu Chuen Bus Terminus",
                     "zh":"祖堯邨巴士總站"
-                }
-            },
-            "8C90768E30E981C6":{
-                "location":{
-                    "lat":22.38202,
-                    "lng":114.1912
-                },
-                "name":{
-                    "en":"Sha Tin Town Hall",
-                    "zh":"沙田大會堂"
                 }
             },
             "8CA39D263F36C070":{
@@ -465696,16 +465815,6 @@
                     "zh":"鴻福街"
                 }
             },
-            "AFFD0E0C6077741D":{
-                "location":{
-                    "lat":22.4512,
-                    "lng":114.16883
-                },
-                "name":{
-                    "en":"Tai Po Mega Mall (Tai Wo Road)",
-                    "zh":"大埔超級城(太和路)"
-                }
-            },
             "AIR":{
                 "location":{
                     "lat":22.31592,
@@ -466174,16 +466283,6 @@
                 "name":{
                     "en":"Canal Road East",
                     "zh":"堅拿道東"
-                }
-            },
-            "B1882202E2B36620":{
-                "location":{
-                    "lat":22.42881,
-                    "lng":114.20856
-                },
-                "name":{
-                    "en":"Pak Shek Kok (Fo Yin Road)",
-                    "zh":"白石角(科研路)"
                 }
             },
             "B18C8718C0B7904F":{
@@ -470349,16 +470448,6 @@
                     "zh":"愉田苑"
                 }
             },
-            "C1EE377B1D421E2F":{
-                "location":{
-                    "lat":22.2903,
-                    "lng":114.19443
-                },
-                "name":{
-                    "en":"City Garden",
-                    "zh":"城市花園"
-                }
-            },
             "C1FC4F003C9031B3":{
                 "location":{
                     "lat":22.2862,
@@ -472878,16 +472967,6 @@
                 "name":{
                     "en":"Lingnan University",
                     "zh":"嶺南大學"
-                }
-            },
-            "CC43907C8D4CED33":{
-                "location":{
-                    "lat":22.37256,
-                    "lng":113.98957
-                },
-                "name":{
-                    "en":"Hong Kong Gold Coast",
-                    "zh":"香港黃金海岸"
                 }
             },
             "CC57C2DF592993CB":{
@@ -477620,16 +477699,6 @@
                     "zh":"香島中學"
                 }
             },
-            "DE8AB4B54CD3D4F2":{
-                "location":{
-                    "lat":22.2968,
-                    "lng":114.26934
-                },
-                "name":{
-                    "en":"LOHAS Park Station",
-                    "zh":"康城站"
-                }
-            },
             "DE925628D8747F6D":{
                 "location":{
                     "lat":22.3174,
@@ -480130,16 +480199,6 @@
                 "name":{
                     "en":"Seaview Villa",
                     "zh":"海恬閣"
-                }
-            },
-            "E85A10E61A00CC09":{
-                "location":{
-                    "lat":22.29278,
-                    "lng":114.20204
-                },
-                "name":{
-                    "en":"Harbour North",
-                    "zh":"北角匯"
                 }
             },
             "E86A26B1A389C290":{
@@ -483379,16 +483438,6 @@
                 "name":{
                     "en":"Tuen Mun Central Bus Terminus",
                     "zh":"屯門市中心總站"
-                }
-            },
-            "F493236404A4FABF":{
-                "location":{
-                    "lat":22.44502,
-                    "lng":114.03738
-                },
-                "name":{
-                    "en":"Yoho Mall (Yuen Long)",
-                    "zh":"元朗 形點"
                 }
             },
             "F49465D014D12FF8":{
@@ -496954,18 +497003,6 @@
                 [
                     "kmb",
                     "DA8EA09C3AAD39C9"
-                ],
-                [
-                    "kmb",
-                    "C1EE377B1D421E2F"
-                ],
-                [
-                    "gmb",
-                    "20000313"
-                ],
-                [
-                    "kmb",
-                    "8144A0422908BE73"
                 ]
             ],
             "001246":[
@@ -497099,23 +497136,7 @@
                 ],
                 [
                     "kmb",
-                    "E85A10E61A00CC09"
-                ],
-                [
-                    "kmb",
                     "ECFB77BC2B593335"
-                ],
-                [
-                    "gmb",
-                    "20013708"
-                ],
-                [
-                    "gmb",
-                    "20016055"
-                ],
-                [
-                    "gmb",
-                    "20016104"
                 ]
             ],
             "001258":[
@@ -498268,22 +498289,6 @@
                 [
                     "kmb",
                     "ECFB77BC2B593335"
-                ],
-                [
-                    "kmb",
-                    "E85A10E61A00CC09"
-                ],
-                [
-                    "gmb",
-                    "20013708"
-                ],
-                [
-                    "gmb",
-                    "20016055"
-                ],
-                [
-                    "gmb",
-                    "20016104"
                 ]
             ],
             "001324":[
@@ -502504,6 +502509,10 @@
                     "20016636"
                 ],
                 [
+                    "gmb",
+                    "20021394"
+                ],
+                [
                     "kmb",
                     "2F1F9CF16B9E65AF"
                 ],
@@ -503114,6 +503123,10 @@
                     "20010003"
                 ],
                 [
+                    "gmb",
+                    "20021390"
+                ],
+                [
                     "ctb",
                     "001657"
                 ],
@@ -503180,6 +503193,10 @@
                 [
                     "gmb",
                     "20015621"
+                ],
+                [
+                    "gmb",
+                    "20021390"
                 ],
                 [
                     "kmb",
@@ -507782,10 +507799,6 @@
                 [
                     "mtr",
                     "MOS"
-                ],
-                [
-                    "kmb",
-                    "3C6231BF9A77F8B4"
                 ]
             ],
             "001951":[
@@ -514312,6 +514325,10 @@
                     "20016639"
                 ],
                 [
+                    "gmb",
+                    "20021396"
+                ],
+                [
                     "kmb",
                     "D0B8C96BC4451180"
                 ]
@@ -518039,10 +518056,6 @@
                 ],
                 [
                     "kmb",
-                    "3C6231BF9A77F8B4"
-                ],
-                [
-                    "kmb",
                     "46D02E1C1CD82C9A"
                 ],
                 [
@@ -521094,6 +521107,10 @@
             ],
             "003369":[
                 [
+                    "gmb",
+                    "20021397"
+                ],
+                [
                     "kmb",
                     "A4601C77EB896E30"
                 ],
@@ -522598,11 +522615,19 @@
                     "20012109"
                 ],
                 [
+                    "gmb",
+                    "20021399"
+                ],
+                [
                     "kmb",
                     "E207DBF95EA7DE26"
                 ]
             ],
             "003506":[
+                [
+                    "gmb",
+                    "20008528"
+                ],
                 [
                     "gmb",
                     "20009238"
@@ -524596,6 +524621,16 @@
                     "658AD32D477D3CAB"
                 ]
             ],
+            "003709":[
+                [
+                    "gmb",
+                    "20021387"
+                ],
+                [
+                    "gmb",
+                    "20021400"
+                ]
+            ],
             "003712":[
                 [
                     "kmb",
@@ -525750,10 +525785,6 @@
                 [
                     "kmb",
                     "8AD4B244D6A50BDB"
-                ],
-                [
-                    "kmb",
-                    "8B9E121BB71771F4"
                 ]
             ],
             "003832":[
@@ -526046,6 +526077,10 @@
                 [
                     "gmb",
                     "20008521"
+                ],
+                [
+                    "gmb",
+                    "20021400"
                 ]
             ],
             "003857":[
@@ -526718,6 +526753,10 @@
                 [
                     "gmb",
                     "20010003"
+                ],
+                [
+                    "gmb",
+                    "20021390"
                 ],
                 [
                     "kmb",
@@ -528674,64 +528713,6 @@
                     "62FA565D482FE9C0"
                 ]
             ],
-            "0678C85600B1A019":[
-                [
-                    "kmb",
-                    "79D68EE7C6CBAB9D"
-                ],
-                [
-                    "kmb",
-                    "A6A60ADA171EE7C8"
-                ],
-                [
-                    "kmb",
-                    "584E6744385F6463"
-                ],
-                [
-                    "kmb",
-                    "7A501670303C90F8"
-                ],
-                [
-                    "kmb",
-                    "D74B67D55C63895F"
-                ],
-                [
-                    "gmb",
-                    "20001311"
-                ],
-                [
-                    "lrtfeeder",
-                    "K53-D170"
-                ],
-                [
-                    "lrtfeeder",
-                    "K53-U010"
-                ],
-                [
-                    "lrtfeeder",
-                    "K58-U150"
-                ],
-                [
-                    "kmb",
-                    "D9582C2A1BAD56C7"
-                ],
-                [
-                    "lightRail",
-                    "LR295"
-                ],
-                [
-                    "kmb",
-                    "1B21C4E917FBA155"
-                ],
-                [
-                    "lrtfeeder",
-                    "506-U080"
-                ],
-                [
-                    "lrtfeeder",
-                    "K52-nD190"
-                ]
-            ],
             "067F57DA0477D026":[
                 [
                     "kmb",
@@ -530595,10 +530576,6 @@
                 ]
             ],
             "0BB3ECAB031F27CD":[
-                [
-                    "kmb",
-                    "2B011CC82C51D518"
-                ],
                 [
                     "kmb",
                     "403CF34C7A6517DF"
@@ -535812,22 +535789,6 @@
                 [
                     "kmb",
                     "ECFB77BC2B593335"
-                ],
-                [
-                    "kmb",
-                    "E85A10E61A00CC09"
-                ],
-                [
-                    "gmb",
-                    "20013708"
-                ],
-                [
-                    "gmb",
-                    "20016055"
-                ],
-                [
-                    "gmb",
-                    "20016104"
                 ]
             ],
             "15CF21F494E81BA6":[
@@ -535940,10 +535901,6 @@
                 [
                     "mtr",
                     "MOS"
-                ],
-                [
-                    "kmb",
-                    "3C6231BF9A77F8B4"
                 ]
             ],
             "160":[
@@ -537616,10 +537573,6 @@
                 [
                     "gmb",
                     "20017044"
-                ],
-                [
-                    "kmb",
-                    "3CA179A8B3DC79DC"
                 ]
             ],
             "186":[
@@ -540026,10 +539979,6 @@
                 [
                     "mtr",
                     "MOS"
-                ],
-                [
-                    "kmb",
-                    "3C6231BF9A77F8B4"
                 ]
             ],
             "1DA57A1376E99AC6":[
@@ -540476,6 +540425,10 @@
                 [
                     "gmb",
                     "20016636"
+                ],
+                [
+                    "gmb",
+                    "20021394"
                 ],
                 [
                     "kmb",
@@ -542836,22 +542789,6 @@
                 [
                     "kmb",
                     "8144A0422908BE73"
-                ],
-                [
-                    "kmb",
-                    "C1EE377B1D421E2F"
-                ],
-                [
-                    "kmb",
-                    "DA8EA09C3AAD39C9"
-                ],
-                [
-                    "ctb",
-                    "001244"
-                ],
-                [
-                    "kmb",
-                    "793050242DDA833F"
                 ]
             ],
             "20000314":[
@@ -544540,6 +544477,12 @@
                     "002993"
                 ]
             ],
+            "20000802":[
+                [
+                    "gmb",
+                    "20021383"
+                ]
+            ],
             "20000808":[
                 [
                     "gmb",
@@ -544994,6 +544937,14 @@
                 [
                     "kmb",
                     "90B75A8D2983AC20"
+                ],
+                [
+                    "gmb",
+                    "20021401"
+                ],
+                [
+                    "gmb",
+                    "20012415"
                 ]
             ],
             "20000980":[
@@ -546039,10 +545990,6 @@
                 ],
                 [
                     "kmb",
-                    "3C6231BF9A77F8B4"
-                ],
-                [
-                    "kmb",
                     "46D02E1C1CD82C9A"
                 ],
                 [
@@ -546110,10 +546057,6 @@
                 [
                     "ctb",
                     "001950"
-                ],
-                [
-                    "kmb",
-                    "3C6231BF9A77F8B4"
                 ]
             ],
             "20001235":[
@@ -546596,10 +546539,6 @@
                 [
                     "lrtfeeder",
                     "K58-U150"
-                ],
-                [
-                    "kmb",
-                    "0678C85600B1A019"
                 ],
                 [
                     "kmb",
@@ -547440,10 +547379,6 @@
                 [
                     "kmb",
                     "64312A5DFF11636C"
-                ],
-                [
-                    "kmb",
-                    "86E9F1CDA10B3F16"
                 ],
                 [
                     "kmb",
@@ -549552,6 +549487,14 @@
                 [
                     "gmb",
                     "20000975"
+                ],
+                [
+                    "gmb",
+                    "20021401"
+                ],
+                [
+                    "gmb",
+                    "20012415"
                 ]
             ],
             "20001964":[
@@ -552126,6 +552069,12 @@
                 [
                     "mtr",
                     "TWW"
+                ]
+            ],
+            "20002394":[
+                [
+                    "gmb",
+                    "20021384"
                 ]
             ],
             "20002395":[
@@ -556508,6 +556457,10 @@
                     "20015621"
                 ],
                 [
+                    "gmb",
+                    "20021390"
+                ],
+                [
                     "kmb",
                     "81C6D8E74259157E"
                 ],
@@ -558147,10 +558100,6 @@
             "20007678":[
                 [
                     "kmb",
-                    "2B011CC82C51D518"
-                ],
-                [
-                    "kmb",
                     "403CF34C7A6517DF"
                 ],
                 [
@@ -558177,10 +558126,6 @@
                 ]
             ],
             "20007680":[
-                [
-                    "kmb",
-                    "2B011CC82C51D518"
-                ],
                 [
                     "kmb",
                     "375591F774538709"
@@ -559336,12 +559281,30 @@
                 [
                     "ctb",
                     "003856"
+                ],
+                [
+                    "gmb",
+                    "20021400"
                 ]
             ],
             "20008525":[
                 [
                     "gmb",
                     "20008529"
+                ]
+            ],
+            "20008528":[
+                [
+                    "ctb",
+                    "003506"
+                ],
+                [
+                    "gmb",
+                    "20009238"
+                ],
+                [
+                    "kmb",
+                    "29759ECB92E1A91B"
                 ]
             ],
             "20008529":[
@@ -559606,10 +559569,6 @@
                 [
                     "gmb",
                     "20015876"
-                ],
-                [
-                    "kmb",
-                    "B1882202E2B36620"
                 ]
             ],
             "20009112":[
@@ -559718,6 +559677,10 @@
                 [
                     "ctb",
                     "003506"
+                ],
+                [
+                    "gmb",
+                    "20008528"
                 ],
                 [
                     "kmb",
@@ -560310,6 +560273,10 @@
                 [
                     "gmb",
                     "20015621"
+                ],
+                [
+                    "gmb",
+                    "20021390"
                 ],
                 [
                     "kmb",
@@ -562942,6 +562909,10 @@
                     "003505"
                 ],
                 [
+                    "gmb",
+                    "20021399"
+                ],
+                [
                     "kmb",
                     "E207DBF95EA7DE26"
                 ]
@@ -563048,6 +563019,12 @@
                     "20915DF05723C615"
                 ]
             ],
+            "20012117":[
+                [
+                    "gmb",
+                    "20021385"
+                ]
+            ],
             "20012118":[
                 [
                     "ctb",
@@ -563074,6 +563051,10 @@
                 [
                     "gmb",
                     "20012109"
+                ],
+                [
+                    "gmb",
+                    "20021399"
                 ],
                 [
                     "kmb",
@@ -563924,7 +563905,29 @@
                     "20000598"
                 ]
             ],
+            "20012415":[
+                [
+                    "gmb",
+                    "20021401"
+                ],
+                [
+                    "gmb",
+                    "20001961"
+                ],
+                [
+                    "gmb",
+                    "20000975"
+                ],
+                [
+                    "kmb",
+                    "90B75A8D2983AC20"
+                ]
+            ],
             "20012416":[
+                [
+                    "gmb",
+                    "20021402"
+                ],
                 [
                     "kmb",
                     "7BDF3895E0BCE33B"
@@ -563942,6 +563945,10 @@
                 [
                     "kmb",
                     "742F8953113CD926"
+                ],
+                [
+                    "gmb",
+                    "20021382"
                 ],
                 [
                     "kmb",
@@ -565501,10 +565508,6 @@
                 ],
                 [
                     "kmb",
-                    "3C6231BF9A77F8B4"
-                ],
-                [
-                    "kmb",
                     "3F967BB2C0468A43"
                 ],
                 [
@@ -566076,6 +566079,10 @@
                 [
                     "gmb",
                     "20016715"
+                ],
+                [
+                    "gmb",
+                    "20021393"
                 ]
             ],
             "20012999":[
@@ -567060,38 +567067,6 @@
                 [
                     "gmb",
                     "20016104"
-                ],
-                [
-                    "kmb",
-                    "E85A10E61A00CC09"
-                ],
-                [
-                    "ctb",
-                    "001257"
-                ],
-                [
-                    "ctb",
-                    "001323"
-                ],
-                [
-                    "kmb",
-                    "15CCC3BD5D31F759"
-                ],
-                [
-                    "gmb",
-                    "20016056"
-                ],
-                [
-                    "kmb",
-                    "9335E0F061724158"
-                ],
-                [
-                    "kmb",
-                    "BB930AAAB15181A1"
-                ],
-                [
-                    "kmb",
-                    "ECFB77BC2B593335"
                 ]
             ],
             "20013709":[
@@ -573116,6 +573091,10 @@
                     "20015621"
                 ],
                 [
+                    "gmb",
+                    "20021390"
+                ],
+                [
                     "kmb",
                     "81C6D8E74259157E"
                 ],
@@ -575548,6 +575527,10 @@
                     "20015225"
                 ],
                 [
+                    "gmb",
+                    "20021390"
+                ],
+                [
                     "kmb",
                     "81C6D8E74259157E"
                 ],
@@ -575734,10 +575717,6 @@
                 [
                     "kmb",
                     "3A450B5AD5AF1605"
-                ],
-                [
-                    "kmb",
-                    "3C6231BF9A77F8B4"
                 ],
                 [
                     "kmb",
@@ -576488,10 +576467,6 @@
                 [
                     "gmb",
                     "20015876"
-                ],
-                [
-                    "kmb",
-                    "B1882202E2B36620"
                 ]
             ],
             "20015843":[
@@ -576588,10 +576563,6 @@
                 [
                     "gmb",
                     "20015842"
-                ],
-                [
-                    "kmb",
-                    "B1882202E2B36620"
                 ]
             ],
             "20015877":[
@@ -577534,34 +577505,6 @@
                 [
                     "gmb",
                     "20016104"
-                ],
-                [
-                    "kmb",
-                    "E85A10E61A00CC09"
-                ],
-                [
-                    "ctb",
-                    "001257"
-                ],
-                [
-                    "ctb",
-                    "001323"
-                ],
-                [
-                    "kmb",
-                    "15CCC3BD5D31F759"
-                ],
-                [
-                    "gmb",
-                    "20016056"
-                ],
-                [
-                    "kmb",
-                    "9335E0F061724158"
-                ],
-                [
-                    "kmb",
-                    "BB930AAAB15181A1"
                 ]
             ],
             "20016056":[
@@ -577588,22 +577531,6 @@
                 [
                     "kmb",
                     "ECFB77BC2B593335"
-                ],
-                [
-                    "kmb",
-                    "E85A10E61A00CC09"
-                ],
-                [
-                    "gmb",
-                    "20013708"
-                ],
-                [
-                    "gmb",
-                    "20016055"
-                ],
-                [
-                    "gmb",
-                    "20016104"
                 ]
             ],
             "20016058":[
@@ -578114,30 +578041,6 @@
                 [
                     "gmb",
                     "20016055"
-                ],
-                [
-                    "kmb",
-                    "E85A10E61A00CC09"
-                ],
-                [
-                    "ctb",
-                    "001257"
-                ],
-                [
-                    "ctb",
-                    "001323"
-                ],
-                [
-                    "kmb",
-                    "15CCC3BD5D31F759"
-                ],
-                [
-                    "gmb",
-                    "20016056"
-                ],
-                [
-                    "kmb",
-                    "ECFB77BC2B593335"
                 ]
             ],
             "20016105":[
@@ -578932,6 +578835,10 @@
                     "1E71CBFE8560B0EF"
                 ],
                 [
+                    "gmb",
+                    "20021394"
+                ],
+                [
                     "kmb",
                     "2F1F9CF16B9E65AF"
                 ],
@@ -578940,10 +578847,20 @@
                     "9268B442F0C2807E"
                 ]
             ],
+            "20016638":[
+                [
+                    "gmb",
+                    "20021395"
+                ]
+            ],
             "20016639":[
                 [
                     "ctb",
                     "002655"
+                ],
+                [
+                    "gmb",
+                    "20021396"
                 ],
                 [
                     "kmb",
@@ -580056,6 +579973,12 @@
                     "20016899"
                 ]
             ],
+            "20016903":[
+                [
+                    "gmb",
+                    "20021391"
+                ]
+            ],
             "20016906":[
                 [
                     "lrtfeeder",
@@ -580740,10 +580663,6 @@
                 [
                     "kmb",
                     "18580F35B0A312CF"
-                ],
-                [
-                    "kmb",
-                    "3CA179A8B3DC79DC"
                 ]
             ],
             "20017045":[
@@ -582671,6 +582590,10 @@
                 ]
             ],
             "20017917":[
+                [
+                    "gmb",
+                    "20021392"
+                ],
                 [
                     "kmb",
                     "600158E293C9354E"
@@ -586326,6 +586249,224 @@
                 [
                     "ctb",
                     "001005"
+                ]
+            ],
+            "20021382":[
+                [
+                    "kmb",
+                    "6C15579CA43DF72E"
+                ],
+                [
+                    "kmb",
+                    "EB3A1D751C96E053"
+                ]
+            ],
+            "20021383":[
+                [
+                    "gmb",
+                    "20000802"
+                ]
+            ],
+            "20021384":[
+                [
+                    "gmb",
+                    "20002394"
+                ]
+            ],
+            "20021385":[
+                [
+                    "gmb",
+                    "20012117"
+                ]
+            ],
+            "20021387":[
+                [
+                    "ctb",
+                    "003709"
+                ]
+            ],
+            "20021389":[
+                [
+                    "gmb",
+                    "20021398"
+                ]
+            ],
+            "20021390":[
+                [
+                    "ctb",
+                    "001657"
+                ],
+                [
+                    "gmb",
+                    "20007019"
+                ],
+                [
+                    "gmb",
+                    "20010003"
+                ],
+                [
+                    "gmb",
+                    "20015225"
+                ],
+                [
+                    "gmb",
+                    "20015621"
+                ],
+                [
+                    "kmb",
+                    "81C6D8E74259157E"
+                ],
+                [
+                    "kmb",
+                    "91449853378E9F8F"
+                ],
+                [
+                    "kmb",
+                    "94358F5481BAE505"
+                ],
+                [
+                    "kmb",
+                    "017A10A009B4A409"
+                ],
+                [
+                    "ctb",
+                    "001655"
+                ]
+            ],
+            "20021391":[
+                [
+                    "gmb",
+                    "20016903"
+                ]
+            ],
+            "20021392":[
+                [
+                    "gmb",
+                    "20017917"
+                ],
+                [
+                    "kmb",
+                    "600158E293C9354E"
+                ]
+            ],
+            "20021393":[
+                [
+                    "gmb",
+                    "20012996"
+                ]
+            ],
+            "20021394":[
+                [
+                    "ctb",
+                    "001607"
+                ],
+                [
+                    "kmb",
+                    "1E71CBFE8560B0EF"
+                ],
+                [
+                    "gmb",
+                    "20016636"
+                ],
+                [
+                    "kmb",
+                    "2F1F9CF16B9E65AF"
+                ],
+                [
+                    "kmb",
+                    "9268B442F0C2807E"
+                ]
+            ],
+            "20021395":[
+                [
+                    "gmb",
+                    "20016638"
+                ]
+            ],
+            "20021396":[
+                [
+                    "ctb",
+                    "002655"
+                ],
+                [
+                    "gmb",
+                    "20016639"
+                ],
+                [
+                    "kmb",
+                    "D0B8C96BC4451180"
+                ]
+            ],
+            "20021397":[
+                [
+                    "ctb",
+                    "003369"
+                ],
+                [
+                    "kmb",
+                    "A4601C77EB896E30"
+                ]
+            ],
+            "20021398":[
+                [
+                    "gmb",
+                    "20021389"
+                ]
+            ],
+            "20021399":[
+                [
+                    "ctb",
+                    "003505"
+                ],
+                [
+                    "gmb",
+                    "20012109"
+                ],
+                [
+                    "kmb",
+                    "E207DBF95EA7DE26"
+                ]
+            ],
+            "20021400":[
+                [
+                    "ctb",
+                    "003709"
+                ],
+                [
+                    "ctb",
+                    "003856"
+                ],
+                [
+                    "gmb",
+                    "20008521"
+                ]
+            ],
+            "20021401":[
+                [
+                    "gmb",
+                    "20001961"
+                ],
+                [
+                    "gmb",
+                    "20012415"
+                ],
+                [
+                    "gmb",
+                    "20000975"
+                ],
+                [
+                    "kmb",
+                    "90B75A8D2983AC20"
+                ]
+            ],
+            "20021402":[
+                [
+                    "gmb",
+                    "20012416"
+                ],
+                [
+                    "kmb",
+                    "7BDF3895E0BCE33B"
                 ]
             ],
             "20021416":[
@@ -590609,6 +590750,10 @@
                 ],
                 [
                     "gmb",
+                    "20008528"
+                ],
+                [
+                    "gmb",
                     "20009238"
                 ]
             ],
@@ -591264,10 +591409,6 @@
                 [
                     "ctb",
                     "001950"
-                ],
-                [
-                    "kmb",
-                    "3C6231BF9A77F8B4"
                 ]
             ],
             "2AEDE966C122B71E":[
@@ -591294,48 +591435,6 @@
                 [
                     "kmb",
                     "FDDA176977136CD9"
-                ]
-            ],
-            "2B011CC82C51D518":[
-                [
-                    "kmb",
-                    "0BB3ECAB031F27CD"
-                ],
-                [
-                    "gmb",
-                    "20007678"
-                ],
-                [
-                    "gmb",
-                    "20007680"
-                ],
-                [
-                    "kmb",
-                    "403CF34C7A6517DF"
-                ],
-                [
-                    "kmb",
-                    "AF04BB6F5FFF4C45"
-                ],
-                [
-                    "kmb",
-                    "375591F774538709"
-                ],
-                [
-                    "kmb",
-                    "7910B0EBDD33B71B"
-                ],
-                [
-                    "kmb",
-                    "8581908CE476D2CF"
-                ],
-                [
-                    "kmb",
-                    "94A3E9298FD887C6"
-                ],
-                [
-                    "kmb",
-                    "D2F0F58F146419A3"
                 ]
             ],
             "2B0183A25DA19AE3":[
@@ -592890,6 +592989,10 @@
                 [
                     "gmb",
                     "20016636"
+                ],
+                [
+                    "gmb",
+                    "20021394"
                 ],
                 [
                     "kmb",
@@ -597084,10 +597187,6 @@
                 [
                     "kmb",
                     "D2F0F58F146419A3"
-                ],
-                [
-                    "kmb",
-                    "2B011CC82C51D518"
                 ]
             ],
             "376B94FDBA371A25":[
@@ -598143,10 +598242,6 @@
                 ],
                 [
                     "kmb",
-                    "3C6231BF9A77F8B4"
-                ],
-                [
-                    "kmb",
                     "8EB192ED041A8459"
                 ],
                 [
@@ -598948,92 +599043,6 @@
                     "EEF73B5695D2AB0F"
                 ]
             ],
-            "3C6231BF9A77F8B4":[
-                [
-                    "ctb",
-                    "003087"
-                ],
-                [
-                    "gmb",
-                    "20001230"
-                ],
-                [
-                    "gmb",
-                    "20012905"
-                ],
-                [
-                    "gmb",
-                    "20015647"
-                ],
-                [
-                    "kmb",
-                    "3A450B5AD5AF1605"
-                ],
-                [
-                    "kmb",
-                    "8EB192ED041A8459"
-                ],
-                [
-                    "kmb",
-                    "2ADCFCFCCDDF2C9B"
-                ],
-                [
-                    "kmb",
-                    "3F967BB2C0468A43"
-                ],
-                [
-                    "kmb",
-                    "5ED989C30DF49DE4"
-                ],
-                [
-                    "kmb",
-                    "76E8D8C73E0B8096"
-                ],
-                [
-                    "kmb",
-                    "844648D1EDB4A4CD"
-                ],
-                [
-                    "kmb",
-                    "1D99BD02B9B45429"
-                ],
-                [
-                    "gmb",
-                    "20001234"
-                ],
-                [
-                    "kmb",
-                    "7E2611CD03F9450A"
-                ],
-                [
-                    "kmb",
-                    "BA6D9F93E62B8075"
-                ],
-                [
-                    "kmb",
-                    "CA7CE166F4E6677F"
-                ],
-                [
-                    "mtr",
-                    "MOS"
-                ],
-                [
-                    "kmb",
-                    "15FF958BE6921BAA"
-                ],
-                [
-                    "kmb",
-                    "41E806B7927291BE"
-                ],
-                [
-                    "ctb",
-                    "001950"
-                ],
-                [
-                    "gmb",
-                    "20012574"
-                ]
-            ],
             "3C624F6CB2D5BBEA":[
                 [
                     "ctb",
@@ -599140,16 +599149,6 @@
                 [
                     "kmb",
                     "7F405508C257705F"
-                ]
-            ],
-            "3CA179A8B3DC79DC":[
-                [
-                    "kmb",
-                    "18580F35B0A312CF"
-                ],
-                [
-                    "gmb",
-                    "20017044"
                 ]
             ],
             "3CA62A3B1C8415D0":[
@@ -600734,10 +600733,6 @@
                 [
                     "ctb",
                     "001950"
-                ],
-                [
-                    "kmb",
-                    "3C6231BF9A77F8B4"
                 ]
             ],
             "3F9AE21DC3A540B9":[
@@ -601120,10 +601115,6 @@
                 [
                     "gmb",
                     "20008832"
-                ],
-                [
-                    "kmb",
-                    "2B011CC82C51D518"
                 ],
                 [
                     "kmb",
@@ -601776,10 +601767,6 @@
                 [
                     "mtr",
                     "MOS"
-                ],
-                [
-                    "kmb",
-                    "3C6231BF9A77F8B4"
                 ]
             ],
             "41E81A921D79F375":[
@@ -612302,10 +612289,6 @@
                     "D74B67D55C63895F"
                 ],
                 [
-                    "kmb",
-                    "0678C85600B1A019"
-                ],
-                [
                     "gmb",
                     "20001311"
                 ],
@@ -615220,10 +615203,6 @@
                 [
                     "mtr",
                     "MOS"
-                ],
-                [
-                    "kmb",
-                    "3C6231BF9A77F8B4"
                 ]
             ],
             "5EDA0C1BE5CE95CF":[
@@ -615698,6 +615677,10 @@
                 [
                     "gmb",
                     "20017917"
+                ],
+                [
+                    "gmb",
+                    "20021392"
                 ]
             ],
             "60301BE9A4D23BAC":[
@@ -620840,6 +620823,10 @@
                     "002980"
                 ],
                 [
+                    "gmb",
+                    "20021382"
+                ],
+                [
                     "kmb",
                     "262578A9C404DCD6"
                 ],
@@ -622746,10 +622733,6 @@
                 [
                     "gmb",
                     "20015647"
-                ],
-                [
-                    "kmb",
-                    "3C6231BF9A77F8B4"
                 ],
                 [
                     "kmb",
@@ -625458,10 +625441,6 @@
                 [
                     "mtr",
                     "MOS"
-                ],
-                [
-                    "kmb",
-                    "3C6231BF9A77F8B4"
                 ]
             ],
             "77":[
@@ -626205,10 +626184,6 @@
                 ],
                 [
                     "kmb",
-                    "2B011CC82C51D518"
-                ],
-                [
-                    "kmb",
                     "403CF34C7A6517DF"
                 ],
                 [
@@ -626282,18 +626257,6 @@
                 [
                     "kmb",
                     "DA8EA09C3AAD39C9"
-                ],
-                [
-                    "kmb",
-                    "C1EE377B1D421E2F"
-                ],
-                [
-                    "gmb",
-                    "20000313"
-                ],
-                [
-                    "kmb",
-                    "8144A0422908BE73"
                 ]
             ],
             "7934A27F6D03DED6":[
@@ -626539,10 +626502,6 @@
                 ],
                 [
                     "kmb",
-                    "0678C85600B1A019"
-                ],
-                [
-                    "kmb",
                     "69EA07FBAB612E68"
                 ],
                 [
@@ -626656,10 +626615,6 @@
                 [
                     "kmb",
                     "D74B67D55C63895F"
-                ],
-                [
-                    "kmb",
-                    "0678C85600B1A019"
                 ],
                 [
                     "gmb",
@@ -626950,6 +626905,10 @@
                 [
                     "gmb",
                     "20012416"
+                ],
+                [
+                    "gmb",
+                    "20021402"
                 ]
             ],
             "7BE18698D0E8FDCE":[
@@ -627796,10 +627755,6 @@
                 [
                     "ctb",
                     "001950"
-                ],
-                [
-                    "kmb",
-                    "3C6231BF9A77F8B4"
                 ]
             ],
             "7E2E1F1269E520DE":[
@@ -629250,22 +629205,6 @@
                 [
                     "gmb",
                     "20000313"
-                ],
-                [
-                    "kmb",
-                    "C1EE377B1D421E2F"
-                ],
-                [
-                    "kmb",
-                    "DA8EA09C3AAD39C9"
-                ],
-                [
-                    "ctb",
-                    "001244"
-                ],
-                [
-                    "kmb",
-                    "793050242DDA833F"
                 ]
             ],
             "815BC43527FD9247":[
@@ -629574,6 +629513,10 @@
                 [
                     "gmb",
                     "20015621"
+                ],
+                [
+                    "gmb",
+                    "20021390"
                 ],
                 [
                     "kmb",
@@ -630588,10 +630531,6 @@
                 [
                     "mtr",
                     "MOS"
-                ],
-                [
-                    "kmb",
-                    "3C6231BF9A77F8B4"
                 ]
             ],
             "8447E71E45CE5452":[
@@ -631233,10 +631172,6 @@
                 ],
                 [
                     "kmb",
-                    "2B011CC82C51D518"
-                ],
-                [
-                    "kmb",
                     "403CF34C7A6517DF"
                 ],
                 [
@@ -631772,12 +631707,6 @@
                 [
                     "gmb",
                     "20000697"
-                ]
-            ],
-            "86E9F1CDA10B3F16":[
-                [
-                    "gmb",
-                    "20001381"
                 ]
             ],
             "86F4FDCF2F5D13ED":[
@@ -633424,10 +633353,6 @@
                 [
                     "ctb",
                     "003831"
-                ],
-                [
-                    "kmb",
-                    "8B9E121BB71771F4"
                 ]
             ],
             "8AE46261E165B416":[
@@ -633582,16 +633507,6 @@
                 [
                     "gmb",
                     "20000989"
-                ]
-            ],
-            "8B9E121BB71771F4":[
-                [
-                    "ctb",
-                    "003831"
-                ],
-                [
-                    "kmb",
-                    "8AD4B244D6A50BDB"
                 ]
             ],
             "8BAB6AA783EE0508":[
@@ -634714,10 +634629,6 @@
                 [
                     "kmb",
                     "3A450B5AD5AF1605"
-                ],
-                [
-                    "kmb",
-                    "3C6231BF9A77F8B4"
                 ],
                 [
                     "kmb",
@@ -635976,6 +635887,10 @@
                     "20010003"
                 ],
                 [
+                    "gmb",
+                    "20021390"
+                ],
+                [
                     "kmb",
                     "94358F5481BAE505"
                 ],
@@ -636632,6 +636547,10 @@
                     "20016636"
                 ],
                 [
+                    "gmb",
+                    "20021394"
+                ],
+                [
                     "kmb",
                     "2F1F9CF16B9E65AF"
                 ]
@@ -636936,18 +636855,6 @@
                 [
                     "kmb",
                     "BB930AAAB15181A1"
-                ],
-                [
-                    "kmb",
-                    "E85A10E61A00CC09"
-                ],
-                [
-                    "gmb",
-                    "20013708"
-                ],
-                [
-                    "gmb",
-                    "20016055"
                 ]
             ],
             "9364661BEAC5B8D0":[
@@ -637344,6 +637251,10 @@
                     "20010003"
                 ],
                 [
+                    "gmb",
+                    "20021390"
+                ],
+                [
                     "kmb",
                     "91449853378E9F8F"
                 ],
@@ -637650,10 +637561,6 @@
                 [
                     "kmb",
                     "D2F0F58F146419A3"
-                ],
-                [
-                    "kmb",
-                    "2B011CC82C51D518"
                 ],
                 [
                     "kmb",
@@ -643852,6 +643759,10 @@
                     "003369"
                 ],
                 [
+                    "gmb",
+                    "20021397"
+                ],
+                [
                     "kmb",
                     "BC932662BA367CD0"
                 ],
@@ -644805,10 +644716,6 @@
                 ]
             ],
             "A6A60ADA171EE7C8":[
-                [
-                    "kmb",
-                    "0678C85600B1A019"
-                ],
                 [
                     "gmb",
                     "20001311"
@@ -648477,10 +648384,6 @@
                 ],
                 [
                     "kmb",
-                    "2B011CC82C51D518"
-                ],
-                [
-                    "kmb",
                     "375591F774538709"
                 ],
                 [
@@ -649474,20 +649377,6 @@
                 [
                     "ctb",
                     "002404"
-                ]
-            ],
-            "B1882202E2B36620":[
-                [
-                    "gmb",
-                    "20009074"
-                ],
-                [
-                    "gmb",
-                    "20015842"
-                ],
-                [
-                    "gmb",
-                    "20015876"
                 ]
             ],
             "B18C8718C0B7904F":[
@@ -652948,10 +652837,6 @@
                 [
                     "mtr",
                     "MOS"
-                ],
-                [
-                    "kmb",
-                    "3C6231BF9A77F8B4"
                 ]
             ],
             "BA72214DFE48AA86":[
@@ -653450,18 +653335,6 @@
                 [
                     "kmb",
                     "9335E0F061724158"
-                ],
-                [
-                    "kmb",
-                    "E85A10E61A00CC09"
-                ],
-                [
-                    "gmb",
-                    "20013708"
-                ],
-                [
-                    "gmb",
-                    "20016055"
                 ]
             ],
             "BB9D2A6E7E713664":[
@@ -655996,28 +655869,6 @@
                 [
                     "gmb",
                     "20002273"
-                ]
-            ],
-            "C1EE377B1D421E2F":[
-                [
-                    "gmb",
-                    "20000313"
-                ],
-                [
-                    "kmb",
-                    "8144A0422908BE73"
-                ],
-                [
-                    "kmb",
-                    "DA8EA09C3AAD39C9"
-                ],
-                [
-                    "ctb",
-                    "001244"
-                ],
-                [
-                    "kmb",
-                    "793050242DDA833F"
                 ]
             ],
             "C1FC4F003C9031B3":[
@@ -659526,10 +659377,6 @@
                 [
                     "ctb",
                     "001950"
-                ],
-                [
-                    "kmb",
-                    "3C6231BF9A77F8B4"
                 ]
             ],
             "CA8554613AAA6C49":[
@@ -662142,6 +661989,10 @@
                 [
                     "gmb",
                     "20016639"
+                ],
+                [
+                    "gmb",
+                    "20021396"
                 ]
             ],
             "D0BA1477EAFC2C2B":[
@@ -663048,10 +662899,6 @@
                 [
                     "kmb",
                     "B4721B39CC29C634"
-                ],
-                [
-                    "kmb",
-                    "2B011CC82C51D518"
                 ]
             ],
             "D2F2B3C5436007C2":[
@@ -664728,10 +664575,6 @@
                     "003361"
                 ],
                 [
-                    "kmb",
-                    "0678C85600B1A019"
-                ],
-                [
                     "gmb",
                     "20001311"
                 ],
@@ -666306,18 +666149,6 @@
                 [
                     "kmb",
                     "793050242DDA833F"
-                ],
-                [
-                    "kmb",
-                    "C1EE377B1D421E2F"
-                ],
-                [
-                    "gmb",
-                    "20000313"
-                ],
-                [
-                    "kmb",
-                    "8144A0422908BE73"
                 ]
             ],
             "DA9843B8F12ED700":[
@@ -668952,6 +668783,10 @@
                 [
                     "gmb",
                     "20012109"
+                ],
+                [
+                    "gmb",
+                    "20021399"
                 ]
             ],
             "E20D7A733ECDFA05":[
@@ -671436,48 +671271,6 @@
                     "20013026"
                 ]
             ],
-            "E85A10E61A00CC09":[
-                [
-                    "ctb",
-                    "001257"
-                ],
-                [
-                    "gmb",
-                    "20013708"
-                ],
-                [
-                    "gmb",
-                    "20016055"
-                ],
-                [
-                    "gmb",
-                    "20016104"
-                ],
-                [
-                    "ctb",
-                    "001323"
-                ],
-                [
-                    "kmb",
-                    "15CCC3BD5D31F759"
-                ],
-                [
-                    "gmb",
-                    "20016056"
-                ],
-                [
-                    "kmb",
-                    "9335E0F061724158"
-                ],
-                [
-                    "kmb",
-                    "BB930AAAB15181A1"
-                ],
-                [
-                    "kmb",
-                    "ECFB77BC2B593335"
-                ]
-            ],
             "E86A26B1A389C290":[
                 [
                     "kmb",
@@ -672494,6 +672287,10 @@
                     "002980"
                 ],
                 [
+                    "gmb",
+                    "20021382"
+                ],
+                [
                     "kmb",
                     "6C15579CA43DF72E"
                 ],
@@ -673348,18 +673145,6 @@
                 [
                     "gmb",
                     "20016056"
-                ],
-                [
-                    "kmb",
-                    "E85A10E61A00CC09"
-                ],
-                [
-                    "gmb",
-                    "20013708"
-                ],
-                [
-                    "gmb",
-                    "20016104"
                 ]
             ],
             "ED03E689B88CE0E8":[
@@ -686319,10 +686104,6 @@
                 ],
                 [
                     "kmb",
-                    "0678C85600B1A019"
-                ],
-                [
-                    "kmb",
                     "584E6744385F6463"
                 ],
                 [
@@ -687103,10 +686884,6 @@
                 ],
                 [
                     "kmb",
-                    "0678C85600B1A019"
-                ],
-                [
-                    "kmb",
                     "584E6744385F6463"
                 ],
                 [
@@ -687194,10 +686971,6 @@
                 [
                     "lrtfeeder",
                     "K52A-U015"
-                ],
-                [
-                    "kmb",
-                    "0678C85600B1A019"
                 ],
                 [
                     "kmb",
@@ -689064,10 +688837,6 @@
                 [
                     "kmb",
                     "A6A60ADA171EE7C8"
-                ],
-                [
-                    "kmb",
-                    "0678C85600B1A019"
                 ],
                 [
                     "kmb",
@@ -693313,10 +693082,6 @@
                 ],
                 [
                     "kmb",
-                    "0678C85600B1A019"
-                ],
-                [
-                    "kmb",
                     "584E6744385F6463"
                 ],
                 [
@@ -694240,10 +694005,6 @@
                 [
                     "gmb",
                     "20015647"
-                ],
-                [
-                    "kmb",
-                    "3C6231BF9A77F8B4"
                 ],
                 [
                     "ctb",
@@ -697449,29 +697210,9 @@
                 "en":"Service on Lunar New Year Eve only",
                 "zh":"只在農曆除夕行走"
             },
-            "PB1":{
-                "en":"HK Gold Coast Pet Bus Tour",
-                "zh":"黃金海岸寵物巴士團"
-            },
             "PB2":{
                 "en":"West Kowloon & Central Pet Bus",
                 "zh":"西九、中環寵物巴士團"
-            },
-            "PB3":{
-                "en":"Pak Shek Kok Pet Bus Tour",
-                "zh":"白石角寵物巴士團"
-            },
-            "PB4":{
-                "en":"Tung Chung & Disneyland Pet Bus Tour",
-                "zh":"東涌、士尼樂園寵物巴士團"
-            },
-            "PB5":{
-                "en":"Sai Sha Go Park, Sai Kung Pet Bus Tour",
-                "zh":"西沙 Go Park, 西貢寵物巴士團"
-            },
-            "PB6":{
-                "en":"Tseung Kwan O Pet Bus Tour",
-                "zh":"將軍澳寵物巴士團"
             },
             "PN17":{
                 "en":"Pet Bus",
