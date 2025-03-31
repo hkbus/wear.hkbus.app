@@ -16518,6 +16518,7 @@
                         "B404A065F58A5F64",
                         "4FC7150518C5234A",
                         "3FB2109BF5E57DDB",
+                        "455FC1E8B39E3D16",
                         "F01C5503A89517B4",
                         "88461293F994CB07",
                         "7FC94FB715BB85C6",
@@ -16563,17 +16564,19 @@
                     ]
                 }
             },
-            "110+2+SHAU KEI WAN BUS TERMINUS+GRANVILLE ROAD":{
+            "110+2+SHAU KEI WAN+TSIM SHA TSUI EAST (MODY ROAD)":{
                 "bound":{
+                    "ctb":"O",
                     "kmb":"O"
                 },
                 "co":[
                     "kmb",
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
-                    "en":"Granville Road",
-                    "zh":"加連威老道"
+                    "en":"Tsim Sha Tsui East (Mody Road)",
+                    "zh":"尖沙咀東(麼地道)"
                 },
                 "freq":{
                     "448":{
@@ -16595,66 +16598,43 @@
                 "kmbCtbJoint":true,
                 "nlbId":null,
                 "orig":{
-                    "en":"Shau Kei Wan Bus Terminus",
-                    "zh":"筲箕灣巴士總站"
-                },
-                "route":"110",
-                "serviceType":"2",
-                "stops":{
-                    "kmb":[
-                        "35AEEA90C71121F0",
-                        "B404A065F58A5F64",
-                        "4FC7150518C5234A",
-                        "3FB2109BF5E57DDB",
-                        "F01C5503A89517B4",
-                        "88461293F994CB07",
-                        "7FC94FB715BB85C6",
-                        "08A237AE35DF8A35",
-                        "9711BA45457DCA24",
-                        "99FB764916B4BA81",
-                        "E293EF47A90B818D",
-                        "616738F21326814A",
-                        "3A1D9864C04075B2",
-                        "153D32217234A0F0",
-                        "5CCBD9A6B58BF20D",
-                        "E049C81469E2B3C0",
-                        "076E1E9D5874C41D",
-                        "F6EE4DC41A299593",
-                        "83EB94899B6BBB4B",
-                        "F57E1173086C7A51",
-                        "576538E1395C8508",
-                        "0DB55CC5E4533F4E",
-                        "36C11B4E5D248AE2"
-                    ]
-                }
-            },
-            "110+2+SHAU KEI WAN+TSIM SHA TSUI EAST (MODY ROAD)":{
-                "bound":{
-                    "kmb":"O"
-                },
-                "co":[
-                    "kmb"
-                ],
-                "dest":{
-                    "en":"Tsim Sha Tsui East (Mody Road)",
-                    "zh":"尖沙咀東(麼地道)"
-                },
-                "freq":null,
-                "gtfsId":null,
-                "kmbCtbJoint":true,
-                "nlbId":null,
-                "orig":{
                     "en":"Shau Kei Wan",
                     "zh":"筲箕灣"
                 },
                 "route":"110",
                 "serviceType":"2",
                 "stops":{
+                    "ctb":[
+                        "001207",
+                        "001301",
+                        "001356",
+                        "001357",
+                        "003781",
+                        "001358",
+                        "001359",
+                        "001360",
+                        "001361",
+                        "001375",
+                        "002791",
+                        "001379",
+                        "001277",
+                        "001279",
+                        "001475",
+                        "001480",
+                        "002811",
+                        "001482",
+                        "001400",
+                        "002838",
+                        "001402",
+                        "001587",
+                        "001540"
+                    ],
                     "kmb":[
                         "35AEEA90C71121F0",
                         "B404A065F58A5F64",
                         "4FC7150518C5234A",
                         "3FB2109BF5E57DDB",
+                        "455FC1E8B39E3D16",
                         "F01C5503A89517B4",
                         "88461293F994CB07",
                         "7FC94FB715BB85C6",
@@ -355382,8 +355362,8 @@
                     "lng":114.14837
                 },
                 "name":{
-                    "en":"Yi Nam Road, Lee Nam Road",
-                    "zh":"怡南路, 利南道"
+                    "en":"New Shell Ap Lei Chau Depot, Lee Nam Road",
+                    "zh":"蜆殼新鴨脷洲油庫, 利南道"
                 }
             },
             "002205":{
@@ -355392,8 +355372,8 @@
                     "lng":114.14976
                 },
                 "name":{
-                    "en":"Sewage Treatment Plant, Lee Nam Road",
-                    "zh":"污水處理廠, 利南道"
+                    "en":"The Corniche, Lee Nam Road",
+                    "zh":"凱玥, 利南道"
                 }
             },
             "002206":{
@@ -355402,8 +355382,8 @@
                     "lng":114.15031
                 },
                 "name":{
-                    "en":"The Oasis, Lee Nam Road",
-                    "zh":"御庭園, 利南道"
+                    "en":"Ap Lei Chau Bridge Road Playground, Lee Nam Road",
+                    "zh":"鴨脷洲橋道遊樂場, 利南道"
                 }
             },
             "002207":{
@@ -355412,8 +355392,8 @@
                     "lng":114.14981
                 },
                 "name":{
-                    "en":"Sewage Treatment Plant, Lee Nam Road",
-                    "zh":"污水處理廠, 利南道"
+                    "en":"The Corniche, Lee Nam Road",
+                    "zh":"凱玥, 利南道"
                 }
             },
             "002208":{
@@ -355492,8 +355472,8 @@
                     "lng":114.18136
                 },
                 "name":{
-                    "en":"Nam Fung - Parker Cable Tunnel, Nam Fung Road",
-                    "zh":"南風 - 柏架電力隧道, 南風道"
+                    "en":"South Island School, Nam Fung Road",
+                    "zh":"南島中學, 南風道"
                 }
             },
             "002217":{
@@ -355503,7 +355483,7 @@
                 },
                 "name":{
                     "en":"Wong Chuk Hang Complex for the Elderly, Nam Fung Road",
-                    "zh":"黃竹坑老人服務大樓, 南風道"
+                    "zh":"黃竹坑老人服務綜合大樓, 南風道"
                 }
             },
             "002218":{
@@ -355542,8 +355522,8 @@
                     "lng":114.17442
                 },
                 "name":{
-                    "en":"Wong Chuk Hang Complex for the Elderly, Nam Fung Road",
-                    "zh":"黃竹坑老人服務大樓, 南風道"
+                    "en":"HKUGA College, Nam Fung Road",
+                    "zh":"港大同學會書院, 南風道"
                 }
             },
             "002222":{
@@ -356232,8 +356212,8 @@
                     "lng":114.14418
                 },
                 "name":{
-                    "en":"Dairy Farm Ice & Cold Storage, Tin Wan Praya Road",
-                    "zh":"牛奶公司冰廠及冷房, 田灣海旁道"
+                    "en":"HKICS Ice Plant & Cold Storage, Tin Wan Praya Road",
+                    "zh":"香港製冰冰廠及冷庫, 田灣海旁道"
                 }
             },
             "002296":{
@@ -356242,8 +356222,8 @@
                     "lng":114.14726
                 },
                 "name":{
-                    "en":"Hing Wai Industrial Centre, Tin Wan Praya Road",
-                    "zh":"興偉工業中心, 田灣海旁道"
+                    "en":"Hing Wai Centre, Tin Wan Praya Road",
+                    "zh":"興偉中心, 田灣海旁道"
                 }
             },
             "002297":{
@@ -356252,8 +356232,8 @@
                     "lng":114.14443
                 },
                 "name":{
-                    "en":"Dairy Farm Ice & Cold Storage, Tin Wan Praya Road",
-                    "zh":"牛奶公司冰廠及冷房, 田灣海旁道"
+                    "en":"HKICS Ice Plant & Cold Storage, Tin Wan Praya Road",
+                    "zh":"香港製冰冰廠及冷庫, 田灣海旁道"
                 }
             },
             "002298":{
@@ -404792,8 +404772,8 @@
                     "lng":114.21132
                 },
                 "name":{
-                    "en":"Cheung Yip Street, Octa Tower",
-                    "zh":"祥業街, 傲騰廣場"
+                    "en":"Cheung Yip Street, Harbourside HQ",
+                    "zh":"祥業街, 啟匯"
                 }
             },
             "20012999":{
@@ -437450,6 +437430,16 @@
                 "name":{
                     "en":"Moreton Terrace",
                     "zh":"摩頓台"
+                }
+            },
+            "455FC1E8B39E3D16":{
+                "location":{
+                    "lat":22.27581,
+                    "lng":114.22464
+                },
+                "name":{
+                    "en":"Yiu Ming House",
+                    "zh":"耀明樓"
                 }
             },
             "45628FA7B8D7C5D2":{
@@ -525514,6 +525504,10 @@
             "003781":[
                 [
                     "kmb",
+                    "455FC1E8B39E3D16"
+                ],
+                [
+                    "kmb",
                     "E71AA0E0F0D0377A"
                 ]
             ],
@@ -603439,6 +603433,16 @@
                     "CFC063BFE7F6F67B"
                 ]
             ],
+            "455FC1E8B39E3D16":[
+                [
+                    "ctb",
+                    "003781"
+                ],
+                [
+                    "kmb",
+                    "E71AA0E0F0D0377A"
+                ]
+            ],
             "45628FA7B8D7C5D2":[
                 [
                     "ctb",
@@ -670895,6 +670899,10 @@
                 [
                     "ctb",
                     "003781"
+                ],
+                [
+                    "kmb",
+                    "455FC1E8B39E3D16"
                 ]
             ],
             "E721A2E3853D636D":[
