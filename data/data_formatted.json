@@ -40659,7 +40659,32 @@
                     "en":"Cape Collinson (Correctional Institution)",
                     "zh":"歌連臣角(懲教所)"
                 },
-                "freq":{},
+                "freq":{
+                    "111":{
+                        "1000":[
+                            "1000",
+                            "60"
+                        ],
+                        "1500":[
+                            "1500",
+                            "60"
+                        ]
+                    },
+                    "127":{
+                        "0800":[
+                            "0800",
+                            "60"
+                        ],
+                        "1230":[
+                            "1230",
+                            "60"
+                        ],
+                        "1645":[
+                            "1645",
+                            "60"
+                        ]
+                    }
+                },
                 "gmbRegion":"HKI",
                 "gtfsId":"2002317",
                 "nlbId":null,
@@ -40691,7 +40716,32 @@
                     "en":"Chai Wan Station",
                     "zh":"柴灣站"
                 },
-                "freq":{},
+                "freq":{
+                    "111":{
+                        "1015":[
+                            "1015",
+                            "60"
+                        ],
+                        "1515":[
+                            "1515",
+                            "60"
+                        ]
+                    },
+                    "127":{
+                        "0815":[
+                            "0815",
+                            "60"
+                        ],
+                        "1245":[
+                            "1245",
+                            "60"
+                        ],
+                        "1700":[
+                            "1700",
+                            "60"
+                        ]
+                    }
+                },
                 "gmbRegion":"HKI",
                 "gtfsId":"2002317",
                 "nlbId":null,
@@ -336792,10 +336842,12 @@
             },
             "SP10+1+KAI TAK SPORTS PARK+CENTRAL (MACAU FERRY)":{
                 "bound":{
+                    "ctb":"O",
                     "kmb":"O"
                 },
                 "co":[
-                    "kmb"
+                    "kmb",
+                    "ctb"
                 ],
                 "dest":{
                     "en":"Central (Macau Ferry)",
@@ -336803,6 +336855,7 @@
                 },
                 "freq":null,
                 "gtfsId":null,
+                "kmbCtbJoint":true,
                 "nlbId":null,
                 "orig":{
                     "en":"Kai Tak Sports Park",
@@ -336810,42 +336863,6 @@
                 },
                 "route":"SP10",
                 "serviceType":"1",
-                "stops":{
-                    "kmb":[
-                        "A4260736CBC94F30",
-                        "D32CF06A085E2501",
-                        "D0286A50FCF2DAFC",
-                        "61AC7D39918DB2F4",
-                        "17414DA265B5FFE9",
-                        "51E69940B3E57AAA",
-                        "9962A14911FC8F32",
-                        "BB1F05A4942960A1",
-                        "18146B736D94B1EB",
-                        "C0B3CCF700EDA89C",
-                        "633A3F4B4A5637C2"
-                    ]
-                }
-            },
-            "SP10+1+Kai Tak Sports Park+Central (Macau Ferry)":{
-                "bound":{
-                    "ctb":"O"
-                },
-                "co":[
-                    "ctb"
-                ],
-                "dest":{
-                    "en":"Central (Macau Ferry)",
-                    "zh":"中環 (港澳碼頭)"
-                },
-                "freq":null,
-                "gtfsId":null,
-                "nlbId":null,
-                "orig":{
-                    "en":"Kai Tak Sports Park",
-                    "zh":"啟德體育園"
-                },
-                "route":"SP10",
-                "serviceType":1,
                 "stops":{
                     "ctb":[
                         "003874",
@@ -336859,6 +336876,19 @@
                         "001054",
                         "001056",
                         "001027"
+                    ],
+                    "kmb":[
+                        "A4260736CBC94F30",
+                        "D32CF06A085E2501",
+                        "D0286A50FCF2DAFC",
+                        "61AC7D39918DB2F4",
+                        "17414DA265B5FFE9",
+                        "51E69940B3E57AAA",
+                        "9962A14911FC8F32",
+                        "BB1F05A4942960A1",
+                        "18146B736D94B1EB",
+                        "C0B3CCF700EDA89C",
+                        "633A3F4B4A5637C2"
                     ]
                 }
             },
@@ -345595,8 +345625,8 @@
             },
             "001139":{
                 "location":{
-                    "lat":22.27968,
-                    "lng":114.16379
+                    "lat":22.27977,
+                    "lng":114.16384
                 },
                 "name":{
                     "en":"Admiralty - MTR Exit B",
@@ -355765,7 +355795,7 @@
             },
             "002225":{
                 "location":{
-                    "lat":22.24725,
+                    "lat":22.24739,
                     "lng":114.17392
                 },
                 "name":{
@@ -365149,8 +365179,8 @@
             },
             "003339":{
                 "location":{
-                    "lat":22.28613,
-                    "lng":114.16144
+                    "lat":22.28599,
+                    "lng":114.16175
                 },
                 "name":{
                     "en":"Central (Hong Kong Observation Wheel)",
@@ -369759,8 +369789,8 @@
             },
             "003874":{
                 "location":{
-                    "lat":22.32328,
-                    "lng":114.1927
+                    "lat":22.32329,
+                    "lng":114.19286
                 },
                 "name":{
                     "en":"Kai Tak Sports Park, Sung Wong Toi Road",
@@ -512334,10 +512364,6 @@
                     "20012954"
                 ],
                 [
-                    "gmb",
-                    "20020558"
-                ],
-                [
                     "kmb",
                     "AE4E8F82AD65348C"
                 ]
@@ -521048,16 +521074,6 @@
                 [
                     "gmb",
                     "20016087"
-                ]
-            ],
-            "003339":[
-                [
-                    "kmb",
-                    "23EC94A5FAA1E5A3"
-                ],
-                [
-                    "kmb",
-                    "90F0F685E42CC10D"
                 ]
             ],
             "003340":[
@@ -586194,10 +586210,6 @@
             ],
             "20020558":[
                 [
-                    "ctb",
-                    "002383"
-                ],
-                [
                     "kmb",
                     "AE4E8F82AD65348C"
                 ]
@@ -588755,10 +588767,6 @@
                 ]
             ],
             "23EC94A5FAA1E5A3":[
-                [
-                    "ctb",
-                    "003339"
-                ],
                 [
                     "kmb",
                     "90F0F685E42CC10D"
@@ -636443,10 +636451,6 @@
                 ]
             ],
             "90F0F685E42CC10D":[
-                [
-                    "ctb",
-                    "003339"
-                ],
                 [
                     "kmb",
                     "23EC94A5FAA1E5A3"
