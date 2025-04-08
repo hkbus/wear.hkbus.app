@@ -573,7 +573,6 @@
         "52B",
         "52K",
         "52P",
-        "52S",
         "52X",
         "53",
         "53M",
@@ -590,7 +589,6 @@
         "56B",
         "56C",
         "56K",
-        "56S",
         "57K",
         "57M",
         "58",
@@ -1375,10 +1373,8 @@
         "SP11",
         "SP12",
         "SP2",
-        "SP2A",
         "SP3",
         "SP5A",
-        "SP5B",
         "SP6",
         "SP7",
         "SP9",
@@ -150454,62 +150450,6 @@
                     ]
                 }
             },
-            "52S+1+TSANG TSUI+TUEN MUN ROAD BBI":{
-                "bound":{
-                    "kmb":"I"
-                },
-                "co":[
-                    "kmb"
-                ],
-                "dest":{
-                    "en":"Tuen Mun Road BBI",
-                    "zh":"屯門轉車站"
-                },
-                "freq":null,
-                "gtfsId":null,
-                "nlbId":null,
-                "orig":{
-                    "en":"Tsang Tsui",
-                    "zh":"曾咀"
-                },
-                "route":"52S",
-                "serviceType":"1",
-                "stops":{
-                    "kmb":[
-                        "D6001B758148778A",
-                        "76441824D4E31948",
-                        "212BFF5737D0116C"
-                    ]
-                }
-            },
-            "52S+1+TUEN MUN ROAD BBI+TSANG TSUI":{
-                "bound":{
-                    "kmb":"O"
-                },
-                "co":[
-                    "kmb"
-                ],
-                "dest":{
-                    "en":"Tsang Tsui",
-                    "zh":"曾咀"
-                },
-                "freq":null,
-                "gtfsId":null,
-                "nlbId":null,
-                "orig":{
-                    "en":"Tuen Mun Road BBI",
-                    "zh":"屯門公路轉車站"
-                },
-                "route":"52S",
-                "serviceType":"1",
-                "stops":{
-                    "kmb":[
-                        "D0937674DF369B23",
-                        "09A5D5C90F15C08C",
-                        "D6001B758148778A"
-                    ]
-                }
-            },
             "52X+1+MONG KOK (PARK AVENUE)+TUEN MUN CENTRAL":{
                 "bound":{
                     "kmb":"I"
@@ -154389,64 +154329,6 @@
                         "20007809",
                         "20001456",
                         "20007811"
-                    ]
-                }
-            },
-            "56S+1+TSANG TSUI+TUEN MUN STATION":{
-                "bound":{
-                    "kmb":"I"
-                },
-                "co":[
-                    "kmb"
-                ],
-                "dest":{
-                    "en":"Tuen Mun Station",
-                    "zh":"屯門站"
-                },
-                "freq":null,
-                "gtfsId":null,
-                "nlbId":null,
-                "orig":{
-                    "en":"Tsang Tsui",
-                    "zh":"曾咀"
-                },
-                "route":"56S",
-                "serviceType":"1",
-                "stops":{
-                    "kmb":[
-                        "F64076F7E14E38D4",
-                        "76441824D4E31948",
-                        "5D14B75687F60509",
-                        "584E6744385F6463"
-                    ]
-                }
-            },
-            "56S+1+TUEN MUN STATION+TSANG TSUI":{
-                "bound":{
-                    "kmb":"O"
-                },
-                "co":[
-                    "kmb"
-                ],
-                "dest":{
-                    "en":"Tsang Tsui",
-                    "zh":"曾咀"
-                },
-                "freq":null,
-                "gtfsId":null,
-                "nlbId":null,
-                "orig":{
-                    "en":"Tuen Mun Station",
-                    "zh":"屯門站"
-                },
-                "route":"56S",
-                "serviceType":"1",
-                "stops":{
-                    "kmb":[
-                        "584E6744385F6463",
-                        "C1BF4509359B0895",
-                        "09A5D5C90F15C08C",
-                        "F64076F7E14E38D4"
                     ]
                 }
             },
@@ -177110,65 +176992,6 @@
                         "20002307",
                         "20001549",
                         "20001515"
-                    ]
-                }
-            },
-            "61S+1+TUEN MUN CENTRAL+WO HOP SHEK":{
-                "bound":{
-                    "kmb":"O"
-                },
-                "co":[
-                    "kmb"
-                ],
-                "dest":{
-                    "en":"Wo Hop Shek",
-                    "zh":"和合石"
-                },
-                "freq":null,
-                "gtfsId":null,
-                "nlbId":null,
-                "orig":{
-                    "en":"Tuen Mun Central",
-                    "zh":"屯門巿中心"
-                },
-                "route":"61S",
-                "serviceType":"1",
-                "stops":{
-                    "kmb":[
-                        "8660BDF2C013FAC2",
-                        "EC49B6F5634BC0C2",
-                        "7AC6625D894BA101",
-                        "CBE54DB551C24A02",
-                        "AA5CBDB0758443A9"
-                    ]
-                }
-            },
-            "61S+1+WO HOP SHEK+TUEN MUN CENTRAL":{
-                "bound":{
-                    "kmb":"I"
-                },
-                "co":[
-                    "kmb"
-                ],
-                "dest":{
-                    "en":"Tuen Mun Central",
-                    "zh":"屯門巿中心"
-                },
-                "freq":null,
-                "gtfsId":null,
-                "nlbId":null,
-                "orig":{
-                    "en":"Wo Hop Shek",
-                    "zh":"和合石"
-                },
-                "route":"61S",
-                "serviceType":"1",
-                "stops":{
-                    "kmb":[
-                        "AA5CBDB0758443A9",
-                        "6FB7BC1E5BC1E4EE",
-                        "5238463F47B490D6",
-                        "8660BDF2C013FAC2"
                     ]
                 }
             },
@@ -336990,36 +336813,6 @@
                     ]
                 }
             },
-            "SP2A+1+Kai Tak Sports Park+Tsim Sha Tsui":{
-                "bound":{
-                    "ctb":"O"
-                },
-                "co":[
-                    "ctb"
-                ],
-                "dest":{
-                    "en":"Tsim Sha Tsui",
-                    "zh":"尖沙咀"
-                },
-                "freq":null,
-                "gtfsId":null,
-                "nlbId":null,
-                "orig":{
-                    "en":"Kai Tak Sports Park",
-                    "zh":"啟德體育園"
-                },
-                "route":"SP2A",
-                "serviceType":1,
-                "stops":{
-                    "ctb":[
-                        "003874",
-                        "001568",
-                        "001569",
-                        "001570",
-                        "001571"
-                    ]
-                }
-            },
             "SP3+1+KAI TAK SPORTS PARK+CHING FU COURT":{
                 "bound":{
                     "kmb":"O"
@@ -337137,41 +336930,6 @@
                         "1D944152BA58ABF3",
                         "722B3DD3D7BCFA21",
                         "4DA3813D3CE3A5DF"
-                    ]
-                }
-            },
-            "SP5B+1+Kai Tak Sports Park+Tuen Mun (Ching Tin and Wo Tin)":{
-                "bound":{
-                    "ctb":"O"
-                },
-                "co":[
-                    "ctb"
-                ],
-                "dest":{
-                    "en":"Tuen Mun (Ching Tin and Wo Tin)",
-                    "zh":"屯門 (菁田及和田)"
-                },
-                "freq":null,
-                "gtfsId":null,
-                "nlbId":null,
-                "orig":{
-                    "en":"Kai Tak Sports Park",
-                    "zh":"啟德體育園"
-                },
-                "route":"SP5B",
-                "serviceType":1,
-                "stops":{
-                    "ctb":[
-                        "003874",
-                        "003359",
-                        "003153",
-                        "003192",
-                        "003431",
-                        "003351",
-                        "003209",
-                        "003760",
-                        "003767",
-                        "003752"
                     ]
                 }
             },
@@ -365294,8 +365052,8 @@
                     "lng":113.97976
                 },
                 "name":{
-                    "en":"Ng Lau Road, Tsing Lun Road",
-                    "zh":"五柳路, 青麟路"
+                    "en":"Ng Lau Road, Lam Tei Interchange",
+                    "zh":"五柳路, 藍地交匯處"
                 }
             },
             "003351":{
@@ -365304,8 +365062,8 @@
                     "lng":113.97968
                 },
                 "name":{
-                    "en":"Ng Lau Road, Tsing Lun Road",
-                    "zh":"五柳路, 青麟路"
+                    "en":"Ng Lau Road, Lam Tei Interchange",
+                    "zh":"五柳路, 藍地交匯處"
                 }
             },
             "003352":{
@@ -371958,16 +371716,6 @@
                 "name":{
                     "en":"Lai Chi Kok Station (Y3)",
                     "zh":"荔枝角站 (Y3)"
-                }
-            },
-            "09A5D5C90F15C08C":{
-                "location":{
-                    "lat":22.38905,
-                    "lng":113.92031
-                },
-                "name":{
-                    "en":"Lung Kwu Tan",
-                    "zh":"龍鼓灘"
                 }
             },
             "09AC1B6D147CA643":{
@@ -451515,16 +451263,6 @@
                     "zh":"富安花園"
                 }
             },
-            "76441824D4E31948":{
-                "location":{
-                    "lat":22.38905,
-                    "lng":113.92031
-                },
-                "name":{
-                    "en":"Lung Kwu Tan",
-                    "zh":"龍鼓灘"
-                }
-            },
             "76457B949CBCDE7B":{
                 "location":{
                     "lat":22.3701,
@@ -474699,17 +474437,6 @@
                     "zh":"天樂里"
                 }
             },
-            "D0937674DF369B23":{
-                "kmbBbiId":"0005",
-                "location":{
-                    "lat":22.35849,
-                    "lng":114.01911
-                },
-                "name":{
-                    "en":"Tuen Mun Road BBI (C1)",
-                    "zh":"屯門公路轉車站 (C1)"
-                }
-            },
             "D09590C6061D9FE7":{
                 "location":{
                     "lat":22.39655,
@@ -476274,16 +476001,6 @@
                 "name":{
                     "en":"Statue Square",
                     "zh":"皇后像廣場"
-                }
-            },
-            "D6001B758148778A":{
-                "location":{
-                    "lat":22.41939,
-                    "lng":113.92137
-                },
-                "name":{
-                    "en":"Tsang Tsui",
-                    "zh":"曾咀"
                 }
             },
             "D617FE3785FAC79A":{
@@ -484727,16 +484444,6 @@
                 "name":{
                     "en":"Symphony Bay, Cheung Muk Tau",
                     "zh":"樟木頭帝琴灣"
-                }
-            },
-            "F64076F7E14E38D4":{
-                "location":{
-                    "lat":22.41939,
-                    "lng":113.92137
-                },
-                "name":{
-                    "en":"Tsang Tsui",
-                    "zh":"曾咀"
                 }
             },
             "F646F96A5D18D121":{
@@ -521664,10 +521371,6 @@
                 ],
                 [
                     "kmb",
-                    "D0937674DF369B23"
-                ],
-                [
-                    "kmb",
                     "F80DF64ABE690251"
                 ],
                 [
@@ -527856,10 +527559,6 @@
                 ],
                 [
                     "kmb",
-                    "D0937674DF369B23"
-                ],
-                [
-                    "kmb",
                     "F80DF64ABE690251"
                 ],
                 [
@@ -530565,16 +530264,6 @@
                 [
                     "kmb",
                     "8BCB786E1F1A2457"
-                ]
-            ],
-            "09A5D5C90F15C08C":[
-                [
-                    "lrtfeeder",
-                    "K52-nU300"
-                ],
-                [
-                    "lrtfeeder",
-                    "K52A-U170"
                 ]
             ],
             "09AC1B6D147CA643":[
@@ -592790,10 +592479,6 @@
                 ],
                 [
                     "kmb",
-                    "D0937674DF369B23"
-                ],
-                [
-                    "kmb",
                     "DFE346B2C7332BC0"
                 ],
                 [
@@ -605969,10 +605654,6 @@
                 [
                     "kmb",
                     "A8B22902BD665766"
-                ],
-                [
-                    "kmb",
-                    "D0937674DF369B23"
                 ],
                 [
                     "kmb",
@@ -632803,10 +632484,6 @@
                     "F490C6051AA2E1F3"
                 ],
                 [
-                    "lrtfeeder",
-                    "K54-U070"
-                ],
-                [
                     "gmb",
                     "20001314"
                 ],
@@ -632817,30 +632494,6 @@
                 [
                     "lightRail",
                     "LR280"
-                ],
-                [
-                    "kmb",
-                    "4521D614AE85C1A5"
-                ],
-                [
-                    "kmb",
-                    "818F12340BA8CA4B"
-                ],
-                [
-                    "lrtfeeder",
-                    "K51-D200"
-                ],
-                [
-                    "lrtfeeder",
-                    "K51A-D180"
-                ],
-                [
-                    "ctb",
-                    "003198"
-                ],
-                [
-                    "gmb",
-                    "20001319"
                 ]
             ],
             "8667AD096EEED0A8":[
@@ -633109,10 +632762,6 @@
                 [
                     "kmb",
                     "47FF0EDCD6926932"
-                ],
-                [
-                    "kmb",
-                    "D0937674DF369B23"
                 ],
                 [
                     "kmb",
@@ -633641,10 +633290,6 @@
                 [
                     "kmb",
                     "A8B22902BD665766"
-                ],
-                [
-                    "kmb",
-                    "D0937674DF369B23"
                 ],
                 [
                     "kmb",
@@ -647079,10 +646724,6 @@
                 [
                     "kmb",
                     "88229183EDC0B6E9"
-                ],
-                [
-                    "kmb",
-                    "D0937674DF369B23"
                 ],
                 [
                     "kmb",
@@ -663215,44 +662856,6 @@
                     "002441"
                 ]
             ],
-            "D0937674DF369B23":[
-                [
-                    "kmb",
-                    "2B3A6C000BB085CD"
-                ],
-                [
-                    "kmb",
-                    "47FF0EDCD6926932"
-                ],
-                [
-                    "kmb",
-                    "A8B22902BD665766"
-                ],
-                [
-                    "kmb",
-                    "DFE346B2C7332BC0"
-                ],
-                [
-                    "kmb",
-                    "872110C8ADA14DA1"
-                ],
-                [
-                    "kmb",
-                    "88229183EDC0B6E9"
-                ],
-                [
-                    "ctb",
-                    "003359"
-                ],
-                [
-                    "kmb",
-                    "0269A1F9D98C737E"
-                ],
-                [
-                    "kmb",
-                    "DB516EC0B8DAF046"
-                ]
-            ],
             "D09590C6061D9FE7":[
                 [
                     "kmb",
@@ -665397,12 +665000,6 @@
                 [
                     "kmb",
                     "A9069A17B1474D76"
-                ]
-            ],
-            "D6001B758148778A":[
-                [
-                    "kmb",
-                    "F64076F7E14E38D4"
                 ]
             ],
             "D617FE3785FAC79A":[
@@ -667910,10 +667507,6 @@
                 ],
                 [
                     "kmb",
-                    "D0937674DF369B23"
-                ],
-                [
-                    "kmb",
                     "2B3A6C000BB085CD"
                 ],
                 [
@@ -669405,10 +668998,6 @@
                 [
                     "kmb",
                     "47FF0EDCD6926932"
-                ],
-                [
-                    "kmb",
-                    "D0937674DF369B23"
                 ],
                 [
                     "kmb",
@@ -678707,12 +678296,6 @@
                     "003457"
                 ]
             ],
-            "F64076F7E14E38D4":[
-                [
-                    "kmb",
-                    "D6001B758148778A"
-                ]
-            ],
             "F6512E7C4A6D5C2E":[
                 [
                     "ctb",
@@ -687243,10 +686826,6 @@
             ],
             "K52-nU300":[
                 [
-                    "kmb",
-                    "09A5D5C90F15C08C"
-                ],
-                [
                     "lrtfeeder",
                     "K52A-U170"
                 ]
@@ -687776,10 +687355,6 @@
                 ]
             ],
             "K52A-U170":[
-                [
-                    "kmb",
-                    "09A5D5C90F15C08C"
-                ],
                 [
                     "lrtfeeder",
                     "K52-nU300"
@@ -689031,12 +688606,6 @@
                 [
                     "lrtfeeder",
                     "K51A-U060"
-                ]
-            ],
-            "K54-U070":[
-                [
-                    "kmb",
-                    "8660BDF2C013FAC2"
                 ]
             ],
             "K54A-D010":[
@@ -698431,8 +698000,8 @@
                 "zh":"特定日子服務"
             },
             "347":{
-                "en":"Circular, Service on specified day - Route Details TBD",
-                "zh":"循環線 特定日子服務 - 未有路線資訊"
+                "en":"Route Details TBD",
+                "zh":"未有路線資訊"
             },
             "388":{
                 "en":"Circular, Service on specified day",
@@ -698467,12 +698036,16 @@
                 "zh":"賽馬日服務"
             },
             "971R":{
-                "en":"Circular, Service on specified day - Route Details TBD",
-                "zh":"循環線 特定日子服務 - 未有路線資訊"
+                "en":"Route Details TBD",
+                "zh":"未有路線資訊"
             },
             "9C":{
                 "en":"Route Details TBD",
                 "zh":"未有路線資訊"
+            },
+            "A25S":{
+                "en":"Service on specified day",
+                "zh":"特定日子服務"
             },
             "B7X":{
                 "en":"Route Details TBD",
@@ -698506,15 +698079,11 @@
                 "en":"Service on specified day, Cross Harbour",
                 "zh":"特定日子服務 過海線"
             },
+            "SP12":{
+                "en":"Service on specified day",
+                "zh":"特定日子服務"
+            },
             "SP2":{
-                "en":"Service on specified day",
-                "zh":"特定日子服務"
-            },
-            "SP2A":{
-                "en":"Service on specified day",
-                "zh":"特定日子服務"
-            },
-            "SP5B":{
                 "en":"Service on specified day",
                 "zh":"特定日子服務"
             },
@@ -698567,18 +698136,6 @@
             "41R":{
                 "en":"On Specific Day Only",
                 "zh":"指定日期服務"
-            },
-            "52S":{
-                "en":"on 29-30/3, 4-6/4/2025",
-                "zh":"on 29-30/3, 4-6/4/2025"
-            },
-            "56S":{
-                "en":"on 29-30/3, 4-6/4/2025",
-                "zh":"on 29-30/3, 4-6/4/2025"
-            },
-            "61S":{
-                "en":"on 4/4/2025",
-                "zh":"on 4/4/2025"
             },
             "848":{
                 "en":"On Specific Day Only",
