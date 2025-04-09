@@ -16571,14 +16571,12 @@
             },
             "110+2+SHAU KEI WAN+TSIM SHA TSUI EAST (MODY ROAD)":{
                 "bound":{
-                    "ctb":"O",
                     "kmb":"O"
                 },
                 "co":[
                     "kmb",
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Tsim Sha Tsui East (Mody Road)",
                     "zh":"尖沙咀東(麼地道)"
@@ -16609,31 +16607,6 @@
                 "route":"110",
                 "serviceType":"2",
                 "stops":{
-                    "ctb":[
-                        "001207",
-                        "001301",
-                        "001356",
-                        "001357",
-                        "003781",
-                        "001358",
-                        "001359",
-                        "001360",
-                        "001361",
-                        "001375",
-                        "002791",
-                        "001379",
-                        "001277",
-                        "001279",
-                        "001475",
-                        "001480",
-                        "002811",
-                        "001482",
-                        "001400",
-                        "002838",
-                        "001402",
-                        "001587",
-                        "001540"
-                    ],
                     "kmb":[
                         "35AEEA90C71121F0",
                         "B404A065F58A5F64",
@@ -16656,8 +16629,7 @@
                         "F6EE4DC41A299593",
                         "83EB94899B6BBB4B",
                         "F57E1173086C7A51",
-                        "576538E1395C8508",
-                        "0DB55CC5E4533F4E"
+                        "576538E1395C8508"
                     ]
                 }
             },
@@ -70855,7 +70827,7 @@
                     ]
                 }
             },
-            "268+1+PAT HEUNG ROAD+YAU POK ROAD PUBLIC HOUSING (SOUTH) TERMINUS":{
+            "268+1+PAT HEUNG ROAD+YAU POK ROAD PUBLIC HOUSING (SOUTH)":{
                 "bound":{
                     "kmb":"I"
                 },
@@ -70863,7 +70835,7 @@
                     "kmb"
                 ],
                 "dest":{
-                    "en":"Yau Pok Road Public Housing (South) Terminus",
+                    "en":"Yau Pok Road Public Housing (South)",
                     "zh":"攸壆路簡約公屋 (南)"
                 },
                 "freq":{
@@ -70904,7 +70876,7 @@
                     ]
                 }
             },
-            "268+1+YAU POK ROAD PUBLIC HOUSING (SOUTH) TERMINUS+PAT HEUNG ROAD":{
+            "268+1+YAU POK ROAD PUBLIC HOUSING (SOUTH)+PAT HEUNG ROAD":{
                 "bound":{
                     "kmb":"O"
                 },
@@ -70927,7 +70899,7 @@
                 "jt":"29",
                 "nlbId":null,
                 "orig":{
-                    "en":"Yau Pok Road Public Housing (South) Terminus",
+                    "en":"Yau Pok Road Public Housing (South)",
                     "zh":"攸壆路簡約公屋 (南)"
                 },
                 "route":"268",
@@ -95350,7 +95322,7 @@
                         "6AE1163C3BD93D0E",
                         "548DAB3A4F71EB68",
                         "D242CDB564D5CCA2",
-                        "1C23A54B97165DAB"
+                        "2132577767F0056D"
                     ]
                 }
             },
@@ -95416,7 +95388,7 @@
                 "serviceType":"1",
                 "stops":{
                     "kmb":[
-                        "1C23A54B97165DAB",
+                        "2132577767F0056D",
                         "EB0D8F8D1AF9DDDE",
                         "A67E402790581309",
                         "91481C9100917BA7",
@@ -95497,7 +95469,7 @@
                         "6AE1163C3BD93D0E",
                         "548DAB3A4F71EB68",
                         "D242CDB564D5CCA2",
-                        "1C23A54B97165DAB"
+                        "2132577767F0056D"
                     ]
                 }
             },
@@ -135778,7 +135750,7 @@
                         "DEDD6247441C8C05",
                         "81B719F7DC3F0FAD",
                         "C27FCAD44F743B0B",
-                        "05EE261A65F9B7ED",
+                        "1C23A54B97165DAB",
                         "9179E2F718D0F436",
                         "19521C0A1CA93C52",
                         "72936E1AD7A19462",
@@ -136882,7 +136854,7 @@
                         "DEDD6247441C8C05",
                         "81B719F7DC3F0FAD",
                         "C27FCAD44F743B0B",
-                        "05EE261A65F9B7ED",
+                        "1C23A54B97165DAB",
                         "9179E2F718D0F436",
                         "19521C0A1CA93C52",
                         "5E75DC46C55ED246",
@@ -138740,7 +138712,7 @@
                         "DEDD6247441C8C05",
                         "81B719F7DC3F0FAD",
                         "9E8E99C5BB698AC2",
-                        "05EE261A65F9B7ED",
+                        "1C23A54B97165DAB",
                         "EEDFC5EC1DD36179",
                         "458D2C951A759CAD",
                         "9ED89AFC5ACA9A00"
@@ -212624,7 +212596,7 @@
                     ]
                 }
             },
-            "76+1+YAU POK ROAD PUBLIC HOUSING (SOUTH) TERMINUS+SHEUNG SHUI STATION (CHOI YUEN ROAD) (CIRCULAR)":{
+            "76+1+YAU POK ROAD PUBLIC HOUSING (SOUTH)+SHEUNG SHUI STATION (CHOI YUEN ROAD) (CIRCULAR)":{
                 "bound":{
                     "kmb":"O"
                 },
@@ -212647,7 +212619,7 @@
                 "jt":"18",
                 "nlbId":null,
                 "orig":{
-                    "en":"Yau Pok Road Public Housing (South) Terminus",
+                    "en":"Yau Pok Road Public Housing (South)",
                     "zh":"攸壆路簡約公屋 (南)"
                 },
                 "route":"76",
@@ -226366,7 +226338,7 @@
                         "6AE1163C3BD93D0E",
                         "7421C8745B4EDF25",
                         "8EFA13840D1272E8",
-                        "84BAF05C529889BB",
+                        "05EE261A65F9B7ED",
                         "F608A74B860B3C47",
                         "92B3E07F00FBB305",
                         "9E28FDE5126284C1",
@@ -229489,7 +229461,7 @@
                         "C458B4A40BFCC4FF",
                         "7421C8745B4EDF25",
                         "8EFA13840D1272E8",
-                        "05EE261A65F9B7ED",
+                        "1C23A54B97165DAB",
                         "9179E2F718D0F436",
                         "19521C0A1CA93C52",
                         "AA7CF12747D8E60A",
@@ -241787,7 +241759,7 @@
                         "12DE49878E7A4ED1",
                         "7421C8745B4EDF25",
                         "8EFA13840D1272E8",
-                        "84BAF05C529889BB",
+                        "05EE261A65F9B7ED",
                         "F608A74B860B3C47",
                         "92B3E07F00FBB305",
                         "9E28FDE5126284C1",
@@ -369568,8 +369540,8 @@
             },
             "003874":{
                 "location":{
-                    "lat":22.32329,
-                    "lng":114.19286
+                    "lat":22.32311,
+                    "lng":114.19375
                 },
                 "name":{
                     "en":"Kai Tak Sports Park, Sung Wong Toi Road",
@@ -369648,8 +369620,8 @@
             },
             "003885":{
                 "location":{
-                    "lat":22.32067,
-                    "lng":114.19945
+                    "lat":22.3203,
+                    "lng":114.19956
                 },
                 "name":{
                     "en":"Shing Fung Road Park, Shing Fung Road",
@@ -384360,8 +384332,8 @@
                     "lng":113.97395
                 },
                 "name":{
-                    "en":"SHEK PAI TAU ROAD, near Ma Kam Ming Charitable Foundation Ma Ko Pan Memorial College Parents Resource Centre",
-                    "zh":"石排頭路, 近馬錦明慈善基金馬可賓紀念中學家長資源中心"
+                    "en":"SHEK PAI TAU ROAD, near Ma Kam Ming Charitable Foundation Ma Ko Pan Memorial College",
+                    "zh":"石排頭路, 近馬錦明慈善基金馬可賓紀念中學"
                 }
             },
             "20001324":{
@@ -509945,6 +509917,10 @@
                 ],
                 [
                     "kmb",
+                    "2132577767F0056D"
+                ],
+                [
+                    "kmb",
                     "5E63913862E61D96"
                 ],
                 [
@@ -526688,6 +526664,24 @@
                     "0962265A8720C38C"
                 ]
             ],
+            "003874":[
+                [
+                    "kmb",
+                    "3F5763699F3D5DD6"
+                ],
+                [
+                    "kmb",
+                    "414AD39F5040C30F"
+                ],
+                [
+                    "kmb",
+                    "5453C5D010F3D53A"
+                ],
+                [
+                    "kmb",
+                    "CF2AA9B99A043548"
+                ]
+            ],
             "003875":[
                 [
                     "gmb",
@@ -528505,6 +528499,10 @@
                 ],
                 [
                     "kmb",
+                    "2132577767F0056D"
+                ],
+                [
+                    "kmb",
                     "5B83FA1E5DE547E6"
                 ],
                 [
@@ -528878,6 +528876,14 @@
                 [
                     "kmb",
                     "1C23A54B97165DAB"
+                ],
+                [
+                    "kmb",
+                    "2132577767F0056D"
+                ],
+                [
+                    "kmb",
+                    "36A84C685395B7C9"
                 ],
                 [
                     "kmb",
@@ -538801,6 +538807,10 @@
                 ],
                 [
                     "kmb",
+                    "2132577767F0056D"
+                ],
+                [
+                    "kmb",
                     "5E63913862E61D96"
                 ],
                 [
@@ -539702,6 +539712,10 @@
                 [
                     "kmb",
                     "05EE261A65F9B7ED"
+                ],
+                [
+                    "kmb",
+                    "2132577767F0056D"
                 ],
                 [
                     "kmb",
@@ -588079,10 +588093,6 @@
                 ],
                 [
                     "kmb",
-                    "05D5B529DB497B99"
-                ],
-                [
-                    "kmb",
                     "05EE261A65F9B7ED"
                 ],
                 [
@@ -588111,15 +588121,7 @@
                 ],
                 [
                     "kmb",
-                    "94AB6A106FC79817"
-                ],
-                [
-                    "kmb",
                     "B9270C10E51D95F4"
-                ],
-                [
-                    "kmb",
-                    "CF2FE4F019F51438"
                 ],
                 [
                     "kmb",
@@ -588135,19 +588137,11 @@
                 ],
                 [
                     "kmb",
-                    "36A84C685395B7C9"
-                ],
-                [
-                    "kmb",
                     "582E6E50ED66EB11"
                 ],
                 [
                     "kmb",
                     "9CCAA319B4354EC6"
-                ],
-                [
-                    "kmb",
-                    "CCA2F903BFE60A31"
                 ],
                 [
                     "ctb",
@@ -597905,6 +597899,10 @@
             "36A84C685395B7C9":[
                 [
                     "kmb",
+                    "05EE261A65F9B7ED"
+                ],
+                [
+                    "kmb",
                     "197315C40E767929"
                 ],
                 [
@@ -597918,10 +597916,6 @@
                 [
                     "kmb",
                     "FED9D9183EFFF2F6"
-                ],
-                [
-                    "kmb",
-                    "84BAF05C529889BB"
                 ]
             ],
             "36AABE317D2F7A0B":[
@@ -601596,6 +601590,12 @@
                     "77070BA4D8554234"
                 ]
             ],
+            "3F5763699F3D5DD6":[
+                [
+                    "ctb",
+                    "003874"
+                ]
+            ],
             "3F68D834013E6E08":[
                 [
                     "ctb",
@@ -602483,6 +602483,10 @@
                 ]
             ],
             "414AD39F5040C30F":[
+                [
+                    "ctb",
+                    "003874"
+                ],
                 [
                     "kmb",
                     "5453C5D010F3D53A"
@@ -611626,6 +611630,10 @@
             ],
             "5453C5D010F3D53A":[
                 [
+                    "ctb",
+                    "003874"
+                ],
+                [
                     "kmb",
                     "414AD39F5040C30F"
                 ],
@@ -613195,6 +613203,10 @@
                 ],
                 [
                     "kmb",
+                    "2132577767F0056D"
+                ],
+                [
+                    "kmb",
                     "5E63913862E61D96"
                 ],
                 [
@@ -614663,6 +614675,10 @@
                 ],
                 [
                     "kmb",
+                    "2132577767F0056D"
+                ],
+                [
+                    "kmb",
                     "582E6E50ED66EB11"
                 ],
                 [
@@ -615896,6 +615912,10 @@
                 [
                     "kmb",
                     "1C23A54B97165DAB"
+                ],
+                [
+                    "kmb",
+                    "2132577767F0056D"
                 ],
                 [
                     "kmb",
@@ -617218,6 +617238,10 @@
                 [
                     "kmb",
                     "1C23A54B97165DAB"
+                ],
+                [
+                    "kmb",
+                    "2132577767F0056D"
                 ],
                 [
                     "kmb",
@@ -623556,6 +623580,10 @@
                 [
                     "kmb",
                     "1C23A54B97165DAB"
+                ],
+                [
+                    "kmb",
+                    "2132577767F0056D"
                 ],
                 [
                     "kmb",
@@ -631715,6 +631743,10 @@
                 ],
                 [
                     "kmb",
+                    "2132577767F0056D"
+                ],
+                [
+                    "kmb",
                     "5B83FA1E5DE547E6"
                 ],
                 [
@@ -631740,10 +631772,6 @@
                 [
                     "kmb",
                     "FED9D9183EFFF2F6"
-                ],
-                [
-                    "kmb",
-                    "36A84C685395B7C9"
                 ],
                 [
                     "kmb",
@@ -641328,6 +641356,10 @@
                 [
                     "kmb",
                     "1C23A54B97165DAB"
+                ],
+                [
+                    "kmb",
+                    "2132577767F0056D"
                 ],
                 [
                     "kmb",
@@ -653259,6 +653291,10 @@
                 ],
                 [
                     "kmb",
+                    "2132577767F0056D"
+                ],
+                [
+                    "kmb",
                     "36A84C685395B7C9"
                 ],
                 [
@@ -662208,6 +662244,10 @@
             ],
             "CF2AA9B99A043548":[
                 [
+                    "ctb",
+                    "003874"
+                ],
+                [
                     "kmb",
                     "414AD39F5040C30F"
                 ],
@@ -666254,6 +666294,10 @@
                 [
                     "kmb",
                     "1C23A54B97165DAB"
+                ],
+                [
+                    "kmb",
+                    "2132577767F0056D"
                 ],
                 [
                     "kmb",
@@ -682182,6 +682226,10 @@
                 [
                     "kmb",
                     "1C23A54B97165DAB"
+                ],
+                [
+                    "kmb",
+                    "2132577767F0056D"
                 ],
                 [
                     "kmb",
