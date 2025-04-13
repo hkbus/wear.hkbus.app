@@ -1406,6 +1406,7 @@
         "X8",
         "X89D",
         "X9",
+        "X90",
         "X962",
         "X970"
     ],
@@ -14338,7 +14339,7 @@
                         ],
                         "0640":[
                             "1000",
-                            "180"
+                            "300"
                         ],
                         "1000":[
                             "1645",
@@ -14346,15 +14347,19 @@
                         ],
                         "1645":[
                             "1900",
-                            "180"
+                            "300"
                         ],
                         "1900":[
                             "2100",
                             "300"
                         ],
                         "2100":[
-                            "2350",
+                            "2300",
                             "480"
+                        ],
+                        "2300":[
+                            "2350",
+                            "600"
                         ]
                     }
                 },
@@ -14522,7 +14527,7 @@
                         ],
                         "0605":[
                             "1000",
-                            "240"
+                            "300"
                         ],
                         "1000":[
                             "1645",
@@ -14530,15 +14535,19 @@
                         ],
                         "1645":[
                             "1900",
-                            "180"
+                            "300"
                         ],
                         "1900":[
                             "2100",
                             "300"
                         ],
                         "2100":[
-                            "2350",
+                            "2300",
                             "480"
+                        ],
+                        "2300":[
+                            "2350",
+                            "600"
                         ]
                     }
                 },
@@ -25406,7 +25415,7 @@
                     "31":{
                         "0730":[
                             "1000",
-                            "600"
+                            "360"
                         ]
                     }
                 },
@@ -25447,7 +25456,7 @@
                     "31":{
                         "1630":[
                             "1900",
-                            "600"
+                            "360"
                         ]
                     }
                 },
@@ -25491,7 +25500,7 @@
                     "31":{
                         "0730":[
                             "1000",
-                            "600"
+                            "360"
                         ]
                     }
                 },
@@ -206706,7 +206715,7 @@
                     ]
                 }
             },
-            "73S+1+FANLING STATION+WO HOP SHEK (KIU TAU ROAD)":{
+            "73S+99+WO HOP SHEK (KIU TAU ROAD)+FANLING STATION":{
                 "bound":{
                     "kmb":"O"
                 },
@@ -206714,50 +206723,23 @@
                     "kmb"
                 ],
                 "dest":{
-                    "en":"Wo Hop Shek (Kiu Tau Road)",
-                    "zh":"和合石(橋頭路)"
-                },
-                "freq":null,
-                "gtfsId":null,
-                "nlbId":null,
-                "orig":{
-                    "en":"Fanling Station",
-                    "zh":"粉嶺站"
-                },
-                "route":"73S",
-                "serviceType":"1",
-                "stops":{
-                    "kmb":[
-                        "60952B4A38F3D82E",
-                        "2BD35970A9125DB3"
-                    ]
-                }
-            },
-            "73S+1+WO HOP SHEK (KIU TAU ROAD)+FANLING STATION":{
-                "bound":{
-                    "kmb":"I"
-                },
-                "co":[
-                    "kmb"
-                ],
-                "dest":{
                     "en":"Fanling Station",
                     "zh":"粉嶺站"
                 },
                 "freq":null,
                 "gtfsId":null,
+                "jt":null,
                 "nlbId":null,
                 "orig":{
                     "en":"Wo Hop Shek (Kiu Tau Road)",
                     "zh":"和合石(橋頭路)"
                 },
                 "route":"73S",
-                "serviceType":"1",
+                "serviceType":"99",
                 "stops":{
                     "kmb":[
-                        "2BD35970A9125DB3",
-                        "2EAB4A9D81722720",
-                        "60952B4A38F3D82E"
+                        "ZZZZZZZZZZZZZZZY",
+                        "ZZZZZZZZZZZZZZZZ"
                     ]
                 }
             },
@@ -213442,7 +213424,7 @@
                     ]
                 }
             },
-            "76S+1+FANLING STATION+WO HOP SHEK":{
+            "76S+99+WO HOP SHEK+FANLING STATION":{
                 "bound":{
                     "kmb":"O"
                 },
@@ -213450,49 +213432,23 @@
                     "kmb"
                 ],
                 "dest":{
-                    "en":"Wo Hop Shek",
-                    "zh":"和合石"
-                },
-                "freq":null,
-                "gtfsId":null,
-                "nlbId":null,
-                "orig":{
-                    "en":"Fanling Station",
-                    "zh":"粉嶺站"
-                },
-                "route":"76S",
-                "serviceType":"1",
-                "stops":{
-                    "kmb":[
-                        "60952B4A38F3D82E",
-                        "2EAB4A9D81722720"
-                    ]
-                }
-            },
-            "76S+1+WO HOP SHEK+FANLING STATION":{
-                "bound":{
-                    "kmb":"I"
-                },
-                "co":[
-                    "kmb"
-                ],
-                "dest":{
                     "en":"Fanling Station",
                     "zh":"粉嶺站"
                 },
                 "freq":null,
                 "gtfsId":null,
+                "jt":null,
                 "nlbId":null,
                 "orig":{
                     "en":"Wo Hop Shek",
                     "zh":"和合石"
                 },
                 "route":"76S",
-                "serviceType":"1",
+                "serviceType":"99",
                 "stops":{
                     "kmb":[
-                        "2EAB4A9D81722720",
-                        "60952B4A38F3D82E"
+                        "ZZZZZZZZZZZZZZZY",
+                        "ZZZZZZZZZZZZZZZZ"
                     ]
                 }
             },
@@ -339417,6 +339373,67 @@
                     ]
                 }
             },
+            "X90+1+FIRE AND AMBULANCE SERVICES ACADEMY+HUNG NGOK HOUSE":{
+                "bound":{
+                    "kmb":"O"
+                },
+                "co":[
+                    "kmb"
+                ],
+                "dest":{
+                    "en":"Hung Ngok House",
+                    "zh":"紅萼樓"
+                },
+                "freq":null,
+                "gtfsId":null,
+                "nlbId":null,
+                "orig":{
+                    "en":"Fire and Ambulance Services Academy",
+                    "zh":"消防及救護學院"
+                },
+                "route":"X90",
+                "serviceType":"1",
+                "stops":{
+                    "kmb":[
+                        "CC2353289CD0EE66",
+                        "E0BAA3364D0CE860",
+                        "179C182ADEF1070D",
+                        "D45CEDE6A9DFA30B",
+                        "58584BC1AC41723C"
+                    ]
+                }
+            },
+            "X90+1+WONG TAI SIN STATION+FIRE AND AMBULANCE SERVICES ACADEMY":{
+                "bound":{
+                    "kmb":"I"
+                },
+                "co":[
+                    "kmb"
+                ],
+                "dest":{
+                    "en":"Fire and Ambulance Services Academy",
+                    "zh":"消防及救護學院"
+                },
+                "freq":null,
+                "gtfsId":null,
+                "nlbId":null,
+                "orig":{
+                    "en":"Wong Tai Sin Station",
+                    "zh":"黃大仙站"
+                },
+                "route":"X90",
+                "serviceType":"1",
+                "stops":{
+                    "kmb":[
+                        "5536C9E3A0CE1228",
+                        "D0F8772D043C207E",
+                        "C057639478BE0168",
+                        "14CF94DF66FCD0C8",
+                        "97D1981DE7ECBCE7",
+                        "CC2353289CD0EE66"
+                    ]
+                }
+            },
             "X962+1+Admiralty (West)+Tuen Mun (Lung Mun Oasis)":{
                 "bound":{
                     "ctb":"O"
@@ -430287,16 +430304,6 @@
                     "zh":"青善遊樂場"
                 }
             },
-            "2BD35970A9125DB3":{
-                "location":{
-                    "lat":22.48119,
-                    "lng":114.15233
-                },
-                "name":{
-                    "en":"Wo Hop Shek (Kiu Tau Road)",
-                    "zh":"和合石(橋頭路)"
-                }
-            },
             "2BDB4CC59A344CA3":{
                 "location":{
                     "lat":22.37022,
@@ -430997,16 +431004,6 @@
                 "name":{
                     "en":"Tsuen Wan Station Bus Terminus",
                     "zh":"荃灣站巴士總站"
-                }
-            },
-            "2EAB4A9D81722720":{
-                "location":{
-                    "lat":22.48236,
-                    "lng":114.14372
-                },
-                "name":{
-                    "en":"Wo Hop Shek",
-                    "zh":"和合石"
                 }
             },
             "2EB5498143D0C343":{
@@ -439732,12 +439729,12 @@
             },
             "4C1CD2009B21E9A1":{
                 "location":{
-                    "lat":22.46118,
-                    "lng":114.17118
+                    "lat":22.4602,
+                    "lng":114.17028
                 },
                 "name":{
-                    "en":"HK Red Swastika Society Tai Po Secondary School",
-                    "zh":"香港紅卍字會 大埔卍慈中學"
+                    "en":"Chung Nga Court",
+                    "zh":"頌雅苑"
                 }
             },
             "4C236D0FBDFDDA6E":{
@@ -607418,12 +607415,6 @@
                     "317D787EB897C4E8"
                 ]
             ],
-            "4C1CD2009B21E9A1":[
-                [
-                    "kmb",
-                    "BE6BE96955254B48"
-                ]
-            ],
             "4C236D0FBDFDDA6E":[
                 [
                     "kmb",
@@ -655714,12 +655705,6 @@
                     "A3647D99DA65BA96"
                 ]
             ],
-            "BE6BE96955254B48":[
-                [
-                    "kmb",
-                    "4C1CD2009B21E9A1"
-                ]
-            ],
             "BE6EC9708F5FB613":[
                 [
                     "ctb",
@@ -698387,6 +698372,14 @@
                 "en":"On Specific Day Only",
                 "zh":"指定日期服務"
             },
+            "73S":{
+                "en":"Route Details TBD",
+                "zh":"未有路線資訊"
+            },
+            "76S":{
+                "en":"Route Details TBD",
+                "zh":"未有路線資訊"
+            },
             "848":{
                 "en":"On Specific Day Only",
                 "zh":"指定日期服務"
@@ -698526,6 +698519,10 @@
             "SP7":{
                 "en":"Service on Specific Day Only",
                 "zh":"只在指定日期提供服務"
+            },
+            "X90":{
+                "en":"Service on 13/4/2025 only",
+                "zh":"只在2025年4月13日服務"
             }
         },
         "nlb":{
