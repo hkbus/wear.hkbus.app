@@ -478,6 +478,7 @@
         "40E",
         "40M",
         "40P",
+        "40R",
         "40X",
         "41",
         "410",
@@ -773,6 +774,7 @@
         "70A",
         "70K",
         "70P",
+        "70R",
         "70S",
         "71",
         "71A",
@@ -123683,6 +123685,34 @@
                     ]
                 }
             },
+            "40R+99+Wong Chuk Hang Road+Chi Fu Fa Yuen":{
+                "bound":{
+                    "ctb":"O"
+                },
+                "co":[
+                    "ctb"
+                ],
+                "dest":{
+                    "en":"Chi Fu Fa Yuen",
+                    "zh":"置富花園"
+                },
+                "freq":null,
+                "gtfsId":null,
+                "jt":null,
+                "nlbId":null,
+                "orig":{
+                    "en":"Wong Chuk Hang Road",
+                    "zh":"黃竹坑道"
+                },
+                "route":"40R",
+                "serviceType":"99",
+                "stops":{
+                    "ctb":[
+                        "999998",
+                        "999999"
+                    ]
+                }
+            },
             "40X+1+KWAI CHUNG ESTATE+WU KAI SHA STATION":{
                 "bound":{
                     "kmb":"I"
@@ -151200,7 +151230,7 @@
                         "20003083",
                         "20003475",
                         "20000289",
-                        "20021350",
+                        "20021451",
                         "20003508",
                         "20002799",
                         "20003509",
@@ -151490,7 +151520,7 @@
                         "20003083",
                         "20003475",
                         "20000289",
-                        "20021350",
+                        "20021451",
                         "20003508",
                         "20002799",
                         "20003509",
@@ -151537,7 +151567,7 @@
                         "20003083",
                         "20003475",
                         "20000289",
-                        "20021350",
+                        "20021451",
                         "20003508",
                         "20002799",
                         "20003509",
@@ -152325,6 +152355,7 @@
                         "20003518",
                         "20003090",
                         "20000294",
+                        "20003514",
                         "20003083",
                         "20003519",
                         "20000297",
@@ -199277,6 +199308,34 @@
                         "002421",
                         "001033",
                         "001032"
+                    ]
+                }
+            },
+            "70R+99+Wong Chuk Hang Road+Shek Pai Wan":{
+                "bound":{
+                    "ctb":"O"
+                },
+                "co":[
+                    "ctb"
+                ],
+                "dest":{
+                    "en":"Shek Pai Wan",
+                    "zh":"石排灣"
+                },
+                "freq":null,
+                "gtfsId":null,
+                "jt":null,
+                "nlbId":null,
+                "orig":{
+                    "en":"Wong Chuk Hang Road",
+                    "zh":"黃竹坑道"
+                },
+                "route":"70R",
+                "serviceType":"99",
+                "stops":{
+                    "ctb":[
+                        "999998",
+                        "999999"
                     ]
                 }
             },
@@ -279520,6 +279579,75 @@
                     ]
                 }
             },
+            "A12+1+Siu Sai Wan (Island Resort)+Airport (via HZMB Hong Kong Port)":{
+                "bound":{
+                    "ctb":"O"
+                },
+                "co":[
+                    "ctb"
+                ],
+                "dest":{
+                    "en":"Airport (via HZMB Hong Kong Port)",
+                    "zh":"機場 (經港珠澳大橋香港口岸)"
+                },
+                "freq":{
+                    "287":{
+                        "0650":[
+                            "0730",
+                            "1200"
+                        ]
+                    }
+                },
+                "gtfsId":"1806",
+                "jt":"113",
+                "nlbId":null,
+                "orig":{
+                    "en":"Siu Sai Wan (Island Resort)",
+                    "zh":"小西灣 (藍灣半島)"
+                },
+                "route":"A12",
+                "serviceType":1,
+                "stops":{
+                    "ctb":[
+                        "001382",
+                        "001311",
+                        "001386",
+                        "001226",
+                        "001227",
+                        "001228",
+                        "001339",
+                        "001340",
+                        "001341",
+                        "001387",
+                        "001230",
+                        "001231",
+                        "001232",
+                        "001233",
+                        "001300",
+                        "001301",
+                        "001302",
+                        "001303",
+                        "001304",
+                        "001288",
+                        "001271",
+                        "001272",
+                        "001273",
+                        "001274",
+                        "001275",
+                        "001276",
+                        "001277",
+                        "001279",
+                        "001192",
+                        "001190",
+                        "001628",
+                        "001853",
+                        "001844",
+                        "002714",
+                        "003588",
+                        "003550"
+                    ]
+                }
+            },
             "A12+2+Airport (Ground Transportation Centre)+Siu Sai Wan (Island Resort)":{
                 "bound":{
                     "ctb":"I"
@@ -279581,75 +279709,6 @@
                         "001369",
                         "001370",
                         "001382"
-                    ]
-                }
-            },
-            "A12+2+Siu Sai Wan (Island Resort)+HZMB Passenger Clearance Building":{
-                "bound":{
-                    "ctb":"O"
-                },
-                "co":[
-                    "ctb"
-                ],
-                "dest":{
-                    "en":"HZMB Passenger Clearance Building",
-                    "zh":"港珠澳大橋旅檢大樓"
-                },
-                "freq":{
-                    "287":{
-                        "0650":[
-                            "0730",
-                            "1200"
-                        ]
-                    }
-                },
-                "gtfsId":"1806",
-                "jt":"113",
-                "nlbId":null,
-                "orig":{
-                    "en":"Siu Sai Wan (Island Resort)",
-                    "zh":"小西灣 (藍灣半島)"
-                },
-                "route":"A12",
-                "serviceType":"2",
-                "stops":{
-                    "ctb":[
-                        "001382",
-                        "001311",
-                        "001386",
-                        "001226",
-                        "001227",
-                        "001228",
-                        "001339",
-                        "001340",
-                        "001341",
-                        "001387",
-                        "001230",
-                        "001231",
-                        "001232",
-                        "001233",
-                        "001300",
-                        "001301",
-                        "001302",
-                        "001303",
-                        "001304",
-                        "001288",
-                        "001271",
-                        "001272",
-                        "001273",
-                        "001274",
-                        "001275",
-                        "001276",
-                        "001277",
-                        "001279",
-                        "001192",
-                        "001190",
-                        "001628",
-                        "001853",
-                        "001844",
-                        "002714",
-                        "003588",
-                        "003550"
                     ]
                 }
             },
@@ -356188,16 +356247,6 @@
                     "zh":"上碧瑤灣, 域多利道"
                 }
             },
-            "002319":{
-                "location":{
-                    "lat":22.26322,
-                    "lng":114.23456
-                },
-                "name":{
-                    "en":"Hing Wah (i) Estate Car Park, Wan Tsui Road",
-                    "zh":"興華(一)邨停車場, 環翠道"
-                }
-            },
             "002320":{
                 "location":{
                     "lat":22.25502,
@@ -364404,8 +364453,8 @@
             },
             "003299":{
                 "location":{
-                    "lat":22.30248,
-                    "lng":114.15988
+                    "lat":22.30234,
+                    "lng":114.16056
                 },
                 "name":{
                     "en":"Austin Road West",
@@ -364424,8 +364473,8 @@
             },
             "003301":{
                 "location":{
-                    "lat":22.29628,
-                    "lng":114.177
+                    "lat":22.29654,
+                    "lng":114.17726
                 },
                 "name":{
                     "en":"Avenue of Stars, Salisbury Road",
@@ -368404,8 +368453,8 @@
             },
             "003762":{
                 "location":{
-                    "lat":22.30178,
-                    "lng":114.15858
+                    "lat":22.30194,
+                    "lng":114.15889
                 },
                 "name":{
                     "en":"M+, Museum Drive",
@@ -369901,8 +369950,8 @@
                     "lng":114.17177
                 },
                 "name":{
-                    "en":"Mei Chi House",
-                    "zh":"美致樓"
+                    "en":"Mei Chi House Mei Tin Estate",
+                    "zh":"美田邨美致樓"
                 }
             },
             "02E2C6CDE2A867C1":{
@@ -375998,8 +376047,8 @@
                     "lng":114.21381
                 },
                 "name":{
-                    "en":"Banyan House",
-                    "zh":"廣榕樓"
+                    "en":"Banyan House, Kwong Yuen Estate",
+                    "zh":"廣源邨廣榕樓"
                 }
             },
             "16F1654702825C04":{
@@ -377983,8 +378032,8 @@
                     "lng":114.17391
                 },
                 "name":{
-                    "en":"Hin Hing House",
-                    "zh":"顯慶樓"
+                    "en":"Hin Hing House Hin Keng Estate",
+                    "zh":"顯徑邨顯慶樓"
                 }
             },
             "1D1571E9D1588FBE":{
@@ -425540,16 +425589,6 @@
                     "zh":"永順街海濱廣場外"
                 }
             },
-            "20021350":{
-                "location":{
-                    "lat":22.28233,
-                    "lng":114.12702
-                },
-                "name":{
-                    "en":"No.142 Belcher's Street",
-                    "zh":"卑路乍街142號"
-                }
-            },
             "20021382":{
                 "location":{
                     "lat":22.34079,
@@ -428123,8 +428162,8 @@
                     "lng":114.19848
                 },
                 "name":{
-                    "en":"Yan Chuen House",
-                    "zh":"欣泉樓"
+                    "en":"Yan Chuen House Shui Chuen O Estate",
+                    "zh":"水泉澳邨欣泉樓"
                 }
             },
             "25B94D808EC232D8":{
@@ -428263,8 +428302,8 @@
                     "lng":114.21452
                 },
                 "name":{
-                    "en":"Kwong Yuen Estate",
-                    "zh":"廣源邨"
+                    "en":"Cypress House Kwong Yuen Estate",
+                    "zh":"廣源邨廣柏樓"
                 }
             },
             "261":{
@@ -429549,8 +429588,8 @@
                     "lng":114.1876
                 },
                 "name":{
-                    "en":"Foo Wai House",
-                    "zh":"富圍樓"
+                    "en":"Foo Wai House Sun Tin Wai Estate",
+                    "zh":"新田圍邨富圍樓"
                 }
             },
             "29A5797CA506CDEE":{
@@ -434054,8 +434093,8 @@
                     "lng":114.19674
                 },
                 "name":{
-                    "en":"Yuet Chuen House",
-                    "zh":"月泉樓"
+                    "en":"Yuet Chuen House Shui Chuen O Estate",
+                    "zh":"水泉澳邨月泉樓"
                 }
             },
             "38CFFC43FD4E0126":{
@@ -441146,8 +441185,8 @@
                     "lng":114.21436
                 },
                 "name":{
-                    "en":"Kwong Yuen Estate",
-                    "zh":"廣源邨"
+                    "en":"Cypress House, Kwong Yuen Estate",
+                    "zh":"廣源邨廣柏樓"
                 }
             },
             "51BA040BCD88D8B7":{
@@ -441287,8 +441326,8 @@
                     "lng":114.19858
                 },
                 "name":{
-                    "en":"Ling Chuen House",
-                    "zh":"嶺泉樓"
+                    "en":"Ling Chuen House Shui Chuen O Estate",
+                    "zh":"水泉澳邨嶺泉樓"
                 }
             },
             "52241C2AEB38627B":{
@@ -448118,8 +448157,8 @@
                     "lng":114.19616
                 },
                 "name":{
-                    "en":"Pok Tai House",
-                    "zh":"博泰樓"
+                    "en":"Pok Tai House Pok Hong Estate",
+                    "zh":"博康邨博泰樓"
                 }
             },
             "6AEFD1C261E8E4D8":{
@@ -448790,8 +448829,8 @@
                     "lng":114.17255
                 },
                 "name":{
-                    "en":"Mei Chuen House",
-                    "zh":"美全樓"
+                    "en":"Mei Chuen House Mei Tin Estate",
+                    "zh":"美田邨美全樓"
                 }
             },
             "6DE63371E5E799BA":{
@@ -449784,8 +449823,8 @@
                     "lng":114.17369
                 },
                 "name":{
-                    "en":"Hin Hing House",
-                    "zh":"顯慶樓"
+                    "en":"Hin Hing House Hin Keng Estate",
+                    "zh":"顯徑邨顯慶樓"
                 }
             },
             "716A72D0EAAC8738":{
@@ -451978,8 +452017,8 @@
                     "lng":114.16293
                 },
                 "name":{
-                    "en":"Tai Wo Estate",
-                    "zh":"太和邨"
+                    "en":"Heng Wo House, Tai Wo Estate",
+                    "zh":"太和邨亨和樓"
                 }
             },
             "7A501670303C90F8":{
@@ -452784,8 +452823,8 @@
                     "lng":114.21443
                 },
                 "name":{
-                    "en":"Kwong Yuen Estate",
-                    "zh":"廣源邨"
+                    "en":"Cypress House Kwong Yuen Estate",
+                    "zh":"廣源邨廣柏樓"
                 }
             },
             "7E4358262A4F586A":{
@@ -454279,8 +454318,8 @@
                     "lng":114.19305
                 },
                 "name":{
-                    "en":"Fung Shun Street",
-                    "zh":"豐順街"
+                    "en":"Fung Wo House Wo Che Estate",
+                    "zh":"禾輋邨豐禾樓"
                 }
             },
             "839276ED5C3F4F4C":{
@@ -455629,8 +455668,8 @@
                     "lng":114.18754
                 },
                 "name":{
-                    "en":"Foo Wai House",
-                    "zh":"富圍樓"
+                    "en":"Foo Wai House Sun Tin Wai Estate",
+                    "zh":"新田圍邨富圍樓"
                 }
             },
             "88B010581BF4B96C":{
@@ -456934,8 +456973,8 @@
                     "lng":114.19669
                 },
                 "name":{
-                    "en":"Shing Chuen House",
-                    "zh":"城泉樓"
+                    "en":"Shing Chuen House Shui Chuen O Estate",
+                    "zh":"水泉澳邨城泉樓"
                 }
             },
             "8EFA13840D1272E8":{
@@ -457860,8 +457899,8 @@
                     "lng":114.17605
                 },
                 "name":{
-                    "en":"Mei Wai House",
-                    "zh":"美槐樓"
+                    "en":"Mei Wai House Mei Lam Estate",
+                    "zh":"美林邨美槐樓"
                 }
             },
             "924FE4A6F2501116":{
@@ -465114,8 +465153,8 @@
                     "lng":114.17502
                 },
                 "name":{
-                    "en":"Hin Pui House",
-                    "zh":"顯沛樓"
+                    "en":"Hin Pui House Hin Keng Estate",
+                    "zh":"顯徑邨顯沛樓"
                 }
             },
             "AC30AF0DFC95D507":{
@@ -465832,8 +465871,8 @@
                     "lng":114.17846
                 },
                 "name":{
-                    "en":"Mei Tao House",
-                    "zh":"美桃樓"
+                    "en":"Mei Tao House Mei Lam Estate",
+                    "zh":"美林邨美桃樓"
                 }
             },
             "AF639F3CE03AAC5C":{
@@ -468366,8 +468405,8 @@
                     "lng":114.19674
                 },
                 "name":{
-                    "en":"Yuet Chuen House",
-                    "zh":"月泉樓"
+                    "en":"Yuet Chuen House, Shui Chuen O Estate",
+                    "zh":"水泉澳邨月泉樓"
                 }
             },
             "B93E7E45080413AC":{
@@ -469302,8 +469341,8 @@
                     "lng":114.21381
                 },
                 "name":{
-                    "en":"Banyan House",
-                    "zh":"廣榕樓"
+                    "en":"Banyan House Kwong Yuen Estate",
+                    "zh":"廣源邨廣榕樓"
                 }
             },
             "BCF85CB997B0F72F":{
@@ -475585,8 +475624,8 @@
                     "lng":114.2138
                 },
                 "name":{
-                    "en":"Banyan House",
-                    "zh":"廣榕樓"
+                    "en":"Banyan House Kwong Yuen Estate",
+                    "zh":"廣源邨廣榕樓"
                 }
             },
             "D54B0CA58FE5559D":{
@@ -476509,8 +476548,8 @@
                     "lng":114.17854
                 },
                 "name":{
-                    "en":"Mei Tao House",
-                    "zh":"美桃樓"
+                    "en":"Mei Tao House Mei Lam Estate",
+                    "zh":"美林邨美桃樓"
                 }
             },
             "D8DBA3F5A1146887":{
@@ -477586,8 +477625,8 @@
                     "lng":114.17397
                 },
                 "name":{
-                    "en":"Hin Hing House",
-                    "zh":"顯慶樓"
+                    "en":"Hin Hing House Hin Keng Estate",
+                    "zh":"顯徑邨顯慶樓"
                 }
             },
             "DCC8F8655EB76754":{
@@ -478849,8 +478888,8 @@
                     "lng":114.17839
                 },
                 "name":{
-                    "en":"Mei Tao House",
-                    "zh":"美桃樓"
+                    "en":"Mei Tao House Mei Lam Estate",
+                    "zh":"美林邨美桃樓"
                 }
             },
             "E275C17540BCEF37":{
@@ -485337,8 +485376,8 @@
                     "lng":114.19856
                 },
                 "name":{
-                    "en":"Long Chuen House",
-                    "zh":"朗泉樓"
+                    "en":"Long Chuen House Shui Chuen O Estate",
+                    "zh":"水泉澳邨朗泉樓"
                 }
             },
             "F99C144D9B091AE4":{
@@ -486868,8 +486907,8 @@
                     "lng":114.17507
                 },
                 "name":{
-                    "en":"Hin Pui House",
-                    "zh":"顯沛樓"
+                    "en":"Hin Pui House Hin Keng Estate",
+                    "zh":"顯徑邨顯沛樓"
                 }
             },
             "FFB21D12A61560FE":{
@@ -494984,10 +495023,6 @@
                 [
                     "kmb",
                     "96223D2AFB9BDA16"
-                ],
-                [
-                    "gmb",
-                    "20021350"
                 ],
                 [
                     "gmb",
@@ -511692,36 +511727,6 @@
                     "20000338"
                 ]
             ],
-            "002319":[
-                [
-                    "ctb",
-                    "001336"
-                ],
-                [
-                    "ctb",
-                    "001341"
-                ],
-                [
-                    "kmb",
-                    "2F08C0AD27647997"
-                ],
-                [
-                    "kmb",
-                    "4BD11538EEA40F55"
-                ],
-                [
-                    "kmb",
-                    "9DDDCABF063188C7"
-                ],
-                [
-                    "kmb",
-                    "B4CF77BA0F9D34B8"
-                ],
-                [
-                    "gmb",
-                    "20012980"
-                ]
-            ],
             "002322":[
                 [
                     "gmb",
@@ -520506,16 +520511,6 @@
                     "30ABA5259B66B883"
                 ]
             ],
-            "003299":[
-                [
-                    "kmb",
-                    "0524415976F284A4"
-                ],
-                [
-                    "kmb",
-                    "0CC0B21EFF42EE19"
-                ]
-            ],
             "003300":[
                 [
                     "kmb",
@@ -525542,24 +525537,6 @@
                     "C1A67D37CF256C9E"
                 ]
             ],
-            "003762":[
-                [
-                    "gmb",
-                    "20018841"
-                ],
-                [
-                    "kmb",
-                    "2EC5A7EB9CA821D9"
-                ],
-                [
-                    "kmb",
-                    "B3E70C6DEFD93416"
-                ],
-                [
-                    "kmb",
-                    "F843A0E566CF4147"
-                ]
-            ],
             "003763":[
                 [
                     "kmb",
@@ -528434,16 +528411,6 @@
                 [
                     "kmb",
                     "F2EDDDB17B1EA974"
-                ]
-            ],
-            "0524415976F284A4":[
-                [
-                    "ctb",
-                    "003299"
-                ],
-                [
-                    "kmb",
-                    "0CC0B21EFF42EE19"
                 ]
             ],
             "052D737A85CAFFB4":[
@@ -531346,16 +531313,6 @@
                 [
                     "gmb",
                     "20008085"
-                ]
-            ],
-            "0CC0B21EFF42EE19":[
-                [
-                    "ctb",
-                    "003299"
-                ],
-                [
-                    "kmb",
-                    "0524415976F284A4"
                 ]
             ],
             "0CC3913BEF225E76":[
@@ -580612,12 +580569,6 @@
                     "97CE87CF035B0E10"
                 ]
             ],
-            "20016927":[
-                [
-                    "gmb",
-                    "20021451"
-                ]
-            ],
             "20016928":[
                 [
                     "gmb",
@@ -583832,10 +583783,6 @@
             ],
             "20018841":[
                 [
-                    "ctb",
-                    "003762"
-                ],
-                [
                     "kmb",
                     "2EC5A7EB9CA821D9"
                 ],
@@ -586730,20 +586677,6 @@
                     "9CFF3C233ADB8D19"
                 ]
             ],
-            "20021350":[
-                [
-                    "gmb",
-                    "20021451"
-                ],
-                [
-                    "kmb",
-                    "5CE3ECA0F9501DAB"
-                ],
-                [
-                    "ctb",
-                    "001005"
-                ]
-            ],
             "20021382":[
                 [
                     "kmb",
@@ -586989,14 +586922,6 @@
                 ]
             ],
             "20021451":[
-                [
-                    "gmb",
-                    "20016927"
-                ],
-                [
-                    "gmb",
-                    "20021350"
-                ],
                 [
                     "kmb",
                     "5CE3ECA0F9501DAB"
@@ -593570,10 +593495,6 @@
                 [
                     "kmb",
                     "F843A0E566CF4147"
-                ],
-                [
-                    "ctb",
-                    "003762"
                 ]
             ],
             "2ECC1DBA0C28E93C":[
@@ -615068,10 +614989,6 @@
                 [
                     "ctb",
                     "001005"
-                ],
-                [
-                    "gmb",
-                    "20021350"
                 ],
                 [
                     "gmb",
@@ -651098,10 +651015,6 @@
                 [
                     "kmb",
                     "F843A0E566CF4147"
-                ],
-                [
-                    "ctb",
-                    "003762"
                 ]
             ],
             "B3E9198D7E377749":[
@@ -679076,10 +678989,6 @@
                 [
                     "kmb",
                     "B3E70C6DEFD93416"
-                ],
-                [
-                    "ctb",
-                    "003762"
                 ]
             ],
             "F851B0B122F38CCC":[
@@ -697811,6 +697720,10 @@
                 "en":"Circular, Service on specified day",
                 "zh":"循環線 特定日子服務"
             },
+            "40R":{
+                "en":"Route Details TBD",
+                "zh":"未有路線資訊"
+            },
             "43R":{
                 "en":"Route Details TBD",
                 "zh":"未有路線資訊"
@@ -697826,6 +697739,10 @@
             "629M":{
                 "en":"Service on specified day",
                 "zh":"特定日子服務"
+            },
+            "70R":{
+                "en":"Route Details TBD",
+                "zh":"未有路線資訊"
             },
             "796R":{
                 "en":"Service on specified day",
