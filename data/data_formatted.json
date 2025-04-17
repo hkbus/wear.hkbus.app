@@ -123685,7 +123685,7 @@
                     ]
                 }
             },
-            "40R+99+Wong Chuk Hang Road+Chi Fu Fa Yuen":{
+            "40R+1+Wong Chuk Hang Road+Chi Fu Fa Yuen":{
                 "bound":{
                     "ctb":"O"
                 },
@@ -123698,18 +123698,26 @@
                 },
                 "freq":null,
                 "gtfsId":null,
-                "jt":null,
                 "nlbId":null,
                 "orig":{
                     "en":"Wong Chuk Hang Road",
                     "zh":"黃竹坑道"
                 },
                 "route":"40R",
-                "serviceType":"99",
+                "serviceType":1,
                 "stops":{
                     "ctb":[
-                        "999998",
-                        "999999"
+                        "002372",
+                        "002333",
+                        "002334",
+                        "002335",
+                        "002336",
+                        "002338",
+                        "002226",
+                        "002183",
+                        "002184",
+                        "002185",
+                        "002187"
                     ]
                 }
             },
@@ -199311,7 +199319,7 @@
                     ]
                 }
             },
-            "70R+99+Wong Chuk Hang Road+Shek Pai Wan":{
+            "70R+1+Wong Chuk Hang Road+Shek Pai Wan":{
                 "bound":{
                     "ctb":"O"
                 },
@@ -199324,18 +199332,30 @@
                 },
                 "freq":null,
                 "gtfsId":null,
-                "jt":null,
                 "nlbId":null,
                 "orig":{
                     "en":"Wong Chuk Hang Road",
                     "zh":"黃竹坑道"
                 },
                 "route":"70R",
-                "serviceType":"99",
+                "serviceType":1,
                 "stops":{
                     "ctb":[
-                        "999998",
-                        "999999"
+                        "002160",
+                        "002161",
+                        "002162",
+                        "002298",
+                        "002396",
+                        "002294",
+                        "002388",
+                        "002157",
+                        "002164",
+                        "002165",
+                        "002365",
+                        "002366",
+                        "002367",
+                        "002368",
+                        "002938"
                     ]
                 }
             },
@@ -444639,7 +444659,7 @@
                     "lng":114.07894
                 },
                 "name":{
-                    "en":"Ha Wan Fisherman Tsuen",
+                    "en":"Ha Wan Fisherman San Tsuen",
                     "zh":"下灣漁民新村"
                 }
             },
@@ -459998,7 +460018,7 @@
                     "lng":114.07892
                 },
                 "name":{
-                    "en":"Ha Wan Fisherman Tsuen",
+                    "en":"Ha Wan Fisherman San Tsuen",
                     "zh":"下灣漁民新村"
                 }
             },
@@ -697721,8 +697741,8 @@
                 "zh":"循環線 特定日子服務"
             },
             "40R":{
-                "en":"Route Details TBD",
-                "zh":"未有路線資訊"
+                "en":"Service on specified day",
+                "zh":"特定日子服務"
             },
             "43R":{
                 "en":"Route Details TBD",
@@ -697741,8 +697761,8 @@
                 "zh":"特定日子服務"
             },
             "70R":{
-                "en":"Route Details TBD",
-                "zh":"未有路線資訊"
+                "en":"Service on specified day",
+                "zh":"特定日子服務"
             },
             "796R":{
                 "en":"Service on specified day",
