@@ -39527,49 +39527,7 @@
                     ]
                 }
             },
-            "17A+1+Po Hong Road+Po Lam Station":{
-                "bound":{
-                    "gmb":"I"
-                },
-                "co":[
-                    "gmb"
-                ],
-                "dest":{
-                    "en":"Po Lam Station",
-                    "zh":"寶琳站"
-                },
-                "freq":{
-                    "31":{
-                        "0700":[
-                            "0900",
-                            "600"
-                        ]
-                    },
-                    "32":{
-                        "0800":[
-                            "0900",
-                            "1200"
-                        ]
-                    }
-                },
-                "gmbRegion":"NT",
-                "gtfsId":"2006674",
-                "nlbId":null,
-                "orig":{
-                    "en":"Po Hong Road",
-                    "zh":"寶康路"
-                },
-                "route":"17A",
-                "serviceType":1,
-                "stops":{
-                    "gmb":[
-                        "20014773",
-                        "20001169",
-                        "20001174"
-                    ]
-                }
-            },
-            "17A+1+Po Lam Station+Po Hong Road":{
+            "17A+1+Po Lam Station+Tseung Kwan O Village":{
                 "bound":{
                     "gmb":"O"
                 },
@@ -39577,14 +39535,14 @@
                     "gmb"
                 ],
                 "dest":{
-                    "en":"Po Hong Road",
-                    "zh":"寶康路"
+                    "en":"Tseung Kwan O Village",
+                    "zh":"將軍澳村"
                 },
                 "freq":{
                     "31":{
-                        "0715":[
-                            "0855",
-                            "600"
+                        "0708":[
+                            "0808",
+                            "900"
                         ]
                     },
                     "32":{
@@ -39610,6 +39568,48 @@
                         "20014671",
                         "20001151",
                         "20014773"
+                    ]
+                }
+            },
+            "17A+1+Tseung Kwan O Village+Po Lam Station":{
+                "bound":{
+                    "gmb":"I"
+                },
+                "co":[
+                    "gmb"
+                ],
+                "dest":{
+                    "en":"Po Lam Station",
+                    "zh":"寶琳站"
+                },
+                "freq":{
+                    "31":{
+                        "0700":[
+                            "0900",
+                            "900"
+                        ]
+                    },
+                    "32":{
+                        "0800":[
+                            "0900",
+                            "1200"
+                        ]
+                    }
+                },
+                "gmbRegion":"NT",
+                "gtfsId":"2006674",
+                "nlbId":null,
+                "orig":{
+                    "en":"Tseung Kwan O Village",
+                    "zh":"將軍澳村"
+                },
+                "route":"17A",
+                "serviceType":1,
+                "stops":{
+                    "gmb":[
+                        "20014773",
+                        "20001169",
+                        "20001174"
                     ]
                 }
             },
@@ -226327,7 +226327,6 @@
                         "8EFA13840D1272E8",
                         "05EE261A65F9B7ED",
                         "F608A74B860B3C47",
-                        "92B3E07F00FBB305",
                         "9E28FDE5126284C1",
                         "1276AEF95F6564A2",
                         "9D42555312E18AE9",
@@ -233240,7 +233239,6 @@
                         "4E56DD827C1F571A",
                         "8F28FEF1946A7FE3",
                         "F608A74B860B3C47",
-                        "92B3E07F00FBB305",
                         "61CB41A4FE2AD8E5",
                         "60F6F482EFA8FE18",
                         "C6A76DB999AF1213",
@@ -239971,7 +239969,6 @@
                         "6953AEF8B3921959",
                         "EDE0D474E9C40EC2",
                         "F608A74B860B3C47",
-                        "92B3E07F00FBB305",
                         "9E28FDE5126284C1",
                         "1276AEF95F6564A2",
                         "62E74F8E7357BC2D"
@@ -241700,7 +241697,6 @@
                         "8EFA13840D1272E8",
                         "05EE261A65F9B7ED",
                         "F608A74B860B3C47",
-                        "92B3E07F00FBB305",
                         "9E28FDE5126284C1",
                         "1276AEF95F6564A2",
                         "14C3BF43DC0878D1",
@@ -410585,8 +410581,8 @@
                     "lng":114.25057
                 },
                 "name":{
-                    "en":"Po Hong Road, opposite Tseung Kwan O Village",
-                    "zh":"寶康路, 將軍澳村對面"
+                    "en":"Tseung Kwan O Village",
+                    "zh":"將軍澳村"
                 }
             },
             "20014774":{
@@ -524268,10 +524264,6 @@
                 ]
             ],
             "003640":[
-                [
-                    "kmb",
-                    "92B3E07F00FBB305"
-                ],
                 [
                     "kmb",
                     "AAFC135FEECBEFA8"
@@ -647581,10 +647573,6 @@
                 [
                     "ctb",
                     "003640"
-                ],
-                [
-                    "kmb",
-                    "92B3E07F00FBB305"
                 ]
             ],
             "AB021611E13B83E5":[
