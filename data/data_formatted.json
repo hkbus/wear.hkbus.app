@@ -557,6 +557,7 @@
         "505",
         "506",
         "507",
+        "508",
         "50A",
         "50K",
         "50M",
@@ -147343,6 +147344,78 @@
                     ]
                 }
             },
+            "508+1+Kwu Tung North Multi-Welfare Services Complex Terminus+Sheung Shui Station":{
+                "bound":{
+                    "gmb":"I"
+                },
+                "co":[
+                    "gmb"
+                ],
+                "dest":{
+                    "en":"Sheung Shui Station",
+                    "zh":"上水站"
+                },
+                "freq":{
+                    "127":{
+                        "0730":[
+                            "2200",
+                            "1800"
+                        ]
+                    }
+                },
+                "gmbRegion":"NT",
+                "gtfsId":"2010929",
+                "nlbId":null,
+                "orig":{
+                    "en":"Kwu Tung North Multi-Welfare Services Complex Terminus",
+                    "zh":"古洞北福利服務綜合大樓總站"
+                },
+                "route":"508",
+                "serviceType":1,
+                "stops":{
+                    "gmb":[
+                        "20021581",
+                        "20021582",
+                        "20021583",
+                        "20021580"
+                    ]
+                }
+            },
+            "508+1+Sheung Shui Station+Kwu Tung North Multi-Welfare Services Complex Terminus":{
+                "bound":{
+                    "gmb":"O"
+                },
+                "co":[
+                    "gmb"
+                ],
+                "dest":{
+                    "en":"Kwu Tung North Multi-Welfare Services Complex Terminus",
+                    "zh":"古洞北福利服務綜合大樓"
+                },
+                "freq":{
+                    "127":{
+                        "0700":[
+                            "2130",
+                            "1800"
+                        ]
+                    }
+                },
+                "gmbRegion":"NT",
+                "gtfsId":"2010929",
+                "nlbId":null,
+                "orig":{
+                    "en":"Sheung Shui Station",
+                    "zh":"上水站"
+                },
+                "route":"508",
+                "serviceType":1,
+                "stops":{
+                    "gmb":[
+                        "20021580",
+                        "20021581"
+                    ]
+                }
+            },
             "50A+2+Sheung Shui Station+Kwu Tung (South)":{
                 "bound":{
                     "gmb":"O"
@@ -220807,6 +220880,60 @@
                     ]
                 }
             },
+            "798P+1+Tseung Kwan O Industrial Estate+Sha Tin Central":{
+                "bound":{
+                    "ctb":"I"
+                },
+                "co":[
+                    "ctb"
+                ],
+                "dest":{
+                    "en":"Sha Tin Central",
+                    "zh":"沙田巿中心"
+                },
+                "freq":{
+                    "287":{
+                        "0815":null
+                    }
+                },
+                "gtfsId":"1000287",
+                "jt":"72",
+                "nlbId":null,
+                "orig":{
+                    "en":"Tseung Kwan O Industrial Estate",
+                    "zh":"將軍澳工業邨"
+                },
+                "route":"798P",
+                "serviceType":"1",
+                "stops":{
+                    "ctb":[
+                        "002923",
+                        "002924",
+                        "003298",
+                        "002928",
+                        "002929",
+                        "003329",
+                        "002930",
+                        "002931",
+                        "002906",
+                        "002933",
+                        "001826",
+                        "003589",
+                        "001985",
+                        "001962",
+                        "002046",
+                        "003639",
+                        "003641",
+                        "003098",
+                        "003771",
+                        "003106",
+                        "003096",
+                        "003097",
+                        "003095",
+                        "002046"
+                    ]
+                }
+            },
             "798P+1+Tseung Kwan O Industrial Estate+Tai Wai Station (via: Sha Tin)":{
                 "bound":{
                     "ctb":"O"
@@ -220818,13 +220945,8 @@
                     "en":"Tai Wai Station (via: Sha Tin)",
                     "zh":"大圍站 (經:沙田)"
                 },
-                "freq":{
-                    "287":{
-                        "0815":null
-                    }
-                },
-                "gtfsId":"1000287",
-                "jt":"72",
+                "freq":null,
+                "gtfsId":null,
                 "nlbId":null,
                 "orig":{
                     "en":"Tseung Kwan O Industrial Estate",
@@ -220850,7 +220972,6 @@
                         "001962",
                         "002046",
                         "003639",
-                        "003640",
                         "003641",
                         "003771",
                         "003106",
@@ -275789,16 +275910,8 @@
                     "en":"Sai Wan Ho",
                     "zh":"西灣河"
                 },
-                "freq":{
-                    "287":{
-                        "0705":null,
-                        "0720":null,
-                        "0740":null,
-                        "0805":null
-                    }
-                },
-                "gtfsId":"1000015",
-                "jt":"72",
+                "freq":null,
+                "gtfsId":null,
                 "nlbId":null,
                 "orig":{
                     "en":"Fo Tan (Chun Yeung Estate)",
@@ -275815,7 +275928,6 @@
                         "003563",
                         "003638",
                         "003639",
-                        "003640",
                         "003641",
                         "003771",
                         "003106",
@@ -301327,7 +301439,7 @@
                 "serviceType":"1",
                 "stops":{
                     "kmb":[
-                        "DCFF4041D0C0ACF8",
+                        "F87373F646004131",
                         "24AD31E3F8DF42AE",
                         "851291B396623C22",
                         "F843A0E566CF4147",
@@ -367285,16 +367397,6 @@
                     "zh":"帝都酒店, 白鶴汀街"
                 }
             },
-            "003640":{
-                "location":{
-                    "lat":22.37721,
-                    "lng":114.1806
-                },
-                "name":{
-                    "en":"Tung Lo Wan Village, Tai Po Road",
-                    "zh":"銅鑼灣村, 大埔公路"
-                }
-            },
             "003641":{
                 "location":{
                     "lat":22.37721,
@@ -426061,6 +426163,46 @@
                 "name":{
                     "en":"Fu Mei Street, near Wang Chiu House",
                     "zh":"富美街，近宏照樓"
+                }
+            },
+            "20021580":{
+                "location":{
+                    "lat":22.50213,
+                    "lng":114.12828
+                },
+                "name":{
+                    "en":"Sheung Shui GMB Terminus",
+                    "zh":"上水小巴總站"
+                }
+            },
+            "20021581":{
+                "location":{
+                    "lat":22.50518,
+                    "lng":114.09629
+                },
+                "name":{
+                    "en":"Kwu Tung North Multi-Welfare Services Complex Terminus",
+                    "zh":"古洞北福利服務綜合大樓總站"
+                }
+            },
+            "20021582":{
+                "location":{
+                    "lat":22.50166,
+                    "lng":114.12347
+                },
+                "name":{
+                    "en":"Bus bay on Po Shek Wu Road northbound outside Tung Hing School",
+                    "zh":"寶石湖路北行線東慶學校外巴士停車處"
+                }
+            },
+            "20021583":{
+                "location":{
+                    "lat":22.50367,
+                    "lng":114.12679
+                },
+                "name":{
+                    "en":"97-103 San Fung Avenue near Shek Wu Hui Post Office",
+                    "zh":"新豐路97-103號近石湖墟郵政局"
                 }
             },
             "201":{
@@ -484832,6 +484974,16 @@
                     "zh":"耀安邨耀謙樓"
                 }
             },
+            "F87373F646004131":{
+                "location":{
+                    "lat":22.2945,
+                    "lng":114.16935
+                },
+                "name":{
+                    "en":"Star Ferry, Harbour City",
+                    "zh":"尖沙咀碼頭 海港城"
+                }
+            },
             "F8746C57BC486530":{
                 "location":{
                     "lat":22.31838,
@@ -524091,16 +524243,18 @@
                     "F608A74B860B3C47"
                 ]
             ],
-            "003640":[
-                [
-                    "kmb",
-                    "AAFC135FEECBEFA8"
-                ]
-            ],
             "003641":[
                 [
                     "kmb",
+                    "61CB41A4FE2AD8E5"
+                ],
+                [
+                    "kmb",
                     "7748DCD4522FB72F"
+                ],
+                [
+                    "kmb",
+                    "9E28FDE5126284C1"
                 ],
                 [
                     "kmb",
@@ -557895,6 +558049,10 @@
                     "20013059"
                 ],
                 [
+                    "gmb",
+                    "20021583"
+                ],
+                [
                     "kmb",
                     "89D8AA4F45165FB6"
                 ]
@@ -563517,6 +563675,10 @@
                 [
                     "gmb",
                     "20012288"
+                ],
+                [
+                    "gmb",
+                    "20021582"
                 ]
             ],
             "20012282":[
@@ -563547,6 +563709,10 @@
                 [
                     "gmb",
                     "20012281"
+                ],
+                [
+                    "gmb",
+                    "20021582"
                 ]
             ],
             "20012309":[
@@ -566615,6 +566781,10 @@
                 [
                     "gmb",
                     "20007525"
+                ],
+                [
+                    "gmb",
+                    "20021583"
                 ],
                 [
                     "kmb",
@@ -586989,6 +587159,30 @@
                 [
                     "ctb",
                     "001468"
+                ]
+            ],
+            "20021582":[
+                [
+                    "gmb",
+                    "20012281"
+                ],
+                [
+                    "gmb",
+                    "20012288"
+                ]
+            ],
+            "20021583":[
+                [
+                    "gmb",
+                    "20007525"
+                ],
+                [
+                    "gmb",
+                    "20013059"
+                ],
+                [
+                    "kmb",
+                    "89D8AA4F45165FB6"
                 ]
             ],
             "201":[
@@ -616863,6 +617057,10 @@
             ],
             "61CB41A4FE2AD8E5":[
                 [
+                    "ctb",
+                    "003641"
+                ],
+                [
                     "kmb",
                     "7748DCD4522FB72F"
                 ],
@@ -633577,6 +633775,10 @@
                 [
                     "gmb",
                     "20013059"
+                ],
+                [
+                    "gmb",
+                    "20021583"
                 ]
             ],
             "89E740AB604B8270":[
@@ -641619,6 +641821,10 @@
             ],
             "9E28FDE5126284C1":[
                 [
+                    "ctb",
+                    "003641"
+                ],
+                [
                     "kmb",
                     "61CB41A4FE2AD8E5"
                 ],
@@ -647325,12 +647531,6 @@
                 [
                     "kmb",
                     "41C32F27390D0EF4"
-                ]
-            ],
-            "AAFC135FEECBEFA8":[
-                [
-                    "ctb",
-                    "003640"
                 ]
             ],
             "AB021611E13B83E5":[
@@ -658697,6 +658897,10 @@
                     "20014293"
                 ],
                 [
+                    "gmb",
+                    "20021580"
+                ],
+                [
                     "ctb",
                     "003849"
                 ],
@@ -658711,6 +658915,10 @@
                 [
                     "kmb",
                     "9CA76C3AEAB52DC2"
+                ],
+                [
+                    "gmb",
+                    "20020821"
                 ],
                 [
                     "mtr",
@@ -667589,6 +667797,20 @@
                 [
                     "kmb",
                     "C8DFFC6DB50F5F86"
+                ]
+            ],
+            "DCFF4041D0C0ACF8":[
+                [
+                    "kmb",
+                    "7209CEE65796F4DD"
+                ],
+                [
+                    "kmb",
+                    "CB2BC86A32D7C830"
+                ],
+                [
+                    "kmb",
+                    "D7E4D53EF0B874EB"
                 ]
             ],
             "DD161A7AB0D39192":[
@@ -677997,6 +678219,10 @@
                     "20014293"
                 ],
                 [
+                    "gmb",
+                    "20021580"
+                ],
+                [
                     "ctb",
                     "003849"
                 ],
@@ -678011,6 +678237,10 @@
                 [
                     "kmb",
                     "9CA76C3AEAB52DC2"
+                ],
+                [
+                    "gmb",
+                    "20020821"
                 ],
                 [
                     "mtr",
@@ -694763,8 +694993,16 @@
                     "F6C4CEFB8C5DB31F"
                 ],
                 [
+                    "gmb",
+                    "20021580"
+                ],
+                [
                     "kmb",
                     "C4DBA77DDE73976A"
+                ],
+                [
+                    "gmb",
+                    "20020821"
                 ]
             ],
             "SHW":[
@@ -697515,6 +697753,10 @@
             "971R":{
                 "en":"Route Details TBD",
                 "zh":"未有路線資訊"
+            },
+            "989":{
+                "en":"Morning Peak only, Monday to Friday only, Cross Harbour (WHC)",
+                "zh":"上午繁忙時間 星期一至五 過海線(西隧)"
             },
             "9C":{
                 "en":"Route Details TBD",
