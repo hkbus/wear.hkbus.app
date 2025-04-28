@@ -106353,6 +106353,7 @@
                     "gmb":[
                         "20013699",
                         "20014419",
+                        "20021613",
                         "20013699"
                     ]
                 }
@@ -385565,8 +385566,8 @@
                     "lng":114.00591
                 },
                 "name":{
-                    "en":"Tin Yiu Estate (Tin Fuk Road outside Yiu Hing House",
-                    "zh":"天福路, 天耀邨耀興樓外"
+                    "en":"Tin Yiu Estate (Tin Fuk Road outside Yiu Yat House)",
+                    "zh":"天福路, 天耀邨耀逸樓外"
                 }
             },
             "20001606":{
@@ -426205,6 +426206,16 @@
                     "zh":"新豐路97-103號近石湖墟郵政局"
                 }
             },
+            "20021613":{
+                "location":{
+                    "lat":22.28421,
+                    "lng":114.21707
+                },
+                "name":{
+                    "en":"Tai Koo Station",
+                    "zh":"太古站"
+                }
+            },
             "201":{
                 "location":{
                     "lat":22.42959,
@@ -434350,8 +434361,8 @@
                     "lng":114.1478
                 },
                 "name":{
-                    "en":"Wo Hing Road Fanling",
-                    "zh":"粉嶺和興路"
+                    "en":"Wo Hing Road Fanling, Wo Hop Shek Village",
+                    "zh":"粉嶺和興路-和合石村"
                 }
             },
             "39B46EEDBF9E5988":{
@@ -434883,8 +434894,8 @@
                     "lng":114.12522
                 },
                 "name":{
-                    "en":"Tai Ping Bus Terminus",
-                    "zh":"太平總站"
+                    "en":"Tai Ping Bus Terminus, North District Hospital",
+                    "zh":"太平總站-北區醫院"
                 }
             },
             "3C50188583DABFC8":{
@@ -435005,8 +435016,8 @@
                     "lng":114.14096
                 },
                 "name":{
-                    "en":"Wah Ming BBI(A1)",
-                    "zh":"華明轉車站(A1)"
+                    "en":"Wah Ming BBI-Wah Ming Estate Bus Terminus(A1)",
+                    "zh":"華明轉車站-華明邨總站(A1)"
                 }
             },
             "3CB360C4C4AA1098":{
@@ -437725,8 +437736,8 @@
                     "lng":114.12604
                 },
                 "name":{
-                    "en":"Po Shek Wu Road Sheung Shui",
-                    "zh":"上水寶石湖路"
+                    "en":"Po Shek Wu Road Sheung Shui, Sheung Shui Wai",
+                    "zh":"上水寶石湖路-上水圍"
                 }
             },
             "4592EF85D20AB0E0":{
@@ -442126,8 +442137,8 @@
                     "lng":114.12529
                 },
                 "name":{
-                    "en":"Tai Ping Bus Terminus",
-                    "zh":"太平總站"
+                    "en":"Tai Ping Bus Terminus, North District Hospital",
+                    "zh":"太平總站-北區醫院"
                 }
             },
             "550A2C52049679A0":{
@@ -444162,8 +444173,8 @@
                     "lng":114.14102
                 },
                 "name":{
-                    "en":"Wah Ming BBI(B1)",
-                    "zh":"華明轉車站(B1)"
+                    "en":"Wah Ming BBI-Wah Ming Estate Bus Terminus(B1)",
+                    "zh":"華明轉車站-華明邨總站(B1)"
                 }
             },
             "5CB3827F92F37568":{
@@ -448324,8 +448335,8 @@
                     "lng":114.14007
                 },
                 "name":{
-                    "en":"Pik Fung Road",
-                    "zh":"璧峰路"
+                    "en":"Pik Fung Road-Fanling, Law Courts Building",
+                    "zh":"璧峰路-粉嶺法院大樓"
                 }
             },
             "6B8C8DB5F899C252":{
@@ -453983,8 +453994,8 @@
                     "lng":114.14132
                 },
                 "name":{
-                    "en":"Wah Ming BBI(C3)",
-                    "zh":"華明轉車站(C3)"
+                    "en":"Wah Ming BBI-Wah Ming Estate(C3)",
+                    "zh":"華明轉車站-華明邨(C3)"
                 }
             },
             "823E3EE2413E40E2":{
@@ -458571,8 +458582,8 @@
                     "lng":114.09526
                 },
                 "name":{
-                    "en":"Pak Shek Au",
-                    "zh":"白石凹"
+                    "en":"Pak Shek Au, Europa Garden",
+                    "zh":"白石凹-歐意花園"
                 }
             },
             "949505115FA1B204":{
@@ -460084,8 +460095,8 @@
                     "lng":114.09568
                 },
                 "name":{
-                    "en":"Pak Shek Au",
-                    "zh":"白石凹"
+                    "en":"Pak Shek Au, Kwu Tung North Complex",
+                    "zh":"白石凹-古洞北綜合大樓"
                 }
             },
             "99FB764916B4BA81":{
@@ -460258,8 +460269,8 @@
                     "lng":114.14164
                 },
                 "name":{
-                    "en":"Wah Ming BBI(C6)",
-                    "zh":"華明轉車站(C6)"
+                    "en":"Wah Ming BBI-Wah Ming Estate(C6)",
+                    "zh":"華明轉車站-華明邨(C6)"
                 }
             },
             "9ADE07CC443E4ACE":{
@@ -472756,8 +472767,8 @@
                     "lng":114.14119
                 },
                 "name":{
-                    "en":"Wah Ming BBI(C2)",
-                    "zh":"華明轉車站(C2)"
+                    "en":"Wah Ming BBI-Wah Ming Estate(C2)",
+                    "zh":"華明轉車站-華明邨(C2)"
                 }
             },
             "CAB":{
@@ -475500,8 +475511,8 @@
                     "lng":114.1415
                 },
                 "name":{
-                    "en":"Wah Ming BBI(C5)",
-                    "zh":"華明轉車站(C5)"
+                    "en":"Wah Ming BBI-Wah Ming Estate(C5)",
+                    "zh":"華明轉車站-華明邨(C5)"
                 }
             },
             "D4C5C8BD5FC05C2E":{
@@ -476754,8 +476765,8 @@
                     "lng":114.12522
                 },
                 "name":{
-                    "en":"Tai Ping Bus Terminus",
-                    "zh":"太平總站"
+                    "en":"Tai Ping Bus Terminus, North District Hospital",
+                    "zh":"太平總站-北區醫院"
                 }
             },
             "D9803113E5547E6A":{
@@ -478113,8 +478124,8 @@
                     "lng":114.14129
                 },
                 "name":{
-                    "en":"Wah Ming BBI(B2)",
-                    "zh":"華明轉車站(B2)"
+                    "en":"Wah Ming BBI-Wah Ming Estate Bus Terminus(B2)",
+                    "zh":"華明轉車站-華明邨總站(B2)"
                 }
             },
             "DF3F6652DC307265":{
@@ -479658,8 +479669,8 @@
                     "lng":114.14146
                 },
                 "name":{
-                    "en":"Wah Ming BBI(B3)",
-                    "zh":"華明轉車站(B3)"
+                    "en":"Wah Ming BBI-Wah Ming Estate Bus Terminus(B3)",
+                    "zh":"華明轉車站-華明邨總站(B3)"
                 }
             },
             "E5421509D8FC00AF":{
@@ -480443,8 +480454,8 @@
                     "lng":114.12522
                 },
                 "name":{
-                    "en":"Tai Ping Bus Terminus",
-                    "zh":"太平總站"
+                    "en":"Tai Ping Bus Terminus, North District Hospital",
+                    "zh":"太平總站-北區醫院"
                 }
             },
             "E86C2ACAFC72D243":{
@@ -482719,8 +482730,8 @@
                     "lng":114.14141
                 },
                 "name":{
-                    "en":"Wah Ming BBI(C4)",
-                    "zh":"華明轉車站(C4)"
+                    "en":"Wah Ming BBI-Wah Ming Estate(C4)",
+                    "zh":"華明轉車站-華明邨(C4)"
                 }
             },
             "F139E189918C1F86":{
@@ -483552,8 +483563,8 @@
                     "lng":114.14636
                 },
                 "name":{
-                    "en":"Wo Hing Tsuen",
-                    "zh":"和興村"
+                    "en":"Wo Hop Shek Wo Hing Tsuen",
+                    "zh":"和合石和興村"
                 }
             },
             "F43157F1307FC4A0":{
@@ -484767,8 +484778,8 @@
                     "lng":114.14164
                 },
                 "name":{
-                    "en":"Wah Ming BBI(C7)",
-                    "zh":"華明轉車站(C7)"
+                    "en":"Wah Ming BBI-Wah Ming Estate(C7)",
+                    "zh":"華明轉車站-華明邨(C7)"
                 }
             },
             "F7DD5A5E7E4D41C9":{
