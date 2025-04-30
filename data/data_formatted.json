@@ -14,6 +14,7 @@
         "103",
         "103M",
         "104",
+        "104R",
         "105",
         "106",
         "106A",
@@ -9887,6 +9888,38 @@
                         "B1DE024B06DE2EC7",
                         "3B487B85E3F07416",
                         "D6D316FEAEC6793A"
+                    ]
+                }
+            },
+            "104R+1+Central (Ferry Piers)+Mong Kok":{
+                "bound":{
+                    "ctb":"O"
+                },
+                "co":[
+                    "ctb"
+                ],
+                "dest":{
+                    "en":"Mong Kok",
+                    "zh":"旺角"
+                },
+                "freq":null,
+                "gtfsId":null,
+                "nlbId":null,
+                "orig":{
+                    "en":"Central (Ferry Piers)",
+                    "zh":"中環碼頭"
+                },
+                "route":"104R",
+                "serviceType":1,
+                "stops":{
+                    "ctb":[
+                        "001195",
+                        "001475",
+                        "001769",
+                        "001547",
+                        "001548",
+                        "001552",
+                        "001554"
                     ]
                 }
             },
@@ -132617,6 +132650,7 @@
                         "20019864",
                         "20019865",
                         "20019866",
+                        "20021647",
                         "20012318",
                         "20012316",
                         "20019873",
@@ -132725,6 +132759,7 @@
                         "20019864",
                         "20019865",
                         "20019866",
+                        "20021647",
                         "20012318",
                         "20012316",
                         "20019867",
@@ -132959,8 +132994,13 @@
                 "stops":{
                     "gmb":[
                         "20012340",
+                        "20012318",
+                        "20012316",
                         "20002614",
                         "20012342",
+                        "20019868",
+                        "20019869",
+                        "20012311",
                         "20012343"
                     ]
                 }
@@ -133851,6 +133891,7 @@
                         "20012346",
                         "20012347",
                         "20012348",
+                        "20021647",
                         "20020230",
                         "20002614"
                     ]
@@ -141482,6 +141523,7 @@
                         "20011242",
                         "20011243",
                         "20011244",
+                        "20021646",
                         "20011246",
                         "20011247"
                     ]
@@ -173629,7 +173671,7 @@
                     ]
                 }
             },
-            "610S+1+Tin Shui Wai (Tin Shui Estate)+Tsim Sha Tsui (Haipong Road)":{
+            "610S+1+Tin Shui Wai (Tin Shui Estate)+Tsim Sha Tsui (Haiphong Road)":{
                 "bound":{
                     "gmb":"O"
                 },
@@ -173637,7 +173679,7 @@
                     "gmb"
                 ],
                 "dest":{
-                    "en":"Tsim Sha Tsui (Haipong Road)",
+                    "en":"Tsim Sha Tsui (Haiphong Road)",
                     "zh":"尖沙咀海防道"
                 },
                 "freq":{
@@ -284267,7 +284309,6 @@
                     "kmb":[
                         "86218AD69549D7B2",
                         "9C9F817064169CE7",
-                        "61C957321A4DE4A9",
                         "E48E4C46F64FFB0E",
                         "96CE5BB6CD5794BC",
                         "4B5144408E60BF11",
@@ -284418,62 +284459,6 @@
                         "0D5759F7A4B185FE",
                         "C552CE565E1F0C85",
                         "9C9F817064169CE7",
-                        "61C957321A4DE4A9",
-                        "E48E4C46F64FFB0E",
-                        "21466046C6868AA7"
-                    ]
-                }
-            },
-            "A34+3+SIU HONG ROAD+AIRPORT (GTC) BUS TERMINUS":{
-                "bound":{
-                    "kmb":"O"
-                },
-                "co":[
-                    "kmb"
-                ],
-                "dest":{
-                    "en":"Airport (GTC) Bus Terminus",
-                    "zh":"機場(地面運輸中心)巴士總站"
-                },
-                "freq":{
-                    "511":{
-                        "0600":null
-                    }
-                },
-                "gtfsId":"1000049",
-                "jt":"63",
-                "nlbId":null,
-                "orig":{
-                    "en":"Siu Hong Road",
-                    "zh":"兆康路"
-                },
-                "route":"A34",
-                "serviceType":"3",
-                "stops":{
-                    "kmb":[
-                        "229128E5EA86F3A2",
-                        "776535DC784DD106",
-                        "C054428621712B5C",
-                        "FA36E29F8BCC544C",
-                        "448D42252303EC00",
-                        "712504F8E762020C",
-                        "F307FDA96A1DF9A2",
-                        "8E76875D12C239A3",
-                        "ADE15F24D2EE0B20",
-                        "9E10C87488BC7493",
-                        "951EB88600BAF893",
-                        "F4C9995BB455AB46",
-                        "4FF70CD3938702E4",
-                        "224B3B71A4C25C01",
-                        "333A88A8E07C956B",
-                        "B2442AC56532517B",
-                        "78644FF7E8B7BBA0",
-                        "0221966C1116C4EC",
-                        "C70342BF7C6A4732",
-                        "0D5759F7A4B185FE",
-                        "C552CE565E1F0C85",
-                        "9C9F817064169CE7",
-                        "61C957321A4DE4A9",
                         "E48E4C46F64FFB0E",
                         "21466046C6868AA7"
                     ]
@@ -401719,8 +401704,8 @@
                     "lng":114.14943
                 },
                 "name":{
-                    "en":"CHEUNG YEE STREET near Goodluck Industrial Centre",
-                    "zh":"長義街近好運工業中心"
+                    "en":"Cheung Yee Street outside Goodluck Industrial Centre",
+                    "zh":"長義街, 好運工業中心外"
                 }
             },
             "20012312":{
@@ -426295,6 +426280,26 @@
                     "zh":"太古站"
                 }
             },
+            "20021646":{
+                "location":{
+                    "lat":22.26856,
+                    "lng":114.18726
+                },
+                "name":{
+                    "en":"Blue Pool Road, near Horseshoe Tower",
+                    "zh":"藍塘道, 近藍駿樓"
+                }
+            },
+            "20021647":{
+                "location":{
+                    "lat":22.33612,
+                    "lng":114.15247
+                },
+                "name":{
+                    "en":"Hing Wah Street outside Hang Chun Court",
+                    "zh":"興華街, 幸俊苑外"
+                }
+            },
             "201":{
                 "location":{
                     "lat":22.42959,
@@ -445641,16 +445646,6 @@
                 "name":{
                     "en":"Prince of Wales Hospital",
                     "zh":"威爾斯親王醫院"
-                }
-            },
-            "61C957321A4DE4A9":{
-                "location":{
-                    "lat":22.31779,
-                    "lng":113.94329
-                },
-                "name":{
-                    "en":"Hong Kong SkyCity Marriott Hotel",
-                    "zh":"香港天際萬豪酒店"
                 }
             },
             "61CB41A4FE2AD8E5":{
@@ -697787,6 +697782,10 @@
             "102R":{
                 "en":"Horse Racing Days only, Cross Harbour",
                 "zh":"賽馬日服務 過海線"
+            },
+            "104R":{
+                "en":"Service on specified day",
+                "zh":"特定日子服務"
             },
             "173R":{
                 "en":"Route Details TBD",
