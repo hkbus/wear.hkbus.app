@@ -214258,62 +214258,6 @@
                     ]
                 }
             },
-            "77K+2+SHEUNG SHUI BBI - SHEUNG SHUI TERMINUS (A2)+KAM SHEUNG ROAD STATION":{
-                "bound":{
-                    "kmb":"O"
-                },
-                "co":[
-                    "kmb"
-                ],
-                "dest":{
-                    "en":"Kam Sheung Road Station",
-                    "zh":"錦上路站"
-                },
-                "freq":{
-                    "287":{
-                        "0725":null
-                    }
-                },
-                "gtfsId":"8711",
-                "jt":"37",
-                "nlbId":null,
-                "orig":{
-                    "en":"Sheung Shui BBI - Sheung Shui Terminus (A2)",
-                    "zh":"上水轉車站 - 上水總站(A2)"
-                },
-                "route":"77K",
-                "serviceType":"2",
-                "stops":{
-                    "kmb":[
-                        "293A78248611EF42",
-                        "FC6CB9607D36FBD7",
-                        "DF8F6AA868615D47",
-                        "807FF45E7E451237",
-                        "1A0C476BD432E0FB",
-                        "0B5E21C03B8B3FEF",
-                        "703C9055CEBF534C",
-                        "341C682AEFD4F676",
-                        "94EFE46EB0C81130",
-                        "C2A924BD041BD901",
-                        "BF9CD8F3D1FB7066",
-                        "7F3A8DEBB43372A9",
-                        "4F593414D37CAE92",
-                        "B55B2A016DD04490",
-                        "22C53EDBADCC95DD",
-                        "EAFE42A7BC8FD2B3",
-                        "131148372E2D2D19",
-                        "7D91D5A0183FF3C4",
-                        "36344A885EA03837",
-                        "31F83DAA95A4B53A",
-                        "6B35AF30748EDA1B",
-                        "2D10E16919B5A96E",
-                        "F0D6CB5F04988EA4",
-                        "09601DB251157030",
-                        "B683B48A5CCC6C2B",
-                        "4EBE182141C52094"
-                    ]
-                }
-            },
             "77K+2+SHEUNG SHUI+YUEN LONG (WEST)":{
                 "bound":{
                     "kmb":"O"
@@ -214383,6 +214327,57 @@
                         "AC935792C88AF135",
                         "43E5D3A445382F82",
                         "822B02BAED2961FC"
+                    ]
+                }
+            },
+            "77K+3+SHEUNG SHUI+PAT HEUNG ROAD":{
+                "bound":{
+                    "kmb":"O"
+                },
+                "co":[
+                    "kmb"
+                ],
+                "dest":{
+                    "en":"Pat Heung Road",
+                    "zh":"八鄉路"
+                },
+                "freq":null,
+                "gtfsId":null,
+                "nlbId":null,
+                "orig":{
+                    "en":"Sheung Shui",
+                    "zh":"上水"
+                },
+                "route":"77K",
+                "serviceType":"3",
+                "stops":{
+                    "kmb":[
+                        "293A78248611EF42",
+                        "FC6CB9607D36FBD7",
+                        "DF8F6AA868615D47",
+                        "807FF45E7E451237",
+                        "1A0C476BD432E0FB",
+                        "0B5E21C03B8B3FEF",
+                        "703C9055CEBF534C",
+                        "341C682AEFD4F676",
+                        "94EFE46EB0C81130",
+                        "C2A924BD041BD901",
+                        "BF9CD8F3D1FB7066",
+                        "7F3A8DEBB43372A9",
+                        "4F593414D37CAE92",
+                        "B55B2A016DD04490",
+                        "22C53EDBADCC95DD",
+                        "EAFE42A7BC8FD2B3",
+                        "131148372E2D2D19",
+                        "7D91D5A0183FF3C4",
+                        "36344A885EA03837",
+                        "31F83DAA95A4B53A",
+                        "6B35AF30748EDA1B",
+                        "2D10E16919B5A96E",
+                        "F0D6CB5F04988EA4",
+                        "09601DB251157030",
+                        "B683B48A5CCC6C2B",
+                        "4EBE182141C52094"
                     ]
                 }
             },
@@ -384076,8 +384071,8 @@
                     "lng":114.03122
                 },
                 "name":{
-                    "en":"Castle Peak Road - Yuen Long, Yau San Street",
-                    "zh":"青山公路 - 元朗段, 又新街"
+                    "en":"Castle Peak Road - Yuen Long, near Yau San Street",
+                    "zh":"青山公路－元朗段, 近又新街"
                 }
             },
             "20001289":{
