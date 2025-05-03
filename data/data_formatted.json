@@ -4173,16 +4173,16 @@
                     ]
                 }
             },
-            "10+98+Kennedy Town+North Point Ferry Pier":{
+            "10+98+North Point Ferry Pier+Kennedy Town":{
                 "bound":{
-                    "ctb":"O"
+                    "ctb":"I"
                 },
                 "co":[
                     "ctb"
                 ],
                 "dest":{
-                    "en":"North Point Ferry Pier",
-                    "zh":"北角碼頭"
+                    "en":"Kennedy Town",
+                    "zh":"堅尼地城"
                 },
                 "fakeRoute":true,
                 "freq":null,
@@ -4190,8 +4190,8 @@
                 "jt":null,
                 "nlbId":null,
                 "orig":{
-                    "en":"Kennedy Town",
-                    "zh":"堅尼地城"
+                    "en":"North Point Ferry Pier",
+                    "zh":"北角碼頭"
                 },
                 "route":"10",
                 "serviceType":"98",
@@ -155604,7 +155604,7 @@
                     ]
                 }
             },
-            "581+98+Ma On Shan Town Centre (Via Wu Kai Sha Station)+Sai Sha and Shap Sze Heung":{
+            "581+98+Sai Sha and Shap Sze Heung+Ma On Shan Town Centre (Via Wu Kai Sha Station)":{
                 "bound":{
                     "ctb":"O"
                 },
@@ -155612,8 +155612,8 @@
                     "ctb"
                 ],
                 "dest":{
-                    "en":"Sai Sha and Shap Sze Heung",
-                    "zh":"西沙及十四鄉"
+                    "en":"Ma On Shan Town Centre (Via Wu Kai Sha Station)",
+                    "zh":"馬鞍山市中心 (經烏溪沙站)"
                 },
                 "fakeRoute":true,
                 "freq":null,
@@ -155621,8 +155621,8 @@
                 "jt":null,
                 "nlbId":null,
                 "orig":{
-                    "en":"Ma On Shan Town Centre (Via Wu Kai Sha Station)",
-                    "zh":"馬鞍山市中心 (經烏溪沙站)"
+                    "en":"Sai Sha and Shap Sze Heung",
+                    "zh":"西沙及十四鄉"
                 },
                 "route":"581",
                 "serviceType":"98",
@@ -269647,7 +269647,7 @@
                     ]
                 }
             },
-            "969C+98+Tai Koo (Kornhill Plaza)+Tin Shui Wai (Tin Shui Estate)":{
+            "969C+98+Maywood Court Kingswood Villas, Tin Wah Road+Kornhill Plaza, Kornhill Road":{
                 "bound":{
                     "ctb":"O"
                 },
@@ -269655,8 +269655,8 @@
                     "ctb"
                 ],
                 "dest":{
-                    "en":"Tin Shui Wai (Tin Shui Estate)",
-                    "zh":"天水圍 (天瑞邨)"
+                    "en":"Kornhill Plaza, Kornhill Road",
+                    "zh":"康怡廣場, 康山道"
                 },
                 "fakeRoute":true,
                 "freq":null,
@@ -269664,8 +269664,8 @@
                 "jt":null,
                 "nlbId":null,
                 "orig":{
-                    "en":"Tai Koo (Kornhill Plaza)",
-                    "zh":"太古 (康怡廣場)"
+                    "en":"Maywood Court Kingswood Villas, Tin Wah Road",
+                    "zh":"嘉湖山莊美湖居, 天華路"
                 },
                 "route":"969C",
                 "serviceType":"98",
@@ -330514,16 +330514,16 @@
                     ]
                 }
             },
-            "N8X+98+Siu Sai Wan (Island Resort)+Kennedy Town":{
+            "N8X+98+Kennedy Town+Siu Sai Wan (Island Resort)":{
                 "bound":{
-                    "ctb":"O"
+                    "ctb":"I"
                 },
                 "co":[
                     "ctb"
                 ],
                 "dest":{
-                    "en":"Kennedy Town",
-                    "zh":"堅尼地城"
+                    "en":"Siu Sai Wan (Island Resort)",
+                    "zh":"小西灣 (藍灣半島)"
                 },
                 "fakeRoute":true,
                 "freq":null,
@@ -330531,8 +330531,8 @@
                 "jt":null,
                 "nlbId":null,
                 "orig":{
-                    "en":"Siu Sai Wan (Island Resort)",
-                    "zh":"小西灣 (藍灣半島)"
+                    "en":"Kennedy Town",
+                    "zh":"堅尼地城"
                 },
                 "route":"N8X",
                 "serviceType":"98",
@@ -330726,16 +330726,16 @@
                     ]
                 }
             },
-            "N90+98+South Horizons+Central (Macau Ferry)":{
+            "N90+98+Central (Macau Ferry)+South Horizons":{
                 "bound":{
-                    "ctb":"O"
+                    "ctb":"I"
                 },
                 "co":[
                     "ctb"
                 ],
                 "dest":{
-                    "en":"Central (Macau Ferry)",
-                    "zh":"中環 (港澳碼頭)"
+                    "en":"South Horizons",
+                    "zh":"海怡半島"
                 },
                 "fakeRoute":true,
                 "freq":null,
@@ -330743,8 +330743,8 @@
                 "jt":null,
                 "nlbId":null,
                 "orig":{
-                    "en":"South Horizons",
-                    "zh":"海怡半島"
+                    "en":"Central (Macau Ferry)",
+                    "zh":"中環 (港澳碼頭)"
                 },
                 "route":"N90",
                 "serviceType":"98",
@@ -330898,7 +330898,7 @@
             },
             "N930+98+Causeway Bay (Moreton Terrace)+Tsuen Wan (Discovery Park)":{
                 "bound":{
-                    "ctb":"O"
+                    "ctb":"I"
                 },
                 "co":[
                     "ctb"
@@ -331106,7 +331106,7 @@
             },
             "N952+98+Causeway Bay (Moreton Terrace)+Tuen Mun (Chi Lok Fa Yuen)":{
                 "bound":{
-                    "ctb":"O"
+                    "ctb":"I"
                 },
                 "co":[
                     "ctb"
@@ -331439,7 +331439,7 @@
             },
             "N962+98+Causeway Bay (Moreton Terrace)+Tuen Mun (Lung Mun Oasis)":{
                 "bound":{
-                    "ctb":"O"
+                    "ctb":"I"
                 },
                 "co":[
                     "ctb"
@@ -338773,7 +338773,7 @@
                     ]
                 }
             },
-            "X15+98+The Peak+Central (Star Ferry)":{
+            "X15+98+Central (Star Ferry)+The Peak":{
                 "bound":{
                     "ctb":"O"
                 },
@@ -338781,8 +338781,8 @@
                     "ctb"
                 ],
                 "dest":{
-                    "en":"Central (Star Ferry)",
-                    "zh":"中環 (天星碼頭)"
+                    "en":"The Peak",
+                    "zh":"山頂"
                 },
                 "fakeRoute":true,
                 "freq":null,
@@ -338790,8 +338790,8 @@
                 "jt":null,
                 "nlbId":null,
                 "orig":{
-                    "en":"The Peak",
-                    "zh":"山頂"
+                    "en":"Central (Star Ferry)",
+                    "zh":"中環 (天星碼頭)"
                 },
                 "route":"X15",
                 "serviceType":"98",
