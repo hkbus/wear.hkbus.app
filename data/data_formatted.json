@@ -6034,10 +6034,12 @@
             },
             "101R+1+HAPPY VALLEY RACE COURSE+KWUN TONG (YUE MAN SQUARE)":{
                 "bound":{
+                    "ctb":"O",
                     "kmb":"O"
                 },
                 "co":[
-                    "kmb"
+                    "kmb",
+                    "ctb"
                 ],
                 "dest":{
                     "en":"Kwun Tong (Yue Man Square)",
@@ -6045,6 +6047,7 @@
                 },
                 "freq":null,
                 "gtfsId":null,
+                "kmbCtbJoint":true,
                 "nlbId":null,
                 "orig":{
                     "en":"Happy Valley Race Course",
@@ -6052,52 +6055,6 @@
                 },
                 "route":"101R",
                 "serviceType":"1",
-                "stops":{
-                    "kmb":[
-                        "4E2E60D3ED3BE735",
-                        "11B2034DDF30617A",
-                        "33033960343A57A8",
-                        "F6A446C66F7F805E",
-                        "35CD2E3911AEA038",
-                        "C847FC07707BC068",
-                        "AA62C03711F778F2",
-                        "2F7C67769B9FB896",
-                        "E99D3F96A9F7B5EB",
-                        "0543B8455A70833F",
-                        "D446D1EA79502BF2",
-                        "FE3B13A457EEA70C",
-                        "138A71694F5A3451",
-                        "4A8AAC7402C3F60F",
-                        "100E6F60BAC1BDEB",
-                        "23AF5995FEBCA8E6",
-                        "8C09B3648DCDAF3C",
-                        "6465DE9EE57F6C94",
-                        "3E73B73B12E25DCF",
-                        "3F9AE21DC3A540B9",
-                        "8B8DDE8FC3A125B8"
-                    ]
-                }
-            },
-            "101R+1+Happy Valley Racecourse+Kwun Tong (Yue Man Square)":{
-                "bound":{
-                    "ctb":"O"
-                },
-                "co":[
-                    "ctb"
-                ],
-                "dest":{
-                    "en":"Kwun Tong (Yue Man Square)",
-                    "zh":"觀塘 (裕民坊)"
-                },
-                "freq":null,
-                "gtfsId":null,
-                "nlbId":null,
-                "orig":{
-                    "en":"Happy Valley Racecourse",
-                    "zh":"跑馬地馬場"
-                },
-                "route":"101R",
-                "serviceType":1,
                 "stops":{
                     "ctb":[
                         "002470",
@@ -6121,6 +6078,29 @@
                         "001797",
                         "001508",
                         "002977"
+                    ],
+                    "kmb":[
+                        "4E2E60D3ED3BE735",
+                        "11B2034DDF30617A",
+                        "33033960343A57A8",
+                        "F6A446C66F7F805E",
+                        "35CD2E3911AEA038",
+                        "C847FC07707BC068",
+                        "AA62C03711F778F2",
+                        "2F7C67769B9FB896",
+                        "E99D3F96A9F7B5EB",
+                        "0543B8455A70833F",
+                        "D446D1EA79502BF2",
+                        "FE3B13A457EEA70C",
+                        "138A71694F5A3451",
+                        "4A8AAC7402C3F60F",
+                        "100E6F60BAC1BDEB",
+                        "23AF5995FEBCA8E6",
+                        "8C09B3648DCDAF3C",
+                        "6465DE9EE57F6C94",
+                        "3E73B73B12E25DCF",
+                        "3F9AE21DC3A540B9",
+                        "8B8DDE8FC3A125B8"
                     ]
                 }
             },
@@ -8096,47 +8076,11 @@
             },
             "102R+1+HAPPY VALLEY RACE COURSE+MEI FOO":{
                 "bound":{
+                    "ctb":"O",
                     "kmb":"O"
                 },
                 "co":[
-                    "kmb"
-                ],
-                "dest":{
-                    "en":"Mei Foo",
-                    "zh":"美孚"
-                },
-                "freq":null,
-                "gtfsId":null,
-                "nlbId":null,
-                "orig":{
-                    "en":"Happy Valley Race Course",
-                    "zh":"跑馬地馬場"
-                },
-                "route":"102R",
-                "serviceType":"1",
-                "stops":{
-                    "kmb":[
-                        "4E2E60D3ED3BE735",
-                        "153D32217234A0F0",
-                        "893BBB901005C3E6",
-                        "BBE77B90CE43AEFA",
-                        "246B98B8B9F002F0",
-                        "38F0C9768AA2AF93",
-                        "730AB612DCDF58C8",
-                        "1A85A6C132C4197F",
-                        "C3FD63E226246052",
-                        "098AF67CBBB9FBA9",
-                        "0BADB28A19C2E0BE",
-                        "6762DEA1B89E6354",
-                        "A588A5F294B4BEFB"
-                    ]
-                }
-            },
-            "102R+1+Happy Valley Racecourse+Mei Foo":{
-                "bound":{
-                    "ctb":"O"
-                },
-                "co":[
+                    "kmb",
                     "ctb"
                 ],
                 "dest":{
@@ -8145,13 +8089,14 @@
                 },
                 "freq":null,
                 "gtfsId":null,
+                "kmbCtbJoint":true,
                 "nlbId":null,
                 "orig":{
-                    "en":"Happy Valley Racecourse",
+                    "en":"Happy Valley Race Course",
                     "zh":"跑馬地馬場"
                 },
                 "route":"102R",
-                "serviceType":1,
+                "serviceType":"1",
                 "stops":{
                     "ctb":[
                         "002470",
@@ -8167,6 +8112,21 @@
                         "001687",
                         "001434",
                         "001685"
+                    ],
+                    "kmb":[
+                        "4E2E60D3ED3BE735",
+                        "153D32217234A0F0",
+                        "893BBB901005C3E6",
+                        "BBE77B90CE43AEFA",
+                        "246B98B8B9F002F0",
+                        "38F0C9768AA2AF93",
+                        "730AB612DCDF58C8",
+                        "1A85A6C132C4197F",
+                        "C3FD63E226246052",
+                        "098AF67CBBB9FBA9",
+                        "0BADB28A19C2E0BE",
+                        "6762DEA1B89E6354",
+                        "A588A5F294B4BEFB"
                     ]
                 }
             },
