@@ -9918,6 +9918,37 @@
                     ]
                 }
             },
+            "104R+1+CENTRAL (FERRY PIERS)+MONG KOK":{
+                "bound":{
+                    "kmb":"O"
+                },
+                "co":[
+                    "kmb"
+                ],
+                "dest":{
+                    "en":"Mong Kok",
+                    "zh":"旺角"
+                },
+                "freq":null,
+                "gtfsId":null,
+                "nlbId":null,
+                "orig":{
+                    "en":"Central (Ferry Piers)",
+                    "zh":"中環渡輪碼頭"
+                },
+                "route":"104R",
+                "serviceType":"1",
+                "stops":{
+                    "kmb":[
+                        "153D32217234A0F0",
+                        "893BBB901005C3E6",
+                        "BBE77B90CE43AEFA",
+                        "246B98B8B9F002F0",
+                        "3B7368AAB82CC612",
+                        "D7C46496C9C7B7BA"
+                    ]
+                }
+            },
             "104R+1+Central (Ferry Piers)+Mong Kok":{
                 "bound":{
                     "ctb":"O"
@@ -698369,6 +698400,10 @@
             }
         },
         "kmb":{
+            "104R":{
+                "en":"",
+                "zh":"指定日期服務"
+            },
             "178R":{
                 "en":"On Specific Day Only Normal",
                 "zh":"指定日期服務香港書展特別路線"
