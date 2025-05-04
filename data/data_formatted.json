@@ -214356,6 +214356,62 @@
                     ]
                 }
             },
+            "77K+2+SHEUNG SHUI BBI - SHEUNG SHUI TERMINUS (A2)+KAM SHEUNG ROAD STATION":{
+                "bound":{
+                    "kmb":"O"
+                },
+                "co":[
+                    "kmb"
+                ],
+                "dest":{
+                    "en":"Kam Sheung Road Station",
+                    "zh":"錦上路站"
+                },
+                "freq":{
+                    "287":{
+                        "0725":null
+                    }
+                },
+                "gtfsId":"8711",
+                "jt":"37",
+                "nlbId":null,
+                "orig":{
+                    "en":"Sheung Shui BBI - Sheung Shui Terminus (A2)",
+                    "zh":"上水轉車站 - 上水總站(A2)"
+                },
+                "route":"77K",
+                "serviceType":"2",
+                "stops":{
+                    "kmb":[
+                        "293A78248611EF42",
+                        "FC6CB9607D36FBD7",
+                        "DF8F6AA868615D47",
+                        "807FF45E7E451237",
+                        "1A0C476BD432E0FB",
+                        "0B5E21C03B8B3FEF",
+                        "703C9055CEBF534C",
+                        "341C682AEFD4F676",
+                        "94EFE46EB0C81130",
+                        "C2A924BD041BD901",
+                        "BF9CD8F3D1FB7066",
+                        "7F3A8DEBB43372A9",
+                        "4F593414D37CAE92",
+                        "B55B2A016DD04490",
+                        "22C53EDBADCC95DD",
+                        "EAFE42A7BC8FD2B3",
+                        "131148372E2D2D19",
+                        "7D91D5A0183FF3C4",
+                        "36344A885EA03837",
+                        "31F83DAA95A4B53A",
+                        "6B35AF30748EDA1B",
+                        "2D10E16919B5A96E",
+                        "F0D6CB5F04988EA4",
+                        "09601DB251157030",
+                        "B683B48A5CCC6C2B",
+                        "4EBE182141C52094"
+                    ]
+                }
+            },
             "77K+2+SHEUNG SHUI+YUEN LONG (WEST)":{
                 "bound":{
                     "kmb":"O"
@@ -214475,7 +214531,9 @@
                         "F0D6CB5F04988EA4",
                         "09601DB251157030",
                         "B683B48A5CCC6C2B",
-                        "4EBE182141C52094"
+                        "4EBE182141C52094",
+                        "E1C5246F946E2D86",
+                        "5CB4727570240308"
                     ]
                 }
             },
