@@ -34188,12 +34188,11 @@
             },
             "11+1+Central Ferry - Bus Terminus+Central Ferry - Bus Terminus":{
                 "bound":{
-                    "ctb":"O"
+                    "ctb":"OI"
                 },
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Jardine's Lookout (Circular)",
                     "zh":"渣甸山 (循環線)"
@@ -34353,6 +34352,7 @@
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Loong Fung Terrace, Tai Hang Road",
                     "zh":"龍風臺, 大坑道"
@@ -34550,11 +34550,11 @@
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Central (Ferry Piers)",
                     "zh":"中環碼頭"
                 },
-                "fakeRoute":true,
                 "freq":null,
                 "gtfsId":null,
                 "nlbId":null,
@@ -35128,12 +35128,11 @@
             },
             "11+2+Central Ferry - Bus Terminus+Central Ferry - Bus Terminus":{
                 "bound":{
-                    "ctb":"O"
+                    "ctb":"OI"
                 },
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Jardine's Lookout (Circular)",
                     "zh":"渣甸山 (循環線)"
@@ -35251,6 +35250,7 @@
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Loong Fung Terrace, Tai Hang Road",
                     "zh":"龍風臺, 大坑道"
@@ -35798,6 +35798,7 @@
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Canal Road East, Hennessy Road",
                     "zh":"堅拿道東, 軒尼詩道"
@@ -36594,14 +36595,13 @@
             },
             "110+1+SHAU KEI WAN+TSIM SHA TSUI (CIRCULAR)":{
                 "bound":{
-                    "ctb":"O",
+                    "ctb":"OI",
                     "kmb":"O"
                 },
                 "co":[
                     "kmb",
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Tsim Sha Tsui (Circular)",
                     "zh":"尖沙咀(循環線)"
@@ -36830,6 +36830,7 @@
                     "kmb",
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Tsim Sha Tsui (Mody Road)",
                     "zh":"尖沙咀 (麼地道)"
@@ -36975,6 +36976,7 @@
                     "kmb",
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Tsim Sha Tsui (Mody Road)",
                     "zh":"尖沙咀 (麼地道)"
@@ -37050,14 +37052,13 @@
             },
             "110+5+SHAU KEI WAN+TSIM SHA TSUI (CIRCULAR)":{
                 "bound":{
-                    "ctb":"O",
+                    "ctb":"OI",
                     "kmb":"O"
                 },
                 "co":[
                     "kmb",
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Tsim Sha Tsui (Circular)",
                     "zh":"尖沙咀(循環線)"
@@ -47494,12 +47495,11 @@
             },
             "12+1+Central Ferry - Discovery Bay Ferry, Man Kwong Street+Central Ferry - Discovery Bay Ferry, Man Kwong Street":{
                 "bound":{
-                    "ctb":"O"
+                    "ctb":"OI"
                 },
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Robinson Road / Park Road (Circular)",
                     "zh":"羅便臣道/柏道 (循環線)"
@@ -47706,11 +47706,11 @@
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Robinson Road / Park Road",
                     "zh":"羅便臣道/柏道"
                 },
-                "fakeRoute":true,
                 "freq":null,
                 "gtfsId":null,
                 "nlbId":null,
@@ -48100,11 +48100,11 @@
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Central Pier 3",
                     "zh":"中環3號碼頭"
                 },
-                "fakeRoute":true,
                 "freq":null,
                 "gtfsId":null,
                 "nlbId":null,
@@ -48318,12 +48318,11 @@
             },
             "12+2+Central Ferry - Discovery Bay Ferry, Man Kwong Street+Central Ferry - Discovery Bay Ferry, Man Kwong Street":{
                 "bound":{
-                    "ctb":"O"
+                    "ctb":"OI"
                 },
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Robinson Road / Park Road (Circular)",
                     "zh":"羅便臣道/柏道 (循環線)"
@@ -51740,12 +51739,11 @@
             },
             "14+1+Sai Wan Ho (Grand Promenade)+Sai Wan Ho (Grand Promenade)":{
                 "bound":{
-                    "ctb":"O"
+                    "ctb":"OI"
                 },
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Stanley Fort (Gate) / Ma Hang (Circular)",
                     "zh":"赤柱炮台 (閘口)/馬坑 (循環線)"
@@ -51896,6 +51894,7 @@
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Stanley Fort, Wong Ma Kok Road",
                     "zh":"赤柱炮台, 黃麻角道"
@@ -51990,6 +51989,7 @@
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Sai Wan Ho (Grand Promenade)",
                     "zh":"西灣河 (嘉亨灣)"
@@ -52067,12 +52067,11 @@
             },
             "14+2+Sai Wan Ho (Grand Promenade)+Sai Wan Ho (Grand Promenade)":{
                 "bound":{
-                    "ctb":"O"
+                    "ctb":"OI"
                 },
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Stanley Fort (Gate) / Ma Hang (Circular)",
                     "zh":"赤柱炮台 (閘口)/馬坑 (循環線)"
@@ -52172,6 +52171,7 @@
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Stanley Fort, Wong Ma Kok Road",
                     "zh":"赤柱炮台, 黃麻角道"
@@ -52242,6 +52242,7 @@
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Sai Wan Ho (Grand Promenade)",
                     "zh":"西灣河 (嘉亨灣)"
@@ -52296,6 +52297,7 @@
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Stanley Prison, Tung Tau Wan Road",
                     "zh":"赤柱監獄, 東頭灣道"
@@ -52349,6 +52351,7 @@
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Sai Wan Ho (Grand Promenade)",
                     "zh":"西灣河 (嘉亨灣)"
@@ -52411,6 +52414,7 @@
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Stanley Plaza",
                     "zh":"赤柱廣場"
@@ -64565,12 +64569,11 @@
             },
             "1M+1+Exhibition Centre Station+Exhibition Centre Station":{
                 "bound":{
-                    "ctb":"O"
+                    "ctb":"OI"
                 },
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Happy Valley / Wong Nai Chung Gap (Circular)",
                     "zh":"跑馬地/黃泥涌峽 (循環線)"
@@ -64669,11 +64672,11 @@
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Happy Valley / Wong Nai Chung Gap",
                     "zh":"跑馬地/黃泥涌峽"
                 },
-                "fakeRoute":true,
                 "freq":null,
                 "gtfsId":null,
                 "nlbId":null,
@@ -64715,11 +64718,11 @@
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Exhibition Centre Station",
                     "zh":"會展站"
                 },
-                "fakeRoute":true,
                 "freq":null,
                 "gtfsId":null,
                 "nlbId":null,
@@ -75431,12 +75434,11 @@
             },
             "22D+1+Kai Tak - MTR Exit A, Muk On Street+Kai Tak - MTR Exit A, Muk On Street":{
                 "bound":{
-                    "ctb":"O"
+                    "ctb":"OI"
                 },
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Kai Tak Runway Area (Circular)",
                     "zh":"啟德跑道區 (循環線)"
@@ -75556,11 +75558,11 @@
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Kai Tak Station (Exit A)",
                     "zh":"啟德站 (A 出口)"
                 },
-                "fakeRoute":true,
                 "freq":null,
                 "gtfsId":null,
                 "nlbId":null,
@@ -75592,11 +75594,11 @@
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Kai Tak Runway Area",
                     "zh":"啟德跑道區"
                 },
-                "fakeRoute":true,
                 "freq":null,
                 "gtfsId":null,
                 "nlbId":null,
@@ -75692,12 +75694,11 @@
             },
             "22M+1+Kai Tak Cruise Terminal+Kai Tak Cruise Terminal":{
                 "bound":{
-                    "ctb":"O"
+                    "ctb":"OI"
                 },
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"To Kwa Wan (Circular)",
                     "zh":"土瓜灣 (循環線)"
@@ -75780,11 +75781,11 @@
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"To Kwa Wan",
                     "zh":"土瓜灣"
                 },
-                "fakeRoute":true,
                 "freq":null,
                 "gtfsId":null,
                 "nlbId":null,
@@ -75895,11 +75896,11 @@
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Kai Tak Cruise Terminal",
                     "zh":"啟德郵輪碼頭"
                 },
-                "fakeRoute":true,
                 "freq":null,
                 "gtfsId":null,
                 "nlbId":null,
@@ -84274,11 +84275,11 @@
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Central (Pier 3/5)",
                     "zh":"中環 (3 / 5 號碼頭)"
                 },
-                "fakeRoute":true,
                 "freq":null,
                 "gtfsId":null,
                 "nlbId":null,
@@ -84333,6 +84334,7 @@
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Braemar Hill",
                     "zh":"寶馬山"
@@ -84393,12 +84395,11 @@
             },
             "25+1+Central Ferry - Discovery Bay Ferry, Man Kwong Street+Central Ferry – Cheung Chau & Lamma Island Ferry":{
                 "bound":{
-                    "ctb":"O"
+                    "ctb":"OI"
                 },
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Braemar Hill (Circular)",
                     "zh":"寶馬山 (循環線)"
@@ -84561,12 +84562,11 @@
             },
             "25+2+Central Ferry - Discovery Bay Ferry, Man Kwong Street+Central Ferry – Cheung Chau & Lamma Island Ferry":{
                 "bound":{
-                    "ctb":"O"
+                    "ctb":"OI"
                 },
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Braemar Hill (Circular)",
                     "zh":"寶馬山 (循環線)"
@@ -84650,6 +84650,7 @@
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Concordia Lutheran School - North Point, Cloud View Road",
                     "zh":"北角協同中學, 雲景道"
@@ -87476,11 +87477,11 @@
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Exhibition Centre Station",
                     "zh":"會展站"
                 },
-                "fakeRoute":true,
                 "freq":null,
                 "gtfsId":null,
                 "nlbId":null,
@@ -87528,11 +87529,11 @@
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Braemar Hill",
                     "zh":"寶馬山"
                 },
-                "fakeRoute":true,
                 "freq":null,
                 "gtfsId":null,
                 "nlbId":null,
@@ -87574,12 +87575,11 @@
             },
             "25A+1+Exhibition Centre Station+Exhibition Centre Station":{
                 "bound":{
-                    "ctb":"O"
+                    "ctb":"OI"
                 },
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Braemar Hill (Circular)",
                     "zh":"寶馬山 (循環線)"
@@ -88654,11 +88654,11 @@
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Lai Tak Tsuen",
                     "zh":"勵德邨"
                 },
-                "fakeRoute":true,
                 "freq":null,
                 "gtfsId":null,
                 "nlbId":null,
@@ -88769,11 +88769,11 @@
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Hollywood Road",
                     "zh":"荷李活道"
                 },
-                "fakeRoute":true,
                 "freq":null,
                 "gtfsId":null,
                 "nlbId":null,
@@ -88817,12 +88817,11 @@
             },
             "26+1+Lai Tak Tsuen+Lai Tak Tsuen":{
                 "bound":{
-                    "ctb":"O"
+                    "ctb":"OI"
                 },
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Hollywood Road (Circular)",
                     "zh":"荷李活道 (循環線)"
@@ -89678,12 +89677,11 @@
             },
             "26+2+Lai Tak Tsuen+Lai Tak Tsuen":{
                 "bound":{
-                    "ctb":"O"
+                    "ctb":"OI"
                 },
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Hollywood Road (Circular)",
                     "zh":"荷李活道 (循環線)"
@@ -98208,15 +98206,15 @@
             },
             "27+1+Braemar Hill+North Point Ferry Pier":{
                 "bound":{
-                    "ctb":"O"
+                    "ctb":"OI"
                 },
                 "co":[
                     "ctb"
                 ],
                 "ctbIsCircular":true,
                 "dest":{
-                    "en":"North Point Ferry Pier (Circular)",
-                    "zh":"北角碼頭 (循環線)"
+                    "en":"North Point Ferry Pier",
+                    "zh":"北角碼頭"
                 },
                 "freq":null,
                 "gtfsId":null,
@@ -98319,6 +98317,7 @@
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Braemar Hill",
                     "zh":"寶馬山"
@@ -98362,12 +98361,11 @@
             },
             "27+1+North Point Ferry Pier+North Point Ferry Pier":{
                 "bound":{
-                    "ctb":"O"
+                    "ctb":"OI"
                 },
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Braemar Hill (Circular)",
                     "zh":"寶馬山 (循環線)"
@@ -161286,12 +161284,11 @@
             },
             "48+1+Sham Wan+Sham Wan":{
                 "bound":{
-                    "ctb":"O"
+                    "ctb":"OI"
                 },
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Wah Fu (North) (Circular)",
                     "zh":"華富 (北) (循環線)"
@@ -161453,6 +161450,7 @@
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Wah On House Wah Fu Estate, Wah Fu Road",
                     "zh":"華富邨華安樓, 華富道"
@@ -161575,11 +161573,11 @@
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Sham Wan / Ocean Park",
                     "zh":"深灣/海洋公園"
                 },
-                "fakeRoute":true,
                 "freq":null,
                 "gtfsId":null,
                 "nlbId":null,
@@ -161614,12 +161612,11 @@
             },
             "48+2+Ocean Park+Ocean Park":{
                 "bound":{
-                    "ctb":"O"
+                    "ctb":"OI"
                 },
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Wah Fu (North) (Circular)",
                     "zh":"華富 (北) (循環線)"
@@ -161740,15 +161737,15 @@
             },
             "48+3+Sham Wan+Ocean Park":{
                 "bound":{
-                    "ctb":"O"
+                    "ctb":"OI"
                 },
                 "co":[
                     "ctb"
                 ],
                 "ctbIsCircular":true,
                 "dest":{
-                    "en":"Ocean Park (Circular)",
-                    "zh":"海洋公園 (循環線)"
+                    "en":"Ocean Park",
+                    "zh":"海洋公園"
                 },
                 "freq":{
                     "288":{
@@ -161810,15 +161807,15 @@
             },
             "48+4+Ocean Park+Sham Wan":{
                 "bound":{
-                    "ctb":"O"
+                    "ctb":"OI"
                 },
                 "co":[
                     "ctb"
                 ],
                 "ctbIsCircular":true,
                 "dest":{
-                    "en":"Sham Wan (Circular)",
-                    "zh":"深灣 (循環線)"
+                    "en":"Sham Wan",
+                    "zh":"深灣"
                 },
                 "freq":{
                     "288":{
@@ -180081,11 +180078,11 @@
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Pak Shek Kok (Via University Station)",
                     "zh":"白石角 (經大學站)"
                 },
-                "fakeRoute":true,
                 "freq":null,
                 "gtfsId":null,
                 "nlbId":null,
@@ -180121,11 +180118,11 @@
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"GO PARK Sai Sha / Sai Sha Residences",
                     "zh":"西沙GO PARK / 西沙灣"
                 },
-                "fakeRoute":true,
                 "freq":null,
                 "gtfsId":null,
                 "nlbId":null,
@@ -180159,12 +180156,11 @@
             },
             "582+1+Pak Shek Kok+Pak Shek Kok":{
                 "bound":{
-                    "ctb":"O"
+                    "ctb":"OI"
                 },
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"GO PARK Sai Sha / Sai Sha Residences (Circular)",
                     "zh":"西沙GO PARK / 西沙灣 (循環線)"
@@ -183472,11 +183468,11 @@
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"South Horizons",
                     "zh":"海怡半島"
                 },
-                "fakeRoute":true,
                 "freq":null,
                 "gtfsId":null,
                 "nlbId":null,
@@ -183514,11 +183510,11 @@
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Shek Pai Wan (via Aberdeen)",
                     "zh":"石排灣 (經香港仔)"
                 },
-                "fakeRoute":true,
                 "freq":null,
                 "gtfsId":null,
                 "nlbId":null,
@@ -183552,12 +183548,11 @@
             },
             "595+1+South Horizons+South Horizons":{
                 "bound":{
-                    "ctb":"O"
+                    "ctb":"OI"
                 },
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Shek Pai Wan (via Aberdeen) (Circular)",
                     "zh":"石排灣 (經香港仔) (循環線)"
@@ -223418,11 +223413,11 @@
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Mong Kok",
                     "zh":"旺角"
                 },
-                "fakeRoute":true,
                 "freq":null,
                 "gtfsId":null,
                 "nlbId":null,
@@ -223450,12 +223445,11 @@
             },
             "701+1+Hoi Lai Estate+Hoi Lai Estate":{
                 "bound":{
-                    "ctb":"O"
+                    "ctb":"OI"
                 },
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Mong Kok (Circular)",
                     "zh":"旺角 (循環線)"
@@ -223593,11 +223587,11 @@
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Hoi Lai Estate / Nam Cheong Station",
                     "zh":"海麗邨/南昌站"
                 },
-                "fakeRoute":true,
                 "freq":null,
                 "gtfsId":null,
                 "nlbId":null,
@@ -223625,12 +223619,11 @@
             },
             "701A+1+Hoi Ying Estate+Hoi Ying Estate":{
                 "bound":{
-                    "ctb":"O"
+                    "ctb":"OI"
                 },
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Mong Kok (Circular)",
                     "zh":"旺角 (循環線)"
@@ -223702,15 +223695,15 @@
             },
             "701A+1+Hoi Ying Estate+Mong Kok":{
                 "bound":{
-                    "ctb":"O"
+                    "ctb":"OI"
                 },
                 "co":[
                     "ctb"
                 ],
                 "ctbIsCircular":true,
                 "dest":{
-                    "en":"Mong Kok (Circular)",
-                    "zh":"旺角 (循環線)"
+                    "en":"Mong Kok",
+                    "zh":"旺角"
                 },
                 "freq":null,
                 "gtfsId":null,
@@ -223737,15 +223730,15 @@
             },
             "701A+1+Mong Kok+Hoi Ying Estate":{
                 "bound":{
-                    "ctb":"O"
+                    "ctb":"OI"
                 },
                 "co":[
                     "ctb"
                 ],
                 "ctbIsCircular":true,
                 "dest":{
-                    "en":"Hoi Ying Estate (Circular)",
-                    "zh":"海盈邨 (循環線)"
+                    "en":"Hoi Ying Estate",
+                    "zh":"海盈邨"
                 },
                 "freq":null,
                 "gtfsId":null,
@@ -223777,11 +223770,11 @@
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Mong Kok",
                     "zh":"旺角"
                 },
-                "fakeRoute":true,
                 "freq":null,
                 "gtfsId":null,
                 "nlbId":null,
@@ -223809,12 +223802,11 @@
             },
             "701S+1+Hoi Lai Estate+Hoi Lai Estate":{
                 "bound":{
-                    "ctb":"O"
+                    "ctb":"OI"
                 },
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Mong Kok (Circular)",
                     "zh":"旺角 (循環線)"
@@ -223864,11 +223856,11 @@
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Hoi Lai Estate / Nam Cheong Station",
                     "zh":"海麗邨/南昌站"
                 },
-                "fakeRoute":true,
                 "freq":null,
                 "gtfsId":null,
                 "nlbId":null,
@@ -223901,6 +223893,7 @@
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Man Lok House Tai Hang Sai Estate, Woh Chai Street",
                     "zh":"大坑西新邨民樂樓, 窩仔街"
@@ -223945,6 +223938,7 @@
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Hoi Lai Estate",
                     "zh":"海麗邨"
@@ -223976,12 +223970,11 @@
             },
             "702+1+Hoi Lai Estate+Hoi Lai Estate":{
                 "bound":{
-                    "ctb":"O"
+                    "ctb":"OI"
                 },
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Kowloon Tong (Festival Walk) (Circular)",
                     "zh":"九龍塘 (又一城) (循環線)"
@@ -224453,11 +224446,11 @@
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Pak Tin (North)",
                     "zh":"白田 (北)"
                 },
-                "fakeRoute":true,
                 "freq":null,
                 "gtfsId":null,
                 "nlbId":null,
@@ -224497,11 +224490,11 @@
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Hoi Ying Estate",
                     "zh":"海盈邨"
                 },
-                "fakeRoute":true,
                 "freq":null,
                 "gtfsId":null,
                 "nlbId":null,
@@ -224535,12 +224528,11 @@
             },
             "702B+1+Pak Tin (North)+Pak Tin (North)":{
                 "bound":{
-                    "ctb":"O"
+                    "ctb":"OI"
                 },
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Hoi Ying Estate (Circular)",
                     "zh":"海盈邨 (循環線)"
@@ -224643,12 +224635,11 @@
             },
             "702S+1+Cheung Sha Wan Jockey Club Clinic, Kwong Lee Road+Cheung Sha Wan Jockey Club Clinic, Kwong Lee Road":{
                 "bound":{
-                    "ctb":"O"
+                    "ctb":"OI"
                 },
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Banyan Garden / Fu Cheong Estate (Circular)",
                     "zh":"泓景臺/富昌邨 (循環線)"
@@ -224701,6 +224692,7 @@
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Cheung Sha Wan Jockey Club Clinic, Kwong Lee Road",
                     "zh":"長沙灣賽馬會診療所, 廣利道"
@@ -224743,11 +224735,11 @@
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Banyan Garden / Fu Cheong Estate",
                     "zh":"泓景臺/富昌邨"
                 },
-                "fakeRoute":true,
                 "freq":null,
                 "gtfsId":null,
                 "nlbId":null,
@@ -228800,6 +228792,7 @@
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Sai Wan Ho (Grand Promenade)",
                     "zh":"西灣河 (嘉亨灣)"
@@ -228905,6 +228898,7 @@
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Central (Macao Ferry / Wing Wo Street)",
                     "zh":"中環 (港澳碼頭 / 永和街)"
@@ -229078,12 +229072,11 @@
             },
             "720+1+Sai Wan Ho (Grand Promenade)+Sai Wan Ho (Grand Promenade)":{
                 "bound":{
-                    "ctb":"O"
+                    "ctb":"OI"
                 },
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Central (Macao Ferry / Wing Wo Street) (Circular)",
                     "zh":"中環 (港澳碼頭 / 永和街) (循環線)"
@@ -229171,6 +229164,7 @@
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Sai Wan Ho (Grand Promenade)",
                     "zh":"西灣河 (嘉亨灣)"
@@ -229294,6 +229288,7 @@
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Wing Wo Street, Connaught Road Central",
                     "zh":"永和街, 干諾道中"
@@ -229458,11 +229453,11 @@
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Taikoo Shing",
                     "zh":"太古城"
                 },
-                "fakeRoute":true,
                 "freq":null,
                 "gtfsId":null,
                 "nlbId":null,
@@ -229485,12 +229480,11 @@
             },
             "720P+1+Cityplaza, Taikoo Shing Road+Cityplaza, Taikoo Shing Road":{
                 "bound":{
-                    "ctb":"O"
+                    "ctb":"OI"
                 },
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Central (Wing Wo Street) (Circular)",
                     "zh":"中環 (永和街) (循環線)"
@@ -229556,6 +229550,7 @@
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Central (Wing Wo Street)",
                     "zh":"中環 (永和街)"
@@ -229642,11 +229637,11 @@
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Yiu Tung Estate",
                     "zh":"耀東邨"
                 },
-                "fakeRoute":true,
                 "freq":null,
                 "gtfsId":null,
                 "nlbId":null,
@@ -229699,6 +229694,7 @@
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Central (Ferry Piers)",
                     "zh":"中環碼頭"
@@ -229763,12 +229759,11 @@
             },
             "722+1+Yiu Tung Estate+Yiu Tung Estate":{
                 "bound":{
-                    "ctb":"O"
+                    "ctb":"OI"
                 },
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Central (Ferry Piers) (Circular)",
                     "zh":"中環碼頭 (循環線)"
@@ -229936,12 +229931,11 @@
             },
             "722+2+Yiu Tung Estate+Yiu Tung Estate":{
                 "bound":{
-                    "ctb":"O"
+                    "ctb":"OI"
                 },
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Central (Ferry Piers) (Circular)",
                     "zh":"中環碼頭 (循環線)"
@@ -238826,11 +238820,11 @@
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Wong Chuk Hang Station / Shek Pai Wan",
                     "zh":"黃竹坑站/石排灣"
                 },
-                "fakeRoute":true,
                 "freq":null,
                 "gtfsId":null,
                 "nlbId":null,
@@ -238934,6 +238928,7 @@
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Causeway Bay (Pennington Street)",
                     "zh":"銅鑼灣 (邊寧頓街)"
@@ -238982,12 +238977,11 @@
             },
             "76+1+Wong Chuk Hang Station+Wong Chuk Hang Station":{
                 "bound":{
-                    "ctb":"O"
+                    "ctb":"OI"
                 },
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Causeway Bay (Pennington Street) (Circular)",
                     "zh":"銅鑼灣 (邊寧頓街) (循環線)"
@@ -239159,12 +239153,11 @@
             },
             "76+2+Shek Pai Wan+Shek Pai Wan":{
                 "bound":{
-                    "ctb":"O"
+                    "ctb":"OI"
                 },
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Causeway Bay (Pennington Street) (Circular)",
                     "zh":"銅鑼灣 (邊寧頓街) (循環線)"
@@ -239288,6 +239281,7 @@
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Pennington Street",
                     "zh":"邊寧頓街"
@@ -241569,6 +241563,7 @@
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Wong Chuk Hang",
                     "zh":"黃竹坑"
@@ -241612,12 +241607,11 @@
             },
             "78+1+Wong Chuk Hang (Nam Long Shan)+Wong Chuk Hang (Nam Long Shan)":{
                 "bound":{
-                    "ctb":"O"
+                    "ctb":"OI"
                 },
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Wah Kwai Estate (Circular)",
                     "zh":"華貴邨 (循環線)"
@@ -241752,11 +241746,11 @@
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Wah Kwai Estate",
                     "zh":"華貴邨"
                 },
-                "fakeRoute":true,
                 "freq":null,
                 "gtfsId":null,
                 "nlbId":null,
@@ -246322,11 +246316,11 @@
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Tseung Kwan O Station",
                     "zh":"將軍澳站"
                 },
-                "fakeRoute":true,
                 "freq":null,
                 "gtfsId":null,
                 "nlbId":null,
@@ -246360,11 +246354,11 @@
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Ngau Tau Kok Station",
                     "zh":"牛頭角站"
                 },
-                "fakeRoute":true,
                 "freq":null,
                 "gtfsId":null,
                 "nlbId":null,
@@ -246393,12 +246387,11 @@
             },
             "796S+1+Tseung Kwan O Station+Tseung Kwan O Station":{
                 "bound":{
-                    "ctb":"O"
+                    "ctb":"OI"
                 },
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Ngau Tau Kok Station (Circular)",
                     "zh":"牛頭角站 (循環線)"
@@ -246609,11 +246602,11 @@
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"LOHAS Park / Tseung Kwan O Industrial Estate",
                     "zh":"日出康城/將軍澳工業邨"
                 },
-                "fakeRoute":true,
                 "freq":null,
                 "gtfsId":null,
                 "nlbId":null,
@@ -246659,12 +246652,11 @@
             },
             "797+1+LOHAS Park+LOHAS Park":{
                 "bound":{
-                    "ctb":"O"
+                    "ctb":"OI"
                 },
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Kai Tak (Circular)",
                     "zh":"啟德 (循環線)"
@@ -246766,6 +246758,7 @@
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Tseuk Luk Street",
                     "zh":"爵祿街"
@@ -246821,6 +246814,7 @@
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Tseung Kwan O Industrial Estate",
                     "zh":"將軍澳工業邨"
@@ -258284,6 +258278,7 @@
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Siu Sai Wan (Island Resort)",
                     "zh":"小西灣 (藍灣半島)"
@@ -258422,11 +258417,11 @@
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Quarry Bay",
                     "zh":"鰂魚涌"
                 },
-                "fakeRoute":true,
                 "freq":null,
                 "gtfsId":null,
                 "nlbId":null,
@@ -258458,12 +258453,11 @@
             },
             "82X+1+Siu Sai Wan (Island Resort)+Siu Sai Wan (Island Resort)":{
                 "bound":{
-                    "ctb":"O"
+                    "ctb":"OI"
                 },
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Quarry Bay (Circular)",
                     "zh":"鰂魚涌 (循環線)"
@@ -260141,6 +260135,7 @@
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Siu Sai Wan (Island Resort)",
                     "zh":"小西灣 (藍灣半島)"
@@ -260491,6 +260486,7 @@
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"North Point Ferry Pier",
                     "zh":"北角碼頭"
@@ -260553,12 +260549,11 @@
             },
             "85+1+Siu Sai Wan (Island Resort)+Siu Sai Wan (Island Resort)":{
                 "bound":{
-                    "ctb":"O"
+                    "ctb":"OI"
                 },
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Braemar Hill / North Point (Circular)",
                     "zh":"寶馬山/北角 (循環線)"
@@ -260789,6 +260784,7 @@
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Siu Sai Wan (Island Resort)",
                     "zh":"小西灣 (藍灣半島)"
@@ -288338,11 +288334,11 @@
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Wah Fu (Central)",
                     "zh":"華富 (中)"
                 },
-                "fakeRoute":true,
                 "freq":null,
                 "gtfsId":null,
                 "nlbId":null,
@@ -288376,6 +288372,7 @@
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Lei Tung Estate",
                     "zh":"利東邨"
@@ -288413,12 +288410,11 @@
             },
             "94A+1+Wah Fu (Central)+Wah Fu (Central)":{
                 "bound":{
-                    "ctb":"O"
+                    "ctb":"OI"
                 },
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Lei Tung Estate (Circular)",
                     "zh":"利東邨 (循環線)"
@@ -290243,12 +290239,11 @@
             },
             "95C+1+Ap Lei Chau (Lee King Street)+Ap Lei Chau (Lee King Street)":{
                 "bound":{
-                    "ctb":"O"
+                    "ctb":"OI"
                 },
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Chi Fu Fa Yuen (Circular)",
                     "zh":"置富花園 (循環線)"
@@ -290362,11 +290357,11 @@
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Chi Fu Fa Yuen",
                     "zh":"置富花園"
                 },
-                "fakeRoute":true,
                 "freq":null,
                 "gtfsId":null,
                 "nlbId":null,
@@ -290412,11 +290407,11 @@
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Ap Lei Chau Estate / Lee Nam Industrial Area",
                     "zh":"鴨脷洲邨 / 利南工業區"
                 },
-                "fakeRoute":true,
                 "freq":null,
                 "gtfsId":null,
                 "nlbId":null,
@@ -290455,12 +290450,11 @@
             },
             "95C+2+Ap Lei Chau Estate+Ap Lei Chau Estate":{
                 "bound":{
-                    "ctb":"O"
+                    "ctb":"OI"
                 },
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Chi Fu Fa Yuen (Circular)",
                     "zh":"置富花園 (循環線)"
@@ -290579,15 +290573,15 @@
             },
             "95C+3+Ap Lei Chau (Lee King Street)+Ap Lei Chau Estate":{
                 "bound":{
-                    "ctb":"O"
+                    "ctb":"OI"
                 },
                 "co":[
                     "ctb"
                 ],
                 "ctbIsCircular":true,
                 "dest":{
-                    "en":"Ap Lei Chau Estate (Circular)",
-                    "zh":"鴨脷洲邨 (循環線)"
+                    "en":"Ap Lei Chau Estate",
+                    "zh":"鴨脷洲邨"
                 },
                 "freq":{
                     "319":{
@@ -290647,15 +290641,15 @@
             },
             "95C+4+Ap Lei Chau Estate+Ap Lei Chau (Lee King Street)":{
                 "bound":{
-                    "ctb":"O"
+                    "ctb":"OI"
                 },
                 "co":[
                     "ctb"
                 ],
                 "ctbIsCircular":true,
                 "dest":{
-                    "en":"Ap Lei Chau (Lee King Street) (Circular)",
-                    "zh":"鴨脷洲 (利景街) (循環線)"
+                    "en":"Ap Lei Chau (Lee King Street)",
+                    "zh":"鴨脷洲 (利景街)"
                 },
                 "freq":{
                     "319":{
@@ -290720,6 +290714,7 @@
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Ap Lei Chau Estate",
                     "zh":"鴨脷洲邨"
@@ -290770,6 +290765,7 @@
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Ap Lei Chau (Lee King Street)",
                     "zh":"鴨脷洲 (利景街)"
@@ -331674,12 +331670,11 @@
             },
             "H2K+1+Central Ferry - Star Ferry+Central Ferry - Star Ferry":{
                 "bound":{
-                    "ctb":"O"
+                    "ctb":"OI"
                 },
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"West Kowloon Cultural District (Circular)",
                     "zh":"西九文化區 ．落日飛車 (循環線)"
@@ -331730,11 +331725,11 @@
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"West Kowloon Cultural District",
                     "zh":"西九文化區 ．落日飛車"
                 },
-                "fakeRoute":true,
                 "freq":null,
                 "gtfsId":null,
                 "nlbId":null,
@@ -331768,11 +331763,11 @@
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Central Ferry - Star Ferry",
                     "zh":"中環碼頭-天星小輪 ．落日飛車"
                 },
-                "fakeRoute":true,
                 "freq":null,
                 "gtfsId":null,
                 "nlbId":null,
@@ -362096,12 +362091,11 @@
             },
             "N796+1+LOHAS Park+LOHAS Park":{
                 "bound":{
-                    "ctb":"O"
+                    "ctb":"OI"
                 },
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Mongkok (via Tsim Sha Tsui) (Circular)",
                     "zh":"旺角 (經尖沙咀) (循環線)"
@@ -362202,11 +362196,11 @@
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Mongkok (via Tsim Sha Tsui)",
                     "zh":"旺角 (經尖沙咀)"
                 },
-                "fakeRoute":true,
                 "freq":null,
                 "gtfsId":null,
                 "nlbId":null,
@@ -362263,6 +362257,7 @@
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"LOHAS Park",
                     "zh":"日出康城"
@@ -362334,12 +362329,11 @@
             },
             "N8+1+Citybus Chong Fu Road Garage, Sheung Tat Street+Citybus Chong Fu Road Garage, Sheung Tat Street":{
                 "bound":{
-                    "ctb":"O"
+                    "ctb":"OI"
                 },
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Quarry Bay (Circular)",
                     "zh":"鰂魚涌 (循環線)"
@@ -362425,6 +362419,7 @@
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Quarry Bay",
                     "zh":"鰂魚涌"
@@ -362476,6 +362471,7 @@
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Citybus Chong Fu Road Garage, Sheung Tat Street",
                     "zh":"城巴創富道車廠, 常達街"
@@ -362529,12 +362525,11 @@
             },
             "N8P+1+Siu Sai Wan (Island Resort)+Siu Sai Wan (Island Resort)":{
                 "bound":{
-                    "ctb":"O"
+                    "ctb":"OI"
                 },
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Wan Chai (Harbour Road) (Circular)",
                     "zh":"灣仔 (港灣道) (循環線)"
@@ -362601,11 +362596,11 @@
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Wan Chai (Harbour Road)",
                     "zh":"灣仔 (港灣道)"
                 },
-                "fakeRoute":true,
                 "freq":null,
                 "gtfsId":null,
                 "nlbId":null,
@@ -362646,11 +362641,11 @@
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Siu Sai Wan (Island Resort)",
                     "zh":"小西灣 (藍灣半島)"
                 },
-                "fakeRoute":true,
                 "freq":null,
                 "gtfsId":null,
                 "nlbId":null,
@@ -364461,11 +364456,11 @@
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Mongkok /  Nam Cheong",
                     "zh":"旺角 / 南昌"
                 },
-                "fakeRoute":true,
                 "freq":null,
                 "gtfsId":null,
                 "nlbId":null,
@@ -364505,12 +364500,11 @@
             },
             "NA21+1+Hong Kong-Zhuhai-Macao Bridge Hong Kong Port+Hong Kong-Zhuhai-Macao Bridge Hong Kong Port":{
                 "bound":{
-                    "ctb":"O"
+                    "ctb":"OI"
                 },
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Mongkok /  Nam Cheong (Circular)",
                     "zh":"旺角 / 南昌 (循環線)"
@@ -364553,15 +364547,14 @@
             },
             "NA21+1+Mongkok ／  Nam Cheong+Airport ／ HZMB Hong Kong Port":{
                 "bound":{
-                    "ctb":"O"
+                    "ctb":"OI"
                 },
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
-                    "en":"Airport / HZMB Hong Kong Port (Circular)",
-                    "zh":"機場 / 港珠澳大橋香港口岸 (循環線)"
+                    "en":"Airport / HZMB Hong Kong Port",
+                    "zh":"機場 / 港珠澳大橋香港口岸"
                 },
                 "freq":null,
                 "gtfsId":null,
