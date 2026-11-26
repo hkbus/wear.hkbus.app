@@ -30640,6 +30640,7 @@
             },
             "103+1+POKFIELD RD+CHUK YUEN ESTATE":{
                 "bound":{
+                    "ctb":"O",
                     "kmb":"I"
                 },
                 "co":[
@@ -30650,293 +30651,6 @@
                     "en":"Chuk Yuen Estate",
                     "zh":"竹園邨"
                 },
-                "fares":[
-                    "12.9",
-                    "12.9",
-                    "12.9",
-                    "12.9",
-                    "12.9",
-                    "12.9",
-                    "12.9",
-                    "12.9",
-                    "12.9",
-                    "12.9",
-                    "12.9",
-                    "12.9",
-                    "12.9",
-                    "12.9",
-                    "12.9",
-                    "12.2",
-                    "12.2",
-                    "12.2",
-                    "12.2",
-                    "12.2",
-                    "12.2",
-                    "12.2",
-                    "12.2",
-                    "12.2",
-                    "7.7",
-                    "7.7",
-                    "7.7",
-                    "7.7",
-                    "7.7",
-                    "7.7",
-                    "7.7",
-                    "7.7",
-                    "7.7",
-                    "7.7",
-                    "7.7",
-                    "7.7",
-                    "7.7",
-                    "7.7",
-                    "6.8"
-                ],
-                "faresHoliday":null,
-                "freq":{
-                    "287":{
-                        "0630":[
-                            "0745",
-                            "1500"
-                        ],
-                        "0745":[
-                            "1005",
-                            "1200"
-                        ],
-                        "1005":[
-                            "1030",
-                            "1500"
-                        ],
-                        "1030":[
-                            "1200",
-                            "1800"
-                        ],
-                        "1200":[
-                            "1250",
-                            "1500"
-                        ],
-                        "1250":[
-                            "1450",
-                            "1200"
-                        ],
-                        "1450":[
-                            "1630",
-                            "1500"
-                        ],
-                        "1630":[
-                            "1730",
-                            "1200"
-                        ],
-                        "1730":[
-                            "1800",
-                            "900"
-                        ],
-                        "1800":[
-                            "1820",
-                            "1200"
-                        ],
-                        "1820":[
-                            "1935",
-                            "1500"
-                        ],
-                        "1935":[
-                            "2155",
-                            "1200"
-                        ],
-                        "2155":[
-                            "2400",
-                            "1500"
-                        ]
-                    },
-                    "288":{
-                        "0630":[
-                            "0745",
-                            "1500"
-                        ],
-                        "0745":[
-                            "0825",
-                            "1200"
-                        ],
-                        "0825":[
-                            "1145",
-                            "1500"
-                        ],
-                        "1145":[
-                            "1245",
-                            "1200"
-                        ],
-                        "1245":[
-                            "1335",
-                            "1500"
-                        ],
-                        "1335":[
-                            "1515",
-                            "1200"
-                        ],
-                        "1515":[
-                            "1630",
-                            "1500"
-                        ],
-                        "1630":[
-                            "2130",
-                            "1200"
-                        ],
-                        "2130":[
-                            "2400",
-                            "1500"
-                        ]
-                    },
-                    "448":{
-                        "0640":[
-                            "0810",
-                            "1800"
-                        ],
-                        "0810":[
-                            "0900",
-                            "1500"
-                        ],
-                        "0900":[
-                            "1030",
-                            "1800"
-                        ],
-                        "1030":[
-                            "1052",
-                            "1320"
-                        ],
-                        "1052":[
-                            "1115",
-                            "1380"
-                        ],
-                        "1115":[
-                            "1137",
-                            "1320"
-                        ],
-                        "1137":[
-                            "1200",
-                            "1380"
-                        ],
-                        "1200":[
-                            "1330",
-                            "1800"
-                        ],
-                        "1330":[
-                            "1352",
-                            "1320"
-                        ],
-                        "1352":[
-                            "1415",
-                            "1380"
-                        ],
-                        "1415":[
-                            "1437",
-                            "1320"
-                        ],
-                        "1437":[
-                            "1500",
-                            "1380"
-                        ],
-                        "1500":[
-                            "1615",
-                            "1500"
-                        ],
-                        "1615":[
-                            "1636",
-                            "1260"
-                        ],
-                        "1636":[
-                            "1800",
-                            "840"
-                        ],
-                        "1800":[
-                            "1840",
-                            "1200"
-                        ],
-                        "1840":[
-                            "1930",
-                            "1500"
-                        ],
-                        "1930":[
-                            "2050",
-                            "1200"
-                        ],
-                        "2050":[
-                            "2230",
-                            "1500"
-                        ],
-                        "2230":[
-                            "2400",
-                            "1800"
-                        ]
-                    }
-                },
-                "gtfsId":"1008",
-                "jt":"65",
-                "kmbCtbJoint":true,
-                "nlbId":null,
-                "orig":{
-                    "en":"Pokfield Rd",
-                    "zh":"蒲飛路"
-                },
-                "route":"103",
-                "serviceType":"1",
-                "stops":{
-                    "kmb":[
-                        "9C4295A3DD992F0E",
-                        "8A8E1370026F639C",
-                        "C904C536EC3E0827",
-                        "1843FAE700FCA5AF",
-                        "65523F89F26B2088",
-                        "6D9F5C463D12461B",
-                        "8BD7CEC6396E46F0",
-                        "54F26831BD4A5EBD",
-                        "65DA1259C72FD22B",
-                        "7D77D56CB708BCED",
-                        "2ECC1DBA0C28E93C",
-                        "CAEFA7D6314535BC",
-                        "D1601C6EDAB39F29",
-                        "4A0CEB0807BAF9B3",
-                        "3007D34FB91FB27E",
-                        "45DD5738BA406D61",
-                        "048A87496B30B946",
-                        "A71457854D13E9DE",
-                        "A07CC0A6D462A579",
-                        "9E25CF3DAA0BA0C4",
-                        "9541036143D6CCF1",
-                        "13C75FFFA2BB060D",
-                        "D1D807234805DBF4",
-                        "79AFB35F9DBD485A",
-                        "6F755DD7C8AEB1B4",
-                        "D5DB45916FCE114A",
-                        "5D94D3084F0C3831",
-                        "E907FA24426A9FD6",
-                        "89A4D25AC31A8388",
-                        "6465986EF7824816",
-                        "F21DC659FA565E2F",
-                        "E3EEF07674DE3B98",
-                        "A96BE8855D16BCE0",
-                        "F3753E60F86B0068",
-                        "67C00FA00C878C1A",
-                        "7A899F3009A31F68",
-                        "550A2C52049679A0",
-                        "CEACD1DF9F00EF44",
-                        "6E410E80F8C9915B",
-                        "2BF46D2A46F5451D"
-                    ]
-                }
-            },
-            "103+1+Pokfield Road+Chuk Yuen":{
-                "bound":{
-                    "ctb":"O",
-                    "kmb":"I"
-                },
-                "co":[
-                    "kmb",
-                    "ctb"
-                ],
-                "dest":{
-                    "en":"Chuk Yuen",
-                    "zh":"竹園"
-                },
-                "fakeRoute":true,
                 "fares":[
                     "12.9",
                     "12.9",
@@ -31161,11 +30875,11 @@
                 "kmbCtbJoint":true,
                 "nlbId":null,
                 "orig":{
-                    "en":"Pokfield Road",
+                    "en":"Pokfield Rd",
                     "zh":"蒲飛路"
                 },
                 "route":"103",
-                "serviceType":1,
+                "serviceType":"1",
                 "stops":{
                     "ctb":[
                         "001115",
@@ -31229,7 +30943,7 @@
                         "45DD5738BA406D61",
                         "048A87496B30B946",
                         "A71457854D13E9DE",
-                        "ZZ62XF8HBY002435",
+                        "1FFFFBAE28F48D03",
                         "A07CC0A6D462A579",
                         "9E25CF3DAA0BA0C4",
                         "9541036143D6CCF1",
@@ -37035,11 +36749,12 @@
             },
             "11+1+Central Ferry - Bus Terminus+Central Ferry - Bus Terminus":{
                 "bound":{
-                    "ctb":"OI"
+                    "ctb":"O"
                 },
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Jardine's Lookout (Circular)",
                     "zh":"渣甸山 (循環線)"
@@ -37249,7 +36964,6 @@
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Loong Fung Terrace, Tai Hang Road",
                     "zh":"龍風臺, 大坑道"
@@ -37506,11 +37220,11 @@
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Central (Ferry Piers)",
                     "zh":"中環碼頭"
                 },
+                "fakeRoute":true,
                 "fares":null,
                 "faresHoliday":null,
                 "freq":null,
@@ -38668,11 +38382,12 @@
             },
             "11+2+Central Ferry - Bus Terminus+Central Ferry - Bus Terminus":{
                 "bound":{
-                    "ctb":"OI"
+                    "ctb":"O"
                 },
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Jardine's Lookout (Circular)",
                     "zh":"渣甸山 (循環線)"
@@ -38840,7 +38555,6 @@
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Loong Fung Terrace, Tai Hang Road",
                     "zh":"龍風臺, 大坑道"
@@ -39622,7 +39336,6 @@
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Canal Road East, Hennessy Road",
                     "zh":"堅拿道東, 軒尼詩道"
@@ -41309,13 +41022,14 @@
             },
             "110+1+SHAU KEI WAN+TSIM SHA TSUI (CIRCULAR)":{
                 "bound":{
-                    "ctb":"OI",
+                    "ctb":"O",
                     "kmb":"O"
                 },
                 "co":[
                     "kmb",
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Tsim Sha Tsui (Circular)",
                     "zh":"尖沙咀(循環線)"
@@ -41593,7 +41307,6 @@
                     "kmb",
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Tsim Sha Tsui (Mody Road)",
                     "zh":"尖沙咀 (麼地道)"
@@ -41789,7 +41502,6 @@
                     "kmb",
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Tsim Sha Tsui (Mody Road)",
                     "zh":"尖沙咀 (麼地道)"
@@ -41890,13 +41602,14 @@
             },
             "110+5+SHAU KEI WAN+TSIM SHA TSUI (CIRCULAR)":{
                 "bound":{
-                    "ctb":"OI",
+                    "ctb":"O",
                     "kmb":"O"
                 },
                 "co":[
                     "kmb",
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Tsim Sha Tsui (Circular)",
                     "zh":"尖沙咀(循環線)"
@@ -53926,11 +53639,12 @@
             },
             "12+1+Central Ferry - Discovery Bay Ferry, Man Kwong Street+Central Ferry - Discovery Bay Ferry, Man Kwong Street":{
                 "bound":{
-                    "ctb":"OI"
+                    "ctb":"O"
                 },
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Robinson Road / Park Road (Circular)",
                     "zh":"羅便臣道/柏道 (循環線)"
@@ -54172,11 +53886,11 @@
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Robinson Road / Park Road",
                     "zh":"羅便臣道/柏道"
                 },
+                "fakeRoute":true,
                 "fares":null,
                 "faresHoliday":null,
                 "freq":null,
@@ -54656,11 +54370,11 @@
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Central Pier 3",
                     "zh":"中環3號碼頭"
                 },
+                "fakeRoute":true,
                 "fares":null,
                 "faresHoliday":null,
                 "freq":null,
@@ -54921,11 +54635,12 @@
             },
             "12+2+Central Ferry - Discovery Bay Ferry, Man Kwong Street+Central Ferry - Discovery Bay Ferry, Man Kwong Street":{
                 "bound":{
-                    "ctb":"OI"
+                    "ctb":"O"
                 },
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Robinson Road / Park Road (Circular)",
                     "zh":"羅便臣道/柏道 (循環線)"
@@ -59268,11 +58983,12 @@
             },
             "14+1+Sai Wan Ho (Grand Promenade)+Sai Wan Ho (Grand Promenade)":{
                 "bound":{
-                    "ctb":"OI"
+                    "ctb":"O"
                 },
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Stanley Fort (Gate) / Ma Hang (Circular)",
                     "zh":"赤柱炮台 (閘口)/馬坑 (循環線)"
@@ -59474,7 +59190,6 @@
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Stanley Fort, Wong Ma Kok Road",
                     "zh":"赤柱炮台, 黃麻角道"
@@ -59595,7 +59310,6 @@
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Sai Wan Ho (Grand Promenade)",
                     "zh":"西灣河 (嘉亨灣)"
@@ -59700,11 +59414,12 @@
             },
             "14+2+Sai Wan Ho (Grand Promenade)+Sai Wan Ho (Grand Promenade)":{
                 "bound":{
-                    "ctb":"OI"
+                    "ctb":"O"
                 },
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Stanley Fort (Gate) / Ma Hang (Circular)",
                     "zh":"赤柱炮台 (閘口)/馬坑 (循環線)"
@@ -59859,7 +59574,6 @@
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Stanley Fort, Wong Ma Kok Road",
                     "zh":"赤柱炮台, 黃麻角道"
@@ -59960,7 +59674,6 @@
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Sai Wan Ho (Grand Promenade)",
                     "zh":"西灣河 (嘉亨灣)"
@@ -60039,7 +59752,6 @@
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Stanley Prison, Tung Tau Wan Road",
                     "zh":"赤柱監獄, 東頭灣道"
@@ -60118,7 +59830,6 @@
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Sai Wan Ho (Grand Promenade)",
                     "zh":"西灣河 (嘉亨灣)"
@@ -60212,7 +59923,6 @@
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Stanley Plaza",
                     "zh":"赤柱廣場"
@@ -74466,11 +74176,12 @@
             },
             "1M+1+Exhibition Centre Station+Exhibition Centre Station":{
                 "bound":{
-                    "ctb":"OI"
+                    "ctb":"O"
                 },
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Happy Valley / Wong Nai Chung Gap (Circular)",
                     "zh":"跑馬地/黃泥涌峽 (循環線)"
@@ -74602,11 +74313,11 @@
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Happy Valley / Wong Nai Chung Gap",
                     "zh":"跑馬地/黃泥涌峽"
                 },
+                "fakeRoute":true,
                 "fares":null,
                 "faresHoliday":null,
                 "freq":null,
@@ -74650,11 +74361,11 @@
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Exhibition Centre Station",
                     "zh":"會展站"
                 },
+                "fakeRoute":true,
                 "fares":null,
                 "faresHoliday":null,
                 "freq":null,
@@ -81274,11 +80985,11 @@
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Kai Tak Cruise Terminal",
                     "zh":"啟德郵輪碼頭"
                 },
+                "fakeRoute":true,
                 "fares":null,
                 "faresHoliday":null,
                 "freq":null,
@@ -81319,11 +81030,11 @@
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Jordan & Tsim Sha Tsui",
                     "zh":"佐敦及尖沙咀"
                 },
+                "fakeRoute":true,
                 "fares":null,
                 "faresHoliday":null,
                 "freq":null,
@@ -81362,11 +81073,12 @@
             },
             "20X+1+Kai Tak Cruise Terminal+Kai Tak Cruise Terminal":{
                 "bound":{
-                    "ctb":"OI"
+                    "ctb":"O"
                 },
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Jordan & Tsim Sha Tsui (Circular)",
                     "zh":"佐敦及尖沙咀 (循環線)"
@@ -87848,11 +87560,12 @@
             },
             "22D+1+Kai Tak - MTR Exit A, Muk On Street+Kai Tak - MTR Exit A, Muk On Street":{
                 "bound":{
-                    "ctb":"OI"
+                    "ctb":"O"
                 },
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Kai Tak Runway Area (Circular)",
                     "zh":"啟德跑道區 (循環線)"
@@ -87987,11 +87700,11 @@
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Kai Tak Station (Exit A)",
                     "zh":"啟德站 (A 出口)"
                 },
+                "fakeRoute":true,
                 "fares":null,
                 "faresHoliday":null,
                 "freq":null,
@@ -88025,11 +87738,11 @@
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Kai Tak Runway Area",
                     "zh":"啟德跑道區"
                 },
+                "fakeRoute":true,
                 "fares":null,
                 "faresHoliday":null,
                 "freq":null,
@@ -88135,11 +87848,12 @@
             },
             "22M+1+Kai Tak Cruise Terminal+Kai Tak Cruise Terminal":{
                 "bound":{
-                    "ctb":"OI"
+                    "ctb":"O"
                 },
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"To Kwa Wan (Circular)",
                     "zh":"土瓜灣 (循環線)"
@@ -88271,11 +87985,11 @@
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"To Kwa Wan",
                     "zh":"土瓜灣"
                 },
+                "fakeRoute":true,
                 "fares":null,
                 "faresHoliday":null,
                 "freq":null,
@@ -88395,11 +88109,11 @@
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Kai Tak Cruise Terminal",
                     "zh":"啟德郵輪碼頭"
                 },
+                "fakeRoute":true,
                 "fares":null,
                 "faresHoliday":null,
                 "freq":null,
@@ -88567,11 +88281,12 @@
             },
             "22S+1+Kai Tak - AIRSIDE+Kai Tak - AIRSIDE":{
                 "bound":{
-                    "ctb":"OI"
+                    "ctb":"O"
                 },
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Kai Tak Hospital / Cruise Terminal (Circular)",
                     "zh":"啟德醫院 / 郵輪碼頭 (循環線)"
@@ -88673,11 +88388,11 @@
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Kai Tak Hospital / Cruise Terminal",
                     "zh":"啟德醫院 / 郵輪碼頭"
                 },
+                "fakeRoute":true,
                 "fares":null,
                 "faresHoliday":null,
                 "freq":null,
@@ -88716,11 +88431,11 @@
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Kai Tak -AIRSIDE (via Sung Wong Toi Station)",
                     "zh":"啟德-AIRSIDE (經宋皇臺站)"
                 },
+                "fakeRoute":true,
                 "fares":null,
                 "faresHoliday":null,
                 "freq":null,
@@ -88831,11 +88546,12 @@
             },
             "22S+2+Kai Tak - AIRSIDE+Kai Tak - AIRSIDE":{
                 "bound":{
-                    "ctb":"OI"
+                    "ctb":"O"
                 },
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Kai Tak Hospital / Cruise Terminal (Circular)",
                     "zh":"啟德醫院 / 郵輪碼頭 (循環線)"
@@ -98730,11 +98446,11 @@
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Central (Pier 3/5)",
                     "zh":"中環 (3 / 5 號碼頭)"
                 },
+                "fakeRoute":true,
                 "fares":null,
                 "faresHoliday":null,
                 "freq":null,
@@ -98791,7 +98507,6 @@
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Braemar Hill",
                     "zh":"寶馬山"
@@ -98888,11 +98603,12 @@
             },
             "25+1+Central Ferry - Discovery Bay Ferry, Man Kwong Street+Central Ferry – Cheung Chau & Lamma Island Ferry":{
                 "bound":{
-                    "ctb":"OI"
+                    "ctb":"O"
                 },
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Braemar Hill (Circular)",
                     "zh":"寶馬山 (循環線)"
@@ -99122,11 +98838,12 @@
             },
             "25+2+Central Ferry - Discovery Bay Ferry, Man Kwong Street+Central Ferry – Cheung Chau & Lamma Island Ferry":{
                 "bound":{
-                    "ctb":"OI"
+                    "ctb":"O"
                 },
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Braemar Hill (Circular)",
                     "zh":"寶馬山 (循環線)"
@@ -99262,7 +98979,6 @@
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Concordia Lutheran School - North Point, Cloud View Road",
                     "zh":"北角協同中學, 雲景道"
@@ -103009,11 +102725,11 @@
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Exhibition Centre Station",
                     "zh":"會展站"
                 },
+                "fakeRoute":true,
                 "fares":null,
                 "faresHoliday":null,
                 "freq":null,
@@ -103063,11 +102779,11 @@
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Braemar Hill",
                     "zh":"寶馬山"
                 },
+                "fakeRoute":true,
                 "fares":null,
                 "faresHoliday":null,
                 "freq":null,
@@ -103111,11 +102827,12 @@
             },
             "25A+1+Exhibition Centre Station+Exhibition Centre Station":{
                 "bound":{
-                    "ctb":"OI"
+                    "ctb":"O"
                 },
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Braemar Hill (Circular)",
                     "zh":"寶馬山 (循環線)"
@@ -104467,11 +104184,11 @@
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Lai Tak Tsuen",
                     "zh":"勵德邨"
                 },
+                "fakeRoute":true,
                 "fares":null,
                 "faresHoliday":null,
                 "freq":null,
@@ -104603,11 +104320,11 @@
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Hollywood Road",
                     "zh":"荷李活道"
                 },
+                "fakeRoute":true,
                 "fares":null,
                 "faresHoliday":null,
                 "freq":null,
@@ -104653,11 +104370,12 @@
             },
             "26+1+Lai Tak Tsuen+Lai Tak Tsuen":{
                 "bound":{
-                    "ctb":"OI"
+                    "ctb":"O"
                 },
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Hollywood Road (Circular)",
                     "zh":"荷李活道 (循環線)"
@@ -105684,11 +105402,12 @@
             },
             "26+2+Lai Tak Tsuen+Lai Tak Tsuen":{
                 "bound":{
-                    "ctb":"OI"
+                    "ctb":"O"
                 },
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Hollywood Road (Circular)",
                     "zh":"荷李活道 (循環線)"
@@ -116219,15 +115938,15 @@
             },
             "27+1+Braemar Hill+North Point Ferry Pier":{
                 "bound":{
-                    "ctb":"OI"
+                    "ctb":"O"
                 },
                 "co":[
                     "ctb"
                 ],
                 "ctbIsCircular":true,
                 "dest":{
-                    "en":"North Point Ferry Pier",
-                    "zh":"北角碼頭"
+                    "en":"North Point Ferry Pier (Circular)",
+                    "zh":"北角碼頭 (循環線)"
                 },
                 "fares":null,
                 "faresHoliday":null,
@@ -116339,7 +116058,6 @@
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Braemar Hill",
                     "zh":"寶馬山"
@@ -116398,11 +116116,12 @@
             },
             "27+1+North Point Ferry Pier+North Point Ferry Pier":{
                 "bound":{
-                    "ctb":"OI"
+                    "ctb":"O"
                 },
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Braemar Hill (Circular)",
                     "zh":"寶馬山 (循環線)"
@@ -193610,11 +193329,12 @@
             },
             "48+1+Sham Wan+Sham Wan":{
                 "bound":{
-                    "ctb":"OI"
+                    "ctb":"O"
                 },
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Wah Fu (North) (Circular)",
                     "zh":"華富 (北) (循環線)"
@@ -193805,7 +193525,6 @@
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Wah On House Wah Fu Estate, Wah Fu Road",
                     "zh":"華富邨華安樓, 華富道"
@@ -193969,11 +193688,11 @@
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Sham Wan / Ocean Park",
                     "zh":"深灣/海洋公園"
                 },
+                "fakeRoute":true,
                 "fares":null,
                 "faresHoliday":null,
                 "freq":null,
@@ -194010,11 +193729,12 @@
             },
             "48+2+Ocean Park+Ocean Park":{
                 "bound":{
-                    "ctb":"OI"
+                    "ctb":"O"
                 },
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Wah Fu (North) (Circular)",
                     "zh":"華富 (北) (循環線)"
@@ -194180,15 +193900,15 @@
             },
             "48+3+Sham Wan+Ocean Park":{
                 "bound":{
-                    "ctb":"OI"
+                    "ctb":"O"
                 },
                 "co":[
                     "ctb"
                 ],
                 "ctbIsCircular":true,
                 "dest":{
-                    "en":"Ocean Park",
-                    "zh":"海洋公園"
+                    "en":"Ocean Park (Circular)",
+                    "zh":"海洋公園 (循環線)"
                 },
                 "fares":[
                     "4.2",
@@ -194280,15 +194000,15 @@
             },
             "48+4+Ocean Park+Sham Wan":{
                 "bound":{
-                    "ctb":"OI"
+                    "ctb":"O"
                 },
                 "co":[
                     "ctb"
                 ],
                 "ctbIsCircular":true,
                 "dest":{
-                    "en":"Sham Wan",
-                    "zh":"深灣"
+                    "en":"Sham Wan (Circular)",
+                    "zh":"深灣 (循環線)"
                 },
                 "fares":[
                     "4.2",
@@ -205272,14 +204992,14 @@
                 "serviceType":"1",
                 "stops":{
                     "lightRail":[
-                        "LR001",
-                        "LR010",
-                        "LR015",
-                        "LR020",
-                        "LR030",
-                        "LR040",
-                        "LR050",
-                        "LR060",
+                        "LR1",
+                        "LR10",
+                        "LR15",
+                        "LR20",
+                        "LR30",
+                        "LR40",
+                        "LR50",
+                        "LR60",
                         "LR295",
                         "LR300",
                         "LR310",
@@ -205508,8 +205228,8 @@
                         "LR212",
                         "LR220",
                         "LR230",
-                        "LR075",
-                        "LR070",
+                        "LR75",
+                        "LR70",
                         "LR295",
                         "LR280",
                         "LR270",
@@ -205517,7 +205237,7 @@
                         "LR260",
                         "LR250",
                         "LR240",
-                        "LR001"
+                        "LR1"
                     ]
                 }
             },
@@ -206711,11 +206431,12 @@
             },
             "50M+1+Ching Tin Estate+Ching Tin Estate":{
                 "bound":{
-                    "ctb":"OI"
+                    "ctb":"O"
                 },
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Tuen Mun Station (Circular)",
                     "zh":"屯門站 (循環線)"
@@ -206827,7 +206548,6 @@
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Tuen Mun Station",
                     "zh":"屯門站"
@@ -206882,11 +206602,11 @@
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Ching Tin Estate",
                     "zh":"菁田邨"
                 },
+                "fakeRoute":true,
                 "fares":null,
                 "faresHoliday":null,
                 "freq":null,
@@ -215712,11 +215432,11 @@
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Pak Shek Kok (Via University Station)",
                     "zh":"白石角 (經大學站)"
                 },
+                "fakeRoute":true,
                 "fares":null,
                 "faresHoliday":null,
                 "freq":null,
@@ -215754,11 +215474,11 @@
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"GO PARK Sai Sha / Sai Sha Residences",
                     "zh":"西沙GO PARK / 西沙灣"
                 },
+                "fakeRoute":true,
                 "fares":null,
                 "faresHoliday":null,
                 "freq":null,
@@ -215794,11 +215514,12 @@
             },
             "582+1+Pak Shek Kok+Pak Shek Kok":{
                 "bound":{
-                    "ctb":"OI"
+                    "ctb":"O"
                 },
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"GO PARK Sai Sha / Sai Sha Residences (Circular)",
                     "zh":"西沙GO PARK / 西沙灣 (循環線)"
@@ -219386,11 +219107,11 @@
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"South Horizons",
                     "zh":"海怡半島"
                 },
+                "fakeRoute":true,
                 "fares":null,
                 "faresHoliday":null,
                 "freq":null,
@@ -219430,11 +219151,11 @@
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Shek Pai Wan (via Aberdeen)",
                     "zh":"石排灣 (經香港仔)"
                 },
+                "fakeRoute":true,
                 "fares":null,
                 "faresHoliday":null,
                 "freq":null,
@@ -219470,11 +219191,12 @@
             },
             "595+1+South Horizons+South Horizons":{
                 "bound":{
-                    "ctb":"OI"
+                    "ctb":"O"
                 },
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Shek Pai Wan (via Aberdeen) (Circular)",
                     "zh":"石排灣 (經香港仔) (循環線)"
@@ -240848,6 +240570,7 @@
             },
             "621+1+CENTRAL (HONG KONG STATION)+LAGUNA CITY":{
                 "bound":{
+                    "ctb":"I",
                     "kmb":"I"
                 },
                 "co":[
@@ -240872,6 +240595,7 @@
                     "13.8",
                     "13.8",
                     "13.8",
+                    "7.7",
                     "7.7",
                     "7.7",
                     "7.7",
@@ -240895,82 +240619,6 @@
                 },
                 "route":"621",
                 "serviceType":"1",
-                "stops":{
-                    "kmb":[
-                        "6784D2ABC479F6CE",
-                        "FA8CD68ED6042BE2",
-                        "8CB416D9703A48A4",
-                        "CDA6257743B1D479",
-                        "3007D34FB91FB27E",
-                        "60012869923EEE68",
-                        "9DA98A5E3914E2E3",
-                        "A71457854D13E9DE",
-                        "A07CC0A6D462A579",
-                        "4EE6F43CF8D6217D",
-                        "9541036143D6CCF1",
-                        "DDEB0396969D004B",
-                        "D678B3364437D16B",
-                        "2EF9764BE18FC290",
-                        "FF6E49051D6D9A8C",
-                        "41E95E283D770EF7",
-                        "60EFE49C54F0CF11",
-                        "CFD146683A7FFC62",
-                        "606FAFD58ACD98FA"
-                    ]
-                }
-            },
-            "621+1+Central (Hong Kong Station)+Laguna City":{
-                "bound":{
-                    "ctb":"I",
-                    "kmb":"I"
-                },
-                "co":[
-                    "kmb",
-                    "ctb"
-                ],
-                "dest":{
-                    "en":"Laguna City",
-                    "zh":"麗港城"
-                },
-                "fakeRoute":true,
-                "fares":[
-                    "13.8",
-                    "13.8",
-                    "13.8",
-                    "13.8",
-                    "13.8",
-                    "13.8",
-                    "13.8",
-                    "13.8",
-                    "13.8",
-                    "13.8",
-                    "13.8",
-                    "13.8",
-                    "13.8",
-                    "7.7",
-                    "7.7",
-                    "7.7",
-                    "7.7",
-                    "7.7",
-                    "7.7"
-                ],
-                "faresHoliday":null,
-                "freq":{
-                    "287":{
-                        "1805":null,
-                        "1835":null
-                    }
-                },
-                "gtfsId":"1267",
-                "jt":"37",
-                "kmbCtbJoint":true,
-                "nlbId":null,
-                "orig":{
-                    "en":"Central (Hong Kong Station)",
-                    "zh":"中環 (香港站)"
-                },
-                "route":"621",
-                "serviceType":1,
                 "stops":{
                     "ctb":[
                         "001196",
@@ -241003,7 +240651,7 @@
                         "60012869923EEE68",
                         "9DA98A5E3914E2E3",
                         "A71457854D13E9DE",
-                        "ZZ62XF8HBY002435",
+                        "1FFFFBAE28F48D03",
                         "A07CC0A6D462A579",
                         "4EE6F43CF8D6217D",
                         "9541036143D6CCF1",
@@ -265336,11 +264984,11 @@
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Mong Kok",
                     "zh":"旺角"
                 },
+                "fakeRoute":true,
                 "fares":null,
                 "faresHoliday":null,
                 "freq":null,
@@ -265370,11 +265018,12 @@
             },
             "701+1+Hoi Lai Estate+Hoi Lai Estate":{
                 "bound":{
-                    "ctb":"OI"
+                    "ctb":"O"
                 },
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Mong Kok (Circular)",
                     "zh":"旺角 (循環線)"
@@ -265530,11 +265179,11 @@
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Hoi Lai Estate / Nam Cheong Station",
                     "zh":"海麗邨/南昌站"
                 },
+                "fakeRoute":true,
                 "fares":null,
                 "faresHoliday":null,
                 "freq":null,
@@ -265564,11 +265213,12 @@
             },
             "701A+1+Hoi Ying Estate+Hoi Ying Estate":{
                 "bound":{
-                    "ctb":"OI"
+                    "ctb":"O"
                 },
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Mong Kok (Circular)",
                     "zh":"旺角 (循環線)"
@@ -265655,15 +265305,15 @@
             },
             "701A+1+Hoi Ying Estate+Mong Kok":{
                 "bound":{
-                    "ctb":"OI"
+                    "ctb":"O"
                 },
                 "co":[
                     "ctb"
                 ],
                 "ctbIsCircular":true,
                 "dest":{
-                    "en":"Mong Kok",
-                    "zh":"旺角"
+                    "en":"Mong Kok (Circular)",
+                    "zh":"旺角 (循環線)"
                 },
                 "fares":null,
                 "faresHoliday":null,
@@ -265692,15 +265342,15 @@
             },
             "701A+1+Mong Kok+Hoi Ying Estate":{
                 "bound":{
-                    "ctb":"OI"
+                    "ctb":"O"
                 },
                 "co":[
                     "ctb"
                 ],
                 "ctbIsCircular":true,
                 "dest":{
-                    "en":"Hoi Ying Estate",
-                    "zh":"海盈邨"
+                    "en":"Hoi Ying Estate (Circular)",
+                    "zh":"海盈邨 (循環線)"
                 },
                 "fares":null,
                 "faresHoliday":null,
@@ -265734,11 +265384,11 @@
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Mong Kok",
                     "zh":"旺角"
                 },
+                "fakeRoute":true,
                 "fares":null,
                 "faresHoliday":null,
                 "freq":null,
@@ -265768,11 +265418,12 @@
             },
             "701S+1+Hoi Lai Estate+Hoi Lai Estate":{
                 "bound":{
-                    "ctb":"OI"
+                    "ctb":"O"
                 },
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Mong Kok (Circular)",
                     "zh":"旺角 (循環線)"
@@ -265840,11 +265491,11 @@
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Hoi Lai Estate / Nam Cheong Station",
                     "zh":"海麗邨/南昌站"
                 },
+                "fakeRoute":true,
                 "fares":null,
                 "faresHoliday":null,
                 "freq":null,
@@ -265879,7 +265530,6 @@
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Man Lok House Tai Hang Sai Estate, Woh Chai Street",
                     "zh":"大坑西新邨民樂樓, 窩仔街"
@@ -265940,7 +265590,6 @@
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Hoi Lai Estate",
                     "zh":"海麗邨"
@@ -265980,11 +265629,12 @@
             },
             "702+1+Hoi Lai Estate+Hoi Lai Estate":{
                 "bound":{
-                    "ctb":"OI"
+                    "ctb":"O"
                 },
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Kowloon Tong (Festival Walk) (Circular)",
                     "zh":"九龍塘 (又一城) (循環線)"
@@ -266549,11 +266199,11 @@
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Pak Tin (North)",
                     "zh":"白田 (北)"
                 },
+                "fakeRoute":true,
                 "fares":null,
                 "faresHoliday":null,
                 "freq":null,
@@ -266595,11 +266245,11 @@
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Hoi Ying Estate",
                     "zh":"海盈邨"
                 },
+                "fakeRoute":true,
                 "fares":null,
                 "faresHoliday":null,
                 "freq":null,
@@ -266635,11 +266285,12 @@
             },
             "702B+1+Pak Tin (North)+Pak Tin (North)":{
                 "bound":{
-                    "ctb":"OI"
+                    "ctb":"O"
                 },
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Hoi Ying Estate (Circular)",
                     "zh":"海盈邨 (循環線)"
@@ -266774,11 +266425,12 @@
             },
             "702S+1+Cheung Sha Wan Jockey Club Clinic, Kwong Lee Road+Cheung Sha Wan Jockey Club Clinic, Kwong Lee Road":{
                 "bound":{
-                    "ctb":"OI"
+                    "ctb":"O"
                 },
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Banyan Garden / Fu Cheong Estate (Circular)",
                     "zh":"泓景臺/富昌邨 (循環線)"
@@ -266848,7 +266500,6 @@
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Cheung Sha Wan Jockey Club Clinic, Kwong Lee Road",
                     "zh":"長沙灣賽馬會診療所, 廣利道"
@@ -266905,11 +266556,11 @@
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Banyan Garden / Fu Cheong Estate",
                     "zh":"泓景臺/富昌邨"
                 },
+                "fakeRoute":true,
                 "fares":null,
                 "faresHoliday":null,
                 "freq":null,
@@ -271226,7 +270877,6 @@
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Sai Wan Ho (Grand Promenade)",
                     "zh":"西灣河 (嘉亨灣)"
@@ -271354,7 +271004,6 @@
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Central (Macao Ferry)",
                     "zh":"中環 (港澳碼頭)"
@@ -271547,11 +271196,12 @@
             },
             "720+1+Sai Wan Ho (Grand Promenade)+Sai Wan Ho (Grand Promenade)":{
                 "bound":{
-                    "ctb":"OI"
+                    "ctb":"O"
                 },
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Central (Macao Ferry / Wing Wo Street) (Circular)",
                     "zh":"中環 (港澳碼頭 / 永和街) (循環線)"
@@ -271667,7 +271317,6 @@
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Sai Wan Ho (Grand Promenade)",
                     "zh":"西灣河 (嘉亨灣)"
@@ -271813,7 +271462,6 @@
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Wing Wo Street, Connaught Road Central",
                     "zh":"永和街, 干諾道中"
@@ -272021,11 +271669,11 @@
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Taikoo Shing",
                     "zh":"太古城"
                 },
+                "fakeRoute":true,
                 "fares":null,
                 "faresHoliday":null,
                 "freq":null,
@@ -272050,11 +271698,12 @@
             },
             "720P+1+Cityplaza, Taikoo Shing Road+Cityplaza, Taikoo Shing Road":{
                 "bound":{
-                    "ctb":"OI"
+                    "ctb":"O"
                 },
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Central (Wing Wo Street) (Circular)",
                     "zh":"中環 (永和街) (循環線)"
@@ -272134,7 +271783,6 @@
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Central (Wing Wo Street)",
                     "zh":"中環 (永和街)"
@@ -272248,11 +271896,11 @@
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Yiu Tung Estate",
                     "zh":"耀東邨"
                 },
+                "fakeRoute":true,
                 "fares":null,
                 "faresHoliday":null,
                 "freq":null,
@@ -272307,7 +271955,6 @@
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Central (Ferry Piers)",
                     "zh":"中環碼頭"
@@ -272396,11 +272043,12 @@
             },
             "722+1+Yiu Tung Estate+Yiu Tung Estate":{
                 "bound":{
-                    "ctb":"OI"
+                    "ctb":"O"
                 },
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Central (Ferry Piers) (Circular)",
                     "zh":"中環碼頭 (循環線)"
@@ -272613,11 +272261,12 @@
             },
             "722+2+Yiu Tung Estate+Yiu Tung Estate":{
                 "bound":{
-                    "ctb":"OI"
+                    "ctb":"O"
                 },
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Central (Ferry Piers) (Circular)",
                     "zh":"中環碼頭 (循環線)"
@@ -281692,10 +281341,10 @@
                         "LR360",
                         "LR350",
                         "LR100",
-                        "LR090",
-                        "LR080",
-                        "LR075",
-                        "LR070",
+                        "LR90",
+                        "LR80",
+                        "LR75",
+                        "LR70",
                         "LR295",
                         "LR280",
                         "LR270",
@@ -281703,7 +281352,7 @@
                         "LR260",
                         "LR250",
                         "LR240",
-                        "LR001"
+                        "LR1"
                     ]
                 }
             },
@@ -282941,11 +282590,11 @@
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Wong Chuk Hang Station / Shek Pai Wan",
                     "zh":"黃竹坑站/石排灣"
                 },
+                "fakeRoute":true,
                 "fares":null,
                 "faresHoliday":null,
                 "freq":null,
@@ -283065,7 +282714,6 @@
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Causeway Bay (Pennington Street)",
                     "zh":"銅鑼灣 (邊寧頓街)"
@@ -283139,11 +282787,12 @@
             },
             "76+1+Wong Chuk Hang Station+Wong Chuk Hang Station":{
                 "bound":{
-                    "ctb":"OI"
+                    "ctb":"O"
                 },
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Causeway Bay (Pennington Street) (Circular)",
                     "zh":"銅鑼灣 (邊寧頓街) (循環線)"
@@ -283384,11 +283033,12 @@
             },
             "76+2+Shek Pai Wan+Shek Pai Wan":{
                 "bound":{
-                    "ctb":"OI"
+                    "ctb":"O"
                 },
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Causeway Bay (Pennington Street) (Circular)",
                     "zh":"銅鑼灣 (邊寧頓街) (循環線)"
@@ -283573,7 +283223,6 @@
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Pennington Street",
                     "zh":"邊寧頓街"
@@ -286296,7 +285945,6 @@
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Wong Chuk Hang",
                     "zh":"黃竹坑"
@@ -286355,11 +286003,12 @@
             },
             "78+1+Wong Chuk Hang (Nam Long Shan)+Wong Chuk Hang (Nam Long Shan)":{
                 "bound":{
-                    "ctb":"OI"
+                    "ctb":"O"
                 },
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Wah Kwai Estate (Circular)",
                     "zh":"華貴邨 (循環線)"
@@ -286519,11 +286168,11 @@
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Wah Kwai Estate",
                     "zh":"華貴邨"
                 },
+                "fakeRoute":true,
                 "fares":null,
                 "faresHoliday":null,
                 "freq":null,
@@ -292067,11 +291716,11 @@
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Tseung Kwan O Station",
                     "zh":"將軍澳站"
                 },
+                "fakeRoute":true,
                 "fares":null,
                 "faresHoliday":null,
                 "freq":null,
@@ -292107,11 +291756,11 @@
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Ngau Tau Kok Station",
                     "zh":"牛頭角站"
                 },
+                "fakeRoute":true,
                 "fares":null,
                 "faresHoliday":null,
                 "freq":null,
@@ -292142,11 +291791,12 @@
             },
             "796S+1+Tseung Kwan O Station+Tseung Kwan O Station":{
                 "bound":{
-                    "ctb":"OI"
+                    "ctb":"O"
                 },
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Ngau Tau Kok Station (Circular)",
                     "zh":"牛頭角站 (循環線)"
@@ -292218,11 +291868,11 @@
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"LOHAS Park",
                     "zh":"日出康城"
                 },
+                "fakeRoute":true,
                 "fares":null,
                 "faresHoliday":null,
                 "freq":null,
@@ -292266,11 +291916,11 @@
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Hung Hom and To Kwa Wan",
                     "zh":"紅磡及土瓜灣"
                 },
+                "fakeRoute":true,
                 "fares":null,
                 "faresHoliday":null,
                 "freq":null,
@@ -292311,11 +291961,12 @@
             },
             "796X+1+LOHAS Park+LOHAS Park":{
                 "bound":{
-                    "ctb":"OI"
+                    "ctb":"O"
                 },
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Hung Hom and To Kwa Wan (Circular)",
                     "zh":"紅磡及土瓜灣 (循環線)"
@@ -292529,11 +292180,11 @@
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"LOHAS Park / Tseung Kwan O Industrial Estate",
                     "zh":"日出康城/將軍澳工業邨"
                 },
+                "fakeRoute":true,
                 "fares":null,
                 "faresHoliday":null,
                 "freq":null,
@@ -292581,11 +292232,12 @@
             },
             "797+1+LOHAS Park+LOHAS Park":{
                 "bound":{
-                    "ctb":"OI"
+                    "ctb":"O"
                 },
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Kai Tak (Circular)",
                     "zh":"啟德 (循環線)"
@@ -292730,7 +292382,6 @@
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Tseuk Luk Street",
                     "zh":"爵祿街"
@@ -292813,7 +292464,6 @@
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Tseung Kwan O Industrial Estate",
                     "zh":"將軍澳工業邨"
@@ -307266,7 +306916,6 @@
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Siu Sai Wan (Island Resort)",
                     "zh":"小西灣 (藍灣半島)"
@@ -307457,11 +307106,11 @@
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Quarry Bay",
                     "zh":"鰂魚涌"
                 },
+                "fakeRoute":true,
                 "fares":null,
                 "faresHoliday":null,
                 "freq":null,
@@ -307495,11 +307144,12 @@
             },
             "82X+1+Siu Sai Wan (Island Resort)+Siu Sai Wan (Island Resort)":{
                 "bound":{
-                    "ctb":"OI"
+                    "ctb":"O"
                 },
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Quarry Bay (Circular)",
                     "zh":"鰂魚涌 (循環線)"
@@ -309577,7 +309227,6 @@
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Siu Sai Wan (Island Resort)",
                     "zh":"小西灣 (藍灣半島)"
@@ -310027,7 +309676,6 @@
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"North Point Ferry Pier",
                     "zh":"北角碼頭"
@@ -310122,11 +309770,12 @@
             },
             "85+1+Siu Sai Wan (Island Resort)+Siu Sai Wan (Island Resort)":{
                 "bound":{
-                    "ctb":"OI"
+                    "ctb":"O"
                 },
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Braemar Hill / North Point (Circular)",
                     "zh":"寶馬山/北角 (循環線)"
@@ -310461,7 +310110,6 @@
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Siu Sai Wan (Island Resort)",
                     "zh":"小西灣 (藍灣半島)"
@@ -343092,11 +342740,11 @@
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Wah Fu (Central)",
                     "zh":"華富 (中)"
                 },
+                "fakeRoute":true,
                 "fares":null,
                 "faresHoliday":null,
                 "freq":null,
@@ -343132,7 +342780,6 @@
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Lei Tung Estate",
                     "zh":"利東邨"
@@ -343183,11 +342830,12 @@
             },
             "94A+1+Wah Fu (Central)+Wah Fu (Central)":{
                 "bound":{
-                    "ctb":"OI"
+                    "ctb":"O"
                 },
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Lei Tung Estate (Circular)",
                     "zh":"利東邨 (循環線)"
@@ -345479,11 +345127,12 @@
             },
             "95C+1+Ap Lei Chau (Lee King Street)+Ap Lei Chau (Lee King Street)":{
                 "bound":{
-                    "ctb":"OI"
+                    "ctb":"O"
                 },
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Chi Fu Fa Yuen (Circular)",
                     "zh":"置富花園 (循環線)"
@@ -345637,11 +345286,11 @@
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Chi Fu Fa Yuen",
                     "zh":"置富花園"
                 },
+                "fakeRoute":true,
                 "fares":null,
                 "faresHoliday":null,
                 "freq":null,
@@ -345689,11 +345338,11 @@
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Ap Lei Chau Estate / Lee Nam Industrial Area",
                     "zh":"鴨脷洲邨 / 利南工業區"
                 },
+                "fakeRoute":true,
                 "fares":null,
                 "faresHoliday":null,
                 "freq":null,
@@ -345734,11 +345383,12 @@
             },
             "95C+2+Ap Lei Chau Estate+Ap Lei Chau Estate":{
                 "bound":{
-                    "ctb":"OI"
+                    "ctb":"O"
                 },
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Chi Fu Fa Yuen (Circular)",
                     "zh":"置富花園 (循環線)"
@@ -345891,15 +345541,15 @@
             },
             "95C+3+Ap Lei Chau (Lee King Street)+Ap Lei Chau Estate":{
                 "bound":{
-                    "ctb":"OI"
+                    "ctb":"O"
                 },
                 "co":[
                     "ctb"
                 ],
                 "ctbIsCircular":true,
                 "dest":{
-                    "en":"Ap Lei Chau Estate",
-                    "zh":"鴨脷洲邨"
+                    "en":"Ap Lei Chau Estate (Circular)",
+                    "zh":"鴨脷洲邨 (循環線)"
                 },
                 "fares":[
                     "4.2",
@@ -345995,15 +345645,15 @@
             },
             "95C+4+Ap Lei Chau Estate+Ap Lei Chau (Lee King Street)":{
                 "bound":{
-                    "ctb":"OI"
+                    "ctb":"O"
                 },
                 "co":[
                     "ctb"
                 ],
                 "ctbIsCircular":true,
                 "dest":{
-                    "en":"Ap Lei Chau (Lee King Street)",
-                    "zh":"鴨脷洲 (利景街)"
+                    "en":"Ap Lei Chau (Lee King Street) (Circular)",
+                    "zh":"鴨脷洲 (利景街) (循環線)"
                 },
                 "fares":[
                     "4.2",
@@ -346106,7 +345756,6 @@
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Ap Lei Chau Estate",
                     "zh":"鴨脷洲邨"
@@ -346178,7 +345827,6 @@
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Ap Lei Chau (Lee King Street)",
                     "zh":"鴨脷洲 (利景街)"
@@ -397547,11 +397195,12 @@
             },
             "H2K+1+Central Ferry - Star Ferry+Central Ferry - Star Ferry":{
                 "bound":{
-                    "ctb":"OI"
+                    "ctb":"O"
                 },
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"West Kowloon Cultural District (Circular)",
                     "zh":"西九文化區 ．落日飛車 (循環線)"
@@ -397621,11 +397270,11 @@
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"West Kowloon Cultural District",
                     "zh":"西九文化區 ．落日飛車"
                 },
+                "fakeRoute":true,
                 "fares":null,
                 "faresHoliday":null,
                 "freq":null,
@@ -397661,11 +397310,11 @@
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Central Ferry - Star Ferry",
                     "zh":"中環碼頭-天星小輪 ．落日飛車"
                 },
+                "fakeRoute":true,
                 "fares":null,
                 "faresHoliday":null,
                 "freq":null,
@@ -421961,6 +421610,7 @@
             },
             "N182+1+CENTRAL (MACAO FERRY)+KWONG YUEN":{
                 "bound":{
+                    "ctb":"O",
                     "kmb":"I"
                 },
                 "co":[
@@ -422011,6 +421661,7 @@
                     "12.2",
                     "12.2",
                     "12.2",
+                    "12.2",
                     "12.2"
                 ],
                 "faresHoliday":null,
@@ -422032,128 +421683,6 @@
                 },
                 "route":"N182",
                 "serviceType":"1",
-                "stops":{
-                    "kmb":[
-                        "59013D693D2493FE",
-                        "C8811A27E4B64581",
-                        "C78818C8285315B3",
-                        "5298A15B8CCAEF42",
-                        "A9069A17B1474D76",
-                        "08446B39CF34C8FD",
-                        "3007D34FB91FB27E",
-                        "45DD5738BA406D61",
-                        "048A87496B30B946",
-                        "A71457854D13E9DE",
-                        "A07CC0A6D462A579",
-                        "9E25CF3DAA0BA0C4",
-                        "5BD1D1453F3EFA85",
-                        "D1D807234805DBF4",
-                        "79AFB35F9DBD485A",
-                        "D5DB45916FCE114A",
-                        "5D94D3084F0C3831",
-                        "89A4D25AC31A8388",
-                        "6465986EF7824816",
-                        "C53A00F15DC2DB20",
-                        "48E5A1EED91712EE",
-                        "8FE9357F36300CD7",
-                        "45D0CFA28B3FEFE5",
-                        "B8E2647E9C5019C9",
-                        "AAECA769A84E2372",
-                        "A66159E033DDEA04",
-                        "C92E80A5D7E0E8EC",
-                        "07ADFF84F3502690",
-                        "B9EE83CA8ABB578B",
-                        "50F2B96452F78F19",
-                        "1AE43A670EACECB1",
-                        "C0D515CA78A56B65",
-                        "3C624F6CB2D5BBEA",
-                        "C1E9F8237EDBBAD2",
-                        "4BFB5F2D496CDA56",
-                        "51FCE282462E418B",
-                        "F8BB84BC801E4C85",
-                        "BC39BFC3C7BC3009",
-                        "2FABE52A66DF7482",
-                        "C1E1199805BCC92D",
-                        "EAA44CDBC231DB8C"
-                    ]
-                }
-            },
-            "N182+1+Central (Macao Ferry)+Sha Tin (Kwong Yuen)":{
-                "bound":{
-                    "ctb":"O",
-                    "kmb":"I"
-                },
-                "co":[
-                    "kmb",
-                    "ctb"
-                ],
-                "dest":{
-                    "en":"Sha Tin (Kwong Yuen)",
-                    "zh":"沙田 (廣源)"
-                },
-                "fakeRoute":true,
-                "fares":[
-                    "31.2",
-                    "31.2",
-                    "31.2",
-                    "31.2",
-                    "31.2",
-                    "31.2",
-                    "31.2",
-                    "31.2",
-                    "31.2",
-                    "31.2",
-                    "31.2",
-                    "31.2",
-                    "31.2",
-                    "31.2",
-                    "31.2",
-                    "24.5",
-                    "24.5",
-                    "24.5",
-                    "24.5",
-                    "24.5",
-                    "24.5",
-                    "24.5",
-                    "24.5",
-                    "12.2",
-                    "12.2",
-                    "12.2",
-                    "12.2",
-                    "12.2",
-                    "12.2",
-                    "12.2",
-                    "12.2",
-                    "12.2",
-                    "12.2",
-                    "12.2",
-                    "12.2",
-                    "12.2",
-                    "12.2",
-                    "12.2",
-                    "12.2",
-                    "12.2",
-                    "12.2"
-                ],
-                "faresHoliday":null,
-                "freq":{
-                    "511":{
-                        "0000":[
-                            "0540",
-                            "1200"
-                        ]
-                    }
-                },
-                "gtfsId":"1434",
-                "jt":"64",
-                "kmbCtbJoint":true,
-                "nlbId":null,
-                "orig":{
-                    "en":"Central (Macao Ferry)",
-                    "zh":"中環 (港澳碼頭)"
-                },
-                "route":"N182",
-                "serviceType":1,
                 "stops":{
                     "ctb":[
                         "001027",
@@ -422210,7 +421739,7 @@
                         "45DD5738BA406D61",
                         "048A87496B30B946",
                         "A71457854D13E9DE",
-                        "ZZ62XF8HBY002435",
+                        "1FFFFBAE28F48D03",
                         "A07CC0A6D462A579",
                         "9E25CF3DAA0BA0C4",
                         "5BD1D1453F3EFA85",
@@ -431689,11 +431218,12 @@
             },
             "N796+1+LOHAS Park+LOHAS Park":{
                 "bound":{
-                    "ctb":"OI"
+                    "ctb":"O"
                 },
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Mongkok (via Tsim Sha Tsui) (Circular)",
                     "zh":"旺角 (經尖沙咀) (循環線)"
@@ -431859,11 +431389,11 @@
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Mongkok (via Tsim Sha Tsui)",
                     "zh":"旺角 (經尖沙咀)"
                 },
+                "fakeRoute":true,
                 "fares":null,
                 "faresHoliday":null,
                 "freq":null,
@@ -431922,7 +431452,6 @@
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"LOHAS Park",
                     "zh":"日出康城"
@@ -432041,11 +431570,12 @@
             },
             "N8+1+Citybus Chong Fu Road Garage, Sheung Tat Street+Citybus Chong Fu Road Garage, Sheung Tat Street":{
                 "bound":{
-                    "ctb":"OI"
+                    "ctb":"O"
                 },
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Quarry Bay (Circular)",
                     "zh":"鰂魚涌 (循環線)"
@@ -432181,7 +431711,6 @@
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Quarry Bay",
                     "zh":"鰂魚涌"
@@ -432256,7 +431785,6 @@
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Citybus Chong Fu Road Garage, Sheung Tat Street",
                     "zh":"城巴創富道車廠, 常達街"
@@ -432340,11 +431868,12 @@
             },
             "N8P+1+Siu Sai Wan (Island Resort)+Siu Sai Wan (Island Resort)":{
                 "bound":{
-                    "ctb":"OI"
+                    "ctb":"O"
                 },
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Wan Chai (Harbour Road) (Circular)",
                     "zh":"灣仔 (港灣道) (循環線)"
@@ -432442,11 +431971,11 @@
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Wan Chai (Harbour Road)",
                     "zh":"灣仔 (港灣道)"
                 },
+                "fakeRoute":true,
                 "fares":null,
                 "faresHoliday":null,
                 "freq":null,
@@ -432489,11 +432018,11 @@
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Siu Sai Wan (Island Resort)",
                     "zh":"小西灣 (藍灣半島)"
                 },
+                "fakeRoute":true,
                 "fares":null,
                 "faresHoliday":null,
                 "freq":null,
@@ -434988,11 +434517,11 @@
                 "co":[
                     "ctb"
                 ],
-                "ctbIsCircular":true,
                 "dest":{
                     "en":"Mongkok /  Nam Cheong",
                     "zh":"旺角 / 南昌"
                 },
+                "fakeRoute":true,
                 "fares":null,
                 "faresHoliday":null,
                 "freq":null,
@@ -435034,11 +434563,12 @@
             },
             "NA21+1+Hong Kong-Zhuhai-Macao Bridge Hong Kong Port+Hong Kong-Zhuhai-Macao Bridge Hong Kong Port":{
                 "bound":{
-                    "ctb":"OI"
+                    "ctb":"O"
                 },
                 "co":[
                     "ctb"
                 ],
+                "ctbIsCircular":true,
                 "dest":{
                     "en":"Mongkok /  Nam Cheong (Circular)",
                     "zh":"旺角 / 南昌 (循環線)"
@@ -435131,15 +434661,15 @@
             },
             "NA21+1+Mongkok ／  Nam Cheong+Airport ／ HZMB Hong Kong Port":{
                 "bound":{
-                    "ctb":"OI"
+                    "ctb":"O"
                 },
                 "co":[
                     "ctb"
                 ],
                 "ctbIsCircular":true,
                 "dest":{
-                    "en":"Airport / HZMB Hong Kong Port",
-                    "zh":"機場 / 港珠澳大橋香港口岸"
+                    "en":"Airport / HZMB Hong Kong Port (Circular)",
+                    "zh":"機場 / 港珠澳大橋香港口岸 (循環線)"
                 },
                 "fares":null,
                 "faresHoliday":null,
@@ -441117,10 +440647,44 @@
                     "en":"Airport (Cargo and Catering Area)",
                     "zh":"機場(貨運及航膳區)"
                 },
-                "fares":null,
+                "fares":[
+                    "3.8",
+                    "3.8",
+                    "3.8",
+                    "3.8",
+                    "3.8",
+                    "3.8",
+                    "3.8",
+                    "3.3",
+                    "3.3",
+                    "3.3",
+                    "3.3",
+                    "3.3",
+                    "3.3",
+                    "3.3",
+                    "3.3",
+                    "3.3",
+                    "3.3",
+                    "3.3",
+                    "3.3",
+                    "3.3",
+                    "3.3",
+                    "3.3",
+                    "3.3",
+                    "3.3"
+                ],
                 "faresHoliday":null,
-                "freq":null,
-                "gtfsId":null,
+                "freq":{
+                    "287":{
+                        "1545":null,
+                        "1845":null
+                    },
+                    "480":{
+                        "1845":null
+                    }
+                },
+                "gtfsId":"8347",
+                "jt":"21",
                 "nlbId":null,
                 "orig":{
                     "en":"Cheung Tung Estate",
@@ -602588,126 +602152,6 @@
                     "zh":"羅湖"
                 }
             },
-            "LR001":{
-                "location":{
-                    "lat":22.37271,
-                    "lng":113.96712
-                },
-                "name":{
-                    "en":"Tuen Mun Ferry Pier",
-                    "zh":"屯門碼頭"
-                }
-            },
-            "LR010":{
-                "location":{
-                    "lat":22.37505,
-                    "lng":113.96111
-                },
-                "name":{
-                    "en":"Melody Garden",
-                    "zh":"美樂"
-                }
-            },
-            "LR015":{
-                "location":{
-                    "lat":22.37817,
-                    "lng":113.96166
-                },
-                "name":{
-                    "en":"Butterfly",
-                    "zh":"蝴蝶"
-                }
-            },
-            "LR020":{
-                "location":{
-                    "lat":22.38181,
-                    "lng":113.96342
-                },
-                "name":{
-                    "en":"Light Rail Depot",
-                    "zh":"輕鐵車廠"
-                }
-            },
-            "LR030":{
-                "location":{
-                    "lat":22.38526,
-                    "lng":113.96498
-                },
-                "name":{
-                    "en":"Lung Mun",
-                    "zh":"龍門"
-                }
-            },
-            "LR040":{
-                "location":{
-                    "lat":22.3904,
-                    "lng":113.96696
-                },
-                "name":{
-                    "en":"Tsing Shan Tsuen",
-                    "zh":"青山村"
-                }
-            },
-            "LR050":{
-                "location":{
-                    "lat":22.39434,
-                    "lng":113.9674
-                },
-                "name":{
-                    "en":"Tsing Wun",
-                    "zh":"青雲"
-                }
-            },
-            "LR060":{
-                "location":{
-                    "lat":22.39513,
-                    "lng":113.9689
-                },
-                "name":{
-                    "en":"Kin On",
-                    "zh":"建安"
-                }
-            },
-            "LR070":{
-                "location":{
-                    "lat":22.39738,
-                    "lng":113.97313
-                },
-                "name":{
-                    "en":"Ho Tin",
-                    "zh":"河田"
-                }
-            },
-            "LR075":{
-                "location":{
-                    "lat":22.39993,
-                    "lng":113.97417
-                },
-                "name":{
-                    "en":"Choy Yee Bridge",
-                    "zh":"蔡意橋"
-                }
-            },
-            "LR080":{
-                "location":{
-                    "lat":22.40349,
-                    "lng":113.97589
-                },
-                "name":{
-                    "en":"Affluence",
-                    "zh":"澤豐"
-                }
-            },
-            "LR090":{
-                "location":{
-                    "lat":22.40777,
-                    "lng":113.97715
-                },
-                "name":{
-                    "en":"Tuen Mun Hospital",
-                    "zh":"屯門醫院"
-                }
-            },
             "LR1":{
                 "location":{
                     "lat":22.37271,
@@ -604174,20 +603618,6 @@
                 "name":{
                     "en":"Tin Lok Lane, Hennessy Road",
                     "zh":"天樂里, 軒尼詩道"
-                },
-                "remark":{
-                    "en":"(Citybus)",
-                    "zh":"(城巴)"
-                }
-            },
-            "ZZ62XF8HBY002435":{
-                "location":{
-                    "lat":22.27872,
-                    "lng":114.1791
-                },
-                "name":{
-                    "en":"Tonnochy Road, Hennessy Road",
-                    "zh":"杜老誌道, 軒尼詩道"
                 },
                 "remark":{
                     "en":"(Citybus)",
@@ -617279,10 +616709,6 @@
                 ],
                 [
                     "lightRail",
-                    "LR015"
-                ],
-                [
-                    "lightRail",
                     "LR15"
                 ]
             ],
@@ -617384,10 +616810,6 @@
                 [
                     "lrtfeeder",
                     "K52P-D210"
-                ],
-                [
-                    "lightRail",
-                    "LR020"
                 ],
                 [
                     "lightRail",
@@ -618623,10 +618045,6 @@
                 ],
                 [
                     "lightRail",
-                    "LR010"
-                ],
-                [
-                    "lightRail",
                     "LR10"
                 ]
             ],
@@ -619208,10 +618626,6 @@
                 [
                     "lrtfeeder",
                     "K52P-D170"
-                ],
-                [
-                    "lightRail",
-                    "LR001"
                 ],
                 [
                     "lightRail",
@@ -622444,10 +621858,6 @@
                 [
                     "kmb",
                     "2B9DA1FE14596F2E"
-                ],
-                [
-                    "kmb",
-                    "ZZ62XF8HBY002435"
                 ]
             ],
             "002437":[
@@ -629256,10 +628666,6 @@
                 [
                     "lrtfeeder",
                     "K52P-D170"
-                ],
-                [
-                    "lightRail",
-                    "LR001"
                 ],
                 [
                     "lightRail",
@@ -637646,10 +637052,6 @@
                 [
                     "gmb",
                     "20001378"
-                ],
-                [
-                    "lightRail",
-                    "LR010"
                 ],
                 [
                     "lightRail",
@@ -658635,10 +658037,6 @@
                 ],
                 [
                     "lightRail",
-                    "LR001"
-                ],
-                [
-                    "lightRail",
                     "LR1"
                 ],
                 [
@@ -658662,10 +658060,6 @@
                 [
                     "lrtfeeder",
                     "506-U020"
-                ],
-                [
-                    "lightRail",
-                    "LR010"
                 ],
                 [
                     "lightRail",
@@ -658704,10 +658098,6 @@
                 [
                     "lrtfeeder",
                     "K52P-D210"
-                ],
-                [
-                    "lightRail",
-                    "LR020"
                 ],
                 [
                     "lightRail",
@@ -666510,10 +665900,6 @@
                 [
                     "lrtfeeder",
                     "K52A-D140"
-                ],
-                [
-                    "lightRail",
-                    "LR015"
                 ],
                 [
                     "lightRail",
@@ -691795,10 +691181,6 @@
                 ],
                 [
                     "lightRail",
-                    "LR015"
-                ],
-                [
-                    "lightRail",
                     "LR15"
                 ]
             ],
@@ -691826,10 +691208,6 @@
                 [
                     "lrtfeeder",
                     "K52P-D220"
-                ],
-                [
-                    "lightRail",
-                    "LR030"
                 ],
                 [
                     "lightRail",
@@ -691965,10 +691343,6 @@
                 ],
                 [
                     "lightRail",
-                    "LR020"
-                ],
-                [
-                    "lightRail",
                     "LR20"
                 ]
             ],
@@ -691996,10 +691370,6 @@
                 [
                     "lrtfeeder",
                     "K52P-D220"
-                ],
-                [
-                    "lightRail",
-                    "LR030"
                 ],
                 [
                     "lightRail",
@@ -700405,10 +699775,6 @@
                 ],
                 [
                     "lightRail",
-                    "LR020"
-                ],
-                [
-                    "lightRail",
                     "LR20"
                 ],
                 [
@@ -705578,10 +704944,6 @@
                 [
                     "lrtfeeder",
                     "K52P-D170"
-                ],
-                [
-                    "lightRail",
-                    "LR001"
                 ],
                 [
                     "lightRail",
@@ -714125,10 +713487,6 @@
                 ],
                 [
                     "lightRail",
-                    "LR020"
-                ],
-                [
-                    "lightRail",
                     "LR20"
                 ],
                 [
@@ -718725,10 +718083,6 @@
                 ],
                 [
                     "lightRail",
-                    "LR001"
-                ],
-                [
-                    "lightRail",
                     "LR1"
                 ]
             ],
@@ -721803,10 +721157,6 @@
                 ],
                 [
                     "lightRail",
-                    "LR001"
-                ],
-                [
-                    "lightRail",
                     "LR1"
                 ],
                 [
@@ -721885,10 +721235,6 @@
                 ],
                 [
                     "lightRail",
-                    "LR001"
-                ],
-                [
-                    "lightRail",
                     "LR1"
                 ]
             ],
@@ -721904,10 +721250,6 @@
                 [
                     "kmb",
                     "015AD88813C61900"
-                ],
-                [
-                    "lightRail",
-                    "LR010"
                 ],
                 [
                     "lightRail",
@@ -721945,10 +721287,6 @@
                 ],
                 [
                     "lightRail",
-                    "LR015"
-                ],
-                [
-                    "lightRail",
                     "LR15"
                 ]
             ],
@@ -721976,10 +721314,6 @@
                 [
                     "lrtfeeder",
                     "K52P-D210"
-                ],
-                [
-                    "lightRail",
-                    "LR020"
                 ],
                 [
                     "lightRail",
@@ -722018,10 +721352,6 @@
                 [
                     "lrtfeeder",
                     "K52P-D220"
-                ],
-                [
-                    "lightRail",
-                    "LR030"
                 ],
                 [
                     "lightRail",
@@ -748649,10 +747979,6 @@
                 ],
                 [
                     "lightRail",
-                    "LR001"
-                ],
-                [
-                    "lightRail",
                     "LR1"
                 ],
                 [
@@ -766877,10 +766203,6 @@
                 ],
                 [
                     "lightRail",
-                    "LR015"
-                ],
-                [
-                    "lightRail",
                     "LR15"
                 ]
             ],
@@ -772956,10 +772278,6 @@
                 [
                     "lrtfeeder",
                     "K52P-D220"
-                ],
-                [
-                    "lightRail",
-                    "LR030"
                 ],
                 [
                     "lightRail",
@@ -785119,10 +784437,6 @@
                 ],
                 [
                     "lightRail",
-                    "LR001"
-                ],
-                [
-                    "lightRail",
                     "LR1"
                 ],
                 [
@@ -787061,10 +786375,6 @@
                 ],
                 [
                     "lightRail",
-                    "LR001"
-                ],
-                [
-                    "lightRail",
                     "LR1"
                 ],
                 [
@@ -788918,10 +788228,6 @@
                 [
                     "kmb",
                     "E8DB8EA844260912"
-                ],
-                [
-                    "lightRail",
-                    "LR001"
                 ],
                 [
                     "lightRail",
@@ -793560,10 +792866,6 @@
                 [
                     "lrtfeeder",
                     "K52P-D140"
-                ],
-                [
-                    "lightRail",
-                    "LR015"
                 ],
                 [
                     "lightRail",
@@ -800901,10 +800203,6 @@
                 ],
                 [
                     "lightRail",
-                    "LR015"
-                ],
-                [
-                    "lightRail",
                     "LR15"
                 ]
             ],
@@ -800932,10 +800230,6 @@
                 [
                     "lrtfeeder",
                     "K52P-D210"
-                ],
-                [
-                    "lightRail",
-                    "LR020"
                 ],
                 [
                     "lightRail",
@@ -800974,10 +800268,6 @@
                 [
                     "lrtfeeder",
                     "K52P-D220"
-                ],
-                [
-                    "lightRail",
-                    "LR030"
                 ],
                 [
                     "lightRail",
@@ -801318,10 +800608,6 @@
                 [
                     "lrtfeeder",
                     "K52P-D170"
-                ],
-                [
-                    "lightRail",
-                    "LR001"
                 ],
                 [
                     "lightRail",
@@ -801929,10 +801215,6 @@
                 ],
                 [
                     "lightRail",
-                    "LR015"
-                ],
-                [
-                    "lightRail",
                     "LR15"
                 ]
             ],
@@ -801960,10 +801242,6 @@
                 [
                     "lrtfeeder",
                     "K52P-D210"
-                ],
-                [
-                    "lightRail",
-                    "LR020"
                 ],
                 [
                     "lightRail",
@@ -802002,10 +801280,6 @@
                 [
                     "lrtfeeder",
                     "K52P-D220"
-                ],
-                [
-                    "lightRail",
-                    "LR030"
                 ],
                 [
                     "lightRail",
@@ -802579,10 +801853,6 @@
                 ],
                 [
                     "lightRail",
-                    "LR001"
-                ],
-                [
-                    "lightRail",
                     "LR1"
                 ],
                 [
@@ -802671,10 +801941,6 @@
                 ],
                 [
                     "lightRail",
-                    "LR020"
-                ],
-                [
-                    "lightRail",
                     "LR20"
                 ],
                 [
@@ -802710,10 +801976,6 @@
                 [
                     "lrtfeeder",
                     "K52A-D160"
-                ],
-                [
-                    "lightRail",
-                    "LR030"
                 ],
                 [
                     "lightRail",
@@ -809756,226 +809018,6 @@
                     "20000234"
                 ]
             ],
-            "LR001":[
-                [
-                    "ctb",
-                    "002040"
-                ],
-                [
-                    "ctb",
-                    "003194"
-                ],
-                [
-                    "gmb",
-                    "20001377"
-                ],
-                [
-                    "kmb",
-                    "2F332E8471F31F27"
-                ],
-                [
-                    "kmb",
-                    "49713551E95C1DA1"
-                ],
-                [
-                    "lrtfeeder",
-                    "506-U010"
-                ],
-                [
-                    "kmb",
-                    "8D6792FF38584BE0"
-                ],
-                [
-                    "kmb",
-                    "E3E171AEDE35ACDF"
-                ],
-                [
-                    "kmb",
-                    "E8DB8EA844260912"
-                ],
-                [
-                    "kmb",
-                    "ED380ED65FFA508C"
-                ],
-                [
-                    "lrtfeeder",
-                    "K52-nU030"
-                ],
-                [
-                    "lrtfeeder",
-                    "K52P-D170"
-                ],
-                [
-                    "lightRail",
-                    "LR1"
-                ]
-            ],
-            "LR010":[
-                [
-                    "kmb",
-                    "015AD88813C61900"
-                ],
-                [
-                    "lightRail",
-                    "LR10"
-                ],
-                [
-                    "ctb",
-                    "002010"
-                ],
-                [
-                    "gmb",
-                    "20001378"
-                ],
-                [
-                    "lrtfeeder",
-                    "506-U020"
-                ]
-            ],
-            "LR015":[
-                [
-                    "ctb",
-                    "001934"
-                ],
-                [
-                    "gmb",
-                    "20004519"
-                ],
-                [
-                    "gmb",
-                    "20017046"
-                ],
-                [
-                    "lrtfeeder",
-                    "506-U030"
-                ],
-                [
-                    "kmb",
-                    "B88E6F52E2BC2E34"
-                ],
-                [
-                    "kmb",
-                    "F734736F35F459DC"
-                ],
-                [
-                    "lrtfeeder",
-                    "K52-nD140"
-                ],
-                [
-                    "lrtfeeder",
-                    "K52A-D140"
-                ],
-                [
-                    "lightRail",
-                    "LR15"
-                ]
-            ],
-            "LR020":[
-                [
-                    "ctb",
-                    "001938"
-                ],
-                [
-                    "gmb",
-                    "20001379"
-                ],
-                [
-                    "gmb",
-                    "20017056"
-                ],
-                [
-                    "kmb",
-                    "23B913EACE0581E4"
-                ],
-                [
-                    "kmb",
-                    "3FAE59A79C8BCC93"
-                ],
-                [
-                    "lrtfeeder",
-                    "506-U040"
-                ],
-                [
-                    "lrtfeeder",
-                    "K52-nD150"
-                ],
-                [
-                    "lrtfeeder",
-                    "K52A-D150"
-                ],
-                [
-                    "lrtfeeder",
-                    "K52P-D210"
-                ],
-                [
-                    "lightRail",
-                    "LR20"
-                ]
-            ],
-            "LR030":[
-                [
-                    "gmb",
-                    "20017047"
-                ],
-                [
-                    "gmb",
-                    "20017057"
-                ],
-                [
-                    "lrtfeeder",
-                    "506-U050"
-                ],
-                [
-                    "kmb",
-                    "C6D5DEF91CB7B581"
-                ],
-                [
-                    "lrtfeeder",
-                    "K52-nD160"
-                ],
-                [
-                    "lrtfeeder",
-                    "K52A-D160"
-                ],
-                [
-                    "lrtfeeder",
-                    "K52P-D220"
-                ],
-                [
-                    "lightRail",
-                    "LR30"
-                ]
-            ],
-            "LR040":[
-                [
-                    "lightRail",
-                    "LR40"
-                ]
-            ],
-            "LR060":[
-                [
-                    "lightRail",
-                    "LR60"
-                ]
-            ],
-            "LR070":[
-                [
-                    "lightRail",
-                    "LR70"
-                ]
-            ],
-            "LR080":[
-                [
-                    "lightRail",
-                    "LR80"
-                ]
-            ],
-            "LR090":[
-                [
-                    "lightRail",
-                    "LR90"
-                ]
-            ],
             "LR1":[
                 [
                     "ctb",
@@ -810024,20 +809066,12 @@
                 [
                     "lrtfeeder",
                     "K52P-D170"
-                ],
-                [
-                    "lightRail",
-                    "LR001"
                 ]
             ],
             "LR10":[
                 [
                     "kmb",
                     "015AD88813C61900"
-                ],
-                [
-                    "lightRail",
-                    "LR010"
                 ],
                 [
                     "ctb",
@@ -810094,10 +809128,6 @@
                 [
                     "lrtfeeder",
                     "K52A-D140"
-                ],
-                [
-                    "lightRail",
-                    "LR015"
                 ],
                 [
                     "ctb",
@@ -810220,10 +809250,6 @@
                 [
                     "lrtfeeder",
                     "K52P-D210"
-                ],
-                [
-                    "lightRail",
-                    "LR020"
                 ],
                 [
                     "ctb",
@@ -810578,10 +809604,6 @@
                 [
                     "lrtfeeder",
                     "K52P-D220"
-                ],
-                [
-                    "lightRail",
-                    "LR030"
                 ]
             ],
             "LR310":[
@@ -810802,12 +809824,6 @@
                 [
                     "gmb",
                     "20018545"
-                ]
-            ],
-            "LR40":[
-                [
-                    "lightRail",
-                    "LR040"
                 ]
             ],
             "LR400":[
@@ -811188,12 +810204,6 @@
                     "20001289"
                 ]
             ],
-            "LR60":[
-                [
-                    "lightRail",
-                    "LR060"
-                ]
-            ],
             "LR600":[
                 [
                     "kmb",
@@ -811222,24 +810232,6 @@
                 [
                     "gmb",
                     "20002436"
-                ]
-            ],
-            "LR70":[
-                [
-                    "lightRail",
-                    "LR070"
-                ]
-            ],
-            "LR80":[
-                [
-                    "lightRail",
-                    "LR080"
-                ]
-            ],
-            "LR90":[
-                [
-                    "lightRail",
-                    "LR090"
                 ]
             ],
             "MKK":[
@@ -812582,12 +811574,6 @@
                 [
                     "ctb",
                     "002441"
-                ]
-            ],
-            "ZZ62XF8HBY002435":[
-                [
-                    "ctb",
-                    "002435"
                 ]
             ],
             "ZZCEODE8EJ001214":[
